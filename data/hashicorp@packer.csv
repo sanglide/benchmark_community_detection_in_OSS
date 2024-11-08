@@ -1,0 +1,124 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-02 16:50:56+00:00,[User]_lbajolet-hashicorp,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/pull/12397
+2023-05-02 18:29:21+00:00,[User]_lbajolet-hashicorp,{'[User]_JenGoldstrich'},hashicorp/packer,2023,https://github.com/hashicorp/packer/pull/12398
+2023-05-04 12:20:50+00:00,[User]_orelops,"{'[User]_alpana17', '[User]_orelops', '[User]_amitbhadra', '[User]_tenthirtyam'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12403
+2023-05-06 15:17:10+00:00,[User]_ayushtessell,{'[User]_E0482204'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12409
+2023-05-09 01:40:39+00:00,[User]_prabahar-subramani,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12411
+2023-05-09 09:54:06+00:00,[User]_evanstachowiak,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12412
+2023-05-11 00:04:36+00:00,[User]_mattqm-coles,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12413
+2023-05-12 08:04:35+00:00,[User]_thomasfinstad,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12415
+2023-05-16 12:35:13+00:00,[User]_olinux-dev,{'[User]_tenthirtyam'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12420
+2023-05-17 22:31:37+00:00,[User]_jachin84,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12429
+2023-05-19 01:59:31+00:00,[User]_cwilson1776,"{'[User]_nywilken', '[User]_cwilson1776'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12432
+2023-05-25 17:43:59+00:00,[User]_dbnicholson,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12439
+2023-05-28 11:01:01+00:00,[User]_ardrigh,{'[User]_nywilken'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12442
+2023-05-29 15:07:32+00:00,[User]_samuel-phan,"{'[User]_3X0mre', '[User]_lindhe'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12443
+2023-05-29 16:37:08+00:00,[User]_samuel-phan,{'[User]_hegyre'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12444
+2023-05-30 16:55:36+00:00,[User]_oliverlabs,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12448
+2023-06-09 14:57:18+00:00,[User]_HariSekhon,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12466
+2023-06-18 09:47:28+00:00,[User]_AshTechieDevOps,"{'[User]_AshTechieDevOps', '[User]_rahul-nits'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12472
+2023-06-22 11:00:23+00:00,[User]_strasho,{'[User]_slashrootppg'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12473
+2023-06-23 08:45:12+00:00,[User]_StamenchoBog,{'[User]_nywilken'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12477
+2023-06-25 00:56:38+00:00,[User]_v1nsai,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12481
+2023-06-27 19:42:59+00:00,[User]_pluto00987,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12482
+2023-06-28 09:19:10+00:00,[User]_transiient,"{'[User]_transiient', '[User]_tenthirtyam'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12483
+2023-07-06 19:58:02+00:00,[User]_skalinkin,"{'[User]_skalinkin', '[User]_Kadalia', '[User]_kt315ua', '[User]_urog'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12489
+2023-07-12 07:00:35+00:00,[User]_orangeguo3,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12496
+2023-07-12 08:28:16+00:00,[User]_lindhe,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12497
+2023-07-12 13:54:33+00:00,[User]_HarshadDGhorpade-eaton,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12498
+2023-07-14 11:15:18+00:00,[User]_ncook-hxgn,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12503
+2023-07-21 12:04:39+00:00,[User]_torarnv,{'[User]_torarnv'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12531
+2023-08-05 11:51:03+00:00,[User]_paololazzari,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12553
+2023-08-05 13:16:07+00:00,[User]_dybran,{'[User]_wamli'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12554
+2023-08-07 10:57:21+00:00,[User]_tivanov-qb,"{'[User]_tivanov-qb', '[User]_nywilken', '[User]_Moazzam300', '[User]_tonysathre'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12556
+2023-08-18 17:39:35+00:00,[User]_markfaine,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12599
+2023-08-31 15:00:29+00:00,[User]_LeftTwixWand,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12613
+2023-09-01 10:46:38+00:00,[User]_youngturk2,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12614
+2023-09-01 18:38:44+00:00,[User]_E0482204,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12616
+2023-09-02 04:23:01+00:00,[User]_rezagol99,{'[User]_tenthirtyam'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12617
+2023-09-04 04:08:30+00:00,[User]_lmpeiris,{'[User]_nywilken'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12618
+2023-09-04 15:28:19+00:00,[User]_tdefise,{'[User]_nywilken'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12619
+2023-09-07 15:48:23+00:00,[User]_Wenzel,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12623
+2023-09-22 01:54:43+00:00,[User]_ladar,"{'[User]_nywilken', '[User]_ladar'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12632
+2023-09-27 11:40:51+00:00,[User]_MBradbury,"{'[User]_mr-aboutin', '[User]_nywilken', '[User]_MBradbury'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12637
+2023-10-06 22:31:59+00:00,[User]_matthewsht,{'[User]_nywilken'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12651
+2023-10-10 19:40:21+00:00,[User]_DonBower,{'[User]_nywilken'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12653
+2023-10-11 15:55:43+00:00,[User]_paritoshdubey,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12654
+2023-10-16 15:26:44+00:00,[User]_nywilken,{'[User]_jgerry2002'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12657
+2023-10-19 12:05:26+00:00,[User]_fractal1977,{'[User]_nywilken'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12659
+2023-10-26 14:50:43+00:00,[User]_StepTNT,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12667
+2023-10-27 08:12:00+00:00,[User]_jachin84,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12671
+2023-11-06 16:19:35+00:00,[User]_megablend,"{'[User]_nywilken', '[User]_PurplePros', '[User]_jason-oc', '[User]_dchittibala'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12683
+2023-11-06 22:16:19+00:00,[User]_ladar,"{'[User]_nywilken', '[User]_ladar'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12684
+2023-11-08 15:17:54+00:00,[User]_tobiassoppa,{'[User]_nywilken'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12687
+2023-11-13 15:08:57+00:00,[User]_mahsoud,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12696
+2023-11-19 11:00:58+00:00,[User]_flmmartins,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12700
+2023-11-20 01:35:33+00:00,[User]_majorku5anagi,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12701
+2023-11-27 11:40:49+00:00,[User]_avidalto,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12710
+2023-11-27 14:17:46+00:00,[User]_heroin-moose,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12711
+2023-11-30 02:58:08+00:00,[User]_Souldiv,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12725
+2023-12-01 10:17:39+00:00,[User]_yuji-tamai,{'[User]_nywilken'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12730
+2023-12-06 20:37:57+00:00,[User]_ferricoxide,{'[User]_ferricoxide'},hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12751
+2023-12-12 11:55:32+00:00,[User]_dkerins,"{'[User]_nywilken', '[User]_dkerins', '[User]_harshavmb'}",hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12758
+2023-12-18 09:23:24+00:00,[User]_lindhe,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12760
+2023-12-24 11:42:55+00:00,[User]_romaindoumenc,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12763
+2023-12-28 16:58:04+00:00,[User]_JoeyG1973,set(),hashicorp/packer,2023,https://github.com/hashicorp/packer/issues/12765
+2024-01-04 18:24:40+00:00,[User]_easpeagle,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12771
+2024-01-04 22:02:06+00:00,[User]_u362jsim,{'[User]_u362jsim'},hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12772
+2024-01-05 21:15:55+00:00,[User]_lindhe,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12773
+2024-01-10 08:57:52+00:00,[User]_citrixguyblog,"{'[User]_citrixguyblog', '[User]_srinadhbh'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12782
+2024-01-16 06:05:48+00:00,[User]_vanshikw,{'[User]_nywilken'},hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12786
+2024-01-23 07:12:09+00:00,[User]_infa-sapatil,"{'[User]_nywilken', '[User]_infa-sapatil'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12796
+2024-01-27 04:11:57+00:00,[User]_johnson-earls,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12805
+2024-01-27 04:39:36+00:00,[User]_johnson-earls,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12806
+2024-01-29 23:21:26+00:00,[User]_anderssonjohan,{'[User]_anderssonjohan'},hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12813
+2024-01-30 20:04:50+00:00,[User]_heatlikeheatwave,"{'[User]_nywilken', '[User]_dstaley'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12821
+2024-02-02 10:04:52+00:00,[User]_dreibh,"{'[User]_nywilken', '[User]_dreibh'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12830
+2024-02-04 17:42:18+00:00,[User]_Prateeknandle,"{'[User]_nywilken', '[User]_Prateeknandle', '[User]_nyrahul'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12833
+2024-02-11 03:12:24+00:00,[User]_san6789,{'[User]_Ajay389207'},hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12842
+2024-02-17 15:12:55+00:00,[User]_ejbolt,"{'[User]_nywilken', '[User]_ejbolt'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12848
+2024-02-26 11:49:59+00:00,[User]_pfrydids,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12853
+2024-02-27 03:07:01+00:00,[User]_notone0010,{'[User]_nywilken'},hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12856
+2024-03-01 18:59:18+00:00,[User]_lbajolet-hashicorp,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12862
+2024-03-03 07:36:15+00:00,[User]_phuhung273,"{'[User]_hashicorp-cla', '[User]_lbajolet-hashicorp', '[User]_phuhung273'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12863
+2024-03-05 19:47:00+00:00,[User]_devashish-patel,"{'[User]_lbajolet-hashicorp', '[User]_devashish-patel', '[User]_sylviamoss', '[User]_JenGoldstrich'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12866
+2024-03-07 15:57:23+00:00,[User]_lbajolet-hashicorp,{'[User]_nywilken'},hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12871
+2024-03-12 16:14:06+00:00,[User]_tomeon,{'[User]_nywilken'},hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12883
+2024-03-14 15:55:33+00:00,[User]_alesiobitaGit,{'[User]_alesiobitaGit'},hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12887
+2024-03-17 20:53:55+00:00,[User]_mkm29,"{'[User]_mkm29', '[User]_tenthirtyam'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12890
+2024-03-20 14:29:02+00:00,[User]_estheruary,"{'[User]_hashicorp-cla', '[User]_nywilken', '[User]_lbajolet-hashicorp'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12894
+2024-03-21 23:21:51+00:00,[User]_anEXPer,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12898
+2024-03-25 12:45:34+00:00,[User]_Laikulo,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12899
+2024-04-02 11:46:27+00:00,[User]_Boris-Stefanov,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12903
+2024-04-08 14:49:13+00:00,[User]_Stromweld,"{'[User]_Stromweld', '[User]_lbajolet-hashicorp'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12908
+2024-04-08 16:04:49+00:00,[User]_devashish-patel,{'[User]_nywilken'},hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12909
+2024-04-08 18:33:40+00:00,[User]_devashish-patel,{'[User]_nywilken'},hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12910
+2024-04-09 15:19:07+00:00,[User]_lbajolet-hashicorp,"{'[User]_nywilken', '[User]_sylviamoss', '[User]_lbajolet-hashicorp'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12911
+2024-04-09 20:27:38+00:00,[User]_lbajolet-hashicorp,"{'[User]_dekimsey', '[User]_nywilken', '[User]_lbajolet-hashicorp'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12913
+2024-04-10 21:46:58+00:00,[User]_lbajolet-hashicorp,"{'[User]_enolan55', '[User]_lbajolet-hashicorp', '[User]_nywilken', '[User]_sylviamoss', '[User]_JenGoldstrich'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12915
+2024-04-11 14:35:42+00:00,[User]_nywilken,"{'[User]_nywilken', '[User]_claire-labry', '[User]_lbajolet-hashicorp'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12916
+2024-04-12 12:45:54+00:00,[User]_ferricoxide,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12917
+2024-04-12 15:11:04+00:00,[User]_ektropy,{'[User]_ektropy'},hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12919
+2024-04-12 15:14:00+00:00,[User]_drewmullen,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12920
+2024-04-12 22:07:17+00:00,[User]_Charles-Stuart,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12921
+2024-04-15 16:00:24+00:00,[User]_devashish-patel,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12922
+2024-04-15 16:05:57+00:00,[User]_devashish-patel,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12923
+2024-04-15 19:38:48+00:00,[User]_nywilken,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12924
+2024-04-15 20:13:58+00:00,[User]_lbajolet-hashicorp,{'[User]_nywilken'},hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12925
+2024-04-15 21:08:09+00:00,[User]_devashish-patel,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12926
+2024-04-15 22:24:16+00:00,[User]_nywilken,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12928
+2024-04-16 14:13:53+00:00,[User]_hc-github-team-packer,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12929
+2024-04-16 17:05:11+00:00,[User]_hc-github-team-packer,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12931
+2024-04-16 17:57:37+00:00,[User]_lbajolet-hashicorp,"{'[User]_nywilken', '[User]_lbajolet-hashicorp'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12932
+2024-04-16 19:49:28+00:00,[User]_lbajolet-hashicorp,"{'[User]_lbajolet-hashicorp', '[User]_JenGoldstrich'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12933
+2024-04-17 08:31:39+00:00,[User]_Ujkugri,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12934
+2024-04-18 02:30:15+00:00,[User]_devashish-patel,"{'[User]_nywilken', '[User]_devashish-patel', '[User]_lbajolet-hashicorp'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12936
+2024-04-22 17:37:28+00:00,[User]_nywilken,{'[User]_lbajolet-hashicorp'},hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12937
+2024-04-22 18:23:48+00:00,[User]_nywilken,{'[User]_JenGoldstrich'},hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12938
+2024-04-22 18:59:13+00:00,[User]_nywilken,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12939
+2024-04-23 13:21:58+00:00,[User]_nywilken,{'[User]_devashish-patel'},hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12940
+2024-04-23 13:29:05+00:00,[User]_hc-github-team-packer,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12941
+2024-04-25 20:42:24+00:00,[User]_myslak71,"{'[User]_lbajolet-hashicorp', '[User]_myslak71'}",hashicorp/packer,2024,https://github.com/hashicorp/packer/issues/12943
+2024-04-29 14:04:37+00:00,[User]_hc-github-team-packer,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12945
+2024-04-29 14:13:20+00:00,[User]_nywilken,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12946
+2024-04-29 14:16:15+00:00,[User]_hc-github-team-packer,set(),hashicorp/packer,2024,https://github.com/hashicorp/packer/pull/12947

@@ -1,0 +1,41 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-21 09:31:03+00:00,[User]_hyuraku,{'[User]_pirj'},rspec/rspec-core,2023,https://github.com/rspec/rspec-core/issues/3036
+2023-06-06 22:56:00+00:00,[User]_nevinera,set(),rspec/rspec-core,2023,https://github.com/rspec/rspec-core/issues/3037
+2023-06-21 20:58:40+00:00,[User]_fmichaut-diff,{'[User]_JonRowe'},rspec/rspec-core,2023,https://github.com/rspec/rspec-core/issues/3038
+2023-06-26 10:34:04+00:00,[User]_JonRowe,set(),rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3039
+2023-06-26 12:07:27+00:00,[User]_JonRowe,set(),rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3040
+2023-06-26 12:27:34+00:00,[User]_JonRowe,set(),rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3041
+2023-06-26 13:08:11+00:00,[User]_JonRowe,set(),rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3042
+2023-06-27 09:18:39+00:00,[User]_JonRowe,set(),rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3043
+2023-07-04 13:13:43+00:00,[User]_ka8725,{'[User]_JonRowe'},rspec/rspec-core,2023,https://github.com/rspec/rspec-core/issues/3044
+2023-07-26 16:35:33+00:00,[User]_richardplatel,"{'[User]_richardplatel', '[User]_JonRowe', '[User]_pirj'}",rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3045
+2023-08-09 09:45:50+00:00,[User]_davidtaylorhq,"{'[User]_JonRowe', '[User]_pirj'}",rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3046
+2023-09-27 08:54:05+00:00,[User]_stillhart,{'[User]_JonRowe'},rspec/rspec-core,2023,https://github.com/rspec/rspec-core/issues/3049
+2023-10-24 14:14:31+00:00,[User]_DDKatch,{'[User]_JonRowe'},rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3051
+2023-10-25 16:29:38+00:00,[User]_schneems,"{'[User]_JonRowe', '[User]_schneems'}",rspec/rspec-core,2023,https://github.com/rspec/rspec-core/issues/3052
+2023-12-01 11:17:21+00:00,[User]_semaperepelitsa,{'[User]_JonRowe'},rspec/rspec-core,2023,https://github.com/rspec/rspec-core/issues/3053
+2023-12-01 20:54:20+00:00,[User]_JonRowe,{'[User]_pirj'},rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3054
+2023-12-04 19:34:01+00:00,[User]_JonRowe,"{'[User]_JonRowe', '[User]_pirj'}",rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3055
+2023-12-25 16:07:54+00:00,[User]_JonRowe,set(),rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3056
+2023-12-26 01:22:20+00:00,[User]_kzkn,{'[User]_JonRowe'},rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3057
+2023-12-26 16:41:47+00:00,[User]_JonRowe,set(),rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3058
+2023-12-26 20:49:17+00:00,[User]_JonRowe,set(),rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3059
+2023-12-26 21:12:44+00:00,[User]_JonRowe,set(),rspec/rspec-core,2023,https://github.com/rspec/rspec-core/pull/3060
+2024-01-02 17:54:27+00:00,[User]_LukeIGS,"{'[User]_pirj', '[User]_LukeIGS'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/issues/3061
+2024-01-04 18:28:58+00:00,[User]_ezekg,"{'[User]_JonRowe', '[User]_pirj', '[User]_ezekg'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/issues/3062
+2024-01-11 12:31:05+00:00,[User]_ksol,"{'[User]_JonRowe', '[User]_pirj'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/issues/3063
+2024-01-25 21:20:41+00:00,[User]_pirj,"{'[User]_JonRowe', '[User]_pirj'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/pull/3064
+2024-01-26 10:09:59+00:00,[User]_SamuelFrost,"{'[User]_JonRowe', '[User]_pirj'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/issues/3065
+2024-01-29 19:59:23+00:00,[User]_jvon1904,"{'[User]_JonRowe', '[User]_pirj', '[User]_jvon1904'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/issues/3066
+2024-01-29 19:59:53+00:00,[User]_threeplanetssoftware,{'[User]_pirj'},rspec/rspec-core,2024,https://github.com/rspec/rspec-core/pull/3067
+2024-01-30 20:16:05+00:00,[User]_jvon1904,"{'[User]_JonRowe', '[User]_jvon1904'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/pull/3068
+2024-02-23 09:58:24+00:00,[User]_JonRowe,set(),rspec/rspec-core,2024,https://github.com/rspec/rspec-core/pull/3070
+2024-03-05 14:57:51+00:00,[User]_eisukeyeongjo,"{'[User]_JonRowe', '[User]_pirj', '[User]_eisukeyeongjo'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/pull/3071
+2024-03-16 14:23:27+00:00,[User]_eisukeyeongjo,{'[User]_pirj'},rspec/rspec-core,2024,https://github.com/rspec/rspec-core/issues/3072
+2024-03-20 12:54:34+00:00,[User]_eisukeyeongjo,"{'[User]_pirj', '[User]_eisukeyeongjo'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/pull/3073
+2024-03-26 14:20:20+00:00,[User]_eisukeyeongjo,{'[User]_eisukeyeongjo'},rspec/rspec-core,2024,https://github.com/rspec/rspec-core/pull/3074
+2024-04-05 20:17:48+00:00,[User]_jaredbeck,set(),rspec/rspec-core,2024,https://github.com/rspec/rspec-core/pull/3075
+2024-04-11 14:32:30+00:00,[User]_lvonk,"{'[User]_lvonk', '[User]_JonRowe', '[User]_pirj'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/issues/3076
+2024-04-12 19:59:25+00:00,[User]_sleepingkingstudios,"{'[User]_sleepingkingstudios', '[User]_pirj', '[User]_JonRowe'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/issues/3077
+2024-04-17 19:26:38+00:00,[User]_jcoyne,{'[User]_pirj'},rspec/rspec-core,2024,https://github.com/rspec/rspec-core/issues/3079
+2024-04-23 17:24:20+00:00,[User]_timdiggins,"{'[User]_JonRowe', '[User]_pirj', '[User]_timdiggins'}",rspec/rspec-core,2024,https://github.com/rspec/rspec-core/issues/3080

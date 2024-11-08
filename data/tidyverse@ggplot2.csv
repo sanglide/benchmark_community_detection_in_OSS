@@ -1,0 +1,533 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 15:03:31+00:00,[User]_slowkow,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5292
+2023-05-01 18:36:49+00:00,[User]_teunbrand,"{'[User]_clauswilke', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5293
+2023-05-02 14:59:51+00:00,[User]_hughjonesd,"{'[User]_teunbrand', '[User]_hughjonesd'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5294
+2023-05-02 18:33:34+00:00,[User]_jsacerot,"{'[User]_karawoo', '[User]_jsacerot'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5295
+2023-05-02 21:33:30+00:00,[User]_olivroy,"{'[User]_teunbrand', '[User]_olivroy'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5296
+2023-05-06 14:41:14+00:00,[User]_jashapiro,{'[User]_jashapiro'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5298
+2023-05-06 20:33:05+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_brunomioto', '[User]_mjskay', '[User]_trevorld'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5299
+2023-05-09 18:32:06+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5301
+2023-05-09 18:48:09+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5302
+2023-05-10 01:50:15+00:00,[User]_wbvguo,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5303
+2023-05-10 12:31:41+00:00,[User]_DavisVaughan,"{'[User]_DavisVaughan', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5304
+2023-05-10 15:52:39+00:00,[User]_olivroy,"{'[User]_teunbrand', '[User]_olivroy'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5305
+2023-05-12 09:58:16+00:00,[User]_cjvanlissa,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5306
+2023-05-13 18:08:10+00:00,[User]_spaette,"{'[User]_hadley', '[User]_teunbrand', '[User]_spaette'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5307
+2023-05-14 21:11:43+00:00,[User]_spaette,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5308
+2023-05-15 23:22:08+00:00,[User]_mps9506,"{'[User]_mps9506', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5309
+2023-05-17 09:25:32+00:00,[User]_andrewgustar,"{'[User]_smouksassi', '[User]_PlethoraChutney', '[User]_teunbrand', '[User]_mce13'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5310
+2023-05-18 16:00:29+00:00,[User]_jtlandis,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5311
+2023-05-19 01:52:48+00:00,[User]_spaette,"{'[User]_teunbrand', '[User]_spaette'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5312
+2023-05-21 14:37:42+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_spaette', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5313
+2023-05-23 07:15:52+00:00,[User]_Yann-C-INN,"{'[User]_Yann-C-INN', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5314
+2023-05-24 12:50:31+00:00,[User]_steveharoz,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5315
+2023-06-04 02:31:58+00:00,[User]_wbvguo,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5317
+2023-06-04 04:24:40+00:00,[User]_wbvguo,"{'[User]_wbvguo', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5318
+2023-06-05 19:15:48+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5319
+2023-06-06 09:17:52+00:00,[User]_JaredAllen2,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5320
+2023-06-07 11:36:00+00:00,[User]_Elham-adabi,"{'[User]_teunbrand', '[User]_Elham-adabi'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5321
+2023-06-14 22:37:24+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5324
+2023-06-16 13:10:50+00:00,[User]_quantixed,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5325
+2023-06-17 05:22:03+00:00,[User]_yutannihilation,"{'[User]_teunbrand', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5326
+2023-06-17 08:06:42+00:00,[User]_yutannihilation,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5327
+2023-06-17 08:54:30+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5328
+2023-06-17 09:21:03+00:00,[User]_teunbrand,{'[User]_yutannihilation'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5329
+2023-06-17 09:48:04+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5330
+2023-06-19 16:13:07+00:00,[User]_fkohrt,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5331
+2023-06-20 19:44:57+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5332
+2023-06-22 23:28:41+00:00,[User]_emuise,"{'[User]_emuise', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5333
+2023-06-25 12:27:26+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5334
+2023-06-25 16:53:02+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5335
+2023-06-26 06:35:32+00:00,[User]_mariadelmarq,"{'[User]_teunbrand', '[User]_mariadelmarq'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5336
+2023-06-26 18:51:16+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_cpsievert'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5337
+2023-06-27 00:54:53+00:00,[User]_tfjaeger,"{'[User]_tfjaeger', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5338
+2023-06-27 23:18:24+00:00,[User]_fkohrt,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5339
+2023-06-28 22:12:53+00:00,[User]_fkohrt,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5340
+2023-06-29 15:58:01+00:00,[User]_sunroofgod,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5342
+2023-07-04 18:35:14+00:00,[User]_teunbrand,"{'[User]_averissimo', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5343
+2023-07-06 21:19:12+00:00,[User]_oliviercailloux,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5344
+2023-07-09 13:20:20+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5345
+2023-07-10 20:35:26+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5346
+2023-07-11 18:03:26+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5347
+2023-07-11 18:57:01+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5348
+2023-07-11 23:32:29+00:00,[User]_aavogt,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5349
+2023-07-13 19:38:30+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_mjskay'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5350
+2023-07-17 18:07:14+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5351
+2023-07-17 18:52:03+00:00,[User]_eliocamp,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5352
+2023-07-17 20:11:11+00:00,[User]_rvalieris,"{'[User]_teunbrand', '[User]_rvalieris'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5353
+2023-07-17 21:06:05+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5354
+2023-07-19 17:48:59+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5355
+2023-07-19 19:31:43+00:00,[User]_eliocamp,"{'[User]_eliocamp', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5356
+2023-07-19 19:56:46+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5357
+2023-07-19 20:35:44+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5358
+2023-07-19 21:53:02+00:00,[User]_davidhodge931,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5359
+2023-07-21 10:40:45+00:00,[User]_BartJanvanRossum,"{'[User]_smouksassi', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5360
+2023-07-24 18:48:47+00:00,[User]_teunbrand,"{'[User]_hadley', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5362
+2023-07-25 03:30:52+00:00,[User]_liang09255,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5363
+2023-07-25 06:46:30+00:00,[User]_liang09255,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5364
+2023-07-26 14:30:59+00:00,[User]_FDylanT,"{'[User]_aphalo', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5365
+2023-07-26 20:20:29+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5366
+2023-07-26 21:07:21+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5367
+2023-07-27 13:08:09+00:00,[User]_ELICHOS,"{'[User]_smouksassi', '[User]_Ductmonkey', '[User]_ELICHOS', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5368
+2023-07-27 14:33:05+00:00,[User]_GabrielHoffman,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5369
+2023-07-27 17:33:15+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5370
+2023-07-27 18:06:08+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5371
+2023-07-27 19:57:12+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5372
+2023-07-28 09:29:49+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5373
+2023-07-29 19:03:39+00:00,[User]_ralmond,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5374
+2023-07-30 04:45:13+00:00,[User]_CorradoLanera,"{'[User]_teunbrand', '[User]_CorradoLanera', '[User]_yjunechoe'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5375
+2023-08-01 17:32:32+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5376
+2023-08-02 09:34:54+00:00,[User]_RoyalTS,"{'[User]_RoyalTS', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5377
+2023-08-02 19:13:21+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5378
+2023-08-03 17:23:46+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5379
+2023-08-07 13:01:46+00:00,[User]_thomasp85,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5380
+2023-08-07 19:35:18+00:00,[User]_ahcyip,"{'[User]_teunbrand', '[User]_ahcyip', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5381
+2023-08-08 03:05:08+00:00,[User]_bakerwm,"{'[User]_bakerwm', '[User]_teunbrand', '[User]_clauswilke'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5382
+2023-08-08 19:11:08+00:00,[User]_tungttnguyen,{'[User]_yutannihilation'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5383
+2023-08-09 09:40:58+00:00,[User]_jromanowska,"{'[User]_smouksassi', '[User]_jromanowska'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5384
+2023-08-10 04:12:33+00:00,[User]_Ductmonkey,"{'[User]_Ductmonkey', '[User]_clauswilke', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5385
+2023-08-10 14:48:19+00:00,[User]_GMSL1,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5386
+2023-08-11 09:26:11+00:00,[User]_MjelleLab,"{'[User]_teunbrand', '[User]_MjelleLab'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5387
+2023-08-11 15:20:45+00:00,[User]_frezza-metabolomics,{'[User]_frezza-metabolomics'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5388
+2023-08-12 15:21:16+00:00,[User]_Yunuuuu,"{'[User]_teunbrand', '[User]_Yunuuuu', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5389
+2023-08-12 17:24:13+00:00,[User]_antagomir,"{'[User]_hadley', '[User]_teunbrand', '[User]_kevinrue', '[User]_antagomir', '[User]_hpages'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5390
+2023-08-15 14:18:21+00:00,[User]_eliocamp,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5392
+2023-08-18 18:48:04+00:00,[User]_HRodenhizer,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5394
+2023-08-20 14:19:45+00:00,[User]_chipsin87,"{'[User]_thomasp85', '[User]_yutannihilation', '[User]_chipsin87'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5395
+2023-08-23 08:19:41+00:00,[User]_davidhodge931,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5396
+2023-08-23 15:14:48+00:00,[User]_DasHammett,"{'[User]_DasHammett', '[User]_clauswilke', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5397
+2023-08-24 17:54:47+00:00,[User]_mattgalbraith,"{'[User]_teunbrand', '[User]_mattgalbraith'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5398
+2023-08-25 18:05:55+00:00,[User]_fredcallaway,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5399
+2023-08-28 20:12:44+00:00,[User]_isaacvock,{'[User]_isaacvock'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5400
+2023-08-28 23:20:08+00:00,[User]_davidhodge931,"{'[User]_davidhodge931', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5401
+2023-08-30 17:33:46+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5403
+2023-09-01 09:47:51+00:00,[User]_hpages,"{'[User]_hpages', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5404
+2023-09-01 17:29:25+00:00,[User]_jonspring,"{'[User]_jonspring', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5405
+2023-09-03 11:49:38+00:00,[User]_zekiakyol,"{'[User]_zekiakyol', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5406
+2023-09-05 02:05:25+00:00,[User]_davidhodge931,{'[User]_davidhodge931'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5407
+2023-09-05 13:15:14+00:00,[User]_thomasp85,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5408
+2023-09-06 07:43:01+00:00,[User]_thomasp85,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5409
+2023-09-07 13:47:22+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5410
+2023-09-08 13:14:25+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5411
+2023-09-08 14:00:11+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5412
+2023-09-08 19:15:29+00:00,[User]_MichaelChirico,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5413
+2023-09-11 14:35:06+00:00,[User]_chiajungTung,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5414
+2023-09-12 00:53:22+00:00,[User]_yutannihilation,"{'[User]_teunbrand', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5415
+2023-09-12 13:50:31+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5416
+2023-09-12 23:52:09+00:00,[User]_bfordAIMS,"{'[User]_smouksassi', '[User]_bfordAIMS', '[User]_teunbrand', '[User]_aphalo'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5417
+2023-09-13 21:36:14+00:00,[User]_aphalo,"{'[User]_aphalo', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5419
+2023-09-14 01:55:16+00:00,[User]_MichaelChirico,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5420
+2023-09-14 11:03:22+00:00,[User]_mmokrejs,"{'[User]_teunbrand', '[User]_mmokrejs', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5421
+2023-09-14 12:25:42+00:00,[User]_yutannihilation,"{'[User]_teunbrand', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5422
+2023-09-15 08:23:46+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5423
+2023-09-15 15:53:30+00:00,[User]_aphalo,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5424
+2023-09-18 07:57:40+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5425
+2023-09-18 10:58:57+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5426
+2023-09-18 13:35:36+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5428
+2023-09-18 15:38:43+00:00,[User]_jacobkasper,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5429
+2023-09-20 10:19:13+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5430
+2023-09-21 08:24:28+00:00,[User]_teunbrand,"{'[User]_clauswilke', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5431
+2023-09-21 22:37:08+00:00,[User]_92amartins,"{'[User]_teunbrand', '[User]_92amartins'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5432
+2023-09-22 13:23:33+00:00,[User]_pardisaci,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5433
+2023-09-22 17:20:18+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5434
+2023-09-25 07:37:32+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5435
+2023-09-26 10:54:12+00:00,[User]_averissimo,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5436
+2023-09-26 14:56:30+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5438
+2023-09-27 07:17:01+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5440
+2023-09-27 08:00:41+00:00,[User]_agila5,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5441
+2023-09-27 09:47:53+00:00,[User]_teunbrand,"{'[User]_clauswilke', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5442
+2023-09-27 13:40:01+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5443
+2023-09-28 19:04:47+00:00,[User]_lhami,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5445
+2023-10-01 03:52:18+00:00,[User]_yutannihilation,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5446
+2023-10-01 04:55:27+00:00,[User]_yutannihilation,"{'[User]_teunbrand', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5447
+2023-10-01 18:48:37+00:00,[User]_otaviolovison,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5448
+2023-10-02 10:05:42+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5449
+2023-10-02 21:39:52+00:00,[User]_kylebutts,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5450
+2023-10-03 21:56:14+00:00,[User]_eliocamp,"{'[User]_eliocamp', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5451
+2023-10-04 13:24:52+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5452
+2023-10-04 15:24:06+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5453
+2023-10-04 20:41:17+00:00,[User]_steveharoz,"{'[User]_bwiernik', '[User]_smouksassi', '[User]_teunbrand', '[User]_thomasp85', '[User]_olivroy', '[User]_steveharoz'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5454
+2023-10-05 09:07:21+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5455
+2023-10-05 09:42:57+00:00,[User]_teunbrand,"{'[User]_clauswilke', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5456
+2023-10-05 12:21:37+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5457
+2023-10-06 01:07:20+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5458
+2023-10-06 10:54:53+00:00,[User]_s-andrews,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5459
+2023-10-07 20:40:35+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5460
+2023-10-08 21:47:21+00:00,[User]_steveharoz,"{'[User]_smouksassi', '[User]_teunbrand', '[User]_thomasp85', '[User]_steveharoz'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5461
+2023-10-09 13:30:13+00:00,[User]_retodomax,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5462
+2023-10-09 14:59:35+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5463
+2023-10-10 11:13:26+00:00,[User]_steveharoz,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5464
+2023-10-10 13:19:30+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5465
+2023-10-10 14:19:54+00:00,[User]_teunbrand,"{'[User]_EvaMaeRey', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5466
+2023-10-10 14:57:43+00:00,[User]_burrapreeti,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5467
+2023-10-11 06:04:51+00:00,[User]_davidhodge931,{'[User]_davidhodge931'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5468
+2023-10-11 08:18:08+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5470
+2023-10-11 09:33:37+00:00,[User]_steveharoz,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_steveharoz'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5471
+2023-10-11 10:29:53+00:00,[User]_thomasp85,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5472
+2023-10-11 12:01:58+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5473
+2023-10-11 12:13:48+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_mjskay'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5474
+2023-10-11 14:32:25+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5475
+2023-10-11 15:13:30+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_olivroy'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5476
+2023-10-12 09:23:15+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5477
+2023-10-12 14:47:31+00:00,[User]_matthewjnield,"{'[User]_matthewjnield', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5478
+2023-10-12 15:07:51+00:00,[User]_matthewjnield,"{'[User]_matthewjnield', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5479
+2023-10-12 19:00:05+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5480
+2023-10-13 06:57:59+00:00,[User]_jimjam-slam,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5481
+2023-10-13 08:14:13+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5482
+2023-10-13 10:33:55+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5483
+2023-10-14 05:46:23+00:00,[User]_steveharoz,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_steveharoz'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5484
+2023-10-15 17:49:59+00:00,[User]_davidhodge931,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5485
+2023-10-16 09:05:29+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5486
+2023-10-17 06:14:50+00:00,[User]_garyzhubc,"{'[User]_smouksassi', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5487
+2023-10-17 09:41:24+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5488
+2023-10-20 17:03:03+00:00,[User]_tjebo,"{'[User]_teunbrand', '[User]_bk1n'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5489
+2023-10-24 02:05:57+00:00,[User]_banbh,"{'[User]_smouksassi', '[User]_clauswilke', '[User]_banbh'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5491
+2023-10-24 07:51:13+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_olivroy'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5492
+2023-10-25 14:02:40+00:00,[User]_eliocamp,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5493
+2023-10-25 16:03:47+00:00,[User]_eliocamp,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5494
+2023-10-26 10:33:20+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5495
+2023-10-26 14:11:22+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5496
+2023-10-26 15:53:16+00:00,[User]_edent,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5497
+2023-10-26 20:50:25+00:00,[User]_yuw444,"{'[User]_clauswilke', '[User]_teunbrand', '[User]_yuw444'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5498
+2023-10-27 09:30:40+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5499
+2023-10-28 10:41:01+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5500
+2023-10-28 13:17:45+00:00,[User]_Rong-Zh,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5501
+2023-10-30 16:14:42+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5502
+2023-10-30 16:24:02+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5503
+2023-10-31 19:59:12+00:00,[User]_olivroy,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5504
+2023-11-02 16:17:35+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_yjunechoe', '[User]_larmarange'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5505
+2023-11-03 09:58:43+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5506
+2023-11-03 13:04:08+00:00,[User]_teunbrand,{'[User]_olivroy'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5507
+2023-11-03 13:16:28+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5508
+2023-11-04 21:44:35+00:00,[User]_Generalized,"{'[User]_Generalized', '[User]_thomasp85', '[User]_yutannihilation'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5509
+2023-11-06 19:23:23+00:00,[User]_warnes,"{'[User]_warnes', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5510
+2023-11-06 23:32:48+00:00,[User]_math-mcshane,"{'[User]_teunbrand', '[User]_math-mcshane'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5511
+2023-11-08 10:24:15+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5512
+2023-11-08 12:52:34+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5513
+2023-11-09 02:42:44+00:00,[User]_klin333,"{'[User]_klin333', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5514
+2023-11-09 11:05:55+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5515
+2023-11-13 09:04:42+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5517
+2023-11-13 10:58:39+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5518
+2023-11-13 12:20:16+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5519
+2023-11-13 13:40:05+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5520
+2023-11-13 18:48:38+00:00,[User]_eliocamp,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5521
+2023-11-15 08:54:47+00:00,[User]_dieghernan,"{'[User]_teunbrand', '[User]_dieghernan'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5523
+2023-11-15 11:24:21+00:00,[User]_tbates,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5524
+2023-11-16 09:46:18+00:00,[User]_paulatn240,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5525
+2023-11-16 18:47:30+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5526
+2023-11-17 21:50:46+00:00,[User]_danli349,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5527
+2023-11-18 10:48:28+00:00,[User]_Yunuuuu,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5528
+2023-11-20 09:17:19+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5529
+2023-11-20 21:07:01+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5530
+2023-11-21 04:34:50+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5531
+2023-11-21 08:38:02+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5532
+2023-11-22 18:00:08+00:00,[User]_ccsarapas,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5533
+2023-11-22 18:39:57+00:00,[User]_eliocamp,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5534
+2023-11-22 18:51:42+00:00,[User]_eliocamp,"{'[User]_eliocamp', '[User]_teunbrand', '[User]_jan-glx'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5535
+2023-11-22 22:05:20+00:00,[User]_eliocamp,"{'[User]_eliocamp', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5536
+2023-11-22 23:59:32+00:00,[User]_teunbrand,"{'[User]_hadley', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5537
+2023-11-24 10:38:21+00:00,[User]_jan-glx,{'[User]_jan-glx'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5538
+2023-11-25 05:21:46+00:00,[User]_davidhodge931,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5539
+2023-11-25 08:08:34+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5540
+2023-11-25 20:16:06+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_davidhodge931'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5541
+2023-11-28 14:45:38+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5542
+2023-11-28 16:15:50+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5544
+2023-11-29 08:36:41+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5545
+2023-11-29 08:55:10+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5546
+2023-11-29 11:51:08+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5547
+2023-11-29 12:30:13+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5548
+2023-11-29 13:31:13+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5549
+2023-11-29 13:59:48+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5550
+2023-11-29 22:04:32+00:00,[User]_willgearty,"{'[User]_teunbrand', '[User]_willgearty'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5552
+2023-12-01 07:45:48+00:00,[User]_Yunuuuu,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5553
+2023-12-01 14:20:51+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5554
+2023-12-01 14:46:15+00:00,[User]_eliocamp,"{'[User]_eliocamp', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5555
+2023-12-01 15:06:34+00:00,[User]_eliocamp,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5556
+2023-12-02 02:44:16+00:00,[User]_olivroy,"{'[User]_teunbrand', '[User]_olivroy'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5557
+2023-12-02 19:54:40+00:00,[User]_davidhodge931,"{'[User]_eliocamp', '[User]_yutannihilation', '[User]_teunbrand', '[User]_thomasp85', '[User]_davidhodge931'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5558
+2023-12-03 19:55:24+00:00,[User]_krlmlr,"{'[User]_krlmlr', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5559
+2023-12-04 09:01:30+00:00,[User]_davidhodge931,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5560
+2023-12-04 10:38:45+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5562
+2023-12-07 10:08:34+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5569
+2023-12-07 15:12:19+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5570
+2023-12-08 00:51:12+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5572
+2023-12-08 22:31:15+00:00,[User]_jtlandis,{'[User]_jtlandis'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5575
+2023-12-09 00:31:17+00:00,[User]_jtlandis,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_jtlandis'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5576
+2023-12-12 13:22:00+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5577
+2023-12-12 16:34:46+00:00,[User]_benimwolfspelz,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5578
+2023-12-12 20:06:59+00:00,[User]_f2il-kieranmace,"{'[User]_f2il-kieranmace', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5579
+2023-12-13 06:18:42+00:00,[User]_manjumc1975,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5580
+2023-12-13 14:40:02+00:00,[User]_giadasp,"{'[User]_teunbrand', '[User]_giadasp'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5581
+2023-12-14 13:49:43+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5582
+2023-12-14 14:36:29+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5583
+2023-12-14 22:14:19+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5584
+2023-12-15 03:59:07+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5585
+2023-12-15 04:53:46+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5586
+2023-12-15 09:53:52+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5587
+2023-12-15 10:35:59+00:00,[User]_thomasp85,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5588
+2023-12-15 13:48:53+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5589
+2023-12-15 19:53:48+00:00,[User]_olivroy,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5590
+2023-12-16 15:50:28+00:00,[User]_ashgreat,"{'[User]_teunbrand', '[User]_ashgreat'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5591
+2023-12-18 10:01:19+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5592
+2023-12-18 10:56:37+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5593
+2023-12-18 11:10:13+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5594
+2023-12-18 12:33:11+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5595
+2023-12-18 13:50:48+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5596
+2023-12-18 13:55:14+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5597
+2023-12-18 21:51:22+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5598
+2023-12-18 21:57:31+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5599
+2023-12-18 22:05:23+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5600
+2023-12-20 15:58:31+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5602
+2023-12-21 09:31:15+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5603
+2023-12-21 09:45:48+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5604
+2023-12-21 11:48:01+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5605
+2023-12-21 13:59:26+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5606
+2023-12-21 15:56:24+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5607
+2023-12-22 03:44:48+00:00,[User]_davidhodge931,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5608
+2023-12-22 05:23:20+00:00,[User]_mjskay,"{'[User]_MattCowgill', '[User]_teunbrand', '[User]_mjskay', '[User]_pmur002'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5609
+2023-12-22 05:31:36+00:00,[User]_mjskay,set(),tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5610
+2023-12-22 15:51:29+00:00,[User]_jttoivon,"{'[User]_jttoivon', '[User]_teunbrand'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5611
+2023-12-23 00:32:41+00:00,[User]_vnijs,"{'[User]_aphalo', '[User]_vnijs', '[User]_teunbrand', '[User]_bakillersky'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5612
+2023-12-23 21:45:11+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5613
+2023-12-25 15:20:57+00:00,[User]_aphalo,{'[User]_teunbrand'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5614
+2023-12-27 15:38:31+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/pull/5615
+2023-12-28 15:49:57+00:00,[User]_aarongraybill,"{'[User]_teunbrand', '[User]_aarongraybill'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5616
+2023-12-31 23:53:01+00:00,[User]_danielneilson,"{'[User]_teunbrand', '[User]_danielneilson'}",tidyverse/ggplot2,2023,https://github.com/tidyverse/ggplot2/issues/5617
+2024-01-02 09:15:52+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5618
+2024-01-02 10:50:02+00:00,[User]_aphalo,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5619
+2024-01-02 11:48:03+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_llrs'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5620
+2024-01-02 16:29:17+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5621
+2024-01-02 16:56:59+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5622
+2024-01-03 13:57:05+00:00,[User]_TimBMK,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5623
+2024-01-03 14:32:00+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5624
+2024-01-03 20:04:37+00:00,[User]_karchern,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5625
+2024-01-04 08:40:19+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5626
+2024-01-04 09:54:08+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5627
+2024-01-04 11:42:49+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5628
+2024-01-04 13:06:05+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5629
+2024-01-04 14:09:11+00:00,[User]_thomasp85,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5630
+2024-01-05 08:59:08+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5631
+2024-01-05 22:35:00+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5632
+2024-01-05 22:40:28+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5633
+2024-01-08 14:56:05+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5634
+2024-01-08 15:30:05+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5635
+2024-01-09 08:50:10+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5636
+2024-01-09 15:44:07+00:00,[User]_erikdeluca,"{'[User]_erikdeluca', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5637
+2024-01-12 08:50:41+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5638
+2024-01-12 13:55:13+00:00,[User]_balling-dev,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5639
+2024-01-12 14:58:04+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_michaelgrund', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5640
+2024-01-15 02:34:17+00:00,[User]_mjskay,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5641
+2024-01-15 08:40:58+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_mjskay'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5642
+2024-01-15 09:27:09+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5643
+2024-01-15 13:52:44+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5644
+2024-01-15 21:11:36+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5646
+2024-01-15 22:36:18+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5647
+2024-01-16 09:12:02+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5648
+2024-01-17 13:24:39+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5649
+2024-01-18 18:48:03+00:00,[User]_dieghernan,"{'[User]_teunbrand', '[User]_dieghernan'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5650
+2024-01-18 21:24:25+00:00,[User]_davidhodge931,"{'[User]_clauswilke', '[User]_thomasp85', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5651
+2024-01-19 08:29:30+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5652
+2024-01-19 21:20:58+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5653
+2024-01-20 16:59:50+00:00,[User]_eliocamp,"{'[User]_teunbrand', '[User]_yutannihilation'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5654
+2024-01-21 06:04:14+00:00,[User]_trekonom,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5655
+2024-01-22 11:15:05+00:00,[User]_aphalo,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5656
+2024-01-22 12:45:46+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5657
+2024-01-23 17:14:58+00:00,[User]_morrisseyj,"{'[User]_teunbrand', '[User]_morrisseyj'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5659
+2024-01-23 20:59:01+00:00,[User]_aphalo,"{'[User]_aphalo', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5660
+2024-01-25 04:00:22+00:00,[User]_Ari04T,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5661
+2024-01-25 08:37:42+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5662
+2024-01-25 14:09:55+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5663
+2024-01-25 14:11:31+00:00,[User]_bnicenboim,"{'[User]_clauswilke', '[User]_teunbrand', '[User]_bnicenboim'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5664
+2024-01-26 15:22:10+00:00,[User]_latot,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5665
+2024-01-28 06:36:18+00:00,[User]_ibuiltthis,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5666
+2024-01-29 12:36:42+00:00,[User]_kylebutts,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5667
+2024-01-30 12:52:22+00:00,[User]_AlexanderCasper,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5669
+2024-01-30 18:28:17+00:00,[User]_sirallen,"{'[User]_teunbrand', '[User]_sirallen'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5670
+2024-01-31 09:09:09+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5671
+2024-01-31 14:02:48+00:00,[User]_istvankleijn,"{'[User]_teunbrand', '[User]_JoaoSchneidersGit'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5672
+2024-01-31 22:38:02+00:00,[User]_davidhodge931,"{'[User]_clauswilke', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5673
+2024-02-02 00:00:23+00:00,[User]_a-torgovitsky,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5674
+2024-02-02 13:28:32+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5675
+2024-02-02 14:02:12+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5676
+2024-02-02 14:16:57+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5677
+2024-02-02 15:38:29+00:00,[User]_teunbrand,"{'[User]_hadley', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5678
+2024-02-06 08:15:15+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5679
+2024-02-06 10:02:33+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5680
+2024-02-06 16:05:58+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5681
+2024-02-07 02:23:52+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5682
+2024-02-07 09:03:18+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5683
+2024-02-07 11:32:19+00:00,[User]_gavinsimpson,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_gavinsimpson'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5684
+2024-02-08 21:53:01+00:00,[User]_moodymudskipper,"{'[User]_moodymudskipper', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5685
+2024-02-09 13:37:19+00:00,[User]_trekonom,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5686
+2024-02-09 19:07:59+00:00,[User]_schloerke,"{'[User]_teunbrand', '[User]_schloerke'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5687
+2024-02-09 19:18:42+00:00,[User]_kramerrs,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5688
+2024-02-10 22:03:36+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5689
+2024-02-11 03:45:13+00:00,[User]_mjskay,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5690
+2024-02-12 04:06:18+00:00,[User]_joshhwuu,"{'[User]_teunbrand', '[User]_joshhwuu'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5691
+2024-02-14 12:14:54+00:00,[User]_mwibral,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5692
+2024-02-15 14:26:11+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5693
+2024-02-16 05:17:42+00:00,[User]_jonocarroll,"{'[User]_teunbrand', '[User]_jonocarroll', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5694
+2024-02-16 19:49:16+00:00,[User]_ltierney,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5695
+2024-02-18 20:25:15+00:00,[User]_julianbarg,"{'[User]_teunbrand', '[User]_julianbarg'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5696
+2024-02-21 20:49:26+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5697
+2024-02-22 00:56:58+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5698
+2024-02-22 13:59:41+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5700
+2024-02-22 15:23:20+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5701
+2024-02-22 15:54:04+00:00,[User]_samuel-marsh,"{'[User]_samuel-marsh', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5702
+2024-02-23 08:22:00+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5703
+2024-02-23 09:30:30+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5704
+2024-02-23 13:02:18+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5706
+2024-02-23 14:39:15+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5707
+2024-02-23 15:37:17+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5708
+2024-02-23 16:30:23+00:00,[User]_mjskay,"{'[User]_teunbrand', '[User]_mjskay'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5709
+2024-02-23 23:33:33+00:00,[User]_dansmith01,"{'[User]_dansmith01', '[User]_yutannihilation'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5710
+2024-02-26 08:27:33+00:00,[User]_zhengxiaoUVic,"{'[User]_teunbrand', '[User]_zhengxiaoUVic'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5711
+2024-02-26 14:17:20+00:00,[User]_MauricioCely,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_MauricioCely'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5712
+2024-02-27 06:38:21+00:00,[User]_IndrajeetPatil,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5713
+2024-02-27 08:39:45+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5714
+2024-02-27 11:02:33+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5715
+2024-02-27 11:10:35+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5716
+2024-02-27 11:18:23+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5717
+2024-02-28 09:37:36+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5718
+2024-02-28 09:55:10+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5719
+2024-02-28 09:57:19+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5720
+2024-02-28 12:23:34+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5721
+2024-02-28 12:27:53+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5722
+2024-02-28 12:46:29+00:00,[User]_teunbrand,"{'[User]_aphalo', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5723
+2024-02-28 13:26:43+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5724
+2024-02-28 13:38:46+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5725
+2024-02-28 13:52:55+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5726
+2024-02-28 16:38:26+00:00,[User]_kylebutts,"{'[User]_clauswilke', '[User]_teunbrand', '[User]_kylebutts'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5727
+2024-02-28 22:22:23+00:00,[User]_kevinwolz,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_ECarnell', '[User]_njudd', '[User]_kevinwolz'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5728
+2024-02-29 12:24:52+00:00,[User]_aphalo,"{'[User]_aphalo', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5729
+2024-02-29 13:43:56+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_aphalo'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5730
+2024-02-29 15:23:21+00:00,[User]_teunbrand,"{'[User]_aphalo', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5731
+2024-03-01 10:39:48+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5732
+2024-03-01 15:30:50+00:00,[User]_eliocamp,"{'[User]_eliocamp', '[User]_aphalo', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5733
+2024-03-01 22:00:22+00:00,[User]_davidhodge931,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5734
+2024-03-01 22:11:07+00:00,[User]_davidhodge931,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5735
+2024-03-02 22:21:18+00:00,[User]_aphalo,"{'[User]_teunbrand', '[User]_clauswilke', '[User]_aphalo'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5736
+2024-03-03 18:25:43+00:00,[User]_JakubKomarek,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5737
+2024-03-04 08:14:20+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5738
+2024-03-04 08:18:22+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5739
+2024-03-04 21:23:42+00:00,[User]_rsh52,"{'[User]_rsh52', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5741
+2024-03-04 22:06:36+00:00,[User]_XdahaX,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5742
+2024-03-05 08:34:12+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5743
+2024-03-05 08:36:59+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5744
+2024-03-05 11:16:55+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5745
+2024-03-05 12:19:20+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5746
+2024-03-05 12:32:29+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5747
+2024-03-05 14:10:59+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5748
+2024-03-05 22:33:36+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5749
+2024-03-05 23:16:49+00:00,[User]_davidhodge931,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5750
+2024-03-06 05:16:17+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_thomasp85', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5751
+2024-03-06 08:32:14+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5752
+2024-03-06 09:34:29+00:00,[User]_tvatter,"{'[User]_tvatter', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5753
+2024-03-06 10:11:19+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5754
+2024-03-07 00:53:26+00:00,[User]_taozhou2020,"{'[User]_clauswilke', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5755
+2024-03-07 09:20:27+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5756
+2024-03-07 11:22:25+00:00,[User]_dominicroye,"{'[User]_teunbrand', '[User]_dominicroye'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5757
+2024-03-07 12:57:18+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5758
+2024-03-07 13:53:11+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5759
+2024-03-07 15:21:54+00:00,[User]_evanmascitti,"{'[User]_evanmascitti', '[User]_clauswilke', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5761
+2024-03-07 20:24:52+00:00,[User]_DanChaltiel,"{'[User]_clauswilke', '[User]_teunbrand', '[User]_DanChaltiel'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5762
+2024-03-07 23:44:50+00:00,[User]_olivroy,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5763
+2024-03-11 08:40:20+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5764
+2024-03-11 09:53:17+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5765
+2024-03-11 12:22:05+00:00,[User]_amarjitsinghchandhial,"{'[User]_amarjitsinghchandhial', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5766
+2024-03-11 12:35:15+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5767
+2024-03-11 14:09:31+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5768
+2024-03-11 23:36:26+00:00,[User]_davidhodge931,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5769
+2024-03-12 11:00:50+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5770
+2024-03-13 11:19:48+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5772
+2024-03-13 11:24:20+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5773
+2024-03-14 05:09:11+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5774
+2024-03-14 14:18:24+00:00,[User]_totajuliusd,"{'[User]_teunbrand', '[User]_totajuliusd'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5775
+2024-03-15 11:13:03+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5776
+2024-03-15 15:35:16+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5777
+2024-03-16 05:33:22+00:00,[User]_PanfengZhang,"{'[User]_PanfengZhang', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5778
+2024-03-16 05:49:38+00:00,[User]_PanfengZhang,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5779
+2024-03-17 10:53:55+00:00,[User]_mohammad-numan,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5780
+2024-03-19 16:47:01+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5782
+2024-03-19 17:04:34+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5783
+2024-03-19 17:17:04+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5784
+2024-03-20 19:24:47+00:00,[User]_eliocamp,"{'[User]_eliocamp', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5786
+2024-03-21 01:49:58+00:00,[User]_japhir,"{'[User]_teunbrand', '[User]_japhir'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5788
+2024-03-21 09:40:25+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5789
+2024-03-21 13:24:40+00:00,[User]_olivroy,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5790
+2024-03-22 09:09:20+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5791
+2024-03-22 15:53:44+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5792
+2024-03-22 17:36:48+00:00,[User]_victorfeagins,"{'[User]_victorfeagins', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5793
+2024-03-22 22:20:02+00:00,[User]_victorfeagins,"{'[User]_victorfeagins', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5794
+2024-03-23 00:35:02+00:00,[User]_vivekJax,"{'[User]_teunbrand', '[User]_vivekJax'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5795
+2024-03-23 07:40:36+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5796
+2024-03-24 15:15:19+00:00,[User]_EA-Ammar,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5797
+2024-03-25 08:18:04+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5798
+2024-03-25 09:20:32+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5799
+2024-03-25 10:40:43+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5800
+2024-03-25 13:52:02+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5802
+2024-03-25 14:01:38+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5803
+2024-03-25 16:09:00+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5804
+2024-03-25 23:32:42+00:00,[User]_acebulsk,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5805
+2024-03-26 03:42:37+00:00,[User]_johow,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5806
+2024-03-26 10:14:04+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5807
+2024-03-26 10:17:43+00:00,[User]_etiennebacher,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5808
+2024-03-26 12:31:33+00:00,[User]_smouksassi,"{'[User]_smouksassi', '[User]_karawoo'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5809
+2024-03-26 15:42:02+00:00,[User]_jiw181,"{'[User]_jiw181', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5810
+2024-03-26 15:55:53+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5811
+2024-03-27 15:48:42+00:00,[User]_samuel-marsh,"{'[User]_samuel-marsh', '[User]_clauswilke', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5812
+2024-03-28 14:11:17+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5813
+2024-03-28 15:27:05+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5814
+2024-03-29 02:14:23+00:00,[User]_venpopov,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5816
+2024-03-29 13:02:49+00:00,[User]_llrs,"{'[User]_teunbrand', '[User]_llrs'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5817
+2024-03-29 22:40:31+00:00,[User]_HRodenhizer,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5818
+2024-04-02 09:51:05+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5819
+2024-04-02 12:58:00+00:00,[User]_ujtwr,"{'[User]_ujtwr', '[User]_smouksassi', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5820
+2024-04-02 14:46:59+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5821
+2024-04-03 08:14:36+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5823
+2024-04-03 14:07:45+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5824
+2024-04-03 20:13:24+00:00,[User]_davidhodge931,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5825
+2024-04-04 14:29:35+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5826
+2024-04-04 19:03:36+00:00,[User]_elipousson,"{'[User]_teunbrand', '[User]_elipousson'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5827
+2024-04-05 10:15:30+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5828
+2024-04-06 00:57:43+00:00,[User]_fkohrt,"{'[User]_fkohrt', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5829
+2024-04-08 07:40:51+00:00,[User]_agneeshbarua,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5831
+2024-04-08 08:03:08+00:00,[User]_teunbrand,"{'[User]_agneeshbarua', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5832
+2024-04-08 09:59:55+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5833
+2024-04-08 13:43:47+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5834
+2024-04-10 03:14:08+00:00,[User]_lcpmgh,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5835
+2024-04-10 10:04:36+00:00,[User]_cgoo4,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5836
+2024-04-12 07:22:18+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5837
+2024-04-12 10:03:01+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5838
+2024-04-12 10:38:01+00:00,[User]_pgmj,"{'[User]_teunbrand', '[User]_pgmj'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5839
+2024-04-13 09:17:34+00:00,[User]_jmbuhr,"{'[User]_teunbrand', '[User]_jmbuhr'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5840
+2024-04-15 08:39:37+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5841
+2024-04-15 09:24:56+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5842
+2024-04-15 10:05:56+00:00,[User]_davidhodge931,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5843
+2024-04-16 23:44:38+00:00,[User]_rikivillalba,"{'[User]_teunbrand', '[User]_rikivillalba'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5844
+2024-04-18 08:09:43+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5847
+2024-04-18 13:25:16+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5848
+2024-04-18 21:58:16+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5849
+2024-04-21 09:04:34+00:00,[User]_wbvguo,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5850
+2024-04-21 20:38:12+00:00,[User]_MichaelChirico,"{'[User]_teunbrand', '[User]_MichaelChirico'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5851
+2024-04-22 06:42:53+00:00,[User]_davidhodge931,"{'[User]_teunbrand', '[User]_davidhodge931'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5852
+2024-04-22 06:46:16+00:00,[User]_thomasp85,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5853
+2024-04-22 08:59:58+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5854
+2024-04-22 14:38:47+00:00,[User]_teunbrand,"{'[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5855
+2024-04-22 17:02:52+00:00,[User]_Hy4m,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5856
+2024-04-22 20:48:11+00:00,[User]_strengejacke,"{'[User]_strengejacke', '[User]_teunbrand', '[User]_thomasp85'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5857
+2024-04-23 08:15:01+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5858
+2024-04-23 10:20:02+00:00,[User]_thomasp85,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5859
+2024-04-23 20:22:04+00:00,[User]_hadley,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5860
+2024-04-24 08:24:41+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5861
+2024-04-24 12:26:01+00:00,[User]_teunbrand,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5862
+2024-04-25 04:01:37+00:00,[User]_yjunechoe,"{'[User]_teunbrand', '[User]_yjunechoe'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5863
+2024-04-25 15:27:14+00:00,[User]_njspix,"{'[User]_njspix', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5864
+2024-04-26 06:35:43+00:00,[User]_tommmmi,"{'[User]_teunbrand', '[User]_tommmmi'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5865
+2024-04-26 07:36:03+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5866
+2024-04-26 08:49:22+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5867
+2024-04-26 12:48:06+00:00,[User]_teunbrand,{'[User]_thomasp85'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5868
+2024-04-26 18:18:25+00:00,[User]_ltierney,"{'[User]_ltierney', '[User]_teunbrand'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5869
+2024-04-28 21:12:39+00:00,[User]_davidhodge931,{'[User]_teunbrand'},tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5870
+2024-04-29 07:54:13+00:00,[User]_teunbrand,set(),tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/pull/5871
+2024-04-30 12:17:34+00:00,[User]_ThomasSoeiro,"{'[User]_teunbrand', '[User]_ThomasSoeiro'}",tidyverse/ggplot2,2024,https://github.com/tidyverse/ggplot2/issues/5872

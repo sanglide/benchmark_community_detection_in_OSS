@@ -1,0 +1,753 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 12:48:37+00:00,[User]_Virakal,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3200
+2023-05-01 21:05:07+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3203
+2023-05-02 01:27:44+00:00,[User]_AmelBawa-msft,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3205
+2023-05-02 17:48:49+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3206
+2023-05-02 18:37:00+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3207
+2023-05-02 23:39:34+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3208
+2023-05-03 09:19:28+00:00,[User]_benbrummer,{'[User]_benbrummer'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3210
+2023-05-04 03:28:59+00:00,[User]_Trenly,"{'[User]_florelis', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3211
+2023-05-04 03:39:25+00:00,[User]_Trenly,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3212
+2023-05-04 03:39:43+00:00,[User]_Trenly,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3213
+2023-05-04 03:47:04+00:00,[User]_Trenly,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3214
+2023-05-04 04:40:16+00:00,[User]_Trenly,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3215
+2023-05-04 04:56:34+00:00,[User]_Trenly,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3216
+2023-05-04 17:34:44+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3221
+2023-05-05 03:20:20+00:00,[User]_upintheairsheep,"{'[User]_denelon', '[User]_Masamune3210'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3223
+2023-05-05 05:02:28+00:00,[User]_Trenly,"{'[User]_florelis', '[User]_Trenly', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3224
+2023-05-05 22:46:28+00:00,[User]_JohnMcPMS,{'[User]_ranm-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3225
+2023-05-05 23:02:13+00:00,[User]_alecazam,{'[User]_mdanish-kh'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3226
+2023-05-06 17:30:32+00:00,[User]_soredake,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3227
+2023-05-06 21:45:46+00:00,[User]_upintheairsheep,{'[User]_upintheairsheep'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3228
+2023-05-08 04:43:15+00:00,[User]_pleabargain,"{'[User]_denelon', '[User]_pleabargain'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3229
+2023-05-08 13:10:35+00:00,[User]_k4waiiiii,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3230
+2023-05-08 15:51:19+00:00,[User]_denelon,{'[User]_robinmalik'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3231
+2023-05-09 20:30:16+00:00,[User]_yao-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3235
+2023-05-10 23:35:39+00:00,[User]_denelon,"{'[User]_florelis', '[User]_joaompinto', '[User]_yao-msft', '[User]_soredake', '[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3240
+2023-05-11 00:52:57+00:00,[User]_msftrubengu,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3241
+2023-05-11 20:08:16+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3244
+2023-05-13 10:39:22+00:00,[User]_MrHinsh,"{'[User]_denelon', '[User]_Trenly', '[User]_MrHinsh', '[User]_rpaloni'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3247
+2023-05-13 19:03:54+00:00,[User]_igorskyflyer,"{'[User]_denelon', '[User]_Trenly', '[User]_igorskyflyer'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3248
+2023-05-14 16:01:14+00:00,[User]_upintheairsheep,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3249
+2023-05-14 18:45:02+00:00,[User]_Speedfighter,"{'[User]_yao-msft', '[User]_Speedfighter'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3250
+2023-05-15 19:07:37+00:00,[User]_msftrubengu,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3251
+2023-05-16 04:22:59+00:00,[User]_JohnMcPMS,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3254
+2023-05-17 22:57:40+00:00,[User]_denelon,"{'[User]_denelon', '[User]_upintheairsheep'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3257
+2023-05-18 19:26:56+00:00,[User]_Trenly,"{'[User]_Trenly', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3260
+2023-05-19 17:21:13+00:00,[User]_JohnMcPMS,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3261
+2023-05-19 18:41:40+00:00,[User]_pearson,"{'[User]_denelon', '[User]_florelis', '[User]_Trenly', '[User]_pearson'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3263
+2023-05-22 18:24:50+00:00,[User]_msftrubengu,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3264
+2023-05-24 00:50:06+00:00,[User]_JohnMcPMS,{'[User]_florelis'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3266
+2023-05-24 10:46:08+00:00,[User]_AliqQim,"{'[User]_mdanish-kh', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3268
+2023-05-24 19:33:28+00:00,[User]_Trenly,"{'[User]_denelon', '[User]_OfficialEsco', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3271
+2023-05-24 19:43:15+00:00,[User]_Trenly,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3272
+2023-05-26 01:37:23+00:00,[User]_yao-msft,"{'[User]_denelon', '[User]_JohnMcPMS', '[User]_Trenly', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3273
+2023-05-26 17:44:42+00:00,[User]_denelon,"{'[User]_denelon', '[User]_LarryOsterman'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3274
+2023-05-26 20:26:34+00:00,[User]_florelis,"{'[User]_JohnMcPMS', '[User]_Trenly', '[User]_florelis', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3275
+2023-05-26 21:03:34+00:00,[User]_georgewilkin,"{'[User]_Trenly', '[User]_georgewilkin'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3276
+2023-05-26 21:03:34+00:00,[User]_georgewilkin,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3278
+2023-05-27 20:52:39+00:00,[User]_mdanish-kh,{'[User]_mdanish-kh'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3279
+2023-05-28 16:54:05+00:00,[User]_sba923,"{'[User]_mdanish-kh', '[User]_sba923'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3280
+2023-05-29 20:54:49+00:00,[User]_mpusch88,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3281
+2023-05-30 18:29:18+00:00,[User]_joaompinto,{'[User]_joaompinto'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3284
+2023-05-30 19:02:54+00:00,[User]_joaompinto,"{'[User]_denelon', '[User]_joaompinto', '[User]_soredake'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3285
+2023-05-30 19:21:19+00:00,[User]_joaompinto,"{'[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3286
+2023-05-30 19:26:45+00:00,[User]_joaompinto,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3287
+2023-05-30 20:43:44+00:00,[User]_igorskyflyer,"{'[User]_mdanish-kh', '[User]_igorskyflyer'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3288
+2023-05-30 20:56:48+00:00,[User]_igorskyflyer,"{'[User]_denelon', '[User]_pleabargain'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3289
+2023-06-01 03:42:16+00:00,[User]_luis-aranda,{'[User]_oldium'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3294
+2023-06-01 07:58:04+00:00,[User]_BraveThrasher,"{'[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3295
+2023-06-02 02:49:00+00:00,[User]_hahn-kev,"{'[User]_denelon', '[User]_weeix', '[User]_hahn-kev', '[User]_khewweifeng'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3297
+2023-06-02 15:03:52+00:00,[User]_volo34,"{'[User]_denelon', '[User]_stephengillie', '[User]_volo34', '[User]_BrandonWanHuanSheng'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3298
+2023-06-02 22:35:36+00:00,[User]_ryfu-msft,"{'[User]_JohnMcPMS', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3301
+2023-06-03 00:11:33+00:00,[User]_yao-msft,{'[User]_ryfu-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3302
+2023-06-03 05:36:12+00:00,[User]_khewweifeng,"{'[User]_oxpayken', '[User]_KuntaKinke', '[User]_PaulKlerkx', '[User]_JohnMcPMS', '[User]_rrous', '[User]_octaviordz', '[User]_jakemarston', '[User]_lambda', '[User]_Shadowphoenix', '[User]_khewweifeng', '[User]_denelon', '[User]_MickCh', '[User]_M4mu5qu3', '[User]_computerquip-work'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3303
+2023-06-03 16:50:47+00:00,[User]_huyhoang160593,"{'[User]_denelon', '[User]_won3d'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3306
+2023-06-05 17:12:08+00:00,[User]_JohnMcPMS,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3309
+2023-06-05 18:42:48+00:00,[User]_wmmc88,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3310
+2023-06-05 22:02:33+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3311
+2023-06-06 05:24:19+00:00,[User]_romme,{'[User]_MagicAndre1981'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3312
+2023-06-06 16:34:50+00:00,[User]_soredake,{'[User]_upintheairsheep'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3314
+2023-06-06 17:08:21+00:00,[User]_florelis,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3315
+2023-06-06 17:40:00+00:00,[User]_JohnMcPMS,{'[User]_ryfu-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3316
+2023-06-06 22:53:29+00:00,[User]_ryfu-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3317
+2023-06-07 17:53:21+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3320
+2023-06-07 23:29:48+00:00,[User]_Hermholtz,"{'[User]_Hermholtz', '[User]_JohnMcPMS'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3322
+2023-06-07 23:56:22+00:00,[User]_Lonniebiz,"{'[User]_stephengillie', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3323
+2023-06-09 17:07:07+00:00,[User]_denelon,"{'[User]_rlabrecquefsg', '[User]_PilotBob'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3325
+2023-06-10 00:24:20+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3327
+2023-06-10 15:07:37+00:00,[User]_sba923,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3328
+2023-06-10 16:15:35+00:00,[User]_mrmgrpl,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3329
+2023-06-11 15:35:33+00:00,[User]_SalahAdDin,"{'[User]_denelon', '[User]_Trenly', '[User]_SalahAdDin'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3330
+2023-06-12 21:19:12+00:00,[User]_AmelBawa-msft,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3335
+2023-06-12 21:37:20+00:00,[User]_joaompinto,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3336
+2023-06-12 23:28:30+00:00,[User]_Sergio0694,"{'[User]_Trenly', '[User]_Sergio0694'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3337
+2023-06-13 15:35:51+00:00,[User]_denelon,"{'[User]_denelon', '[User]_mdanish-kh', '[User]_Trenly', '[User]_ryfu-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3340
+2023-06-13 17:25:55+00:00,[User]_denelon,"{'[User]_denelon', '[User]_mdanish-kh', '[User]_Trenly', '[User]_ryfu-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3341
+2023-06-13 18:00:59+00:00,[User]_mdanish-kh,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3342
+2023-06-14 18:37:14+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3344
+2023-06-14 21:46:41+00:00,[User]_assarbad,"{'[User]_denelon', '[User]_kenvix', '[User]_Trenly', '[User]_assarbad'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3345
+2023-06-15 15:16:18+00:00,[User]_denelon,"{'[User]_rlabrecquefsg', '[User]_MeikTranel', '[User]_jtnord', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3348
+2023-06-15 15:20:07+00:00,[User]_denelon,"{'[User]_LoremFooBar', '[User]_MeikTranel', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3349
+2023-06-15 16:25:23+00:00,[User]_Trenly,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3350
+2023-06-15 17:42:18+00:00,[User]_Trenly,"{'[User]_denelon', '[User]_mdanish-kh'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3352
+2023-06-15 20:00:39+00:00,[User]_denelon,{'[User]_sammiie'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3354
+2023-06-15 21:36:28+00:00,[User]_msftrubengu,"{'[User]_florelis', '[User]_JohnMcPMS'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3355
+2023-06-16 14:52:53+00:00,[User]_Trenly,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3357
+2023-06-16 14:55:39+00:00,[User]_Trenly,"{'[User]_RDMacLachlan', '[User]_Trenly', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3358
+2023-06-18 18:52:05+00:00,[User]_JustMyGithub,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3361
+2023-06-20 01:27:05+00:00,[User]_ltlombardi,"{'[User]_ltlombardi', '[User]_Trenly', '[User]_leonardo-gooten'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3364
+2023-06-20 14:27:21+00:00,[User]_jmcottone,"{'[User]_jmcottone', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3366
+2023-06-21 19:02:10+00:00,[User]_florelis,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3367
+2023-06-21 19:09:05+00:00,[User]_OreoFrosting,"{'[User]_egerlach', '[User]_dbensmith'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3368
+2023-06-22 09:20:53+00:00,[User]_sirjyo,{'[User]_florelis'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3372
+2023-06-22 14:21:03+00:00,[User]_dihmandrake,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3373
+2023-06-22 17:33:50+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3374
+2023-06-26 16:22:49+00:00,[User]_denelon,"{'[User]_A9G-Data-Droid', '[User]_florelis', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3380
+2023-06-27 10:35:17+00:00,[User]_Block-Build,"{'[User]_denelon', '[User]_Trenly', '[User]_Block-Build'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3381
+2023-06-27 15:25:41+00:00,[User]_Shahid-Roofi-Khan,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3384
+2023-06-28 09:52:12+00:00,[User]_seppeon,"{'[User]_denelon', '[User]_Trenly', '[User]_vedantmgoyal2009', '[User]_seppeon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3385
+2023-06-28 09:57:29+00:00,[User]_seppeon,"{'[User]_denelon', '[User]_Trenly', '[User]_blaubaer'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3386
+2023-06-28 16:52:58+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3388
+2023-06-28 18:36:48+00:00,[User]_denelon,"{'[User]_Trenly', '[User]_ryfu-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3389
+2023-06-29 16:50:13+00:00,[User]_JohnMcPMS,"{'[User]_JohnMcPMS', '[User]_yao-msft', '[User]_Chico1244', '[User]_msftrubengu', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3391
+2023-06-29 18:58:42+00:00,[User]_yao-msft,"{'[User]_JohnMcPMS', '[User]_florelis'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3392
+2023-06-30 20:31:08+00:00,[User]_yao-msft,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3396
+2023-06-30 21:47:45+00:00,[User]_yao-msft,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3397
+2023-06-30 22:56:58+00:00,[User]_SpecterShell,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3398
+2023-07-01 22:30:01+00:00,[User]_rlabrecque,"{'[User]_denelon', '[User]_rlabrecque'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3400
+2023-07-02 00:41:55+00:00,[User]_rlabrecquefsg,"{'[User]_denelon', '[User]_mdanish-kh', '[User]_OranguTech', '[User]_egerlach'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3401
+2023-07-02 18:06:22+00:00,[User]_totkeks,{'[User]_mdanish-kh'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3403
+2023-07-02 19:28:14+00:00,[User]_jathinjoseph0,"{'[User]_jathinjoseph0', '[User]_mdanish-kh'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3404
+2023-07-03 22:04:57+00:00,[User]_Cyberboss,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3405
+2023-07-04 21:36:02+00:00,[User]_ngbrown,"{'[User]_denelon', '[User]_ngbrown', '[User]_mdanish-kh'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3406
+2023-07-05 10:02:28+00:00,[User]_CoolPlayLin,"{'[User]_denelon', '[User]_stephengillie', '[User]_vedantmgoyal2009'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3407
+2023-07-05 20:42:48+00:00,[User]_byjrack,"{'[User]_byjrack', '[User]_JohnMcPMS'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3409
+2023-07-05 23:34:01+00:00,[User]_upintheairsheep,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3839
+2023-07-06 09:55:05+00:00,[User]_GeneralGarcia,"{'[User]_evanjs', '[User]_GeneralGarcia', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3410
+2023-07-06 13:17:43+00:00,[User]_dbarwikowski,"{'[User]_denelon', '[User]_dbarwikowski'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3411
+2023-07-06 19:54:20+00:00,[User]_florelis,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3412
+2023-07-07 12:40:31+00:00,[User]_soroshsabz,"{'[User]_denelon', '[User]_soroshsabz', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3413
+2023-07-07 18:32:10+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3414
+2023-07-09 06:26:56+00:00,[User]_soulspark666,"{'[User]_Trenly', '[User]_soulspark666'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3416
+2023-07-10 01:27:23+00:00,[User]_ricke65,{'[User]_ricke65'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3418
+2023-07-10 12:21:28+00:00,[User]_mcswainy,"{'[User]_KumarMudedla', '[User]_BeastXtreme77', '[User]_deiruch', '[User]_tmcknight', '[User]_sharpjs', '[User]_MiketheMaker18', '[User]_mcswainy', '[User]_PCAssistSoftware', '[User]_BrandonWanHuanSheng'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3419
+2023-07-10 17:10:18+00:00,[User]_Ramshu,"{'[User]_Ramshu', '[User]_ItzLevvie'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3420
+2023-07-10 19:08:29+00:00,[User]_JohnMcPMS,"{'[User]_JohnMcPMS', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3422
+2023-07-11 07:54:05+00:00,[User]_yao-msft,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3424
+2023-07-11 18:08:08+00:00,[User]_olegpro81,{'[User]_olegpro81'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3425
+2023-07-11 21:20:48+00:00,[User]_yao-msft,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3426
+2023-07-12 02:39:21+00:00,[User]_gihanruk,"{'[User]_denelon', '[User]_gihanruk', '[User]_acscSupport'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3427
+2023-07-12 10:04:12+00:00,[User]_ashemedai,"{'[User]_denelon', '[User]_ashemedai'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3429
+2023-07-12 12:08:49+00:00,[User]_Trenly,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3430
+2023-07-12 14:46:37+00:00,[User]_its-ag,"{'[User]_denelon', '[User]_DHowett'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3431
+2023-07-12 22:53:53+00:00,[User]_TheAlienDrew,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3432
+2023-07-12 23:42:49+00:00,[User]_msftrubengu,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3433
+2023-07-13 17:19:23+00:00,[User]_florelis,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3434
+2023-07-13 23:36:56+00:00,[User]_msftrubengu,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3435
+2023-07-14 17:28:58+00:00,[User]_mdanish-kh,"{'[User]_mdanish-kh', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3437
+2023-07-14 19:38:27+00:00,[User]_Trenly,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3440
+2023-07-17 10:44:39+00:00,[User]_TheBigBear,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3442
+2023-07-17 18:15:44+00:00,[User]_kilasuit,"{'[User]_stephengillie', '[User]_bryanhunwardsen'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3443
+2023-07-17 19:49:55+00:00,[User]_DarylGraves,"{'[User]_Tataz2', '[User]_DarylGraves', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3444
+2023-07-18 02:20:50+00:00,[User]_sin-fx,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3446
+2023-07-18 21:21:59+00:00,[User]_mthalman,{'[User]_stephengillie'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3447
+2023-07-19 00:33:28+00:00,[User]_yao-msft,{'[User]_florelis'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3449
+2023-07-19 22:09:43+00:00,[User]_JohnMcPMS,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3451
+2023-07-19 22:40:02+00:00,[User]_AmelBawa-msft,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3452
+2023-07-19 23:06:54+00:00,[User]_tonyjly,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3453
+2023-07-20 09:29:41+00:00,[User]_kdpuvvadi,"{'[User]_kdpuvvadi', '[User]_jantari'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3455
+2023-07-20 13:15:54+00:00,[User]_TonyWhitley,"{'[User]_denelon', '[User]_stephengillie', '[User]_TonyWhitley'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3456
+2023-07-20 14:31:40+00:00,[User]_rizwan-r-r,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3457
+2023-07-21 06:31:05+00:00,[User]_xobs,"{'[User]_stephengillie', '[User]_xobs', '[User]_amritashan', '[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3459
+2023-07-22 01:17:49+00:00,[User]_yao-msft,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3460
+2023-07-23 22:47:06+00:00,[User]_BlockyTheDev,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3464
+2023-07-24 16:05:12+00:00,[User]_peetrike,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3466
+2023-07-24 22:31:23+00:00,[User]_yao-msft,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3468
+2023-07-25 11:13:58+00:00,[User]_xsm2,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3472
+2023-07-25 21:03:32+00:00,[User]_florelis,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3473
+2023-07-26 02:44:11+00:00,[User]_Trenly,"{'[User]_denelon', '[User]_gregsdennis', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3475
+2023-07-27 12:58:23+00:00,[User]_Rarder44,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3476
+2023-07-27 23:08:42+00:00,[User]_BrianL-STCU,"{'[User]_denelon', '[User]_BrianL-STCU'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3479
+2023-07-28 07:57:38+00:00,[User]_shuohao,"{'[User]_ruffy91', '[User]_stephengillie', '[User]_DaeMon87'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3481
+2023-07-28 13:29:22+00:00,[User]_o-l-a-v,"{'[User]_corbob', '[User]_mdanish-kh', '[User]_R-Adrian', '[User]_pauby', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3482
+2023-07-28 16:33:58+00:00,[User]_Trenly,"{'[User]_MattHyman', '[User]_stephengillie', '[User]_denelon', '[User]_Karl-WE', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3483
+2023-07-29 18:52:01+00:00,[User]_MrDamienJones,"{'[User]_Trenly', '[User]_MrDamienJones'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3484
+2023-07-29 20:49:10+00:00,[User]_the-simian,"{'[User]_stephengillie', '[User]_mdanish-kh', '[User]_the-simian'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3485
+2023-07-31 18:57:53+00:00,[User]_Karl-WE,{'[User]_Karl-WE'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3486
+2023-08-01 22:05:59+00:00,[User]_a-mnich,{'[User]_a-mnich'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3490
+2023-08-02 00:38:21+00:00,[User]_samedder,"{'[User]_denelon', '[User]_samedder'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3492
+2023-08-02 15:10:08+00:00,[User]_giggio,"{'[User]_mrvice', '[User]_mdanish-kh', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3493
+2023-08-02 15:43:43+00:00,[User]_giggio,"{'[User]_giggio', '[User]_apcsb', '[User]_mdanish-kh', '[User]_denelon', '[User]_jantari', '[User]_markusheiliger', '[User]_asheroto'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3494
+2023-08-02 22:45:23+00:00,[User]_yao-msft,{'[User]_florelis'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3495
+2023-08-04 07:12:09+00:00,[User]_clesmian,"{'[User]_mdanish-kh', '[User]_clesmian'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3498
+2023-08-04 10:57:49+00:00,[User]_alexravenna,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3499
+2023-08-04 11:06:43+00:00,[User]_alexravenna,"{'[User]_alexravenna', '[User]_stephengillie', '[User]_JohnMcPMS'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3500
+2023-08-04 19:51:31+00:00,[User]_mgreenegit,{'[User]_kilasuit'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3501
+2023-08-04 21:09:24+00:00,[User]_Trenly,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3502
+2023-08-06 08:53:15+00:00,[User]_NogrTL,"{'[User]_InternalHigh', '[User]_MagicAndre1981'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3505
+2023-08-07 02:16:42+00:00,[User]_ThioJoe,"{'[User]_denelon', '[User]_mdanish-kh', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3506
+2023-08-07 09:34:58+00:00,[User]_emoxam,"{'[User]_denelon', '[User]_voltagex', '[User]_emoxam'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3507
+2023-08-07 19:14:25+00:00,[User]_mwisnicki,{'[User]_stephengillie'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3509
+2023-08-07 19:38:14+00:00,[User]_mwisnicki,"{'[User]_Trenly', '[User]_mwisnicki'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3510
+2023-08-08 20:40:04+00:00,[User]_JohnMcPMS,{'[User]_florelis'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3511
+2023-08-09 22:23:21+00:00,[User]_xpwn3rx,"{'[User]_denelon', '[User]_xpwn3rx'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3514
+2023-08-10 17:08:20+00:00,[User]_LogicalError007,"{'[User]_sharunkumar', '[User]_Trenly', '[User]_LogicalError007', '[User]_meop'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3515
+2023-08-10 18:51:07+00:00,[User]_ryfu-msft,"{'[User]_florelis', '[User]_Trenly', '[User]_yao-msft', '[User]_ryfu-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3516
+2023-08-13 23:43:56+00:00,[User]_gfody,{'[User]_gfody'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3519
+2023-08-15 06:12:47+00:00,[User]_MirolimMajidov,"{'[User]_stephengillie', '[User]_MirolimMajidov', '[User]_mdanish-kh', '[User]_johlju', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3522
+2023-08-15 15:33:12+00:00,[User]_denelon,"{'[User]_JohnMcPMS', '[User]_cdhunt'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3523
+2023-08-16 16:17:23+00:00,[User]_Nirgranth,"{'[User]_stephengillie', '[User]_brookst', '[User]_g0t4'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3525
+2023-08-16 19:18:36+00:00,[User]_msftrubengu,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3526
+2023-08-17 02:12:28+00:00,[User]_kkamegawa,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3528
+2023-08-17 06:09:46+00:00,[User]_pedoc,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3529
+2023-08-17 16:22:07+00:00,[User]_ryfu-msft,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3533
+2023-08-18 15:32:08+00:00,[User]_lunacd,"{'[User]_JohnMcPMS', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3534
+2023-08-19 04:00:22+00:00,[User]_felipecrs,"{'[User]_denelon', '[User]_felipecrs'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3538
+2023-08-20 16:39:31+00:00,[User]_Stephanevg,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3540
+2023-08-22 13:24:15+00:00,[User]_treysis,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3543
+2023-08-22 19:47:52+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3544
+2023-08-22 19:50:09+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3545
+2023-08-23 11:43:51+00:00,[User]_colejohnson66,{'[User]_colejohnson66'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3546
+2023-08-23 16:40:54+00:00,[User]_Trenly,"{'[User]_michaelmhoffman', '[User]_Trenly', '[User]_SimonCropp'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3547
+2023-08-24 03:50:35+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3549
+2023-08-24 17:33:03+00:00,[User]_R-Adrian,{'[User]_mooms06'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3550
+2023-08-25 09:46:45+00:00,[User]_Vicent8899,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3553
+2023-08-25 17:45:18+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3554
+2023-08-25 17:46:35+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3555
+2023-08-25 18:37:24+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3556
+2023-08-25 20:31:11+00:00,[User]_fblz,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3557
+2023-08-25 21:05:54+00:00,[User]_chausner,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3558
+2023-08-26 22:54:02+00:00,[User]_chausner,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3560
+2023-08-26 22:56:08+00:00,[User]_chausner,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3561
+2023-08-28 07:45:41+00:00,[User]_eccrk,"{'[User]_denelon', '[User]_Trenly', '[User]_eccrk'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3563
+2023-08-28 10:18:58+00:00,[User]_sba923,"{'[User]_Trenly', '[User]_sba923'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3564
+2023-08-29 18:39:09+00:00,[User]_denelon,{'[User]_R-Adrian'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3568
+2023-08-30 04:35:22+00:00,[User]_yao-msft,"{'[User]_Trenly', '[User]_ryfu-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3570
+2023-08-30 14:28:22+00:00,[User]_Trenly,"{'[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3571
+2023-08-31 18:57:55+00:00,[User]_maisondasilva,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3574
+2023-08-31 23:13:32+00:00,[User]_lychichem,"{'[User]_lychichem', '[User]_171252', '[User]_TriAttack238', '[User]_robross0606', '[User]_aliajboy', '[User]_eccrk', '[User]_freedomsky11', '[User]_denelon', '[User]_EdwinLeeford', '[User]_MagicAndre1981'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3575
+2023-08-31 23:47:45+00:00,[User]_msftrubengu,"{'[User]_JohnMcPMS', '[User]_msftrubengu'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3576
+2023-09-01 06:58:37+00:00,[User]_sirinath,"{'[User]_stephengillie', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3578
+2023-09-02 08:20:24+00:00,[User]_SpecterShell,"{'[User]_denelon', '[User]_SpecterShell', '[User]_ryfu-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3580
+2023-09-02 14:58:28+00:00,[User]_marticliment,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3581
+2023-09-03 14:13:21+00:00,[User]_zaphida,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3583
+2023-09-03 21:27:40+00:00,[User]_JohnMcPMS,"{'[User]_Madhusudhan-MSFT', '[User]_msftrubengu', '[User]_JohnMcPMS'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3585
+2023-09-04 14:24:07+00:00,[User]_mbledkowski,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3587
+2023-09-05 16:50:27+00:00,[User]_JohnMcPMS,"{'[User]_florelis', '[User]_JohnMcPMS'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3594
+2023-09-06 03:42:26+00:00,[User]_msftrubengu,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3595
+2023-09-06 18:13:17+00:00,[User]_ryfu-msft,"{'[User]_JohnMcPMS', '[User]_florelis', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3599
+2023-09-07 08:28:45+00:00,[User]_BastiDood,"{'[User]_Trenly', '[User]_WanderLanz', '[User]_BastiDood', '[User]_mdanish-kh', '[User]_denelon', '[User]_danielfdickinson'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3601
+2023-09-08 12:37:04+00:00,[User]_hbland-cjc,"{'[User]_denelon', '[User]_Hoangson2007', '[User]_hbland-cjc'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3606
+2023-09-08 18:25:41+00:00,[User]_MattHyman,{'[User]_MattHyman'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3607
+2023-09-10 06:00:48+00:00,[User]_yujiahan2018,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3608
+2023-09-11 09:01:35+00:00,[User]_hexsix,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3612
+2023-09-11 17:53:35+00:00,[User]_AmelBawa-msft,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3613
+2023-09-11 22:37:48+00:00,[User]_msftrubengu,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3614
+2023-09-11 23:29:57+00:00,[User]_JohnMcPMS,"{'[User]_JohnMcPMS', '[User]_Trenly', '[User]_msftrubengu', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3615
+2023-09-12 18:42:51+00:00,[User]_sharunkumar,"{'[User]_denelon', '[User]_Clockwork-Muse', '[User]_sharunkumar', '[User]_zeratax'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3616
+2023-09-13 04:19:56+00:00,[User]_ArchGuyWu,{'[User]_jantari'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3617
+2023-09-13 08:25:52+00:00,[User]_user1722,"{'[User]_denelon', '[User]_user1722'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3618
+2023-09-13 13:22:37+00:00,[User]_ArchGuyWu,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3619
+2023-09-13 19:15:11+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3620
+2023-09-13 20:49:20+00:00,[User]_Madhusudhan-MSFT,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3621
+2023-09-14 14:53:20+00:00,[User]_TaliaFlor,"{'[User]_mdanish-kh', '[User]_TaliaFlor'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3626
+2023-09-14 21:27:48+00:00,[User]_priyanshu92,"{'[User]_denelon', '[User]_msftrubengu', '[User]_priyanshu92'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3628
+2023-09-15 17:43:44+00:00,[User]_ryfu-msft,"{'[User]_JohnMcPMS', '[User]_yao-msft', '[User]_ryfu-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3631
+2023-09-18 08:20:13+00:00,[User]_serkonda7,"{'[User]_denelon', '[User]_serkonda7', '[User]_Trenly', '[User]_Masamune3210'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3636
+2023-09-18 17:36:28+00:00,[User]_JohnMcPMS,"{'[User]_JohnMcPMS', '[User]_msftrubengu', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3637
+2023-09-19 03:51:18+00:00,[User]_yao-msft,{'[User]_ryfu-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3638
+2023-09-19 18:24:26+00:00,[User]_msftrubengu,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3641
+2023-09-19 18:25:37+00:00,[User]_JohnMcPMS,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3642
+2023-09-20 18:57:41+00:00,[User]_klawrawkz,"{'[User]_denelon', '[User]_Masamune3210', '[User]_klawrawkz'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3644
+2023-09-21 00:18:18+00:00,[User]_yao-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3645
+2023-09-21 02:16:54+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3646
+2023-09-21 03:47:18+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3647
+2023-09-21 03:48:00+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3648
+2023-09-21 15:49:12+00:00,[User]_sba923,{'[User]_stephengillie'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3650
+2023-09-21 20:41:42+00:00,[User]_denelon,"{'[User]_topia', '[User]_martin-braun', '[User]_primeinc', '[User]_SlimGary', '[User]_datdeep', '[User]_mivsvit', '[User]_dan-mba', '[User]_Acrivec', '[User]_tryfresh', '[User]_TimKarsten', '[User]_shalinikhare27', '[User]_paulkram', '[User]_mkstephenson', '[User]_cvladan', '[User]_jasonswearingen', '[User]_daniatic', '[User]_tchtrong', '[User]_denelon', '[User]_vortex852456', '[User]_metayan', '[User]_jozephbrasil', '[User]_MichaelReiserSAP', '[User]_maddindeiss', '[User]_HenkPoley', '[User]_xd003', '[User]_phil-harmoniq', '[User]_b1t3z3r0', '[User]_dustojnikhummer', '[User]_Diogo-Rossi', '[User]_JustAnotherWinAdmin', '[User]_razvangoga', '[User]_ManjotB27', '[User]_x157', '[User]_RReverser', '[User]_sspears1', '[User]_StevieLamb', '[User]_aleksmelnyk', '[User]_Lusiiky', '[User]_vadimas00', '[User]_lucianstuparu', '[User]_antoniogott', '[User]_jmwielandt', '[User]_trparky', '[User]_thuannguy', '[User]_BrandonWanHuanSheng'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3652
+2023-09-22 07:02:36+00:00,[User]_sjwaight,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3654
+2023-09-22 09:15:04+00:00,[User]_sba923,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3655
+2023-09-22 14:57:40+00:00,[User]_LogicalError007,"{'[User]_oturpe', '[User]_mdanish-kh', '[User]_LogicalError007', '[User]_otto-liljalaakso-nt', '[User]_JiriZidek'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3656
+2023-09-22 18:50:42+00:00,[User]_JohnMcPMS,"{'[User]_msftrubengu', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3658
+2023-09-22 21:14:03+00:00,[User]_ryfu-msft,"{'[User]_JohnMcPMS', '[User]_yao-msft', '[User]_ryfu-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3659
+2023-09-24 05:11:23+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3661
+2023-09-24 15:56:14+00:00,[User]_sba923,"{'[User]_mdanish-kh', '[User]_sba923', '[User]_cjwijtmans'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3664
+2023-09-25 00:19:26+00:00,[User]_JohnMcPMS,"{'[User]_JohnMcPMS', '[User]_Trenly', '[User]_msftrubengu'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3666
+2023-09-25 01:13:40+00:00,[User]_MarvinNorway,"{'[User]_gibbed', '[User]_moritzluedtke', '[User]_MozPri', '[User]_bdgit', '[User]_Pootleris', '[User]_MarvinNorway', '[User]_juniortarcisio', '[User]_drankinatty', '[User]_denelon', '[User]_chvogel', '[User]_anonymous-explorer', '[User]_mediser', '[User]_HyP3r-', '[User]_saggitar', '[User]_joedf', '[User]_eduarddejong', '[User]_ondalin', '[User]_Girofox', '[User]_ktrance', '[User]_sba923', '[User]_raphaelcardoso', '[User]_rerigam', '[User]_son0nline', '[User]_jyoberle', '[User]_PartedLine', '[User]_nimairsh', '[User]_ViPeR5000', '[User]_SanderBouwhuis', '[User]_MagicAndre1981', '[User]_chylex'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3667
+2023-09-25 05:43:31+00:00,[User]_hamnarauf,"{'[User]_denelon', '[User]_mdanish-kh', '[User]_hamnarauf'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3668
+2023-09-25 17:19:19+00:00,[User]_secana,"{'[User]_markbara-git', '[User]_gpshonik', '[User]_AlfaJackal', '[User]_guilhermejcgois', '[User]_xantilon', '[User]_secana', '[User]_MagicAndre1981', '[User]_StephanHagge', '[User]_HayashiNiizuki'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3669
+2023-09-26 04:31:39+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3670
+2023-09-26 04:49:17+00:00,[User]_drshtmstry,"{'[User]_denelon', '[User]_Trenly', '[User]_drshtmstry'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3671
+2023-09-26 11:48:54+00:00,[User]_sjoller,"{'[User]_dlkj', '[User]_fossbrandon', '[User]_Trenly', '[User]_sjoller'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3672
+2023-09-26 18:00:00+00:00,[User]_Smith8154,"{'[User]_denelon', '[User]_Smith8154', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3674
+2023-09-26 18:31:09+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3675
+2023-09-26 20:45:43+00:00,[User]_denelon,{'[User]_rxlecky'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3676
+2023-09-26 21:44:58+00:00,[User]_Trenly,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3677
+2023-09-26 22:26:21+00:00,[User]_Trenly,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3678
+2023-09-26 22:28:16+00:00,[User]_Trenly,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3679
+2023-09-26 22:48:48+00:00,[User]_JohnMcPMS,{'[User]_ranm-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3680
+2023-09-27 02:02:22+00:00,[User]_JohnMcPMS,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3681
+2023-09-27 02:04:09+00:00,[User]_JohnMcPMS,"{'[User]_JohnMcPMS', '[User]_ranm-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3682
+2023-09-27 02:04:56+00:00,[User]_JohnMcPMS,{'[User]_ranm-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3683
+2023-09-27 02:05:33+00:00,[User]_JohnMcPMS,{'[User]_ranm-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3684
+2023-09-27 02:42:08+00:00,[User]_Trenly,"{'[User]_JohnMcPMS', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3685
+2023-09-27 02:49:45+00:00,[User]_JohnMcPMS,"{'[User]_msftrubengu', '[User]_ranm-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3686
+2023-09-27 07:32:20+00:00,[User]_Lusiiky,"{'[User]_13xforever', '[User]_ilvon', '[User]_jbhowmick', '[User]_Marc2p', '[User]_byjrack', '[User]_Paralyzr', '[User]_amsreinhardt', '[User]_TimKarsten', '[User]_smikwily', '[User]_TheCleric', '[User]_jmaraujouy', '[User]_Matro81', '[User]_clong365', '[User]_huyz', '[User]_denelon', '[User]_M7-Saffar', '[User]_20iahazban', '[User]_MichaelReiserSAP', '[User]_leniel', '[User]_LightBringer81', '[User]_st0neh', '[User]_veamio', '[User]_maurom', '[User]_ulu', '[User]_danielkornuta', '[User]_sba923', '[User]_VonChair', '[User]_Lusiiky', '[User]_bavulapati', '[User]_gokacinlar', '[User]_rmungena', '[User]_4integration', '[User]_TrQ-Hoan', '[User]_trparky', '[User]_kdpuvvadi', '[User]_KL7000F', '[User]_Trenly', '[User]_theozelot', '[User]_MadSpindel'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3687
+2023-09-27 12:19:36+00:00,[User]_nikiluk,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3689
+2023-09-27 12:37:19+00:00,[User]_PCAssistSoftware,"{'[User]_Wallby', '[User]_PCAssistSoftware', '[User]_saqib-s'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3690
+2023-09-27 16:27:36+00:00,[User]_RDMacLachlan,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3693
+2023-09-27 17:06:36+00:00,[User]_ktos,"{'[User]_ktos', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3695
+2023-09-27 17:58:42+00:00,[User]_mdanish-kh,"{'[User]_mdanish-kh', '[User]_VilmaH', '[User]_o-l-a-v', '[User]_Trenly', '[User]_MagicAndre1981'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3696
+2023-09-28 06:31:47+00:00,[User]_xd003,"{'[User]_denelon', '[User]_stephengillie'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3698
+2023-09-28 13:51:13+00:00,[User]_wmundev,"{'[User]_Trenly', '[User]_wmundev'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3699
+2023-09-28 18:31:20+00:00,[User]_JohnMcPMS,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3700
+2023-09-28 22:24:34+00:00,[User]_tryfresh,"{'[User]_denelon', '[User]_user4302', '[User]_tryfresh'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3701
+2023-09-29 00:28:52+00:00,[User]_denelon,{'[User]_jantari'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3702
+2023-09-29 04:33:59+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3703
+2023-09-29 05:00:00+00:00,[User]_flanakin,"{'[User]_denelon', '[User]_mdanish-kh', '[User]_Lau27182'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3704
+2023-09-29 06:12:34+00:00,[User]_nickrandolph,"{'[User]_denelon', '[User]_myty'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3705
+2023-09-29 07:03:29+00:00,[User]_HtHNightwolf,{'[User]_HtHNightwolf'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3706
+2023-09-29 08:11:34+00:00,[User]_Ech0klang,{'[User]_Ech0klang'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3707
+2023-09-29 18:26:55+00:00,[User]_JohnMcPMS,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3709
+2023-09-29 18:27:48+00:00,[User]_JohnMcPMS,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3710
+2023-09-29 19:08:19+00:00,[User]_yao-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3711
+2023-09-29 20:30:14+00:00,[User]_JohnMcPMS,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3712
+2023-09-29 20:31:03+00:00,[User]_JohnMcPMS,{'[User]_ryfu-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3713
+2023-09-29 22:45:57+00:00,[User]_mpeckatwork,"{'[User]_mpeckatwork', '[User]_Trenly', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3714
+2023-09-30 06:51:07+00:00,[User]_hez2010,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3716
+2023-10-02 04:01:48+00:00,[User]_avlubimov,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3721
+2023-10-02 07:59:08+00:00,[User]_johanvanmol,"{'[User]_denelon', '[User]_kingsley-3z3nw4k4', '[User]_Yiniau', '[User]_johanvanmol'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3722
+2023-10-02 20:33:05+00:00,[User]_BalajiSubramaniam,"{'[User]_denelon', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3724
+2023-10-02 21:57:45+00:00,[User]_yao-msft,"{'[User]_florelis', '[User]_JohnMcPMS'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3725
+2023-10-03 07:12:08+00:00,[User]_jmwoods301,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3726
+2023-10-03 13:55:47+00:00,[User]_vedantmgoyal2009,"{'[User]_stephengillie', '[User]_Trenly', '[User]_vedantmgoyal2009'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3727
+2023-10-03 15:18:47+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3728
+2023-10-03 21:55:44+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3729
+2023-10-04 22:53:38+00:00,[User]_msftrubengu,{'[User]_ryfu-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3730
+2023-10-04 23:01:44+00:00,[User]_stephengillie,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3838
+2023-10-05 22:37:42+00:00,[User]_Masamune3210,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3732
+2023-10-06 11:41:29+00:00,[User]_CanePlayz,"{'[User]_denelon', '[User]_Trenly', '[User]_CanePlayz'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3734
+2023-10-06 11:56:49+00:00,[User]_TheGhostOfInky,"{'[User]_denelon', '[User]_BrandonWanHuanSheng'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3735
+2023-10-06 17:19:35+00:00,[User]_geetmankar,"{'[User]_denelon', '[User]_trebuh', '[User]_geetmankar', '[User]_drshtmstry'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3737
+2023-10-06 21:02:43+00:00,[User]_JohnMcPMS,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3738
+2023-10-09 11:43:21+00:00,[User]_Daagvandermeer,"{'[User]_Daagvandermeer', '[User]_MagicAndre1981'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3741
+2023-10-09 17:52:32+00:00,[User]_sba923,"{'[User]_denelon', '[User]_Houseton', '[User]_sba923'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3742
+2023-10-10 08:26:22+00:00,[User]_nickjisc,"{'[User]_RReverser', '[User]_Jacob-JA-Shanks', '[User]_nickjisc', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3744
+2023-10-10 12:06:30+00:00,[User]_byjrack,{'[User]_byjrack'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3745
+2023-10-10 18:27:17+00:00,[User]_denelon,"{'[User]_Kaidja', '[User]_Chris-Sanford', '[User]_dzaggiel', '[User]_ryfu-msft', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3746
+2023-10-10 18:59:17+00:00,[User]_msftrubengu,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3747
+2023-10-10 19:02:25+00:00,[User]_Speed7811,"{'[User]_denelon', '[User]_mdanish-kh', '[User]_Trenly', '[User]_Speed7811'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3748
+2023-10-10 19:16:49+00:00,[User]_Speed7811,"{'[User]_MichalStrehovsky', '[User]_blaubaer', '[User]_denelon', '[User]_Trenly', '[User]_Speed7811'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3749
+2023-10-10 23:33:50+00:00,[User]_fossbrandon,"{'[User]_denelon', '[User]_SuperBartimus'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3750
+2023-10-11 11:39:41+00:00,[User]_CanePlayz,"{'[User]_Trenly', '[User]_CanePlayz'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3754
+2023-10-11 17:45:54+00:00,[User]_maisondasilva,"{'[User]_denelon', '[User]_maisondasilva'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3755
+2023-10-11 18:44:10+00:00,[User]_Speed7811,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3756
+2023-10-11 20:03:47+00:00,[User]_hackean-msft,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3757
+2023-10-12 04:39:40+00:00,[User]_JohnMcPMS,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3759
+2023-10-12 21:58:06+00:00,[User]_JohnMcPMS,"{'[User]_dmgonch', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3763
+2023-10-13 17:39:32+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3767
+2023-10-13 17:41:17+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3768
+2023-10-13 18:27:30+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3769
+2023-10-16 06:52:11+00:00,[User]_Sir2B,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3770
+2023-10-16 07:54:36+00:00,[User]_sba923,"{'[User]_JohnMcPMS', '[User]_sba923', '[User]_ydroneaud'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3771
+2023-10-17 14:56:45+00:00,[User]_tianlongJ,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3776
+2023-10-17 15:37:01+00:00,[User]_tianlongJ,"{'[User]_denelon', '[User]_tianlongJ'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3778
+2023-10-17 23:46:08+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3779
+2023-10-18 00:51:59+00:00,[User]_WillPittenger,"{'[User]_denelon', '[User]_Trenly', '[User]_WillPittenger'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3780
+2023-10-18 02:48:30+00:00,[User]_tianlongJ,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3781
+2023-10-18 13:58:54+00:00,[User]_mdanish-kh,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3783
+2023-10-18 15:37:35+00:00,[User]_MrHinsh,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3785
+2023-10-18 21:18:35+00:00,[User]_kkamegawa,{'[User]_kkamegawa'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3786
+2023-10-19 00:09:46+00:00,[User]_florelis,"{'[User]_JohnMcPMS', '[User]_florelis'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3787
+2023-10-19 00:20:42+00:00,[User]_mjr4077au,"{'[User]_denelon', '[User]_mjr4077au'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3788
+2023-10-19 01:28:44+00:00,[User]_JohnMcPMS,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3789
+2023-10-19 03:37:42+00:00,[User]_JohnMcPMS,"{'[User]_JohnMcPMS', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3790
+2023-10-20 04:19:15+00:00,[User]_yao-msft,{'[User]_ryfu-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3794
+2023-10-20 08:56:27+00:00,[User]_sebma,{'[User]_Bevin7'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3795
+2023-10-20 16:14:21+00:00,[User]_nikyusof,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3796
+2023-10-20 18:51:47+00:00,[User]_PhilipRieck,"{'[User]_PhilipRieck', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3797
+2023-10-21 08:55:55+00:00,[User]_sba923,"{'[User]_denelon', '[User]_mdanish-kh', '[User]_sba923'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3798
+2023-10-21 09:40:11+00:00,[User]_avysk,"{'[User]_denelon', '[User]_avysk'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3799
+2023-10-21 09:43:28+00:00,[User]_tianlongJ,"{'[User]_denelon', '[User]_tianlongJ'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3800
+2023-10-21 11:32:56+00:00,[User]_drweb86,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3801
+2023-10-21 15:06:02+00:00,[User]_aaronliu0130,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3802
+2023-10-22 00:31:22+00:00,[User]_CoolPlayLin,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3803
+2023-10-23 03:13:58+00:00,[User]_skanda890,"{'[User]_skanda890', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3804
+2023-10-23 10:01:04+00:00,[User]_RygelXVI,"{'[User]_Neme12', '[User]_Logue-0', '[User]_mdanish-kh', '[User]_jaimecbernardo', '[User]_RygelXVI', '[User]_eabase', '[User]_AmirTerani', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3805
+2023-10-23 13:24:41+00:00,[User]_Dragon1573,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3837
+2023-10-23 19:05:32+00:00,[User]_github-account1111,"{'[User]_denelon', '[User]_github-account1111', '[User]_Trenly', '[User]_JohnMcPMS'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3806
+2023-10-25 05:32:52+00:00,[User]_timconner,"{'[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3809
+2023-10-26 16:56:29+00:00,[User]_florelis,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3814
+2023-10-26 19:50:15+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3815
+2023-10-27 00:50:09+00:00,[User]_msftrubengu,"{'[User]_JohnMcPMS', '[User]_msftrubengu'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3816
+2023-10-27 07:30:14+00:00,[User]_robinmalik,{'[User]_plyagent00'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3818
+2023-10-27 14:25:07+00:00,[User]_jdhitsolutions,"{'[User]_denelon', '[User]_jdhitsolutions', '[User]_msftrubengu'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3819
+2023-10-27 14:25:13+00:00,[User]_zbalkan,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3820
+2023-10-27 16:06:25+00:00,[User]_jdhitsolutions,{'[User]_jdhitsolutions'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3821
+2023-10-27 16:14:44+00:00,[User]_jdhitsolutions,"{'[User]_denelon', '[User]_jdhitsolutions', '[User]_o-l-a-v', '[User]_jantari'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3822
+2023-10-27 16:45:17+00:00,[User]_jdhitsolutions,"{'[User]_jdhitsolutions', '[User]_stephengillie'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3823
+2023-10-27 18:07:55+00:00,[User]_danieljurek,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3825
+2023-10-28 05:02:10+00:00,[User]_NVT223,"{'[User]_NVT223', '[User]_Masamune3210', '[User]_eabase', '[User]_huyz', '[User]_denelon', '[User]_Trenly', '[User]_verrierRoberts'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3826
+2023-10-28 18:04:56+00:00,[User]_eabase,"{'[User]_denelon', '[User]_eabase'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3829
+2023-10-28 19:52:50+00:00,[User]_tokKurumi,{'[User]_tokKurumi'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3830
+2023-10-30 16:59:25+00:00,[User]_lackovic,"{'[User]_miguno', '[User]_Eta-Beta', '[User]_wtfcxt', '[User]_stephengillie', '[User]_makedir', '[User]_jasonswearingen', '[User]_HeinziAT', '[User]_dschu012', '[User]_snsgnq', '[User]_TheMadTexan42', '[User]_ElectricWiz', '[User]_lackovic', '[User]_reinux', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3832
+2023-11-01 04:32:19+00:00,[User]_ArchGuyWu,"{'[User]_denelon', '[User]_Trenly', '[User]_ArchGuyWu'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3835
+2023-11-01 13:04:48+00:00,[User]_EDM115,{'[User]_EDM115'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3836
+2023-11-02 16:07:28+00:00,[User]_BrandonWanHuanSheng,"{'[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3844
+2023-11-02 17:33:43+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3847
+2023-11-03 11:29:29+00:00,[User]_CoolPlayLin,{'[User]_CoolPlayLin'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3848
+2023-11-03 16:16:47+00:00,[User]_Postuleit,"{'[User]_denelon', '[User]_mherrmann'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3849
+2023-11-04 00:34:36+00:00,[User]_joehays,{'[User]_OranguTech'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3850
+2023-11-04 08:53:35+00:00,[User]_kdpuvvadi,{'[User]_kdpuvvadi'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3852
+2023-11-04 12:59:38+00:00,[User]_DanielYang59,"{'[User]_denelon', '[User]_DanielYang59'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3853
+2023-11-04 13:12:42+00:00,[User]_DanielYang59,"{'[User]_DanielYang59', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3854
+2023-11-04 13:36:43+00:00,[User]_DanielYang59,"{'[User]_DanielYang59', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3855
+2023-11-05 18:02:58+00:00,[User]_mdanish-kh,"{'[User]_mdanish-kh', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3856
+2023-11-07 04:59:47+00:00,[User]_pleabargain,"{'[User]_denelon', '[User]_pleabargain'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3861
+2023-11-08 00:44:45+00:00,[User]_shalinikhare27,"{'[User]_denelon', '[User]_stephengillie', '[User]_mdanish-kh', '[User]_shalinikhare27'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3862
+2023-11-08 03:12:43+00:00,[User]_JohnMcPMS,"{'[User]_florelis', '[User]_msftrubengu'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3863
+2023-11-08 17:25:48+00:00,[User]_RobbyCBennett,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3864
+2023-11-08 17:43:46+00:00,[User]_JohnMcPMS,"{'[User]_msftrubengu', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3865
+2023-11-08 21:19:09+00:00,[User]_mdanish-kh,"{'[User]_mdanish-kh', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3866
+2023-11-08 23:04:29+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3867
+2023-11-09 03:24:01+00:00,[User]_JohnMcPMS,"{'[User]_florelis', '[User]_JohnMcPMS', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3868
+2023-11-09 09:23:32+00:00,[User]_avysk,"{'[User]_denelon', '[User]_avysk', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3870
+2023-11-09 09:58:52+00:00,[User]_MagicAndre1981,{'[User]_MagicAndre1981'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3871
+2023-11-09 16:25:12+00:00,[User]_denelon,{'[User]_arthuraraujo-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3872
+2023-11-09 18:12:14+00:00,[User]_JohnMcPMS,{'[User]_AmelBawa-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3873
+2023-11-10 03:57:27+00:00,[User]_msftrubengu,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3874
+2023-11-10 21:08:09+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3875
+2023-11-10 23:31:55+00:00,[User]_Madhusudhan-MSFT,"{'[User]_denelon', '[User]_yao-msft', '[User]_ryfu-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3876
+2023-11-11 02:29:59+00:00,[User]_billgan1024,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3878
+2023-11-11 16:14:04+00:00,[User]_marekr,"{'[User]_Dragon1573', '[User]_marekr', '[User]_Masamune3210', '[User]_cmknox', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3879
+2023-11-13 00:01:29+00:00,[User]_Paciupa,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3881
+2023-11-13 12:51:23+00:00,[User]_MrHinsh,"{'[User]_denelon', '[User]_Trenly', '[User]_MrHinsh'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3882
+2023-11-13 20:59:21+00:00,[User]_Trenly,"{'[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3884
+2023-11-14 07:59:10+00:00,[User]_PShipstone,"{'[User]_denelon', '[User]_PShipstone'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3887
+2023-11-14 13:26:13+00:00,[User]_BurningPho3nix,"{'[User]_danlor-dev', '[User]_willyamcts', '[User]_vedantmgoyal2009'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3889
+2023-11-14 23:58:50+00:00,[User]_florelis,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3890
+2023-11-15 14:59:40+00:00,[User]_SourcierDeVerite,"{'[User]_denelon', '[User]_SourcierDeVerite'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3893
+2023-11-15 15:12:04+00:00,[User]_luimen6,"{'[User]_Turochamp', '[User]_pplmx', '[User]_fcatak', '[User]_webwude', '[User]_luimen6', '[User]_denelon', '[User]_Fingadumbledore', '[User]_ElmoWOB'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3894
+2023-11-15 17:04:07+00:00,[User]_timbrigham-oc,{'[User]_mdanish-kh'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3895
+2023-11-15 17:27:44+00:00,[User]_jsoref,"{'[User]_jsoref', '[User]_florelis', '[User]_JohnMcPMS', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3896
+2023-11-15 22:11:24+00:00,[User]_brmcmill,"{'[User]_florelis', '[User]_brmcmill', '[User]_mdanish-kh'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3897
+2023-11-15 23:02:32+00:00,[User]_piotrminkina,"{'[User]_golfalot', '[User]_piotrminkina', '[User]_denelon', '[User]_Trenly', '[User]_gotounix'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3898
+2023-11-16 09:47:29+00:00,[User]_WizMe-M,"{'[User]_denelon', '[User]_stephengillie', '[User]_WizMe-M'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3900
+2023-11-16 16:08:59+00:00,[User]_Rotmaster,"{'[User]_denelon', '[User]_tiagofassoni', '[User]_Rotmaster'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3902
+2023-11-17 11:55:20+00:00,[User]_soredake,{'[User]_soredake'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3903
+2023-11-17 19:05:57+00:00,[User]_egerlach,"{'[User]_denelon', '[User]_egerlach'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3904
+2023-11-17 19:44:29+00:00,[User]_JohnMcPMS,{'[User]_florelis'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3905
+2023-11-18 23:46:42+00:00,[User]_tygore587,"{'[User]_Masamune3210', '[User]_tygore587'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3907
+2023-11-19 02:35:18+00:00,[User]_stephenhilton,{'[User]_mdanish-kh'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3908
+2023-11-19 06:02:58+00:00,[User]_KK-Designs,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3909
+2023-11-19 12:40:14+00:00,[User]_anthonyvdotbe,"{'[User]_denelon', '[User]_anthonyvdotbe'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3910
+2023-11-20 08:06:12+00:00,[User]_FaserF,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3911
+2023-11-20 12:02:29+00:00,[User]_mundodisco8,"{'[User]_denelon', '[User]_martinlb', '[User]_mundodisco8', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3913
+2023-11-20 17:40:06+00:00,[User]_flowcoder1,"{'[User]_denelon', '[User]_flowcoder1'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3914
+2023-11-20 21:12:14+00:00,[User]_DwifteJB,{'[User]_DwifteJB'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3915
+2023-11-21 16:00:41+00:00,[User]_denelon,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3916
+2023-11-21 18:20:06+00:00,[User]_SobreroD,"{'[User]_denelon', '[User]_mdanish-kh', '[User]_SobreroD'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3917
+2023-11-21 23:09:18+00:00,[User]_dirrgang,"{'[User]_jessey-git', '[User]_yooakim', '[User]_sinsukehlab', '[User]_giuseppebin', '[User]_rumplin', '[User]_gadzhikuliev', '[User]_mdanish-kh', '[User]_dirrgang', '[User]_burhankoylu', '[User]_chriss-bauer', '[User]_abionescu', '[User]_elisimpson', '[User]_Auto72', '[User]_vayinapurapu', '[User]_Chasapple4', '[User]_hueldoeu'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3918
+2023-11-21 23:17:08+00:00,[User]_stephengillie,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3919
+2023-11-22 06:01:55+00:00,[User]_Chasapple4,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3920
+2023-11-23 10:47:38+00:00,[User]_mywave82,"{'[User]_denelon', '[User]_mywave82', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3922
+2023-11-23 11:48:23+00:00,[User]_sebma,"{'[User]_sebma', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3923
+2023-11-25 10:58:02+00:00,[User]_sprono,"{'[User]_MLSci', '[User]_mdanish-kh', '[User]_huyz', '[User]_sprono'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3926
+2023-11-26 13:24:26+00:00,[User]_KaiHuaDou,"{'[User]_denelon', '[User]_KaiHuaDou', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3927
+2023-11-26 14:30:06+00:00,[User]_Trenly,{'[User]_stephengillie'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3928
+2023-11-28 05:09:40+00:00,[User]_Mm11aa,{'[User]_Mm11aa'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3929
+2023-11-28 14:51:13+00:00,[User]_FFlart,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3930
+2023-11-28 19:44:29+00:00,[User]_Vuizur,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3931
+2023-11-29 05:14:06+00:00,[User]_GustavoAlmeidaAboud,"{'[User]_denelon', '[User]_mdanish-kh'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3934
+2023-11-29 07:48:12+00:00,[User]_mjr4077au,"{'[User]_Chris-Sanford', '[User]_mjr4077au', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3935
+2023-11-29 17:31:18+00:00,[User]_ijgnaig,"{'[User]_AlexBychek', '[User]_ABRIO-PR'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3936
+2023-11-30 04:20:21+00:00,[User]_mjr4077au,"{'[User]_denelon', '[User]_mjr4077au', '[User]_mdanish-kh'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3938
+2023-11-30 17:05:53+00:00,[User]_denelon,"{'[User]_denelon', '[User]_mdanish-kh', '[User]_Trenly', '[User]_JohnMcPMS'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3940
+2023-12-01 07:19:53+00:00,[User]_hmorandell,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3941
+2023-12-01 16:26:43+00:00,[User]_Trenly,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3942
+2023-12-03 16:17:02+00:00,[User]_BrandonWanHuanSheng,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3944
+2023-12-03 23:20:17+00:00,[User]_bjoern-photo,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3946
+2023-12-04 22:34:11+00:00,[User]_alexyo02,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3950
+2023-12-05 00:01:53+00:00,[User]_msftrubengu,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3951
+2023-12-06 00:51:40+00:00,[User]_ryfu-msft,"{'[User]_Trenly', '[User]_msftrubengu', '[User]_ryfu-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3954
+2023-12-07 04:07:59+00:00,[User]_JohnMcPMS,"{'[User]_florelis', '[User]_Trenly', '[User]_JohnMcPMS'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3955
+2023-12-07 06:04:19+00:00,[User]_JohnMcPMS,"{'[User]_JohnMcPMS', '[User]_Trenly', '[User]_florelis', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3956
+2023-12-07 07:07:10+00:00,[User]_bluehenve,{'[User]_stephengillie'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3957
+2023-12-08 15:18:43+00:00,[User]_Trenly,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3959
+2023-12-08 15:49:18+00:00,[User]_eabase,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3961
+2023-12-08 22:42:54+00:00,[User]_jackra1n,"{'[User]_denelon', '[User]_nathanpovo', '[User]_jackra1n'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3962
+2023-12-08 23:23:19+00:00,[User]_BlockyTheDev,"{'[User]_amnweb', '[User]_MichelMichels', '[User]_PinkSerenity', '[User]_datdeep', '[User]_trparky', '[User]_denelon', '[User]_grubeninspekteur', '[User]_BlockyTheDev'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3963
+2023-12-10 23:16:30+00:00,[User]_dgulik,"{'[User]_denelon', '[User]_dgulik', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3965
+2023-12-11 09:18:34+00:00,[User]_samuelspiza,{'[User]_jantari'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3966
+2023-12-11 14:33:34+00:00,[User]_me-and,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3967
+2023-12-12 05:27:28+00:00,[User]_yao-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3968
+2023-12-12 11:31:42+00:00,[User]_jantari,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3969
+2023-12-12 16:48:49+00:00,[User]_fidothe,"{'[User]_fidothe', '[User]_alcomposer', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3971
+2023-12-13 19:10:17+00:00,[User]_denelon,{'[User]_denelon'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3972
+2023-12-13 23:42:27+00:00,[User]_yao-msft,"{'[User]_JohnMcPMS', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3975
+2023-12-14 10:42:51+00:00,[User]_giovanni-bozzano,"{'[User]_jbutcher13930', '[User]_stephengillie', '[User]_mansellan', '[User]_Masamune3210', '[User]_giovanni-bozzano', '[User]_KevinLaMS', '[User]_Trenly', '[User]_Fabi'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3976
+2023-12-14 23:35:52+00:00,[User]_florelis,"{'[User]_florelis', '[User]_yao-msft'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3978
+2023-12-15 00:38:23+00:00,[User]_florelis,{'[User]_yao-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3979
+2023-12-15 01:05:34+00:00,[User]_yao-msft,{'[User]_ryfu-msft'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/3980
+2023-12-15 22:04:36+00:00,[User]_RDMacLachlan,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3982
+2023-12-15 22:10:44+00:00,[User]_luanmdlima,{'[User]_BrandonWanHuanSheng'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3983
+2023-12-16 03:43:03+00:00,[User]_webertmartinsfreitas,"{'[User]_denelon', '[User]_webertmartinsfreitas'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3984
+2023-12-16 08:30:46+00:00,[User]_BrandonWanHuanSheng,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3985
+2023-12-16 12:12:12+00:00,[User]_brkerez,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3986
+2023-12-17 03:11:56+00:00,[User]_CreeperKong,"{'[User]_CreeperKong', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3987
+2023-12-17 17:35:43+00:00,[User]_penalvch,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3988
+2023-12-18 02:15:08+00:00,[User]_BrandonWanHuanSheng,{'[User]_mdanish-kh'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3989
+2023-12-18 12:03:23+00:00,[User]_aetonsi,"{'[User]_aetonsi', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3991
+2023-12-19 07:26:15+00:00,[User]_slycordinator,"{'[User]_denelon', '[User]_jhribal', '[User]_slycordinator'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3994
+2023-12-19 18:17:21+00:00,[User]_sperry,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3996
+2023-12-19 21:56:00+00:00,[User]_Trenly,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/3997
+2023-12-20 02:30:38+00:00,[User]_yao-msft,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/4000
+2023-12-20 05:17:39+00:00,[User]_yao-msft,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/pull/4001
+2023-12-20 19:55:27+00:00,[User]_o-l-a-v,{'[User]_mdanish-kh'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4003
+2023-12-21 14:02:28+00:00,[User]_KillshotELOx,"{'[User]_denelon', '[User]_KillshotELOx'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4004
+2023-12-22 09:25:11+00:00,[User]_janegilring,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4005
+2023-12-22 12:47:13+00:00,[User]_marco-eckstein,{'[User]_Trenly'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4006
+2023-12-26 06:41:38+00:00,[User]_pleabargain,"{'[User]_pleabargain', '[User]_mdanish-kh', '[User]_Ashcora', '[User]_soredake', '[User]_denelon'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4007
+2023-12-26 11:00:58+00:00,[User]_soredake,"{'[User]_lesleyrs', '[User]_stephengillie', '[User]_sohang3112', '[User]_soredake', '[User]_denelon', '[User]_Trenly', '[User]_HeitorAugustoLN'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4008
+2023-12-26 11:54:34+00:00,[User]_soredake,"{'[User]_soredake', '[User]_Trenly'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4009
+2023-12-26 15:26:17+00:00,[User]_leonardo-gooten,{'[User]_stephengillie'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4010
+2023-12-27 04:11:28+00:00,[User]_marco-eckstein,set(),microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4011
+2023-12-27 14:26:45+00:00,[User]_MarkSFrancis,"{'[User]_MarkSFrancis', '[User]_mdanish-kh'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4013
+2023-12-27 19:55:14+00:00,[User]_DavidAUM23,{'[User]_DavidAUM23'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4015
+2023-12-27 20:24:44+00:00,[User]_zed1-del,"{'[User]_denelon', '[User]_Trenly', '[User]_MagicAndre1981'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4016
+2023-12-28 22:12:01+00:00,[User]_useforgh,{'[User]_useforgh'},microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4017
+2023-12-31 15:01:25+00:00,[User]_Pixel556,"{'[User]_denelon', '[User]_Trenly', '[User]_Pixel556'}",microsoft/winget-cli,2023,https://github.com/microsoft/winget-cli/issues/4018
+2024-01-03 13:48:52+00:00,[User]_jtnord,"{'[User]_denelon', '[User]_jtnord'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4021
+2024-01-03 15:00:13+00:00,[User]_norsemangrey,"{'[User]_denelon', '[User]_norsemangrey', '[User]_RalfReddings'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4022
+2024-01-03 16:18:49+00:00,[User]_marco-eckstein,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4023
+2024-01-03 19:14:09+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4024
+2024-01-03 20:36:22+00:00,[User]_alanlivio,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4025
+2024-01-04 05:29:45+00:00,[User]_github-account1111,"{'[User]_denelon', '[User]_github-account1111', '[User]_Trenly', '[User]_Masamune3210'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4026
+2024-01-04 09:54:47+00:00,[User]_Lina2023328,"{'[User]_mdanish-kh', '[User]_Lina2023328'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4027
+2024-01-04 12:37:48+00:00,[User]_mdanish-kh,"{'[User]_denelon', '[User]_mdanish-kh'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4028
+2024-01-05 00:18:16+00:00,[User]_yao-msft,{'[User]_msftrubengu'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4030
+2024-01-05 01:14:45+00:00,[User]_Alecerzea,{'[User]_Trenly'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4031
+2024-01-06 13:50:18+00:00,[User]_jtnord,"{'[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4036
+2024-01-06 21:02:52+00:00,[User]_gggltt,{'[User]_stephengillie'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4037
+2024-01-07 13:31:52+00:00,[User]_bkosowski,{'[User]_stephengillie'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4038
+2024-01-08 17:26:03+00:00,[User]_msftrubengu,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4040
+2024-01-08 19:29:45+00:00,[User]_craigloewen-msft,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4042
+2024-01-08 19:33:08+00:00,[User]_soredake,{'[User]_mdanish-kh'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4043
+2024-01-08 21:08:21+00:00,[User]_soredake,"{'[User]_curioussabhi', '[User]_AzureArmageddon'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4044
+2024-01-09 10:48:21+00:00,[User]_jantari,"{'[User]_denelon', '[User]_jantari'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4046
+2024-01-09 17:37:01+00:00,[User]_AmelBawa-msft,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4047
+2024-01-09 18:04:33+00:00,[User]_survivor303,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4048
+2024-01-09 21:30:01+00:00,[User]_Horrgakx,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4049
+2024-01-10 15:26:15+00:00,[User]_mdanish-kh,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4054
+2024-01-10 17:18:09+00:00,[User]_soredake,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4055
+2024-01-10 18:57:51+00:00,[User]_parasit,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4056
+2024-01-10 23:52:24+00:00,[User]_shakersMSFT,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4058
+2024-01-11 11:34:16+00:00,[User]_Airuop,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4060
+2024-01-11 17:35:25+00:00,[User]_mdanish-kh,{'[User]_mdanish-kh'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4061
+2024-01-11 17:49:05+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4062
+2024-01-11 19:36:58+00:00,[User]_florelis,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4063
+2024-01-12 00:10:06+00:00,[User]_Smith8154,"{'[User]_denelon', '[User]_Smith8154'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4064
+2024-01-13 02:30:31+00:00,[User]_JoelLarson,{'[User]_JoelLarson'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4066
+2024-01-13 06:31:00+00:00,[User]_wukefe,"{'[User]_denelon', '[User]_wukefe'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4099
+2024-01-14 15:29:47+00:00,[User]_lajawi,"{'[User]_denelon', '[User]_stephengillie', '[User]_lajawi'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4067
+2024-01-15 08:08:13+00:00,[User]_SpecterShell,"{'[User]_mdanish-kh', '[User]_SpecterShell'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4068
+2024-01-16 05:50:35+00:00,[User]_hsyedmehrab,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4069
+2024-01-16 17:53:15+00:00,[User]_soredake,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4070
+2024-01-17 10:20:52+00:00,[User]_MrHinsh,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4072
+2024-01-17 13:10:10+00:00,[User]_tats-u,"{'[User]_denelon', '[User]_Trenly', '[User]_tats-u'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4074
+2024-01-17 15:45:05+00:00,[User]_mdanish-kh,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4075
+2024-01-17 18:34:46+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4077
+2024-01-17 18:37:42+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4079
+2024-01-17 18:40:39+00:00,[User]_denelon,{'[User]_fazedordecodigo'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4080
+2024-01-19 12:26:04+00:00,[User]_agowa,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4084
+2024-01-19 14:07:24+00:00,[User]_agowa,"{'[User]_denelon', '[User]_stephengillie', '[User]_agowa'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4085
+2024-01-19 14:29:20+00:00,[User]_BenHut1,"{'[User]_denelon', '[User]_BenHut1'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4086
+2024-01-20 03:03:12+00:00,[User]_aglairvta,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4088
+2024-01-20 19:55:40+00:00,[User]_LawrenceHwang,"{'[User]_LawrenceHwang', '[User]_JohnMcPMS'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4091
+2024-01-22 20:03:22+00:00,[User]_denelon,"{'[User]_denelon', '[User]_SamHasler'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4092
+2024-01-22 20:05:07+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4093
+2024-01-24 02:37:57+00:00,[User]_Gaoyifei1011,"{'[User]_denelon', '[User]_marticliment'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4094
+2024-01-24 10:06:36+00:00,[User]_fluidum,{'[User]_stephengillie'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4095
+2024-01-24 16:36:35+00:00,[User]_bandwiches,"{'[User]_denelon', '[User]_bandwiches', '[User]_SteveL-MSFT', '[User]_mominshaikhdevs'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4097
+2024-01-24 18:25:05+00:00,[User]_darrelle-kn,"{'[User]_mdanish-kh', '[User]_Trenly', '[User]_darrelle-kn'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4098
+2024-01-24 23:29:18+00:00,[User]_mejobloggs-cw,"{'[User]_libinweng', '[User]_RelxOff', '[User]_denelon', '[User]_mejobloggs-cw', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4101
+2024-01-25 17:55:47+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4103
+2024-01-26 03:34:54+00:00,[User]_Trenly,"{'[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4105
+2024-01-26 17:11:38+00:00,[User]_br2soft,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4107
+2024-01-28 04:36:37+00:00,[User]_cuipengfei,{'[User]_Trenly'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4109
+2024-01-28 17:30:50+00:00,[User]_ivonenchev,{'[User]_stephengillie'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4111
+2024-01-29 11:49:20+00:00,[User]_chatcoda,"{'[User]_stephengillie', '[User]_mdanish-kh', '[User]_Trenly', '[User]_chatcoda'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4112
+2024-01-29 18:24:26+00:00,[User]_TheNetMasterA,{'[User]_mdanish-kh'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4114
+2024-01-30 02:15:54+00:00,[User]_IntNinja,"{'[User]_IntNinja', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4117
+2024-01-30 02:29:14+00:00,[User]_aronbardsley,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4118
+2024-01-31 03:53:26+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4121
+2024-02-01 00:01:11+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4124
+2024-02-01 05:12:10+00:00,[User]_Trenly,"{'[User]_stephengillie', '[User]_JohnMcPMS', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4125
+2024-02-01 09:17:08+00:00,[User]_dl1mx,"{'[User]_stephengillie', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4126
+2024-02-01 17:18:35+00:00,[User]_msftrubengu,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4128
+2024-02-01 17:23:27+00:00,[User]_msftrubengu,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4129
+2024-02-01 18:32:48+00:00,[User]_msftrubengu,"{'[User]_Paul-Luciano-2003', '[User]_yao-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4130
+2024-02-01 20:17:28+00:00,[User]_maphew,{'[User]_Trenly'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4131
+2024-02-01 22:36:56+00:00,[User]_msftrubengu,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4132
+2024-02-02 03:38:21+00:00,[User]_SATO1414,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4134
+2024-02-02 14:50:23+00:00,[User]_RalfReddings,"{'[User]_denelon', '[User]_kdpuvvadi', '[User]_RalfReddings', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4136
+2024-02-02 18:19:51+00:00,[User]_ryfu-msft,"{'[User]_JohnMcPMS', '[User]_Ingkoun', '[User]_yao-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4137
+2024-02-03 17:11:47+00:00,[User]_amnweb,{'[User]_mdanish-kh'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4138
+2024-02-04 18:58:48+00:00,[User]_Gavin-Williams,{'[User]_mdanish-kh'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4139
+2024-02-04 19:03:47+00:00,[User]_Gavin-Williams,"{'[User]_denelon', '[User]_mdanish-kh'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4140
+2024-02-05 21:56:12+00:00,[User]_github4jojo,"{'[User]_denelon', '[User]_Trenly', '[User]_github4jojo'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4141
+2024-02-05 23:43:41+00:00,[User]_Trenly,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4142
+2024-02-06 08:28:15+00:00,[User]_robertototaro,{'[User]_stephengillie'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4143
+2024-02-06 09:34:33+00:00,[User]_JensNordenbro,"{'[User]_mdanish-kh', '[User]_JensNordenbro'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4144
+2024-02-06 14:02:59+00:00,[User]_Trenly,"{'[User]_craigloewen-msft', '[User]_stephengillie', '[User]_parsley72', '[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4145
+2024-02-06 17:47:49+00:00,[User]_Fedoop1,"{'[User]_denelon', '[User]_Fedoop1'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4146
+2024-02-06 21:32:21+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4147
+2024-02-06 23:14:50+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4148
+2024-02-07 11:39:13+00:00,[User]_mdanish-kh,"{'[User]_mdanish-kh', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4150
+2024-02-07 19:26:59+00:00,[User]_JohnMcPMS,"{'[User]_florelis', '[User]_JohnMcPMS', '[User]_yao-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4151
+2024-02-08 19:38:26+00:00,[User]_Andrew-J-Larson,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4154
+2024-02-08 22:02:37+00:00,[User]_yao-msft,{'[User]_ryfu-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4155
+2024-02-09 01:49:21+00:00,[User]_yao-msft,{'[User]_ryfu-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4157
+2024-02-11 15:53:37+00:00,[User]_sagar297,"{'[User]_sagar297', '[User]_mdanish-kh'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4161
+2024-02-12 07:29:53+00:00,[User]_edler-san,"{'[User]_stephengillie', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4164
+2024-02-12 20:43:35+00:00,[User]_Trenly,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4165
+2024-02-12 22:55:59+00:00,[User]_yao-msft,{'[User]_ryfu-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4166
+2024-02-14 23:31:53+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4170
+2024-02-15 10:19:12+00:00,[User]_Chrissi2812,{'[User]_Trenly'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4172
+2024-02-16 02:55:52+00:00,[User]_yao-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4173
+2024-02-16 18:37:15+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4175
+2024-02-16 20:20:30+00:00,[User]_denelon,{'[User]_jantari'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4176
+2024-02-16 22:11:40+00:00,[User]_ryfu-msft,"{'[User]_yao-msft', '[User]_ryfu-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4177
+2024-02-17 06:12:30+00:00,[User]_NianBroken,"{'[User]_denelon', '[User]_Masamune3210', '[User]_NianBroken'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4178
+2024-02-18 06:26:31+00:00,[User]_og-mrk,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4179
+2024-02-20 13:33:57+00:00,[User]_JohnnyElvis,"{'[User]_JohnnyElvis', '[User]_yao-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4181
+2024-02-20 19:06:22+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4182
+2024-02-21 04:52:59+00:00,[User]_mjr4077au,{'[User]_mjr4077au'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4184
+2024-02-21 10:33:01+00:00,[User]_250h,{'[User]_Trenly'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4185
+2024-02-21 22:12:57+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4191
+2024-02-22 06:02:18+00:00,[User]_ryfu-msft,"{'[User]_JohnMcPMS', '[User]_yao-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4192
+2024-02-22 21:55:54+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4195
+2024-02-23 06:39:38+00:00,[User]_JohnMcPMS,"{'[User]_florelis', '[User]_JohnMcPMS', '[User]_ryfu-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4196
+2024-02-24 17:18:14+00:00,[User]_KevinLaMS,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4198
+2024-02-25 21:27:35+00:00,[User]_Mat2095,"{'[User]_denelon', '[User]_Mat2095', '[User]_ryfu-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4200
+2024-02-26 17:55:53+00:00,[User]_ryfu-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4202
+2024-02-26 19:14:47+00:00,[User]_florelis,"{'[User]_florelis', '[User]_yao-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4203
+2024-02-26 23:06:30+00:00,[User]_JohnMcPMS,"{'[User]_yao-msft', '[User]_ryfu-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4204
+2024-02-27 01:14:02+00:00,[User]_JohnMcPMS,"{'[User]_JohnMcPMS', '[User]_yao-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4205
+2024-02-27 01:27:32+00:00,[User]_ryfu-msft,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4206
+2024-02-28 13:59:36+00:00,[User]_Herr-Sepp,"{'[User]_denelon', '[User]_stephengillie', '[User]_Herr-Sepp'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4209
+2024-02-28 19:39:19+00:00,[User]_Trenly,{'[User]_Trenly'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4212
+2024-02-29 17:41:22+00:00,[User]_agowa,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4215
+2024-02-29 19:09:00+00:00,[User]_ryfu-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4218
+2024-02-29 22:17:27+00:00,[User]_o-l-a-v,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4220
+2024-03-01 13:10:18+00:00,[User]_psinnathurai,"{'[User]_psinnathurai', '[User]_stephengillie', '[User]_janegilring', '[User]_denelon'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4222
+2024-03-01 19:44:50+00:00,[User]_ryfu-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4223
+2024-03-04 20:50:01+00:00,[User]_ryfu-msft,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4226
+2024-03-04 22:22:26+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4229
+2024-03-05 13:26:20+00:00,[User]_kaifu-ck,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4231
+2024-03-06 15:23:13+00:00,[User]_Trenly,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4233
+2024-03-06 17:11:22+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4235
+2024-03-06 17:18:06+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4237
+2024-03-06 19:44:41+00:00,[User]_cthlo,{'[User]_Trenly'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4241
+2024-03-06 22:05:00+00:00,[User]_aslze,"{'[User]_mdanish-kh', '[User]_aslze'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4242
+2024-03-06 22:43:29+00:00,[User]_Trenly,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4243
+2024-03-06 23:05:55+00:00,[User]_Trenly,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4244
+2024-03-06 23:14:42+00:00,[User]_Trenly,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4245
+2024-03-06 23:22:01+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4246
+2024-03-07 00:28:45+00:00,[User]_msftrubengu,{'[User]_ryfu-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4247
+2024-03-07 01:54:07+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4248
+2024-03-07 02:45:24+00:00,[User]_dgulik,"{'[User]_dgulik', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4249
+2024-03-08 08:09:20+00:00,[User]_pedoc,"{'[User]_denelon', '[User]_pedoc'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4253
+2024-03-12 01:20:30+00:00,[User]_chendrixson,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4259
+2024-03-12 01:25:23+00:00,[User]_snickler,"{'[User]_snickler', '[User]_JohnMcPMS', '[User]_mominshaikhdevs'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4260
+2024-03-12 19:13:33+00:00,[User]_jcwalker,"{'[User]_denelon', '[User]_Trenly', '[User]_jcwalker', '[User]_phueac'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4264
+2024-03-13 09:52:32+00:00,[User]_jantari,"{'[User]_jantari', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4267
+2024-03-13 11:29:01+00:00,[User]_craftzneko,"{'[User]_craftzneko', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4269
+2024-03-13 20:03:55+00:00,[User]_th3nme,"{'[User]_denelon', '[User]_PckgrTom', '[User]_th3nme'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4271
+2024-03-16 02:11:27+00:00,[User]_Trenly,"{'[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4273
+2024-03-16 03:40:04+00:00,[User]_Trenly,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4276
+2024-03-17 09:48:25+00:00,[User]_antonioalopezfernandez,{'[User]_mdanish-kh'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4279
+2024-03-18 12:55:21+00:00,[User]_bmacnair,{'[User]_mdanish-kh'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4280
+2024-03-18 18:03:52+00:00,[User]_JohnMcPMS,"{'[User]_JohnMcPMS', '[User]_Trenly', '[User]_yao-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4282
+2024-03-20 05:27:20+00:00,[User]_Madhusudhan-MSFT,"{'[User]_JohnMcPMS', '[User]_selimfelex'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4287
+2024-03-20 11:48:08+00:00,[User]_doterik,"{'[User]_denelon', '[User]_stephengillie', '[User]_Trenly', '[User]_doterik'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4290
+2024-03-20 17:31:13+00:00,[User]_JohnMcPMS,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4291
+2024-03-21 00:07:22+00:00,[User]_ryfu-msft,"{'[User]_JohnMcPMS', '[User]_selimfelex'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4293
+2024-03-21 04:04:13+00:00,[User]_drshtmstry,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4294
+2024-03-21 15:27:15+00:00,[User]_craigloewen-msft,"{'[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4295
+2024-03-23 00:48:32+00:00,[User]_mdanish-kh,"{'[User]_mdanish-kh', '[User]_CanePlayz'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4299
+2024-03-23 03:13:10+00:00,[User]_Trenly,"{'[User]_denelon', '[User]_Trenly', '[User]_yao-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4300
+2024-03-24 08:02:07+00:00,[User]_SpecterShell,{'[User]_Trenly'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4303
+2024-03-24 18:41:09+00:00,[User]_robross0606,{'[User]_stephengillie'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4304
+2024-03-24 20:05:56+00:00,[User]_Sputchik,{'[User]_stephengillie'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4305
+2024-03-25 17:37:08+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4308
+2024-03-25 21:31:17+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4309
+2024-03-25 22:22:32+00:00,[User]_ryfu-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4310
+2024-03-25 22:26:52+00:00,[User]_ryfu-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4311
+2024-03-26 08:08:47+00:00,[User]_Bratman117,"{'[User]_denelon', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4313
+2024-03-26 20:48:54+00:00,[User]_ryfu-msft,"{'[User]_JohnMcPMS', '[User]_yao-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4314
+2024-03-26 23:09:27+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4315
+2024-03-27 07:49:39+00:00,[User]_karuakun,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4317
+2024-03-27 20:27:16+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4319
+2024-03-28 12:11:57+00:00,[User]_kilasuit,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4322
+2024-03-28 14:27:00+00:00,[User]_steskalja,{'[User]_Karl-WE'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4324
+2024-03-29 17:49:53+00:00,[User]_Trenly,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4328
+2024-03-29 18:34:40+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4329
+2024-03-30 00:39:28+00:00,[User]_useforgh,"{'[User]_stephengillie', '[User]_useforgh'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4331
+2024-04-01 15:24:38+00:00,[User]_Trenly,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4335
+2024-04-01 17:02:10+00:00,[User]_JohnMcPMS,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4337
+2024-04-02 14:45:21+00:00,[User]_SkipToTheEndpoint,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4342
+2024-04-03 00:50:20+00:00,[User]_MattHyman,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4344
+2024-04-04 20:52:55+00:00,[User]_denelon,{'[User]_Trenly'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4348
+2024-04-05 15:05:08+00:00,[User]_Novogumiguel,"{'[User]_denelon', '[User]_Novogumiguel'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4352
+2024-04-05 17:32:35+00:00,[User]_ryfu-msft,"{'[User]_JohnMcPMS', '[User]_ryfu-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4355
+2024-04-07 15:49:32+00:00,[User]_excelsi,"{'[User]_excelsi', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4358
+2024-04-08 06:46:04+00:00,[User]_o-l-a-v,{'[User]_mdanish-kh'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4359
+2024-04-08 17:37:38+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4360
+2024-04-08 21:35:47+00:00,[User]_Novogumiguel,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4362
+2024-04-09 17:53:46+00:00,[User]_yao-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4363
+2024-04-09 18:15:11+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4364
+2024-04-10 03:37:56+00:00,[User]_Trenly,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4366
+2024-04-10 20:01:21+00:00,[User]_AkosBakos,"{'[User]_AkosBakos', '[User]_Trenly'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4367
+2024-04-11 09:45:23+00:00,[User]_skanda890,"{'[User]_skanda890', '[User]_Trenly', '[User]_yao-msft', '[User]_denelon'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4368
+2024-04-11 10:08:23+00:00,[User]_skanda890,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4369
+2024-04-11 16:34:08+00:00,[User]_KevinLaMS,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4370
+2024-04-11 23:05:29+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4371
+2024-04-12 02:31:52+00:00,[User]_vuongtuha,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4372
+2024-04-12 19:53:01+00:00,[User]_hueldoeu,"{'[User]_rozmansi', '[User]_Trenly', '[User]_hueldoeu'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4373
+2024-04-12 23:08:13+00:00,[User]_AmelBawa-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4374
+2024-04-13 10:05:48+00:00,[User]_o-l-a-v,"{'[User]_mdanish-kh', '[User]_o-l-a-v'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4375
+2024-04-13 17:10:20+00:00,[User]_marticliment,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4377
+2024-04-14 14:48:44+00:00,[User]_RyanEruditional,{'[User]_RyanEruditional'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4378
+2024-04-15 16:47:21+00:00,[User]_alanlivio,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4380
+2024-04-15 18:07:16+00:00,[User]_Mrgaton,"{'[User]_denelon', '[User]_Mrgaton'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4381
+2024-04-15 21:48:16+00:00,[User]_KevinLaMS,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4382
+2024-04-16 16:50:35+00:00,[User]_0tjs0,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4383
+2024-04-16 18:27:26+00:00,[User]_JohnMcPMS,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4384
+2024-04-17 23:49:46+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4387
+2024-04-18 22:08:37+00:00,[User]_JohnMcPMS,{'[User]_msftrubengu'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4389
+2024-04-19 13:41:12+00:00,[User]_rhj-kinsley,"{'[User]_denelon', '[User]_stephengillie'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4390
+2024-04-19 15:59:26+00:00,[User]_denelon,"{'[User]_denelon', '[User]_huyz'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4391
+2024-04-19 21:54:22+00:00,[User]_msftrubengu,"{'[User]_denelon', '[User]_JohnMcPMS', '[User]_yao-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4392
+2024-04-21 06:06:36+00:00,[User]_mike406,{'[User]_mike406'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4394
+2024-04-22 17:57:15+00:00,[User]_denelon,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4397
+2024-04-22 18:39:31+00:00,[User]_KevinLaMS,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4398
+2024-04-22 22:58:19+00:00,[User]_acangialosi,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4399
+2024-04-23 18:57:41+00:00,[User]_msftrubengu,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4401
+2024-04-23 18:58:30+00:00,[User]_msftrubengu,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4402
+2024-04-24 09:46:26+00:00,[User]_jan10000000001,"{'[User]_denelon', '[User]_stephengillie', '[User]_jan10000000001'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4407
+2024-04-24 22:54:19+00:00,[User]_yao-msft,{'[User]_ryfu-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4409
+2024-04-25 11:17:42+00:00,[User]_kilasuit,{'[User]_stephengillie'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4411
+2024-04-26 02:36:36+00:00,[User]_yao-msft,{'[User]_ryfu-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4413
+2024-04-26 06:35:38+00:00,[User]_ryfu-msft,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4414
+2024-04-26 14:38:34+00:00,[User]_tonnesen-ncqa,"{'[User]_denelon', '[User]_tonnesen-ncqa', '[User]_Trenly', '[User]_ryfu-msft'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4416
+2024-04-27 06:25:35+00:00,[User]_yao-msft,{'[User]_ranm-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4418
+2024-04-27 08:08:34+00:00,[User]_yao-msft,{'[User]_ryfu-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4419
+2024-04-29 09:37:19+00:00,[User]_otto-liljalaakso-nt,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4421
+2024-04-29 10:26:57+00:00,[User]_PckgrTom,"{'[User]_PckgrTom', '[User]_Trenly', '[User]_asheroto'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4422
+2024-04-29 22:05:22+00:00,[User]_o-l-a-v,{'[User]_denelon'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4424
+2024-04-29 22:54:40+00:00,[User]_davidldennison,"{'[User]_denelon', '[User]_mdanish-kh'}",microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4425
+2024-04-30 00:29:18+00:00,[User]_yao-msft,{'[User]_JohnMcPMS'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4426
+2024-04-30 19:35:57+00:00,[User]_tonnesen-ncqa,set(),microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/issues/4431
+2024-04-30 22:38:10+00:00,[User]_JohnMcPMS,{'[User]_yao-msft'},microsoft/winget-cli,2024,https://github.com/microsoft/winget-cli/pull/4432

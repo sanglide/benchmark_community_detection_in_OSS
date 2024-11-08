@@ -1,0 +1,781 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 16:23:51+00:00,[User]_brl0,"{'[User]_brl0', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10958
+2023-05-02 12:45:44+00:00,[User]_mg-christian-axelsson,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/10959
+2023-05-03 15:25:39+00:00,[User]_mthaitan,{'[User]_Zac-HD'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10961
+2023-05-06 01:37:36+00:00,[User]_DylanLukes,"{'[User]_DylanLukes', '[User]_evgeniiz321', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/10965
+2023-05-07 00:23:37+00:00,[User]_HomieOmie,"{'[User]_HomieOmie', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10969
+2023-05-08 19:28:09+00:00,[User]_roberto-aldera,"{'[User]_roberto-aldera', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10972
+2023-05-09 03:04:29+00:00,[User]_leeyueh,"{'[User]_nicoddemus', '[User]_leeyueh'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/10973
+2023-05-09 03:56:23+00:00,[User]_leeyueh,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10974
+2023-05-09 23:05:32+00:00,[User]_bzoracler,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10978
+2023-05-10 07:13:34+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10979
+2023-05-10 08:08:09+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_A5rocks', '[User]_bluetech', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10981
+2023-05-10 12:00:30+00:00,[User]_timmow,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/10984
+2023-05-11 02:51:24+00:00,[User]_nicoddemus,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10986
+2023-05-11 11:41:58+00:00,[User]_padix-key,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/10987
+2023-05-11 12:31:49+00:00,[User]_nicoddemus,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10988
+2023-05-11 18:44:48+00:00,[User]_nicoddemus,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10990
+2023-05-12 00:59:31+00:00,[User]_jtmoon79,{'[User]_jtmoon79'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/10991
+2023-05-12 08:09:19+00:00,[User]_jvaesteves,"{'[User]_jvaesteves', '[User]_bluetech', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/10992
+2023-05-12 08:10:25+00:00,[User]_TheoGoudout,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/10993
+2023-05-12 13:03:05+00:00,[User]_Stacey-Valon,{'[User]_Stacey-Valon'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/10994
+2023-05-12 13:15:32+00:00,[User]_nicoddemus,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10995
+2023-05-13 10:36:36+00:00,[User]_RonnyPfannschmidt,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10996
+2023-05-13 11:59:09+00:00,[User]_RonnyPfannschmidt,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_bluetech', '[User]_asottile', '[User]_Pierre-Sassoulas'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10997
+2023-05-13 19:26:06+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_asottile', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/10998
+2023-05-13 21:01:10+00:00,[User]_adamjstewart,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/10999
+2023-05-13 21:15:24+00:00,[User]_adamjstewart,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_adamjstewart'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11000
+2023-05-15 07:16:15+00:00,[User]_scop,"{'[User]_scop', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11005
+2023-05-15 21:41:40+00:00,[User]_CobaltCause,"{'[User]_CobaltCause', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11006
+2023-05-16 19:00:02+00:00,[User]_RonnyPfannschmidt,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11008
+2023-05-16 23:24:29+00:00,[User]_nicoddemus,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11009
+2023-05-17 17:13:43+00:00,[User]_ikonst,"{'[User]_ikonst', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11012
+2023-05-17 18:10:13+00:00,[User]_nicoddemus,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_kenny-y-dev'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11013
+2023-05-18 10:59:34+00:00,[User]_scop,"{'[User]_Pierre-Sassoulas', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11014
+2023-05-18 14:26:04+00:00,[User]_erik-hasse,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11017
+2023-05-19 00:14:35+00:00,[User]_jaraco,"{'[User]_jaraco', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11019
+2023-05-19 11:00:35+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11022
+2023-05-19 20:20:08+00:00,[User]_tylerjereddy,"{'[User]_tylerjereddy', '[User]_RonnyPfannschmidt', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11024
+2023-05-20 01:24:38+00:00,[User]_1NF053C,{'[User]_1NF053C'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11025
+2023-05-20 18:16:37+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11026
+2023-05-21 18:06:59+00:00,[User]_kristiker,"{'[User]_The-Compiler', '[User]_aless10'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11028
+2023-05-22 06:57:07+00:00,[User]_BeyondEvil,{'[User]_BeyondEvil'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11029
+2023-05-22 23:40:30+00:00,[User]_chrimaho,"{'[User]_chrimaho', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11031
+2023-05-23 10:44:45+00:00,[User]_MarcoGorelli,{'[User]_Zac-HD'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11032
+2023-05-24 03:07:46+00:00,[User]_jkeifer,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11033
+2023-05-24 23:28:43+00:00,[User]_chrimaho,"{'[User]_chrimaho', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11036
+2023-05-25 00:50:38+00:00,[User]_mvashishtha,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11037
+2023-05-26 09:28:02+00:00,[User]_zooba,"{'[User]_alexlambson', '[User]_RonnyPfannschmidt', '[User]_zooba', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11040
+2023-05-27 09:33:16+00:00,[User]_aless10,"{'[User]_aless10', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11041
+2023-05-27 12:22:06+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11042
+2023-05-27 16:29:59+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11043
+2023-05-27 23:26:11+00:00,[User]_kenny-y-dev,"{'[User]_bluetech', '[User]_kenny-y-dev'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11044
+2023-05-28 11:13:56+00:00,[User]_theirix,"{'[User]_theirix', '[User]_thisch', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11047
+2023-05-29 03:40:59+00:00,[User]_palonza,{'[User]_palonza'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11048
+2023-05-29 03:42:26+00:00,[User]_palonza,{'[User]_palonza'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11049
+2023-05-29 13:09:10+00:00,[User]_kain88-de,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11053
+2023-05-29 19:52:07+00:00,[User]_bluetech,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11054
+2023-05-29 19:56:37+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11055
+2023-05-30 09:48:57+00:00,[User]_zhangwk02,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11056
+2023-05-30 19:55:22+00:00,[User]_bluetech,"{'[User]_pyuscherbakov', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11059
+2023-05-30 20:52:54+00:00,[User]_graingert,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11060
+2023-05-31 19:03:12+00:00,[User]_Maximus904,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11062
+2023-06-01 09:12:22+00:00,[User]_MarcinKonowalczyk,{'[User]_MarcinKonowalczyk'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11063
+2023-06-01 12:11:37+00:00,[User]_CarstenGrohmann,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11065
+2023-06-01 23:03:51+00:00,[User]_harmin-parra,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11067
+2023-06-02 09:05:13+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11069
+2023-06-02 23:29:51+00:00,[User]_piotr-kubiak,"{'[User]_bluetech', '[User]_piotr-kubiak', '[User]_Yao-T'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11071
+2023-06-03 09:03:59+00:00,[User]_BoWuGit,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_BoWuGit', '[User]_ivirshup', '[User]_bluetech'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11073
+2023-06-03 21:02:02+00:00,[User]_azmeuk,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11075
+2023-06-04 02:14:07+00:00,[User]_facundobatista,"{'[User]_bluetech', '[User]_The-Compiler', '[User]_facundobatista'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11077
+2023-06-04 17:44:07+00:00,[User]_bluetech,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11078
+2023-06-05 07:05:48+00:00,[User]_Jakubszwajkos,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11080
+2023-06-05 14:19:39+00:00,[User]_bluetech,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11081
+2023-06-05 14:22:36+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_pllim', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11082
+2023-06-05 22:01:48+00:00,[User]_Niorlys,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11083
+2023-06-06 19:20:06+00:00,[User]_jamesbraza,"{'[User]_RonnyPfannschmidt', '[User]_jamesbraza'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11088
+2023-06-07 07:42:58+00:00,[User]_Pierre-Sassoulas,"{'[User]_The-Compiler', '[User]_Pierre-Sassoulas'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11089
+2023-06-10 18:40:24+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_Pierre-Sassoulas'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11095
+2023-06-10 19:32:49+00:00,[User]_bluetech,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11097
+2023-06-10 23:02:56+00:00,[User]_Maximus904,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11098
+2023-06-11 10:44:36+00:00,[User]_avshisnyk,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_avshisnyk'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11100
+2023-06-11 22:44:13+00:00,[User]_fofoni,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11101
+2023-06-13 08:31:59+00:00,[User]_joerick,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_joerick', '[User]_blackboxsw', '[User]_bluetech'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11104
+2023-06-14 06:54:22+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11106
+2023-06-14 11:51:18+00:00,[User]_jitseniesen,"{'[User]_RonnyPfannschmidt', '[User]_udaymankena'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11107
+2023-06-15 02:31:32+00:00,[User]_rhshadrach,"{'[User]_RonnyPfannschmidt', '[User]_Zac-HD', '[User]_rhshadrach'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11108
+2023-06-15 09:06:39+00:00,[User]_AkkiTester,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11109
+2023-06-15 10:02:08+00:00,[User]_mkesper,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_mkesper', '[User]_symonk'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11111
+2023-06-15 11:35:33+00:00,[User]_The-Compiler,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11113
+2023-06-15 18:35:39+00:00,[User]_regananalytics,"{'[User]_The-Compiler', '[User]_aless10', '[User]_regananalytics'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11115
+2023-06-18 06:00:25+00:00,[User]_a3f,"{'[User]_bluetech', '[User]_a3f'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11118
+2023-06-19 11:39:14+00:00,[User]_bluetech,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11122
+2023-06-19 11:59:06+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11123
+2023-06-20 18:36:34+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11125
+2023-06-21 06:14:36+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_akhilramkee'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11126
+2023-06-22 13:03:48+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11128
+2023-06-22 15:53:07+00:00,[User]_Cheukting,"{'[User]_Cheukting', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11129
+2023-06-23 11:21:07+00:00,[User]_bluetech,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11132
+2023-06-23 12:29:17+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11133
+2023-06-23 15:58:44+00:00,[User]_warsaw,"{'[User]_bluetech', '[User]_warsaw'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11135
+2023-06-24 16:23:10+00:00,[User]_bluetech,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11137
+2023-06-24 16:49:18+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11138
+2023-06-25 07:20:50+00:00,[User]_Mutiantian,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_Mutiantian'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11140
+2023-06-25 17:24:34+00:00,[User]_yurivict,{'[User]_yurivict'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11142
+2023-06-26 06:44:43+00:00,[User]_tushar-deepsource,"{'[User]_bluetech', '[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11143
+2023-06-27 21:56:39+00:00,[User]_clee2000,"{'[User]_The-Compiler', '[User]_radkujawa', '[User]_jmichiel'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11146
+2023-06-29 00:04:33+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_jaraco', '[User]_nicoddemus', '[User]_akhilramkee'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11148
+2023-06-29 13:01:03+00:00,[User]_wang1150297847,{'[User]_wang1150297847'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11149
+2023-06-30 12:18:48+00:00,[User]_LewisGaul,"{'[User]_The-Compiler', '[User]_DeflateAwning'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11150
+2023-06-30 20:44:25+00:00,[User]_Zac-HD,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11151
+2023-06-30 22:20:04+00:00,[User]_Zac-HD,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11152
+2023-07-01 19:17:33+00:00,[User]_akhilramkee,"{'[User]_The-Compiler', '[User]_akhilramkee'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11153
+2023-07-01 20:05:52+00:00,[User]_jaraco,{'[User]_jaraco'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11154
+2023-07-01 20:08:52+00:00,[User]_RonnyPfannschmidt,"{'[User]_jaraco', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_suewonjp'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11155
+2023-07-01 20:11:17+00:00,[User]_jaraco,"{'[User]_jaraco', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11156
+2023-07-01 21:50:41+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11157
+2023-07-01 22:07:18+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11158
+2023-07-02 12:19:27+00:00,[User]_lesnek,"{'[User]_lesnek', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11160
+2023-07-02 23:49:50+00:00,[User]_vijay-subramanian-wdc,"{'[User]_vijay-subramanian-wdc', '[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11161
+2023-07-03 15:57:11+00:00,[User]_nicoddemus,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11162
+2023-07-04 07:55:46+00:00,[User]_cjw296,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11167
+2023-07-04 11:27:27+00:00,[User]_LilyFoote,"{'[User]_The-Compiler', '[User]_cfbolz', '[User]_wilhelmklopp', '[User]_mattip', '[User]_A5rocks', '[User]_olliemath', '[User]_LilyFoote', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11168
+2023-07-04 16:20:54+00:00,[User]_hugovk,"{'[User]_Pierre-Sassoulas', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11169
+2023-07-04 19:56:51+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_The-Compiler', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11170
+2023-07-04 20:48:13+00:00,[User]_The-Compiler,"{'[User]_The-Compiler', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11171
+2023-07-05 16:05:38+00:00,[User]_bluetech,{'[User]_Zac-HD'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11173
+2023-07-06 05:45:39+00:00,[User]_srikervai,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_Zac-HD', '[User]_srikervai'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11176
+2023-07-07 19:54:58+00:00,[User]_kenny-y-dev,"{'[User]_kenny-y-dev', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11178
+2023-07-08 21:24:29+00:00,[User]_antosikv,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_antosikv'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11183
+2023-07-09 08:01:21+00:00,[User]_roeniss,"{'[User]_roeniss', '[User]_bluetech', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11186
+2023-07-09 13:36:48+00:00,[User]_antosikv,"{'[User]_bluetech', '[User]_nicoddemus', '[User]_antosikv'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11187
+2023-07-10 20:25:22+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11192
+2023-07-11 05:25:39+00:00,[User]_michael-123123,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11194
+2023-07-11 19:59:35+00:00,[User]_The-Compiler,"{'[User]_The-Compiler', '[User]_symonk'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11200
+2023-07-12 09:47:02+00:00,[User]_kloczek,"{'[User]_kloczek', '[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11201
+2023-07-13 02:34:43+00:00,[User]_wang1150297847,"{'[User]_wang1150297847', '[User]_The-Compiler'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11202
+2023-07-13 15:35:54+00:00,[User]_bluetech,"{'[User]_JamieC2002', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11205
+2023-07-13 20:54:41+00:00,[User]_soxofaan,{'[User]_giacomorebecchi'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11206
+2023-07-14 02:31:01+00:00,[User]_Just6789,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11207
+2023-07-14 08:53:30+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11208
+2023-07-14 08:55:18+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11209
+2023-07-15 14:29:40+00:00,[User]_fraserstark,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11211
+2023-07-15 20:13:10+00:00,[User]_Just6789,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11212
+2023-07-15 22:12:18+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11213
+2023-07-16 20:19:46+00:00,[User]_bluetech,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11215
+2023-07-16 20:24:21+00:00,[User]_bluetech,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11216
+2023-07-16 20:28:12+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11217
+2023-07-16 20:44:11+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11218
+2023-07-16 20:55:37+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11219
+2023-07-17 01:34:33+00:00,[User]_sadra-barikbin,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_sadra-barikbin'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11220
+2023-07-17 11:21:39+00:00,[User]_ivirshup,"{'[User]_Zac-HD', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_ivirshup'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11223
+2023-07-17 13:30:17+00:00,[User]_Roo4L,"{'[User]_RonnyPfannschmidt', '[User]_Roo4L', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11224
+2023-07-17 15:04:26+00:00,[User]_StefanieSenger,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11225
+2023-07-17 18:11:36+00:00,[User]_ivirshup,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_agronholm', '[User]_ivirshup', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11227
+2023-07-17 21:06:33+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11228
+2023-07-19 17:58:00+00:00,[User]_sadra-barikbin,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_sadra-barikbin'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11231
+2023-07-19 19:33:09+00:00,[User]_The-Compiler,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11232
+2023-07-19 20:38:54+00:00,[User]_okken,"{'[User]_nicoddemus', '[User]_okken'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11233
+2023-07-20 13:18:51+00:00,[User]_sadra-barikbin,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11234
+2023-07-20 19:58:02+00:00,[User]_eleanorjboyd,"{'[User]_bluetech', '[User]_eleanorjboyd'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11235
+2023-07-21 01:12:38+00:00,[User]_sadra-barikbin,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_sadra-barikbin'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11236
+2023-07-21 15:54:36+00:00,[User]_Lubba-64,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11237
+2023-07-22 06:27:26+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11238
+2023-07-22 11:45:53+00:00,[User]_cdce8p,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11239
+2023-07-22 17:09:25+00:00,[User]_mathrick,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11240
+2023-07-22 17:48:19+00:00,[User]_The-Compiler,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11241
+2023-07-22 23:45:19+00:00,[User]_sadra-barikbin,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_sadra-barikbin'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11243
+2023-07-23 21:45:36+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11244
+2023-07-23 22:19:08+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_eleanorjboyd'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11245
+2023-07-26 02:55:55+00:00,[User]_agardnerIT,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11250
+2023-07-26 08:37:19+00:00,[User]_shripad-bhat,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11252
+2023-07-27 06:41:21+00:00,[User]_bluetech,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11253
+2023-07-28 08:04:22+00:00,[User]_LoremasterLH,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11254
+2023-07-28 11:01:44+00:00,[User]_bluetech,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11255
+2023-07-28 11:03:51+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11256
+2023-07-28 23:40:09+00:00,[User]_sadra-barikbin,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_sadra-barikbin'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11257
+2023-07-29 00:52:13+00:00,[User]_calestyo,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11258
+2023-07-29 01:06:39+00:00,[User]_calestyo,"{'[User]_calestyo', '[User]_RonnyPfannschmidt', '[User]_kalekundert'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11260
+2023-07-30 05:26:09+00:00,[User]_blockjon-dd,"{'[User]_david2003542', '[User]_leonflint', '[User]_RonnyPfannschmidt', '[User]_ployt0'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11261
+2023-07-31 18:47:36+00:00,[User]_calestyo,"{'[User]_calestyo', '[User]_The-Compiler'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11265
+2023-07-31 21:54:21+00:00,[User]_eleanorjboyd,"{'[User]_The-Compiler', '[User]_eleanorjboyd'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11266
+2023-07-31 23:24:35+00:00,[User]_upstartjohnvandivier,"{'[User]_upstartjohnvandivier', '[User]_The-Compiler'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11267
+2023-08-01 06:47:41+00:00,[User]_bluetech,"{'[User]_bsipocz', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11268
+2023-08-01 10:14:44+00:00,[User]_nck974,"{'[User]_Pierre-Sassoulas', '[User]_rowanhnwl'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11270
+2023-08-01 22:23:56+00:00,[User]_sadra-barikbin,"{'[User]_bluetech', '[User]_sadra-barikbin'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11271
+2023-08-02 21:05:26+00:00,[User]_rowillia,"{'[User]_RonnyPfannschmidt', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11275
+2023-08-03 08:22:59+00:00,[User]_neutrinoceros,"{'[User]_RonnyPfannschmidt', '[User]_neutrinoceros'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11276
+2023-08-03 08:49:00+00:00,[User]_sadra-barikbin,"{'[User]_bluetech', '[User]_sadra-barikbin'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11277
+2023-08-03 14:43:07+00:00,[User]_calestyo,"{'[User]_calestyo', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11279
+2023-08-04 09:33:04+00:00,[User]_david-shiko,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11281
+2023-08-04 17:45:01+00:00,[User]_harmin-parra,"{'[User]_harmin-parra', '[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_SharadNair7'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11282
+2023-08-04 20:29:19+00:00,[User]_sadra-barikbin,"{'[User]_bluetech', '[User]_jgersti', '[User]_RonnyPfannschmidt', '[User]_sadra-barikbin'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11284
+2023-08-05 19:07:30+00:00,[User]_calestyo,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11285
+2023-08-05 20:59:11+00:00,[User]_The-Compiler,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11287
+2023-08-05 22:53:56+00:00,[User]_calestyo,"{'[User]_bluetech', '[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_calestyo'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11288
+2023-08-05 23:42:52+00:00,[User]_calestyo,"{'[User]_calestyo', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11289
+2023-08-06 15:46:59+00:00,[User]_calestyo,"{'[User]_calestyo', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11291
+2023-08-07 08:46:24+00:00,[User]_The-Compiler,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11293
+2023-08-07 10:10:24+00:00,[User]_The-Compiler,"{'[User]_The-Compiler', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11294
+2023-08-07 10:34:23+00:00,[User]_The-Compiler,"{'[User]_WarrenTheRabbit', '[User]_The-Compiler'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11295
+2023-08-08 10:44:49+00:00,[User]_ShurikMen,"{'[User]_fruch', '[User]_bluetech', '[User]_ShurikMen'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11298
+2023-08-09 05:03:47+00:00,[User]_DetachHead,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_KotlinIsland'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11300
+2023-08-09 17:37:53+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11301
+2023-08-10 18:19:54+00:00,[User]_ee-4-me,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11303
+2023-08-10 19:01:42+00:00,[User]_coneybeare,"{'[User]_Zac-HD', '[User]_brianzi'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11724
+2023-08-10 20:50:36+00:00,[User]_dpanici,"{'[User]_The-Compiler', '[User]_dpanici'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11304
+2023-08-11 10:47:35+00:00,[User]_flying-sheep,"{'[User]_The-Compiler', '[User]_flying-sheep', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11306
+2023-08-11 11:38:51+00:00,[User]_seifertm,"{'[User]_bluetech', '[User]_seifertm'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11307
+2023-08-11 17:34:00+00:00,[User]_reaganjlee,"{'[User]_reaganjlee', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11308
+2023-08-12 15:12:12+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11309
+2023-08-14 13:27:12+00:00,[User]_miccoli,"{'[User]_bluetech', '[User]_nicoddemus', '[User]_miccoli'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11311
+2023-08-15 17:45:01+00:00,[User]_schaetzc,"{'[User]_schaetzc', '[User]_Zac-HD', '[User]_SharadNair7'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11314
+2023-08-15 20:11:50+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11315
+2023-08-16 06:59:28+00:00,[User]_tjsmart,"{'[User]_bluetech', '[User]_tjsmart', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11317
+2023-08-18 21:40:38+00:00,[User]_ubaumann,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11320
+2023-08-19 18:32:23+00:00,[User]_tjsmart,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11321
+2023-08-19 21:22:52+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11322
+2023-08-19 21:24:15+00:00,[User]_bluetech,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11323
+2023-08-21 07:57:16+00:00,[User]_DetachHead,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11325
+2023-08-21 08:02:27+00:00,[User]_DetachHead,"{'[User]_bluetech', '[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11326
+2023-08-21 09:11:24+00:00,[User]_DetachHead,"{'[User]_DetachHead', '[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11327
+2023-08-21 23:10:08+00:00,[User]_craigds,"{'[User]_The-Compiler', '[User]_craigds'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11332
+2023-08-22 03:17:14+00:00,[User]_jparise,"{'[User]_bluetech', '[User]_jparise', '[User]_The-Compiler'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11333
+2023-08-22 04:38:45+00:00,[User]_WarrenTheRabbit,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11334
+2023-08-22 11:55:19+00:00,[User]_jgersti,"{'[User]_jgersti', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11337
+2023-08-23 03:48:23+00:00,[User]_vipkum2,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11340
+2023-08-23 06:49:32+00:00,[User]_phamvanhan68,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11341
+2023-08-23 08:41:17+00:00,[User]_vivekvasu95,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11342
+2023-08-23 13:45:38+00:00,[User]_WarrenTheRabbit,{'[User]_WarrenTheRabbit'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11343
+2023-08-24 00:23:19+00:00,[User]_WarrenTheRabbit,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_WarrenTheRabbit', '[User]_bluetech'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11345
+2023-08-24 01:29:16+00:00,[User]_DetachHead,"{'[User]_DetachHead', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_seanjedi'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11346
+2023-08-24 08:08:48+00:00,[User]_harmin-parra,"{'[User]_harmin-parra', '[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11347
+2023-08-24 09:46:56+00:00,[User]_ynikitenko,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_ynikitenko'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11348
+2023-08-24 21:24:53+00:00,[User]_charlesriver456,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11349
+2023-08-25 08:03:50+00:00,[User]_jgersti,"{'[User]_jgersti', '[User]_TanyaAgarwal28'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11350
+2023-08-25 12:12:50+00:00,[User]_WarrenTheRabbit,"{'[User]_WarrenTheRabbit', '[User]_seanjedi'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11351
+2023-08-25 19:04:05+00:00,[User]_itsMGA,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11352
+2023-08-26 07:13:55+00:00,[User]_bluetech,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11353
+2023-08-26 18:08:46+00:00,[User]_nicoddemus,"{'[User]_DetachHead', '[User]_nicoddemus', '[User]_seanjedi'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11354
+2023-08-26 20:13:35+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11355
+2023-08-26 20:53:35+00:00,[User]_seanjedi,"{'[User]_bluetech', '[User]_seanjedi'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11356
+2023-08-26 20:59:49+00:00,[User]_seanjedi,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11357
+2023-08-27 22:05:41+00:00,[User]_seanjedi,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11360
+2023-08-27 22:36:54+00:00,[User]_seanjedi,"{'[User]_nicoddemus', '[User]_seanjedi'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11361
+2023-08-28 02:46:11+00:00,[User]_cielavenir,"{'[User]_The-Compiler', '[User]_nicoddemus', '[User]_cielavenir'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11362
+2023-08-28 07:54:33+00:00,[User]_kamiya-s-max,"{'[User]_The-Compiler', '[User]_kamiya-s-max', '[User]_WarrenTheRabbit', '[User]_SanderBeekhuis', '[User]_Pierre-Sassoulas'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11363
+2023-08-29 03:09:49+00:00,[User]_Redoubts,"{'[User]_Redoubts', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11365
+2023-08-29 09:50:02+00:00,[User]_fruch,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11367
+2023-08-29 23:42:35+00:00,[User]_bsour,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11368
+2023-08-30 10:40:07+00:00,[User]_fruch,"{'[User]_fruch', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11369
+2023-08-30 11:24:07+00:00,[User]_pomponchik,"{'[User]_pomponchik', '[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11370
+2023-08-30 14:53:10+00:00,[User]_LukeWood,"{'[User]_Zac-HD', '[User]_RonnyPfannschmidt', '[User]_LukeWood'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11372
+2023-08-30 14:56:10+00:00,[User]_DetachHead,"{'[User]_DetachHead', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11373
+2023-08-31 09:26:56+00:00,[User]_bmerry,"{'[User]_bluetech', '[User]_bmerry', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11374
+2023-09-02 13:30:08+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11378
+2023-09-02 15:46:15+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11379
+2023-09-03 09:33:58+00:00,[User]_harmin-parra,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11381
+2023-09-03 17:39:04+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11382
+2023-09-04 12:05:57+00:00,[User]_plannigan,{'[User]_plannigan'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11387
+2023-09-05 19:37:36+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11393
+2023-09-05 21:16:26+00:00,[User]_iandonnelly,"{'[User]_iandonnelly', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11394
+2023-09-06 06:11:07+00:00,[User]_wang1150297847,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11396
+2023-09-06 07:49:11+00:00,[User]_soxofaan,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11397
+2023-09-06 12:54:10+00:00,[User]_The-Compiler,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11399
+2023-09-06 14:20:03+00:00,[User]_mtelka,"{'[User]_The-Compiler', '[User]_mtelka', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11401
+2023-09-06 20:54:42+00:00,[User]_mtelka,"{'[User]_The-Compiler', '[User]_mtelka'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11402
+2023-09-07 15:55:32+00:00,[User]_nicoddemus,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11406
+2023-09-07 17:17:17+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11407
+2023-09-07 18:53:34+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11409
+2023-09-07 19:09:30+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11410
+2023-09-07 19:54:34+00:00,[User]_mtelka,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11411
+2023-09-08 05:35:46+00:00,[User]_WarrenTheRabbit,"{'[User]_WarrenTheRabbit', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11413
+2023-09-08 10:42:49+00:00,[User]_cdce8p,"{'[User]_bluetech', '[User]_The-Compiler', '[User]_nicoddemus', '[User]_cdce8p'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11414
+2023-09-08 11:37:54+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11415
+2023-09-08 13:09:20+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_sadra-barikbin'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11416
+2023-09-08 23:23:44+00:00,[User]_cdce8p,"{'[User]_bluetech', '[User]_nicoddemus', '[User]_cdce8p'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11418
+2023-09-09 12:13:41+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11419
+2023-09-09 12:31:12+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11420
+2023-09-10 11:29:20+00:00,[User]_lanzz,"{'[User]_lanzz', '[User]_Zac-HD', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11424
+2023-09-10 12:35:31+00:00,[User]_nicoddemus,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11425
+2023-09-10 13:21:47+00:00,[User]_WarrenTheRabbit,"{'[User]_WarrenTheRabbit', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11427
+2023-09-11 03:04:50+00:00,[User]_ShurikMen,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11428
+2023-09-11 12:25:45+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11432
+2023-09-12 21:54:34+00:00,[User]_pomponchik,"{'[User]_pomponchik', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11435
+2023-09-12 22:15:02+00:00,[User]_pomponchik,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11436
+2023-09-15 10:17:44+00:00,[User]_bnomis,"{'[User]_bnomis', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11439
+2023-09-15 15:33:32+00:00,[User]_rdbisme,"{'[User]_rdbisme', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11440
+2023-09-15 16:32:01+00:00,[User]_cmdulek98,"{'[User]_cmdulek98', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11441
+2023-09-16 15:40:04+00:00,[User]_SharadNair7,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11442
+2023-09-17 07:06:34+00:00,[User]_SharadNair7,"{'[User]_Zac-HD', '[User]_nicoddemus', '[User]_SharadNair7'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11444
+2023-09-17 14:09:54+00:00,[User]_drunkwcodes,"{'[User]_RonnyPfannschmidt', '[User]_drunkwcodes'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11445
+2023-09-17 19:13:58+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11446
+2023-09-18 01:06:00+00:00,[User]_chrimaho,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11447
+2023-09-18 01:27:13+00:00,[User]_chrimaho,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11448
+2023-09-19 17:24:06+00:00,[User]_bnomis,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11453
+2023-09-20 18:42:56+00:00,[User]_wolfgang-blaszczyk,"{'[User]_RonnyPfannschmidt', '[User]_Zac-HD', '[User]_TanyaAgarwal28', '[User]_wolfgang-blaszczyk'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11456
+2023-09-21 03:04:00+00:00,[User]_YTChiu,"{'[User]_YTChiu', '[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11458
+2023-09-22 02:17:01+00:00,[User]_gpBlockchain,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11460
+2023-09-23 00:54:09+00:00,[User]_jxramos,"{'[User]_RonnyPfannschmidt', '[User]_Zac-HD', '[User]_jxramos'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11462
+2023-09-23 21:04:06+00:00,[User]_harmin-parra,"{'[User]_harmin-parra', '[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11463
+2023-09-24 10:35:25+00:00,[User]_ycopin,"{'[User]_ycopin', '[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11466
+2023-09-25 05:39:36+00:00,[User]_RonnyPfannschmidt,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_TanyaAgarwal28'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11467
+2023-09-27 03:22:33+00:00,[User]_reaganjlee,"{'[User]_reaganjlee', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11469
+2023-09-27 11:19:52+00:00,[User]_dosas,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11470
+2023-10-01 14:22:47+00:00,[User]_plannigan,"{'[User]_bluetech', '[User]_plannigan', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11473
+2023-10-02 12:50:00+00:00,[User]_flying-sheep,"{'[User]_bluetech', '[User]_flying-sheep', '[User]_richardxia', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11475
+2023-10-03 09:37:13+00:00,[User]_Hi-Angel,"{'[User]_The-Compiler', '[User]_Hi-Angel'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11477
+2023-10-04 20:26:18+00:00,[User]_BeyondEvil,"{'[User]_RonnyPfannschmidt', '[User]_BeyondEvil'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11479
+2023-10-05 07:20:32+00:00,[User]_dszady-rtb,"{'[User]_bluetech', '[User]_robert-iancu-jr'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11480
+2023-10-05 18:47:01+00:00,[User]_harmin-parra,"{'[User]_harmin-parra', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11481
+2023-10-07 13:09:22+00:00,[User]_bnomis,"{'[User]_bnomis', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11485
+2023-10-07 13:55:22+00:00,[User]_RonnyPfannschmidt,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11486
+2023-10-08 11:30:57+00:00,[User]_TanyaAgarwal28,"{'[User]_pllim', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11489
+2023-10-08 18:27:56+00:00,[User]_ryanpudd,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11490
+2023-10-10 12:43:42+00:00,[User]_TanyaAgarwal28,"{'[User]_nicoddemus', '[User]_TanyaAgarwal28'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11493
+2023-10-11 02:22:01+00:00,[User]_DetachHead,"{'[User]_DetachHead', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11494
+2023-10-11 02:29:33+00:00,[User]_DetachHead,"{'[User]_JuroOravec', '[User]_SongpengLiu'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11495
+2023-10-12 07:57:39+00:00,[User]_TanyaAgarwal28,"{'[User]_RonnyPfannschmidt', '[User]_TanyaAgarwal28'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11498
+2023-10-12 09:55:35+00:00,[User]_TanyaAgarwal28,"{'[User]_bluetech', '[User]_Zac-HD', '[User]_TanyaAgarwal28'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11499
+2023-10-13 07:05:54+00:00,[User]_TanyaAgarwal28,{'[User]_Zac-HD'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11501
+2023-10-13 15:42:29+00:00,[User]_ssbarnea,{'[User]_dongfangtianyu'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11502
+2023-10-14 09:09:14+00:00,[User]_harmin-parra,{'[User]_harmin-parra'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11503
+2023-10-16 07:50:34+00:00,[User]_bersbersbers,"{'[User]_bersbersbers', '[User]_nicoddemus', '[User]_Ben-Costa'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11507
+2023-10-17 07:23:10+00:00,[User]_bersbersbers,"{'[User]_bersbersbers', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11511
+2023-10-17 15:48:22+00:00,[User]_jaraco,"{'[User]_jaraco', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11512
+2023-10-18 10:37:38+00:00,[User]_ssbarnea,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11515
+2023-10-18 16:01:43+00:00,[User]_tylerjereddy,"{'[User]_RonnyPfannschmidt', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11518
+2023-10-18 16:45:04+00:00,[User]_okken,"{'[User]_The-Compiler', '[User]_okken'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11519
+2023-10-18 20:10:37+00:00,[User]_BenjaminSchubert,"{'[User]_bluetech', '[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_BenjaminSchubert'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11520
+2023-10-19 16:34:33+00:00,[User]_graingert,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_graingert', '[User]_bluetech'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11523
+2023-10-19 17:10:52+00:00,[User]_graingert,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11524
+2023-10-20 08:01:22+00:00,[User]_The-Compiler,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11525
+2023-10-20 10:40:32+00:00,[User]_jgersti,"{'[User]_jgersti', '[User]_The-Compiler'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11527
+2023-10-20 11:10:22+00:00,[User]_jaroslaw-majka,"{'[User]_The-Compiler', '[User]_graingert'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11528
+2023-10-21 10:34:21+00:00,[User]_BenjaminSchubert,"{'[User]_bluetech', '[User]_nicoddemus', '[User]_BenjaminSchubert'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11530
+2023-10-21 18:57:48+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_nicoddemus', '[User]_BenjaminSchubert'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11531
+2023-10-21 19:38:21+00:00,[User]_jgersti,"{'[User]_glatterf42', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11532
+2023-10-21 19:59:59+00:00,[User]_jgersti,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11533
+2023-10-22 02:45:52+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11535
+2023-10-22 12:54:21+00:00,[User]_BenjaminSchubert,"{'[User]_bluetech', '[User]_The-Compiler', '[User]_BenjaminSchubert', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11537
+2023-10-22 21:54:07+00:00,[User]_elupus,"{'[User]_RonnyPfannschmidt', '[User]_elupus', '[User]_nicoddemus', '[User]_belm0', '[User]_keewis', '[User]_jakkdl', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11538
+2023-10-23 18:41:37+00:00,[User]_CarstenGrohmann,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11542
+2023-10-24 06:17:48+00:00,[User]_dset77,"{'[User]_The-Compiler', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11544
+2023-10-24 19:15:33+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11547
+2023-10-24 19:35:57+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11548
+2023-10-24 19:40:55+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11549
+2023-10-24 20:41:53+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11550
+2023-10-24 22:49:06+00:00,[User]_Sveimoldr,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11551
+2023-10-25 07:28:52+00:00,[User]_sshane,"{'[User]_HolyMagician03-UMich', '[User]_sshane'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11552
+2023-10-25 16:23:14+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11554
+2023-10-26 02:43:41+00:00,[User]_tkoft,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_tkoft', '[User]_Pierre-Sassoulas'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11555
+2023-10-26 13:02:04+00:00,[User]_nicoddemus,"{'[User]_ziadk', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11556
+2023-10-26 14:36:49+00:00,[User]_ziadk,"{'[User]_Pierre-Sassoulas', '[User]_nicoddemus', '[User]_kalekundert'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11557
+2023-10-26 15:42:48+00:00,[User]_ziadk,"{'[User]_ziadk', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11558
+2023-10-27 03:37:45+00:00,[User]_SongpengLiu,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11559
+2023-10-27 04:17:11+00:00,[User]_SongpengLiu,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_asottile', '[User]_Pierre-Sassoulas', '[User]_SongpengLiu'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11560
+2023-10-27 11:09:08+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11561
+2023-10-27 11:34:20+00:00,[User]_nicoddemus,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11562
+2023-10-27 20:02:14+00:00,[User]_pllim,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11563
+2023-10-27 20:25:11+00:00,[User]_nicoddemus,"{'[User]_pllim', '[User]_Pierre-Sassoulas'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11564
+2023-10-27 22:33:56+00:00,[User]_Avasam,"{'[User]_Avasam', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11565
+2023-10-29 20:16:58+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11567
+2023-10-29 20:17:44+00:00,[User]_bluetech,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11568
+2023-10-30 03:36:20+00:00,[User]_dimaqq,"{'[User]_dimaqq', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11569
+2023-10-30 22:51:04+00:00,[User]_BenjaminSchubert,"{'[User]_bluetech', '[User]_BenjaminSchubert', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11571
+2023-10-31 08:06:20+00:00,[User]_bnomis,{'[User]_dingobar'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11572
+2023-11-01 15:02:42+00:00,[User]_sturmf,"{'[User]_sturmf', '[User]_bluetech', '[User]_nicoddemus', '[User]_okken'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11574
+2023-11-01 18:49:07+00:00,[User]_yugokato,"{'[User]_SharadNair7', '[User]_RonnyPfannschmidt', '[User]_yugokato'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11575
+2023-11-02 11:30:00+00:00,[User]_sparrowt,"{'[User]_Zac-HD', '[User]_nicoddemus', '[User]_sparrowt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11577
+2023-11-02 21:20:52+00:00,[User]_nicoddemus,"{'[User]_The-Compiler', '[User]_Zac-HD', '[User]_nicoddemus', '[User]_dhruvk12'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11578
+2023-11-03 17:21:36+00:00,[User]_neilmartin2000,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11582
+2023-11-03 20:41:09+00:00,[User]_bnomis,"{'[User]_bluetech', '[User]_bnomis', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11584
+2023-11-04 08:32:00+00:00,[User]_marcindulak,"{'[User]_marcindulak', '[User]_The-Compiler'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11585
+2023-11-04 15:34:55+00:00,[User]_nicoddemus,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11586
+2023-11-07 13:01:20+00:00,[User]_SharadNair7,"{'[User]_Zac-HD', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_SharadNair7'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11594
+2023-11-07 17:27:41+00:00,[User]_nicoddemus,"{'[User]_touilleWoman', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11596
+2023-11-07 17:47:02+00:00,[User]_galipremsagar,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11597
+2023-11-07 19:36:12+00:00,[User]_billlocke,"{'[User]_The-Compiler', '[User]_nicoddemus', '[User]_billlocke'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11598
+2023-11-08 20:02:10+00:00,[User]_Avasam,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11600
+2023-11-09 12:33:02+00:00,[User]_DetachHead,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11602
+2023-11-09 19:54:44+00:00,[User]_hroncok,"{'[User]_asottile', '[User]_hroncok', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11603
+2023-11-10 02:57:39+00:00,[User]_tucked,"{'[User]_bluetech', '[User]_tucked', '[User]_neilmartin2000'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11604
+2023-11-13 03:55:04+00:00,[User]_jenstroeger,"{'[User]_jenstroeger', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11610
+2023-11-13 09:03:30+00:00,[User]_hroncok,"{'[User]_hroncok', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11611
+2023-11-14 09:32:04+00:00,[User]_RonnyPfannschmidt,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11614
+2023-11-14 20:00:08+00:00,[User]_Babahasko,"{'[User]_RonnyPfannschmidt', '[User]_Babahasko'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11617
+2023-11-18 05:22:14+00:00,[User]_jenstroeger,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11625
+2023-11-18 09:35:18+00:00,[User]_BenjaminSchubert,"{'[User]_bluetech', '[User]_nicoddemus', '[User]_BenjaminSchubert'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11626
+2023-11-19 16:04:55+00:00,[User]_asottile,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11628
+2023-11-22 11:47:29+00:00,[User]_fenchu,{'[User]_fenchu'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11630
+2023-11-23 08:42:29+00:00,[User]_ThiefMaster,"{'[User]_ThiefMaster', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11632
+2023-11-23 23:33:19+00:00,[User]_DetachHead,{'[User]_DetachHead'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11634
+2023-11-24 16:09:42+00:00,[User]_jack-zj-liu,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11635
+2023-11-24 17:53:17+00:00,[User]_mtsokol,"{'[User]_RonnyPfannschmidt', '[User]_mtsokol'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11636
+2023-11-24 22:40:53+00:00,[User]_matanster,"{'[User]_matanster', '[User]_Zac-HD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11637
+2023-11-25 11:01:59+00:00,[User]_mgorny,"{'[User]_nicoddemus', '[User]_mgorny'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11638
+2023-11-25 17:29:58+00:00,[User]_plannigan,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11639
+2023-11-27 05:17:21+00:00,[User]_3fdh-h,{'[User]_3fdh-h'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11643
+2023-11-27 18:39:15+00:00,[User]_BenjaminSchubert,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_BenjaminSchubert'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11644
+2023-11-27 21:47:19+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_BeyondEvil'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11646
+2023-11-28 15:49:11+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11648
+2023-11-28 17:59:49+00:00,[User]_bluetech,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11650
+2023-11-30 12:54:06+00:00,[User]_touilleWoman,"{'[User]_touilleWoman', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11652
+2023-12-03 13:17:20+00:00,[User]_BenjaminSchubert,"{'[User]_bluetech', '[User]_BenjaminSchubert'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11659
+2023-12-03 13:54:54+00:00,[User]_BenjaminSchubert,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_BenjaminSchubert'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11660
+2023-12-03 19:55:10+00:00,[User]_seifertm,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_seifertm'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11662
+2023-12-04 11:34:36+00:00,[User]_bluetech,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11666
+2023-12-04 20:37:32+00:00,[User]_bluetech,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11667
+2023-12-04 20:46:38+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11668
+2023-12-05 03:37:39+00:00,[User]_seanpourgoutzidis,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11669
+2023-12-05 14:11:31+00:00,[User]_jakkdl,"{'[User]_Zac-HD', '[User]_bluetech', '[User]_jakkdl', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11671
+2023-12-06 02:38:52+00:00,[User]_hauntsaninja,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11673
+2023-12-06 16:50:46+00:00,[User]_sebas031811,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11675
+2023-12-06 17:05:54+00:00,[User]_bluetech,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11676
+2023-12-06 17:15:37+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11677
+2023-12-06 22:34:32+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11678
+2023-12-07 00:16:02+00:00,[User]_ihindi1111,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11679
+2023-12-07 00:34:53+00:00,[User]_webknjaz,"{'[User]_RonnyPfannschmidt', '[User]_Pierre-Sassoulas', '[User]_webknjaz'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11680
+2023-12-07 09:53:30+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_Pierre-Sassoulas', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11684
+2023-12-08 00:59:25+00:00,[User]_JamieC2002,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11688
+2023-12-11 17:52:21+00:00,[User]_iodim-f,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11694
+2023-12-11 18:01:42+00:00,[User]_SpecLad,"{'[User]_SpecLad', '[User]_nicoddemus', '[User]_arthuRHD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11695
+2023-12-11 22:33:26+00:00,[User]_OlegP-andrew,{'[User]_OlegP-andrew'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11696
+2023-12-13 09:39:25+00:00,[User]_Remi-Gau,"{'[User]_The-Compiler', '[User]_Remi-Gau'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11697
+2023-12-13 11:31:47+00:00,[User]_arthuRHD,"{'[User]_bluetech', '[User]_nicoddemus', '[User]_arthuRHD'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11698
+2023-12-13 11:37:14+00:00,[User]_morty,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11699
+2023-12-13 20:40:49+00:00,[User]_TyYan03,"{'[User]_bluetech', '[User]_TyYan03'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11700
+2023-12-14 10:05:05+00:00,[User]_8TRobi8,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11701
+2023-12-14 23:30:41+00:00,[User]_bbrown1867,"{'[User]_bbrown1867', '[User]_bluetech'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11706
+2023-12-15 12:14:08+00:00,[User]_couling,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11707
+2023-12-15 16:11:04+00:00,[User]_fcharras,"{'[User]_lesteve', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_jgb', '[User]_fcharras', '[User]_bluetech'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11708
+2023-12-16 15:41:42+00:00,[User]_bluetech,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11710
+2023-12-16 15:47:08+00:00,[User]_bluetech,{'[User]_bluetech'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11711
+2023-12-16 18:26:07+00:00,[User]_mgorny,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_mgorny'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11712
+2023-12-16 18:49:30+00:00,[User]_lmmx,{'[User]_lmmx'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11713
+2023-12-16 19:32:20+00:00,[User]_ConorMacBride,"{'[User]_bluetech', '[User]_ConorMacBride'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11714
+2023-12-17 01:40:11+00:00,[User]_ezyang,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11716
+2023-12-18 04:50:27+00:00,[User]_Timmeeh,{'[User]_Timmeeh'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11720
+2023-12-18 16:32:29+00:00,[User]_bbrown1867,"{'[User]_bbrown1867', '[User]_bluetech', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11721
+2023-12-19 12:57:16+00:00,[User]_fcharras,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11725
+2023-12-20 16:54:25+00:00,[User]_LukasJerabek,"{'[User]_millerdev', '[User]_LukasJerabek'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11728
+2023-12-21 11:28:35+00:00,[User]_kaddkaka,"{'[User]_RonnyPfannschmidt', '[User]_kaddkaka', '[User]_ValdonVitija'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11730
+2023-12-21 20:36:00+00:00,[User]_Delgan,{'[User]_The-Compiler'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11731
+2023-12-22 10:30:37+00:00,[User]_bluetech,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11732
+2023-12-22 12:02:32+00:00,[User]_sundar-ds,"{'[User]_sundar-ds', '[User]_RonnyPfannschmidt', '[User]_neihanshenshou'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11733
+2023-12-23 03:12:56+00:00,[User]_Alex-Lin5,{'[User]_Alex-Lin5'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11734
+2023-12-23 04:37:22+00:00,[User]_okken,{'[User]_okken'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11735
+2023-12-26 10:31:48+00:00,[User]_MarcBresson,"{'[User]_RonnyPfannschmidt', '[User]_MarcBresson'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11738
+2023-12-26 10:57:50+00:00,[User]_MarcBresson,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_MarcBresson'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11739
+2023-12-27 07:25:50+00:00,[User]_yanghuizhi,"{'[User]_yanghuizhi', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11740
+2023-12-27 12:37:04+00:00,[User]_Noam-Microsoft,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11741
+2023-12-27 13:39:06+00:00,[User]_lucascolley,"{'[User]_ryanlg', '[User]_lucascolley'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/issues/11742
+2023-12-30 20:16:37+00:00,[User]_bluetech,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11745
+2023-12-31 09:48:15+00:00,[User]_bluetech,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11751
+2023-12-31 12:17:10+00:00,[User]_bluetech,set(),pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11753
+2023-12-31 13:27:01+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2023,https://github.com/pytest-dev/pytest/pull/11754
+2024-01-02 09:00:31+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11756
+2024-01-02 10:28:34+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_krassowski', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11757
+2024-01-02 16:36:41+00:00,[User]_larsoner,"{'[User]_bluetech', '[User]_larsoner'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11758
+2024-01-02 16:58:32+00:00,[User]_flying-sheep,"{'[User]_bluetech', '[User]_flying-sheep'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11759
+2024-01-02 17:37:50+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11760
+2024-01-02 18:57:07+00:00,[User]_mtelka,"{'[User]_mtelka', '[User]_vtn034'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11761
+2024-01-02 20:28:46+00:00,[User]_bmos,"{'[User]_RonnyPfannschmidt', '[User]_Pierre-Sassoulas', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11762
+2024-01-04 01:27:54+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11767
+2024-01-04 10:54:22+00:00,[User]_neutrinoceros,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11769
+2024-01-04 12:28:49+00:00,[User]_superosku,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11770
+2024-01-04 12:35:11+00:00,[User]_bluetech,"{'[User]_skirpichev', '[User]_cfbolz'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11771
+2024-01-04 20:33:35+00:00,[User]_sliwinski-milosz,"{'[User]_bluetech', '[User]_sliwinski-milosz'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11772
+2024-01-04 20:36:00+00:00,[User]_wjakob,"{'[User]_wjakob', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11773
+2024-01-04 20:36:31+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11774
+2024-01-05 12:40:38+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11776
+2024-01-05 18:33:33+00:00,[User]_dpitch40,{'[User]_HolyMagician03-UMich'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11777
+2024-01-05 23:34:27+00:00,[User]_pllim,"{'[User]_bsipocz', '[User]_bluetech', '[User]_pllim'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11779
+2024-01-06 12:08:32+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11780
+2024-01-06 12:12:31+00:00,[User]_BeyondEvil,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_juliangilbey', '[User]_BeyondEvil'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11781
+2024-01-06 15:42:21+00:00,[User]_vitaly-krugl,"{'[User]_vitaly-krugl', '[User]_Zac-HD'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11782
+2024-01-06 20:05:47+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11783
+2024-01-07 22:11:35+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11785
+2024-01-08 11:13:06+00:00,[User]_faph,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11789
+2024-01-08 11:22:02+00:00,[User]_faph,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_faph'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11790
+2024-01-09 21:51:32+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11794
+2024-01-10 06:07:13+00:00,[User]_lesteve,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11795
+2024-01-10 14:13:46+00:00,[User]_thorink,"{'[User]_thorink', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11797
+2024-01-10 17:23:11+00:00,[User]_bluetech,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11799
+2024-01-11 03:47:35+00:00,[User]_faisal-fawad,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11800
+2024-01-11 10:00:21+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11801
+2024-01-11 18:06:37+00:00,[User]_mrbean-bremen,"{'[User]_mrbean-bremen', '[User]_bluetech'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11803
+2024-01-12 07:00:58+00:00,[User]_whysage,"{'[User]_zanieb', '[User]_Zac-HD', '[User]_nicoddemus', '[User]_whysage'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11804
+2024-01-12 10:20:25+00:00,[User]_superlevure,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11805
+2024-01-12 21:57:31+00:00,[User]_mwouts,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_mwouts'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11807
+2024-01-13 09:21:23+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11808
+2024-01-14 09:42:56+00:00,[User]_cj-timothy-sampson,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11812
+2024-01-14 13:14:33+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11814
+2024-01-14 13:19:21+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11815
+2024-01-14 20:17:34+00:00,[User]_woutdenolf,"{'[User]_bluetech', '[User]_lesteve', '[User]_woutdenolf'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11816
+2024-01-15 07:49:40+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11817
+2024-01-15 11:24:29+00:00,[User]_RonnyPfannschmidt,"{'[User]_thorink', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11818
+2024-01-15 19:11:01+00:00,[User]_The-Compiler,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11819
+2024-01-15 21:00:17+00:00,[User]_woutdenolf,{'[User]_woutdenolf'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11821
+2024-01-15 21:54:54+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11822
+2024-01-16 10:01:04+00:00,[User]_The-Compiler,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11823
+2024-01-16 14:44:40+00:00,[User]_woutdenolf,"{'[User]_bluetech', '[User]_Zac-HD', '[User]_woutdenolf'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11825
+2024-01-16 20:08:11+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11826
+2024-01-16 21:07:53+00:00,[User]_MaximM95,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11827
+2024-01-17 03:28:05+00:00,[User]_jmwilkinson,{'[User]_jmwilkinson'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11829
+2024-01-17 12:06:12+00:00,[User]_faph,"{'[User]_nicoddemus', '[User]_faph'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11830
+2024-01-17 13:43:13+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11831
+2024-01-17 15:12:59+00:00,[User]_jobh,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11832
+2024-01-17 15:30:42+00:00,[User]_jakkdl,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_jakkdl', '[User]_bluetech', '[User]_Zac-HD'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11833
+2024-01-17 20:25:59+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11835
+2024-01-17 20:38:22+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11836
+2024-01-17 21:46:13+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11838
+2024-01-17 21:55:55+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11839
+2024-01-17 22:22:45+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11840
+2024-01-18 17:45:01+00:00,[User]_clee2000,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11842
+2024-01-18 20:18:56+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11843
+2024-01-18 22:52:24+00:00,[User]_bukzor,"{'[User]_RonnyPfannschmidt', '[User]_bukzor'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11844
+2024-01-21 20:32:39+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11851
+2024-01-22 14:30:25+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11854
+2024-01-23 19:42:56+00:00,[User]_graingert,"{'[User]_graingert', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11855
+2024-01-24 14:08:24+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11856
+2024-01-25 17:31:38+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11859
+2024-01-26 16:05:21+00:00,[User]_dqkqd,"{'[User]_nicoddemus', '[User]_dqkqd'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11861
+2024-01-27 12:07:28+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11862
+2024-01-27 21:26:55+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11864
+2024-01-27 22:00:46+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11865
+2024-01-28 08:21:06+00:00,[User]_Joshuaalbert,"{'[User]_The-Compiler', '[User]_shayts7', '[User]_nicoddemus', '[User]_cjw296', '[User]_sthagen', '[User]_arossert', '[User]_pablobuenaposada', '[User]_sscherfke', '[User]_dolfinus', '[User]_bluetech', '[User]_yaelmi3', '[User]_tandav', '[User]_seifertm'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11868
+2024-01-28 09:31:57+00:00,[User]_dolfinus,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11869
+2024-01-28 13:22:06+00:00,[User]_jbkkd,"{'[User]_levsa', '[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_jbkkd', '[User]_bluetech'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11871
+2024-01-28 15:44:03+00:00,[User]_neutrinoceros,"{'[User]_bluetech', '[User]_tmct', '[User]_glemaitre', '[User]_neutrinoceros'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11872
+2024-01-28 19:57:55+00:00,[User]_rhshadrach,"{'[User]_bluetech', '[User]_rhshadrach', '[User]_mroeschke'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11873
+2024-01-28 21:50:51+00:00,[User]_rmartin16,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11874
+2024-01-28 22:49:28+00:00,[User]_rmartin16,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11875
+2024-01-29 08:29:17+00:00,[User]_neutrinoceros,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_bluetech', '[User]_Zac-HD', '[User]_neutrinoceros'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11879
+2024-01-29 09:17:17+00:00,[User]_sigma67,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11880
+2024-01-29 11:41:24+00:00,[User]_jakkdl,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11882
+2024-01-29 18:05:39+00:00,[User]_glemaitre,"{'[User]_bluetech', '[User]_glemaitre'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11883
+2024-01-29 18:52:53+00:00,[User]_larsoner,"{'[User]_bluetech', '[User]_larsoner'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11884
+2024-01-30 00:15:07+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11887
+2024-01-30 00:17:36+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_YannickJadoul'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11888
+2024-01-30 00:26:21+00:00,[User]_nicoddemus,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11889
+2024-01-30 02:12:36+00:00,[User]_vanloc1808,"{'[User]_The-Compiler', '[User]_vanloc1808'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11890
+2024-01-30 13:44:46+00:00,[User]_jakkdl,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11892
+2024-01-30 14:33:20+00:00,[User]_valeriupredoi,{'[User]_valeriupredoi'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11893
+2024-01-30 18:16:07+00:00,[User]_Erotemic,"{'[User]_bluetech', '[User]_Erotemic', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11895
+2024-01-30 19:37:47+00:00,[User]_nicoddemus,"{'[User]_Pierre-Sassoulas', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11896
+2024-01-31 11:55:26+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11898
+2024-01-31 12:19:19+00:00,[User]_Pierre-Sassoulas,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11899
+2024-01-31 13:04:59+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11900
+2024-01-31 13:37:04+00:00,[User]_Pierre-Sassoulas,"{'[User]_bluetech', '[User]_Pierre-Sassoulas', '[User]_nicoddemus', '[User]_graingert'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11901
+2024-01-31 21:10:06+00:00,[User]_ntjohnson1,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11902
+2024-01-31 21:41:10+00:00,[User]_ntjohnson1,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11903
+2024-01-31 23:00:26+00:00,[User]_pulkin,"{'[User]_nicoddemus', '[User]_KellyP5', '[User]_pulkin', '[User]_bluetech', '[User]_mrlifetime', '[User]_Erotemic'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11904
+2024-02-01 13:20:19+00:00,[User]_maread99,"{'[User]_maread99', '[User]_The-Compiler', '[User]_Zac-HD'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11906
+2024-02-01 17:08:46+00:00,[User]_mgorny,"{'[User]_bluetech', '[User]_Zac-HD'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11907
+2024-02-02 13:40:26+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11910
+2024-02-02 13:40:43+00:00,[User]_Pierre-Sassoulas,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11911
+2024-02-02 20:39:30+00:00,[User]_Pierre-Sassoulas,"{'[User]_bluetech', '[User]_Pierre-Sassoulas'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11914
+2024-02-03 21:30:32+00:00,[User]_bluetech,"{'[User]_Pierre-Sassoulas', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11915
+2024-02-03 21:45:05+00:00,[User]_bluetech,{'[User]_Zac-HD'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11916
+2024-02-04 00:06:28+00:00,[User]_reaganjlee,"{'[User]_reaganjlee', '[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11917
+2024-02-04 21:14:51+00:00,[User]_bluetech,"{'[User]_nicoddemus', '[User]_mgorny'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11920
+2024-02-05 10:23:48+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_Pierre-Sassoulas'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11928
+2024-02-05 12:27:25+00:00,[User]_mgedmin,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11929
+2024-02-05 14:40:46+00:00,[User]_Pierre-Sassoulas,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_Pierre-Sassoulas'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11930
+2024-02-05 15:10:21+00:00,[User]_flying-sheep,"{'[User]_bluetech', '[User]_flying-sheep', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11931
+2024-02-05 19:26:36+00:00,[User]_Pierre-Sassoulas,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_Pierre-Sassoulas', '[User]_edgarrmondragon'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11932
+2024-02-05 20:19:34+00:00,[User]_bluetech,"{'[User]_reaganjlee', '[User]_Zac-HD'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11933
+2024-02-05 21:51:10+00:00,[User]_okken,"{'[User]_bluetech', '[User]_The-Compiler', '[User]_okken'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11937
+2024-02-06 22:08:11+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11941
+2024-02-07 01:32:07+00:00,[User]_DetachHead,"{'[User]_bluetech', '[User]_DetachHead', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11942
+2024-02-07 13:13:16+00:00,[User]_gryznar,"{'[User]_gryznar', '[User]_torotil', '[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_bluetech'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11944
+2024-02-07 14:54:08+00:00,[User]_polwel,{'[User]_crazymerlyn'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11945
+2024-02-07 20:14:51+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11947
+2024-02-07 20:55:18+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11948
+2024-02-08 10:05:58+00:00,[User]_DetachHead,"{'[User]_DetachHead', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11951
+2024-02-08 11:16:31+00:00,[User]_joaodaher,"{'[User]_bluetech', '[User]_joaodaher'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11952
+2024-02-08 14:21:08+00:00,[User]_solaluset,"{'[User]_The-Compiler', '[User]_solaluset'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11953
+2024-02-08 19:42:24+00:00,[User]_pllim,"{'[User]_dhomeier', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11954
+2024-02-08 22:01:47+00:00,[User]_kloczek,"{'[User]_The-Compiler', '[User]_kloczek'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11955
+2024-02-09 09:18:07+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_Pierre-Sassoulas', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11956
+2024-02-09 13:26:35+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11957
+2024-02-09 21:06:40+00:00,[User]_eerovaher,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11959
+2024-02-10 03:47:51+00:00,[User]_Ark-kun,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11960
+2024-02-10 19:26:20+00:00,[User]_Pierre-Sassoulas,"{'[User]_bluetech', '[User]_Pierre-Sassoulas', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11961
+2024-02-10 22:12:13+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_Pierre-Sassoulas', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11962
+2024-02-10 23:23:40+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11963
+2024-02-13 07:53:30+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_0x78f1935'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11969
+2024-02-13 20:47:05+00:00,[User]_xaviernogueira,{'[User]_xaviernogueira'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11971
+2024-02-13 22:44:31+00:00,[User]_etianen,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11972
+2024-02-13 22:51:19+00:00,[User]_etianen,{'[User]_The-Compiler'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11973
+2024-02-14 00:25:35+00:00,[User]_sshane,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11974
+2024-02-14 03:15:31+00:00,[User]_DetachHead,{'[User]_DetachHead'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11975
+2024-02-14 10:50:04+00:00,[User]_ShurikMen,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11976
+2024-02-15 01:30:22+00:00,[User]_Leithal3,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11978
+2024-02-15 01:50:36+00:00,[User]_Leithal3,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11979
+2024-02-15 06:08:46+00:00,[User]_DetachHead,{'[User]_mberkowitz03'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11980
+2024-02-15 16:16:31+00:00,[User]_RonnyPfannschmidt,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11983
+2024-02-15 22:47:36+00:00,[User]_DetachHead,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11984
+2024-02-15 23:55:32+00:00,[User]_DetachHead,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11985
+2024-02-16 09:26:05+00:00,[User]_M1troll,{'[User]_M1troll'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11987
+2024-02-16 09:43:26+00:00,[User]_fschulze,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/11988
+2024-02-16 10:05:05+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11989
+2024-02-16 10:36:49+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11990
+2024-02-16 12:15:21+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11991
+2024-02-16 12:38:28+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11992
+2024-02-16 22:12:54+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11995
+2024-02-17 10:26:05+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11996
+2024-02-17 16:26:01+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_flying-sheep', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11997
+2024-02-17 16:36:52+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_Pierre-Sassoulas', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/11998
+2024-02-17 20:36:26+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12000
+2024-02-17 21:06:38+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12002
+2024-02-18 03:48:22+00:00,[User]_Monallabs,{'[User]_The-Compiler'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12004
+2024-02-18 11:11:29+00:00,[User]_nicoddemus,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12006
+2024-02-18 12:08:54+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12007
+2024-02-19 04:14:55+00:00,[User]_ShurikMen,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_ShurikMen', '[User]_sadra-barikbin'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12008
+2024-02-19 11:54:59+00:00,[User]_lesteve,"{'[User]_bluetech', '[User]_lesteve', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12011
+2024-02-20 07:36:43+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12013
+2024-02-20 17:00:31+00:00,[User]_larsoner,"{'[User]_larsoner', '[User]_RonnyPfannschmidt', '[User]_Zac-HD'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12014
+2024-02-20 20:55:06+00:00,[User]_germaniuss,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12016
+2024-02-21 15:33:30+00:00,[User]_RonnyPfannschmidt,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12017
+2024-02-22 08:00:35+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12019
+2024-02-22 19:56:01+00:00,[User]_nicoddemus,{'[User]_asottile'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12020
+2024-02-23 09:42:11+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12021
+2024-02-23 09:49:27+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12022
+2024-02-23 09:54:35+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12023
+2024-02-23 14:02:24+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12027
+2024-02-24 21:31:53+00:00,[User]_spikethehobbitmage,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12028
+2024-02-24 22:26:44+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12030
+2024-02-25 19:11:58+00:00,[User]_PrastianHD,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12032
+2024-02-26 05:53:08+00:00,[User]_pashupati123,"{'[User]_bluetech', '[User]_jhanm12'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12034
+2024-02-26 16:14:55+00:00,[User]_ZzEeKkAa,"{'[User]_bluetech', '[User]_eleanorjboyd'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12036
+2024-02-27 20:25:32+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12037
+2024-02-27 20:28:01+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12038
+2024-02-27 20:52:31+00:00,[User]_mrbean-bremen,"{'[User]_mrbean-bremen', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12039
+2024-02-28 15:15:49+00:00,[User]_skoudoro,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12040
+2024-02-29 17:42:27+00:00,[User]_MatrixEditor,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12041
+2024-02-29 21:45:57+00:00,[User]_donhui,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12042
+2024-03-01 13:15:25+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12043
+2024-03-01 17:44:58+00:00,[User]_y2kbugger,"{'[User]_estyrke', '[User]_y2kbugger', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12044
+2024-03-02 21:18:36+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12047
+2024-03-02 21:24:38+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12048
+2024-03-03 07:42:16+00:00,[User]_mrbean-bremen,"{'[User]_mrbean-bremen', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12050
+2024-03-03 12:51:11+00:00,[User]_jakkdl,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12051
+2024-03-03 13:20:27+00:00,[User]_nicoddemus,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12052
+2024-03-03 14:58:35+00:00,[User]_paugier,"{'[User]_bluetech', '[User]_paugier'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12053
+2024-03-03 21:27:43+00:00,[User]_bluetech,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12055
+2024-03-04 03:48:11+00:00,[User]_zhulinJulia24,{'[User]_The-Compiler'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12059
+2024-03-04 03:53:07+00:00,[User]_zzzeek,{'[User]_zzzeek'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12060
+2024-03-04 06:45:19+00:00,[User]_glatterf42,"{'[User]_RonnyPfannschmidt', '[User]_robsan00', '[User]_glatterf42', '[User]_khaeru', '[User]_bluetech'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12061
+2024-03-04 07:18:24+00:00,[User]_DetachHead,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12062
+2024-03-04 10:02:03+00:00,[User]_zheldashev,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12063
+2024-03-04 10:02:26+00:00,[User]_asztalosdani,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12064
+2024-03-04 10:18:30+00:00,[User]_shreyasvinaya,"{'[User]_bluetech', '[User]_The-Compiler', '[User]_SvenStaehs'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12066
+2024-03-04 11:01:15+00:00,[User]_orestk-adorama,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12067
+2024-03-04 11:18:50+00:00,[User]_mr-c,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_jgraichen', '[User]_mr-c', '[User]_sigma67', '[User]_edgarrmondragon', '[User]_iurisilvio', '[User]_bwoodsend', '[User]_bluetech'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12069
+2024-03-04 12:03:15+00:00,[User]_RonnyPfannschmidt,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12070
+2024-03-04 12:49:59+00:00,[User]_mkashwin,"{'[User]_Zac-HD', '[User]_The-Compiler', '[User]_mkashwin', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12071
+2024-03-04 13:04:55+00:00,[User]_qci-amos,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_qci-amos'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12072
+2024-03-04 15:09:00+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_flying-sheep', '[User]_nicoddemus', '[User]_aaraney'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12074
+2024-03-04 15:18:02+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12075
+2024-03-05 11:34:57+00:00,[User]_fenchu,{'[User]_fenchu'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12078
+2024-03-05 12:31:13+00:00,[User]_levsa,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12079
+2024-03-05 16:57:32+00:00,[User]_kloczek,"{'[User]_bluetech', '[User]_kloczek'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12080
+2024-03-06 00:03:25+00:00,[User]_RedHellion,"{'[User]_The-Compiler', '[User]_RedHellion', '[User]_Zac-HD', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12081
+2024-03-06 08:24:07+00:00,[User]_ShurikMen,"{'[User]_ShurikMen', '[User]_sadra-barikbin'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12082
+2024-03-06 10:53:11+00:00,[User]_nonatomiclabs,"{'[User]_bluetech', '[User]_ericYuan17'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12083
+2024-03-06 11:16:55+00:00,[User]_jakkdl,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_jakkdl'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12084
+2024-03-06 23:17:47+00:00,[User]_levsa,"{'[User]_bluetech', '[User]_levsa', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12085
+2024-03-07 21:29:11+00:00,[User]_gjambaisivanandham,"{'[User]_WarrenTheRabbit', '[User]_RonnyPfannschmidt', '[User]_gjambaisivanandham'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12086
+2024-03-07 22:40:48+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12087
+2024-03-08 10:04:34+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12089
+2024-03-08 22:17:46+00:00,[User]_bluetech,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12092
+2024-03-09 11:53:07+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12095
+2024-03-09 17:38:16+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12096
+2024-03-09 22:56:58+00:00,[User]_kloczek,{'[User]_kloczek'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12097
+2024-03-10 03:30:14+00:00,[User]_vector-of-bool,"{'[User]_RonnyPfannschmidt', '[User]_Zac-HD'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12099
+2024-03-10 14:27:33+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12100
+2024-03-10 14:39:05+00:00,[User]_nicoddemus,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12101
+2024-03-11 15:25:52+00:00,[User]_EngineerHus,"{'[User]_bluetech', '[User]_nicoddemus', '[User]_EngineerHus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12107
+2024-03-11 16:22:31+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12108
+2024-03-11 17:38:55+00:00,[User]_andresliszt,"{'[User]_bluetech', '[User]_andresliszt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12110
+2024-03-12 14:29:43+00:00,[User]_aaraney,"{'[User]_aaraney', '[User]_jaraco', '[User]_nicoddemus', '[User]_joshbode'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12112
+2024-03-12 14:32:11+00:00,[User]_neutrinoceros,"{'[User]_bluetech', '[User]_neutrinoceros'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12113
+2024-03-13 13:37:51+00:00,[User]_starhel,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12116
+2024-03-14 02:58:43+00:00,[User]_guoguojenna,"{'[User]_guoguojenna', '[User]_bluetech'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12117
+2024-03-15 11:34:28+00:00,[User]_jakkdl,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12121
+2024-03-15 17:32:45+00:00,[User]_jsoref,"{'[User]_jsoref', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12122
+2024-03-16 22:18:22+00:00,[User]_gonza-mol,"{'[User]_gonzamol17', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12125
+2024-03-17 13:43:36+00:00,[User]_WarrenTheRabbit,{'[User]_WarrenTheRabbit'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12129
+2024-03-17 19:22:19+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12130
+2024-03-18 10:31:42+00:00,[User]_jakkdl,"{'[User]_jakkdl', '[User]_RonnyPfannschmidt', '[User]_charles-cooper'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12134
+2024-03-18 12:17:34+00:00,[User]_jakkdl,"{'[User]_bluetech', '[User]_WarrenTheRabbit'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12135
+2024-03-18 14:18:30+00:00,[User]_jakkdl,"{'[User]_bluetech', '[User]_WarrenTheRabbit', '[User]_jakkdl'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12136
+2024-03-19 21:01:10+00:00,[User]_bastimeyer,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12141
+2024-03-20 13:15:36+00:00,[User]_germa89,{'[User]_germa89'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12143
+2024-03-20 18:29:11+00:00,[User]_maycuatroi,"{'[User]_RonnyPfannschmidt', '[User]_maycuatroi'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12144
+2024-03-20 18:36:36+00:00,[User]_soceanainn,"{'[User]_soceanainn', '[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12145
+2024-03-21 12:06:34+00:00,[User]_yogendrasinghx,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12146
+2024-03-21 13:24:50+00:00,[User]_StarryZhang-whu,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12147
+2024-03-21 19:50:35+00:00,[User]_SergioInToronto,"{'[User]_nicoddemus', '[User]_SergioInToronto'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12150
+2024-03-22 15:09:55+00:00,[User]_kaddkaka,"{'[User]_RonnyPfannschmidt', '[User]_kaddkaka'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12151
+2024-03-22 18:31:32+00:00,[User]_dheerajck,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_dheerajck'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12153
+2024-03-23 18:21:07+00:00,[User]_bluetech,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12154
+2024-03-24 00:04:19+00:00,[User]_KDot227,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12155
+2024-03-24 14:28:33+00:00,[User]_tserg,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12157
+2024-03-26 04:15:57+00:00,[User]_ShurikMen,{'[User]_ShurikMen'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12163
+2024-03-26 04:20:23+00:00,[User]_ShurikMen,"{'[User]_rplevka', '[User]_RonnyPfannschmidt', '[User]_ShurikMen'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12164
+2024-03-29 15:54:08+00:00,[User]_tamird,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus', '[User]_tamird', '[User]_jurgenwigg', '[User]_bluetech'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12168
+2024-03-30 14:17:58+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_flying-sheep', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12169
+2024-03-30 22:45:01+00:00,[User]_Pierre-Sassoulas,"{'[User]_bluetech', '[User]_Pierre-Sassoulas'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12170
+2024-03-31 22:07:00+00:00,[User]_Pierre-Sassoulas,"{'[User]_RonnyPfannschmidt', '[User]_Pierre-Sassoulas', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12172
+2024-04-01 10:19:02+00:00,[User]_picnixz,"{'[User]_RonnyPfannschmidt', '[User]_picnixz'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12175
+2024-04-02 13:21:47+00:00,[User]_oliverfunk,"{'[User]_oliverfunk', '[User]_The-Compiler', '[User]_whateverforever', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12177
+2024-04-02 14:03:30+00:00,[User]_jaraco,{'[User]_jaraco'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12178
+2024-04-02 14:46:01+00:00,[User]_effigies,"{'[User]_Zac-HD', '[User]_The-Compiler', '[User]_effigies'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12179
+2024-04-03 12:38:56+00:00,[User]_brunolnetto,{'[User]_The-Compiler'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12183
+2024-04-03 20:09:45+00:00,[User]_The-Compiler,"{'[User]_Pierre-Sassoulas', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12185
+2024-04-04 11:14:03+00:00,[User]_mtelka,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12186
+2024-04-04 14:42:54+00:00,[User]_ofek,"{'[User]_RonnyPfannschmidt', '[User]_alex', '[User]_ofek', '[User]_bluetech', '[User]_Zac-HD'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12187
+2024-04-05 09:14:51+00:00,[User]_briceparmentier,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12189
+2024-04-06 07:01:37+00:00,[User]_dheerajck,"{'[User]_adamchainz', '[User]_nicoddemus', '[User]_dheerajck'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12190
+2024-04-06 21:02:41+00:00,[User]_anitahammer,"{'[User]_nicoddemus', '[User]_anitahammer'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12191
+2024-04-06 22:14:56+00:00,[User]_HolyMagician03-UMich,"{'[User]_nicoddemus', '[User]_HolyMagician03-UMich'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12192
+2024-04-08 00:35:40+00:00,[User]_jaraco,"{'[User]_jaraco', '[User]_nicoddemus', '[User]_flying-sheep'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12194
+2024-04-08 11:30:37+00:00,[User]_FRidh,"{'[User]_FRidh', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12197
+2024-04-08 14:03:21+00:00,[User]_tamird,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12199
+2024-04-09 14:22:08+00:00,[User]_chrysle,"{'[User]_RonnyPfannschmidt', '[User]_chrysle'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12201
+2024-04-10 06:18:01+00:00,[User]_AngledLuffa,"{'[User]_RonnyPfannschmidt', '[User]_AngledLuffa'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12202
+2024-04-10 09:18:43+00:00,[User]_dcermak,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12203
+2024-04-10 10:45:32+00:00,[User]_tkukushkin,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12204
+2024-04-11 14:25:54+00:00,[User]_Flamefire,"{'[User]_Flamefire', '[User]_The-Compiler'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12206
+2024-04-11 15:13:30+00:00,[User]_flying-sheep,"{'[User]_flying-sheep', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12207
+2024-04-12 18:54:49+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_jaraco', '[User]_nicoddemus', '[User]_flying-sheep'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12208
+2024-04-12 20:09:02+00:00,[User]_erjan,"{'[User]_The-Compiler', '[User]_erjan', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12209
+2024-04-13 16:08:11+00:00,[User]_nicoddemus,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12210
+2024-04-13 18:25:10+00:00,[User]_jvtm,"{'[User]_RonnyPfannschmidt', '[User]_jvtm'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12211
+2024-04-14 12:36:00+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12213
+2024-04-15 07:38:50+00:00,[User]_amitw-di,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12216
+2024-04-16 08:22:38+00:00,[User]_jaraco,"{'[User]_bluetech', '[User]_jaraco'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12219
+2024-04-16 14:34:35+00:00,[User]_shekhuverma,"{'[User]_shekhuverma', '[User]_The-Compiler', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12220
+2024-04-17 09:00:30+00:00,[User]_Redoubts,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12223
+2024-04-18 05:51:07+00:00,[User]_joemarshall,"{'[User]_joemarshall', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12224
+2024-04-18 18:51:21+00:00,[User]_dheerajck,"{'[User]_adamchainz', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12225
+2024-04-19 11:34:17+00:00,[User]_trondhindenes,"{'[User]_The-Compiler', '[User]_RonnyPfannschmidt', '[User]_okken'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12226
+2024-04-19 17:30:10+00:00,[User]_abravalheri,"{'[User]_RonnyPfannschmidt', '[User]_webknjaz', '[User]_abravalheri'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12228
+2024-04-20 14:48:29+00:00,[User]_nicoddemus,"{'[User]_bluetech', '[User]_RonnyPfannschmidt'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12229
+2024-04-21 13:56:41+00:00,[User]_mgorny,"{'[User]_kpfleming', '[User]_nicoddemus', '[User]_okken', '[User]_bluetech', '[User]_mgorny'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12231
+2024-04-22 09:23:37+00:00,[User]_JCZuurmond,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12235
+2024-04-22 16:24:27+00:00,[User]_The-Compiler,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12236
+2024-04-23 06:14:13+00:00,[User]_Kinetize,{'[User]_Kinetize'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12239
+2024-04-24 14:01:25+00:00,[User]_mvo5,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12241
+2024-04-24 17:39:34+00:00,[User]_leandrowcs,"{'[User]_leandrowcs', '[User]_The-Compiler'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12242
+2024-04-25 20:03:54+00:00,[User]_ReillyBrogan,{'[User]_The-Compiler'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12244
+2024-04-25 21:01:25+00:00,[User]_brycegbrazen,"{'[User]_The-Compiler', '[User]_brycegbrazen', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12245
+2024-04-26 03:26:39+00:00,[User]_mberkowitz03,{'[User]_mberkowitz03'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12246
+2024-04-26 12:06:09+00:00,[User]_Redoubts,{'[User]_Redoubts'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12248
+2024-04-26 14:06:04+00:00,[User]_Redoubts,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12249
+2024-04-26 14:42:51+00:00,[User]_millerdev,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12250
+2024-04-26 18:11:26+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12251
+2024-04-26 18:13:50+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12252
+2024-04-26 20:42:27+00:00,[User]_abravalheri,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12254
+2024-04-26 23:09:54+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12255
+2024-04-27 11:09:07+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12256
+2024-04-27 22:08:48+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12258
+2024-04-27 22:45:54+00:00,[User]_bluetech,{'[User]_nicoddemus'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12259
+2024-04-27 23:36:53+00:00,[User]_nicoddemus,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12260
+2024-04-28 02:13:09+00:00,[User]_okken,"{'[User]_nicoddemus', '[User]_okken'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12262
+2024-04-28 08:35:09+00:00,[User]_arossert,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12263
+2024-04-28 10:32:18+00:00,[User]_bluetech,"{'[User]_bluetech', '[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12264
+2024-04-28 14:17:12+00:00,[User]_bluetech,{'[User]_Pierre-Sassoulas'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12265
+2024-04-28 21:50:50+00:00,[User]_matthuisman,"{'[User]_bluetech', '[User]_matthuisman', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12266
+2024-04-29 02:02:25+00:00,[User]_Yunirang,set(),pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12267
+2024-04-29 09:00:22+00:00,[User]_dariofaccin,"{'[User]_s-bose', '[User]_nicoddemus', '[User]_GChampagne1', '[User]_wxtim', '[User]_bluetech', '[User]_ffissore'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12269
+2024-04-29 09:31:51+00:00,[User]_wxtim,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12270
+2024-04-29 17:53:14+00:00,[User]_bluetech,"{'[User]_RonnyPfannschmidt', '[User]_nicoddemus'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12271
+2024-04-29 20:38:29+00:00,[User]_nWEIdia,{'[User]_bluetech'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12273
+2024-04-30 02:13:55+00:00,[User]_MartinBraquet,{'[User]_The-Compiler'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12275
+2024-04-30 08:45:58+00:00,[User]_jaraco,{'[User]_The-Compiler'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12276
+2024-04-30 11:13:03+00:00,[User]_hfudev,"{'[User]_RonnyPfannschmidt', '[User]_hfudev'}",pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/pull/12277
+2024-04-30 11:24:05+00:00,[User]_Schwaneberg,{'[User]_RonnyPfannschmidt'},pytest-dev/pytest,2024,https://github.com/pytest-dev/pytest/issues/12278

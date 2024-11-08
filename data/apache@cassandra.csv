@@ -1,0 +1,884 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-02 02:21:45+00:00,[User]_jonmeredith,{'[User]_bdeggleston'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2301
+2023-05-02 02:22:08+00:00,[User]_jonmeredith,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2302
+2023-05-02 17:29:36+00:00,[User]_adelapena,"{'[User]_smiklosovic', '[User]_driftx', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2303
+2023-05-03 09:47:16+00:00,[User]_smiklosovic,{'[User]_smiklosovic'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2305
+2023-05-03 15:56:22+00:00,[User]_Meno25,{'[User]_smiklosovic'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2306
+2023-05-03 16:42:19+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2307
+2023-05-04 14:49:15+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2308
+2023-05-05 09:34:03+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2309
+2023-05-05 23:11:16+00:00,[User]_dcapwell,"{'[User]_mike-tr-adamson', '[User]_JeremiahDJordan', '[User]_adelapena', '[User]_jbellis', '[User]_dcapwell', '[User]_Maxwell-Guo', '[User]_polandll'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2310
+2023-05-07 15:51:10+00:00,[User]_mghildiy,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2311
+2023-05-08 16:50:42+00:00,[User]_jonmeredith,"{'[User]_smiklosovic', '[User]_jonmeredith', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2312
+2023-05-08 22:55:30+00:00,[User]_jonmeredith,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2313
+2023-05-08 22:56:08+00:00,[User]_jonmeredith,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2314
+2023-05-09 05:58:53+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2315
+2023-05-09 06:00:02+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2316
+2023-05-09 16:51:14+00:00,[User]_nvharikrishna,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2317
+2023-05-10 14:02:40+00:00,[User]_JeetKunDoug,"{'[User]_ifesdjeen', '[User]_frankgh', '[User]_JeetKunDoug', '[User]_jonmeredith'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2318
+2023-05-11 05:56:58+00:00,[User]_mghildiy,{'[User]_bschoening'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2319
+2023-05-11 09:41:42+00:00,[User]_jakubzytka,"{'[User]_smiklosovic', '[User]_jakubzytka', '[User]_michaelsembwever', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2320
+2023-05-11 12:08:13+00:00,[User]_adelapena,"{'[User]_Maxwell-Guo', '[User]_bereng', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2321
+2023-05-11 13:59:11+00:00,[User]_JeetKunDoug,"{'[User]_jonmeredith', '[User]_JeetKunDoug'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2322
+2023-05-11 14:41:50+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2323
+2023-05-11 14:57:48+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2325
+2023-05-11 21:15:25+00:00,[User]_JeetKunDoug,"{'[User]_jonmeredith', '[User]_JeetKunDoug'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2326
+2023-05-11 21:41:52+00:00,[User]_maedhroz,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2327
+2023-05-12 01:26:20+00:00,[User]_JeetKunDoug,{'[User]_jonmeredith'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2328
+2023-05-12 15:35:04+00:00,[User]_adelapena,"{'[User]_adelapena', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2329
+2023-05-12 16:10:17+00:00,[User]_sudeepraovm,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2330
+2023-05-12 17:02:07+00:00,[User]_nvharikrishna,"{'[User]_smiklosovic', '[User]_nvharikrishna', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2331
+2023-05-12 20:07:22+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2332
+2023-05-14 07:58:04+00:00,[User]_mghildiy,"{'[User]_smiklosovic', '[User]_driftx', '[User]_Maxwell-Guo', '[User]_Mmuzaf', '[User]_mghildiy'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2333
+2023-05-14 15:08:21+00:00,[User]_Mmuzaf,"{'[User]_dcapwell', '[User]_Mmuzaf', '[User]_smiklosovic'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2334
+2023-05-15 11:18:21+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2335
+2023-05-15 14:26:36+00:00,[User]_jakubzytka,"{'[User]_dcapwell', '[User]_jakubzytka', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2336
+2023-05-15 14:33:21+00:00,[User]_jbellis,{'[User]_jbellis'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2337
+2023-05-16 05:37:04+00:00,[User]_ossarga,{'[User]_thobe'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2338
+2023-05-16 20:34:47+00:00,[User]_dcapwell,"{'[User]_dcapwell', '[User]_aweisberg'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2339
+2023-05-18 08:12:32+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2340
+2023-05-18 08:13:29+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2341
+2023-05-18 08:18:27+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2342
+2023-05-18 13:26:12+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2344
+2023-05-18 13:27:05+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2345
+2023-05-18 13:27:52+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2346
+2023-05-18 13:28:56+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2347
+2023-05-19 03:50:33+00:00,[User]_jbellis,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2348
+2023-05-19 05:41:19+00:00,[User]_mghildiy,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2349
+2023-05-19 06:03:38+00:00,[User]_mghildiy,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2350
+2023-05-19 17:55:03+00:00,[User]_bschoening,"{'[User]_smiklosovic', '[User]_bschoening'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2354
+2023-05-19 18:38:43+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2355
+2023-05-23 05:08:00+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2356
+2023-05-23 08:58:51+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2357
+2023-05-23 21:15:37+00:00,[User]_djatnieks,{'[User]_ekaterinadimitrova2'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2358
+2023-05-23 21:45:10+00:00,[User]_djatnieks,{'[User]_ekaterinadimitrova2'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2359
+2023-05-23 21:55:51+00:00,[User]_jeromatron,{'[User]_polandll'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2360
+2023-05-24 01:25:11+00:00,[User]_grom358,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2361
+2023-05-24 07:27:49+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2362
+2023-05-24 10:06:13+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2363
+2023-05-24 21:08:53+00:00,[User]_smiklosovic,{'[User]_driftx'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2364
+2023-05-25 06:53:48+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2365
+2023-05-25 07:14:16+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2366
+2023-05-26 05:55:20+00:00,[User]_bereng,"{'[User]_bereng', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2367
+2023-05-26 12:41:00+00:00,[User]_adelapena,"{'[User]_Maxwell-Guo', '[User]_bereng', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2369
+2023-05-26 14:14:38+00:00,[User]_jacek-lewandowski,"{'[User]_smiklosovic', '[User]_pkolaczk', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2370
+2023-05-26 14:14:54+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2371
+2023-05-26 16:40:24+00:00,[User]_jyothsnakonisa,"{'[User]_jyothsnakonisa', '[User]_jonmeredith', '[User]_yukim', '[User]_yifan-c'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2372
+2023-05-26 17:52:52+00:00,[User]_smiklosovic,{'[User]_smiklosovic'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2373
+2023-05-27 05:14:05+00:00,[User]_jaydeepkumar1984,"{'[User]_smiklosovic', '[User]_Maxwell-Guo'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2374
+2023-05-27 07:20:48+00:00,[User]_mghildiy,"{'[User]_Maxwell-Guo', '[User]_mghildiy', '[User]_driftx'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2375
+2023-05-28 17:19:49+00:00,[User]_smiklosovic,{'[User]_smiklosovic'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2376
+2023-05-29 07:30:26+00:00,[User]_pkolaczk,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2377
+2023-05-29 21:45:14+00:00,[User]_lmtrombone,"{'[User]_bschoening', '[User]_lmtrombone'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2378
+2023-05-31 00:28:55+00:00,[User]_jbellis,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2379
+2023-05-31 18:37:05+00:00,[User]_jbellis,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2380
+2023-06-01 19:52:35+00:00,[User]_maedhroz,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2381
+2023-06-01 21:57:17+00:00,[User]_djatnieks,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2382
+2023-06-02 10:52:07+00:00,[User]_iamaleksey,"{'[User]_iamaleksey', '[User]_belliottsmith'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2383
+2023-06-02 14:41:55+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2384
+2023-06-05 02:26:25+00:00,[User]_dchenbecker,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2385
+2023-06-05 10:49:52+00:00,[User]_adelapena,"{'[User]_adelapena', '[User]_blerer'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2386
+2023-06-05 16:16:05+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2387
+2023-06-05 20:11:53+00:00,[User]_jbellis,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2388
+2023-06-05 21:47:19+00:00,[User]_jeffwidman,"{'[User]_polandll', '[User]_jeffwidman'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2389
+2023-06-06 08:11:28+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_Maxwell-Guo', '[User]_bereng', '[User]_driftx'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2390
+2023-06-06 11:54:19+00:00,[User]_bereng,"{'[User]_bereng', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2391
+2023-06-06 12:53:48+00:00,[User]_blerer,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2392
+2023-06-06 15:43:30+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2393
+2023-06-07 12:04:37+00:00,[User]_smiklosovic,{'[User]_smiklosovic'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2394
+2023-06-07 13:45:35+00:00,[User]_iamaleksey,"{'[User]_iamaleksey', '[User]_bdeggleston'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2395
+2023-06-07 16:48:06+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2396
+2023-06-07 22:10:04+00:00,[User]_xgerman,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2397
+2023-06-08 22:13:38+00:00,[User]_qannap,"{'[User]_Maxwell-Guo', '[User]_qannap', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2398
+2023-06-08 22:15:00+00:00,[User]_qannap,"{'[User]_Maxwell-Guo', '[User]_ekaterinadimitrova2', '[User]_driftx'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2399
+2023-06-09 07:48:07+00:00,[User]_bereng,{'[User]_adelapena'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2400
+2023-06-09 07:50:31+00:00,[User]_bereng,{'[User]_adelapena'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2401
+2023-06-09 07:57:42+00:00,[User]_bereng,{'[User]_adelapena'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2402
+2023-06-09 08:03:28+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2403
+2023-06-09 08:04:50+00:00,[User]_bereng,{'[User]_adelapena'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2404
+2023-06-09 15:08:38+00:00,[User]_tcataldo,{'[User]_tcataldo'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2405
+2023-06-09 23:05:23+00:00,[User]_ekaterinadimitrova2,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2406
+2023-06-10 07:39:09+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2407
+2023-06-10 07:39:18+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2408
+2023-06-12 10:47:42+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_adelapena', '[User]_dcapwell', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2409
+2023-06-13 06:03:37+00:00,[User]_jasonstack,"{'[User]_jasonstack', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2410
+2023-06-13 07:26:57+00:00,[User]_bereng,"{'[User]_smiklosovic', '[User]_bereng', '[User]_michaelsembwever', '[User]_Mmuzaf'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2411
+2023-06-13 11:27:26+00:00,[User]_bereng,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2412
+2023-06-13 12:18:19+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2413
+2023-06-13 18:07:48+00:00,[User]_skoppu22,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2414
+2023-06-13 19:51:25+00:00,[User]_maxim-chn,"{'[User]_smiklosovic', '[User]_maxim-chn'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2415
+2023-06-14 01:01:02+00:00,[User]_jasonstack,"{'[User]_jasonstack', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2416
+2023-06-14 06:11:27+00:00,[User]_masokol,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2417
+2023-06-15 07:50:59+00:00,[User]_masokol,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2418
+2023-06-15 07:52:28+00:00,[User]_masokol,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2419
+2023-06-16 15:14:26+00:00,[User]_ekaterinadimitrova2,"{'[User]_djatnieks', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2421
+2023-06-17 13:48:05+00:00,[User]_mghildiy,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2422
+2023-06-20 07:14:13+00:00,[User]_smiklosovic,"{'[User]_blambov', '[User]_smiklosovic'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2423
+2023-06-20 07:16:29+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2424
+2023-06-20 07:17:10+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2425
+2023-06-20 07:18:04+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2426
+2023-06-20 12:30:04+00:00,[User]_jacek-lewandowski,"{'[User]_dcapwell', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2427
+2023-06-20 18:58:16+00:00,[User]_vgali7,"{'[User]_smiklosovic', '[User]_bschoening'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2428
+2023-06-21 01:47:04+00:00,[User]_ekaterinadimitrova2,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2429
+2023-06-21 02:22:43+00:00,[User]_ekaterinadimitrova2,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2430
+2023-06-21 06:58:50+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2431
+2023-06-21 15:27:31+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2432
+2023-06-21 22:30:06+00:00,[User]_maedhroz,"{'[User]_Maxwell-Guo', '[User]_adelapena', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2433
+2023-06-22 06:34:51+00:00,[User]_jacek-lewandowski,"{'[User]_smiklosovic', '[User]_michaelsembwever', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2434
+2023-06-22 06:52:41+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2435
+2023-06-22 18:36:34+00:00,[User]_adelapena,"{'[User]_Maxwell-Guo', '[User]_bereng', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2436
+2023-06-23 10:26:18+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2437
+2023-06-23 12:40:27+00:00,[User]_Mmuzaf,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2438
+2023-06-23 13:51:18+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2439
+2023-06-23 13:53:15+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2440
+2023-06-23 13:55:46+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2441
+2023-06-23 13:57:55+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2442
+2023-06-23 15:01:12+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2443
+2023-06-23 15:38:13+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2444
+2023-06-23 16:11:50+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2445
+2023-06-23 16:12:46+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2446
+2023-06-25 14:53:28+00:00,[User]_josh-wong,{'[User]_smiklosovic'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2447
+2023-06-26 17:01:53+00:00,[User]_josh-wong,"{'[User]_smiklosovic', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2449
+2023-06-26 18:53:37+00:00,[User]_jmckenzie-dev,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2450
+2023-06-27 13:59:40+00:00,[User]_jbellis,"{'[User]_mike-tr-adamson', '[User]_maedhroz', '[User]_adelapena', '[User]_jbellis'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2451
+2023-06-27 17:52:55+00:00,[User]_polandll,"{'[User]_polandll', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2452
+2023-06-27 20:40:45+00:00,[User]_rhuffy,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2453
+2023-06-28 11:05:14+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2454
+2023-06-28 18:49:40+00:00,[User]_bipinprasad,"{'[User]_c3ivodujmovic', '[User]_driftx', '[User]_ddezoysa', '[User]_bipinprasad'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2455
+2023-06-28 18:53:35+00:00,[User]_ekaterinadimitrova2,"{'[User]_ekaterinadimitrova2', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2456
+2023-06-29 10:19:05+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2457
+2023-06-29 15:30:30+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_Maxwell-Guo', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2458
+2023-06-30 15:00:06+00:00,[User]_pkolaczk,"{'[User]_mike-tr-adamson', '[User]_pkolaczk', '[User]_adelapena', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2460
+2023-06-30 15:06:04+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2461
+2023-07-03 07:38:26+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_xgerman', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2462
+2023-07-03 10:48:37+00:00,[User]_adelapena,"{'[User]_mike-tr-adamson', '[User]_bereng', '[User]_adelapena', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2463
+2023-07-05 04:35:49+00:00,[User]_bereng,"{'[User]_driftx', '[User]_blambov', '[User]_jacek-lewandowski', '[User]_jakubzytka', '[User]_pkolaczk', '[User]_bereng'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2464
+2023-07-05 10:29:19+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2465
+2023-07-05 18:23:59+00:00,[User]_timothytu12,"{'[User]_smiklosovic', '[User]_timothytu12', '[User]_bschoening'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2466
+2023-07-06 03:12:50+00:00,[User]_djatnieks,"{'[User]_adelapena', '[User]_djatnieks'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2467
+2023-07-06 08:56:20+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2468
+2023-07-06 12:11:07+00:00,[User]_adelapena,"{'[User]_Maxwell-Guo', '[User]_adelapena', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2469
+2023-07-06 20:36:42+00:00,[User]_ekaterinadimitrova2,"{'[User]_bereng', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2470
+2023-07-06 20:54:44+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2471
+2023-07-07 12:44:16+00:00,[User]_smiklosovic,{'[User]_driftx'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2472
+2023-07-10 14:52:08+00:00,[User]_vgali7,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2473
+2023-07-10 14:52:12+00:00,[User]_vgali7,"{'[User]_bschoening', '[User]_vgali7'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2474
+2023-07-10 19:51:54+00:00,[User]_vgali7,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2475
+2023-07-11 18:58:45+00:00,[User]_timothytu12,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2476
+2023-07-12 00:28:23+00:00,[User]_maedhroz,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2477
+2023-07-12 06:34:46+00:00,[User]_jacek-lewandowski,"{'[User]_michaelsembwever', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2478
+2023-07-12 08:05:26+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2479
+2023-07-12 08:06:00+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2480
+2023-07-12 08:06:20+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2481
+2023-07-12 09:39:34+00:00,[User]_bereng,"{'[User]_bereng', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2482
+2023-07-12 12:00:08+00:00,[User]_marianne-manaog,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2483
+2023-07-13 05:49:38+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2484
+2023-07-13 08:57:28+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2485
+2023-07-13 12:55:36+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2486
+2023-07-13 16:07:27+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_adelapena', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2487
+2023-07-13 18:54:10+00:00,[User]_blerer,"{'[User]_blerer', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2488
+2023-07-14 22:30:38+00:00,[User]_marianne-manaog,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2489
+2023-07-14 22:56:15+00:00,[User]_ayushisingh29,"{'[User]_smiklosovic', '[User]_xgerman', '[User]_ayushisingh29'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2490
+2023-07-14 23:01:37+00:00,[User]_marianne-manaog,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2491
+2023-07-14 23:16:38+00:00,[User]_maedhroz,"{'[User]_mike-tr-adamson', '[User]_adelapena', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2492
+2023-07-17 09:17:22+00:00,[User]_jacek-lewandowski,"{'[User]_bereng', '[User]_ekaterinadimitrova2', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2493
+2023-07-17 11:04:44+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2494
+2023-07-17 12:27:13+00:00,[User]_jbellis,"{'[User]_adelapena', '[User]_jbellis'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2495
+2023-07-17 16:48:59+00:00,[User]_timothytu12,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2496
+2023-07-18 20:59:40+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2497
+2023-07-19 14:44:06+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_adelapena', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2498
+2023-07-19 15:51:54+00:00,[User]_blambov,{'[User]_blambov'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2499
+2023-07-19 23:15:54+00:00,[User]_KowalczykBartek,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2500
+2023-07-20 06:38:11+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2501
+2023-07-20 08:17:38+00:00,[User]_michaelsembwever,"{'[User]_michaelsembwever', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2502
+2023-07-20 15:32:42+00:00,[User]_ekaterinadimitrova2,"{'[User]_ekaterinadimitrova2', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2503
+2023-07-20 17:22:51+00:00,[User]_maxim-chn,{'[User]_maxim-chn'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2504
+2023-07-20 22:45:44+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_xgerman', '[User]_Mmuzaf', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2505
+2023-07-21 14:41:55+00:00,[User]_michaelsembwever,"{'[User]_Mmuzaf', '[User]_adelapena', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2506
+2023-07-22 00:09:56+00:00,[User]_maulin-vasavada,{'[User]_Mmuzaf'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2507
+2023-07-24 09:40:18+00:00,[User]_blambov,"{'[User]_blambov', '[User]_bereng'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2508
+2023-07-25 08:45:06+00:00,[User]_AndrewHogg,{'[User]_polandll'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2510
+2023-07-25 09:29:56+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2511
+2023-07-25 19:50:33+00:00,[User]_vgali7,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2513
+2023-07-25 19:50:38+00:00,[User]_vgali7,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2514
+2023-07-26 09:56:09+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2515
+2023-07-26 12:08:28+00:00,[User]_adelapena,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2516
+2023-07-26 13:28:58+00:00,[User]_vgali7,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2517
+2023-07-26 17:24:12+00:00,[User]_frankgh,"{'[User]_frankgh', '[User]_Mmuzaf'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2519
+2023-07-26 18:38:11+00:00,[User]_ekaterinadimitrova2,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2520
+2023-07-26 20:27:23+00:00,[User]_timothytu12,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2521
+2023-07-26 21:16:29+00:00,[User]_timothytu12,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2522
+2023-07-27 11:34:27+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2524
+2023-07-27 11:35:31+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2525
+2023-07-27 11:36:41+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2526
+2023-07-27 19:00:59+00:00,[User]_qannap,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2527
+2023-07-27 19:28:27+00:00,[User]_vgali7,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2528
+2023-07-27 19:31:26+00:00,[User]_vgali7,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2529
+2023-07-27 19:35:44+00:00,[User]_vgali7,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2530
+2023-07-28 00:08:14+00:00,[User]_qannap,"{'[User]_Maxwell-Guo', '[User]_qannap', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2531
+2023-07-28 06:06:24+00:00,[User]_bereng,"{'[User]_Mmuzaf', '[User]_bereng'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2532
+2023-07-28 11:24:04+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2533
+2023-07-28 11:32:14+00:00,[User]_jacek-lewandowski,"{'[User]_dcapwell', '[User]_henrikingo', '[User]_belliottsmith', '[User]_jacek-lewandowski', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2534
+2023-07-28 16:30:03+00:00,[User]_frankgh,{'[User]_frankgh'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2535
+2023-07-30 20:52:13+00:00,[User]_urbanchef,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2536
+2023-07-31 12:24:48+00:00,[User]_smiklosovic,{'[User]_dcapwell'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2537
+2023-07-31 12:39:09+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2538
+2023-07-31 20:58:00+00:00,[User]_ekaterinadimitrova2,{'[User]_ekaterinadimitrova2'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2539
+2023-08-01 12:22:36+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_adelapena', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2540
+2023-08-01 19:07:39+00:00,[User]_saranvinaiyak,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2541
+2023-08-01 19:53:47+00:00,[User]_saranvinaiyak,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2542
+2023-08-01 19:55:37+00:00,[User]_maedhroz,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2543
+2023-08-01 20:00:04+00:00,[User]_Mmuzaf,"{'[User]_jonmeredith', '[User]_michaelsembwever', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2544
+2023-08-01 20:01:34+00:00,[User]_saranvinaiyak,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2545
+2023-08-03 18:57:29+00:00,[User]_frankgh,"{'[User]_jonmeredith', '[User]_frankgh', '[User]_yifan-c', '[User]_dineshjoshi'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2546
+2023-08-03 20:08:23+00:00,[User]_vgali7,{'[User]_bschoening'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2547
+2023-08-04 09:28:39+00:00,[User]_Mmuzaf,"{'[User]_Mmuzaf', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2548
+2023-08-04 18:17:34+00:00,[User]_vgali7,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2549
+2023-08-06 08:02:52+00:00,[User]_uri2x,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2550
+2023-08-07 08:21:46+00:00,[User]_smiklosovic,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2551
+2023-08-07 10:01:42+00:00,[User]_mohsin-mehmood,{'[User]_polandll'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2552
+2023-08-07 10:37:10+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2553
+2023-08-07 15:37:14+00:00,[User]_jmckenzie-dev,"{'[User]_smiklosovic', '[User]_jmckenzie-dev', '[User]_dcapwell', '[User]_michaelsembwever', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2554
+2023-08-07 16:16:33+00:00,[User]_adelapena,{'[User]_Maxwell-Guo'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2555
+2023-08-08 19:32:37+00:00,[User]_polandll,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2557
+2023-08-09 00:30:49+00:00,[User]_ekaterinadimitrova2,"{'[User]_blerer', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2558
+2023-08-09 09:41:09+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2559
+2023-08-09 11:09:30+00:00,[User]_blambov,"{'[User]_blambov', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2560
+2023-08-09 21:56:35+00:00,[User]_shyla226,"{'[User]_smiklosovic', '[User]_shyla226', '[User]_michaelsembwever', '[User]_bereng', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2563
+2023-08-09 22:21:24+00:00,[User]_smiklosovic,{'[User]_ekaterinadimitrova2'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2564
+2023-08-09 23:57:42+00:00,[User]_jonmeredith,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2565
+2023-08-10 07:32:36+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2566
+2023-08-10 08:47:25+00:00,[User]_smiklosovic,{'[User]_dcapwell'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2567
+2023-08-10 12:58:35+00:00,[User]_Mmuzaf,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2568
+2023-08-10 16:31:47+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2570
+2023-08-11 02:54:16+00:00,[User]_ekaterinadimitrova2,{'[User]_ekaterinadimitrova2'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2571
+2023-08-11 02:55:28+00:00,[User]_ekaterinadimitrova2,{'[User]_ekaterinadimitrova2'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2572
+2023-08-11 02:56:42+00:00,[User]_ekaterinadimitrova2,{'[User]_ekaterinadimitrova2'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2573
+2023-08-11 02:58:07+00:00,[User]_ekaterinadimitrova2,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2574
+2023-08-11 11:23:53+00:00,[User]_Mmuzaf,"{'[User]_sarma1807', '[User]_Mmuzaf', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2576
+2023-08-11 13:54:31+00:00,[User]_JeetKunDoug,"{'[User]_smiklosovic', '[User]_jonmeredith', '[User]_JeetKunDoug'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2577
+2023-08-11 13:56:42+00:00,[User]_JeetKunDoug,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2578
+2023-08-11 14:00:24+00:00,[User]_JeetKunDoug,"{'[User]_jonmeredith', '[User]_JeetKunDoug'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2579
+2023-08-11 14:03:29+00:00,[User]_JeetKunDoug,"{'[User]_jonmeredith', '[User]_JeetKunDoug'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2581
+2023-08-12 23:55:36+00:00,[User]_urbanchef,"{'[User]_urbanchef', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2582
+2023-08-12 23:58:39+00:00,[User]_urbanchef,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2583
+2023-08-14 07:41:02+00:00,[User]_Claudenw,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2584
+2023-08-14 07:42:43+00:00,[User]_Claudenw,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2585
+2023-08-14 18:37:12+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2587
+2023-08-14 18:37:38+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2588
+2023-08-14 18:37:58+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2589
+2023-08-14 18:38:14+00:00,[User]_smiklosovic,{'[User]_Mmuzaf'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2590
+2023-08-14 18:38:53+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2591
+2023-08-15 03:50:57+00:00,[User]_bschoening,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2592
+2023-08-15 13:10:19+00:00,[User]_dchenbecker,"{'[User]_dchenbecker', '[User]_driftx', '[User]_bereng'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2593
+2023-08-15 18:16:13+00:00,[User]_ekaterinadimitrova2,"{'[User]_ekaterinadimitrova2', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2594
+2023-08-15 18:49:19+00:00,[User]_jaydeepkumar1984,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2596
+2023-08-15 19:24:45+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2597
+2023-08-16 09:34:03+00:00,[User]_bereng,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2601
+2023-08-16 12:08:29+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2602
+2023-08-16 12:11:41+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2603
+2023-08-17 08:27:18+00:00,[User]_bereng,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2605
+2023-08-17 11:08:48+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2606
+2023-08-17 12:22:58+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2607
+2023-08-17 13:20:04+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2608
+2023-08-18 10:21:30+00:00,[User]_adelapena,{'[User]_polandll'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2609
+2023-08-18 13:25:06+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2610
+2023-08-18 18:27:49+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2611
+2023-08-18 19:58:34+00:00,[User]_polandll,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2612
+2023-08-19 17:31:08+00:00,[User]_Mmuzaf,"{'[User]_Mmuzaf', '[User]_belliottsmith'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2613
+2023-08-19 22:00:44+00:00,[User]_KowalczykBartek,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2614
+2023-08-21 10:48:15+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2615
+2023-08-21 12:31:34+00:00,[User]_adelapena,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2616
+2023-08-21 12:31:42+00:00,[User]_adelapena,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2617
+2023-08-21 14:34:46+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2618
+2023-08-21 14:58:05+00:00,[User]_smiklosovic,{'[User]_adelapena'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2619
+2023-08-22 08:49:03+00:00,[User]_jacek-lewandowski,"{'[User]_smiklosovic', '[User]_driftx', '[User]_Mmuzaf', '[User]_michaelsembwever', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2620
+2023-08-22 22:30:58+00:00,[User]_frankgh,{'[User]_frankgh'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2621
+2023-08-22 22:55:16+00:00,[User]_frankgh,{'[User]_frankgh'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2622
+2023-08-22 23:01:32+00:00,[User]_frankgh,{'[User]_frankgh'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2623
+2023-08-23 02:27:17+00:00,[User]_Taher-Ghaleb,"{'[User]_Taher-Ghaleb', '[User]_suenalaba'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2624
+2023-08-23 09:51:43+00:00,[User]_smiklosovic,"{'[User]_blambov', '[User]_grom358', '[User]_smiklosovic', '[User]_dcapwell'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2625
+2023-08-23 09:57:07+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2626
+2023-08-23 09:57:11+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2627
+2023-08-24 09:22:25+00:00,[User]_bereng,"{'[User]_smiklosovic', '[User]_bereng'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2628
+2023-08-24 10:07:28+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2629
+2023-08-25 08:06:00+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2630
+2023-08-25 08:07:42+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2631
+2023-08-25 08:09:15+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2632
+2023-08-25 08:10:18+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2633
+2023-08-26 04:22:19+00:00,[User]_dchenbecker,{'[User]_dchenbecker'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2634
+2023-08-26 13:53:00+00:00,[User]_dchenbecker,{'[User]_dchenbecker'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2635
+2023-08-28 18:12:54+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2637
+2023-08-28 19:50:44+00:00,[User]_ekaterinadimitrova2,"{'[User]_blerer', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2638
+2023-08-29 08:48:32+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2639
+2023-08-29 08:49:36+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2640
+2023-08-29 08:50:23+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2641
+2023-08-29 08:54:51+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2642
+2023-08-29 09:03:03+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2643
+2023-08-29 09:05:47+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2644
+2023-08-29 10:59:42+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_adelapena', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2645
+2023-08-29 11:04:49+00:00,[User]_mike-tr-adamson,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2646
+2023-08-29 14:55:05+00:00,[User]_Mmuzaf,"{'[User]_Claudenw', '[User]_nizhikov'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2647
+2023-08-29 20:42:20+00:00,[User]_ekaterinadimitrova2,"{'[User]_skoppu22', '[User]_jacek-lewandowski', '[User]_ben-manes', '[User]_yifan-c', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2648
+2023-08-30 00:12:12+00:00,[User]_Runtian,"{'[User]_smiklosovic', '[User]_adelapena', '[User]_Runtian'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2649
+2023-08-30 09:57:20+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2650
+2023-08-30 18:48:38+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2651
+2023-08-30 23:18:06+00:00,[User]_jyothsnakonisa,"{'[User]_jyothsnakonisa', '[User]_jonmeredith', '[User]_frankgh'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2652
+2023-08-31 03:18:22+00:00,[User]_bschoening,"{'[User]_bschoening', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2653
+2023-08-31 10:04:55+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2654
+2023-08-31 12:47:02+00:00,[User]_blerer,"{'[User]_Maxwell-Guo', '[User]_adelapena', '[User]_ekaterinadimitrova2', '[User]_blerer'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2655
+2023-09-01 10:58:55+00:00,[User]_adelapena,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2657
+2023-09-01 18:21:57+00:00,[User]_djatnieks,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2659
+2023-09-01 18:45:50+00:00,[User]_dcapwell,"{'[User]_dcapwell', '[User]_aratno', '[User]_krummas', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2660
+2023-09-03 14:42:14+00:00,[User]_maxim-chn,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2661
+2023-09-04 10:08:55+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2662
+2023-09-04 10:09:39+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2664
+2023-09-04 10:09:58+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2665
+2023-09-04 10:10:13+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2666
+2023-09-04 12:51:46+00:00,[User]_smiklosovic,{'[User]_blerer'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2668
+2023-09-04 13:19:47+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2669
+2023-09-04 13:31:36+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2670
+2023-09-05 11:35:48+00:00,[User]_jacek-lewandowski,"{'[User]_dcapwell', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2671
+2023-09-06 13:59:20+00:00,[User]_jacek-lewandowski,"{'[User]_JeremiahDJordan', '[User]_bereng', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2672
+2023-09-06 16:11:39+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_JeremiahDJordan', '[User]_adelapena', '[User]_jbellis', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2673
+2023-09-07 02:29:27+00:00,[User]_bschoening,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2674
+2023-09-07 12:20:35+00:00,[User]_frankgh,"{'[User]_Maxwell-Guo', '[User]_yifan-c', '[User]_frankgh'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2675
+2023-09-07 20:31:18+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2676
+2023-09-08 10:03:50+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2677
+2023-09-08 10:04:27+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2678
+2023-09-11 13:06:47+00:00,[User]_bschoening,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2679
+2023-09-12 09:37:24+00:00,[User]_maoling,{'[User]_smiklosovic'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2680
+2023-09-12 14:07:19+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2681
+2023-09-13 07:13:24+00:00,[User]_jfleming-ic,"{'[User]_michaelsembwever', '[User]_jfleming-ic'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2682
+2023-09-14 11:17:49+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2685
+2023-09-14 13:05:17+00:00,[User]_JeetKunDoug,"{'[User]_jonmeredith', '[User]_JeetKunDoug', '[User]_frankgh'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2686
+2023-09-14 15:52:21+00:00,[User]_Mmuzaf,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2687
+2023-09-15 07:25:13+00:00,[User]_bereng,"{'[User]_Mmuzaf', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2688
+2023-09-15 08:28:43+00:00,[User]_jacek-lewandowski,"{'[User]_blambov', '[User]_mike-tr-adamson', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2689
+2023-09-15 09:13:48+00:00,[User]_cyberb,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2690
+2023-09-15 23:42:35+00:00,[User]_jonmeredith,{'[User]_jonmeredith'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2691
+2023-09-15 23:43:13+00:00,[User]_jonmeredith,{'[User]_jonmeredith'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2692
+2023-09-15 23:45:30+00:00,[User]_jonmeredith,"{'[User]_frankgh', '[User]_jonmeredith'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2693
+2023-09-15 23:48:41+00:00,[User]_jonmeredith,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2694
+2023-09-15 23:50:52+00:00,[User]_jonmeredith,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2695
+2023-09-18 07:33:31+00:00,[User]_bereng,"{'[User]_smiklosovic', '[User]_bereng', '[User]_jacek-lewandowski', '[User]_Mmuzaf'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2696
+2023-09-18 08:53:49+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2697
+2023-09-18 13:50:48+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_Mmuzaf'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2699
+2023-09-19 02:46:16+00:00,[User]_grom358,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2701
+2023-09-19 02:51:07+00:00,[User]_grom358,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2702
+2023-09-19 02:54:47+00:00,[User]_grom358,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2703
+2023-09-19 02:57:44+00:00,[User]_grom358,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2704
+2023-09-20 05:05:42+00:00,[User]_Maxwell-Guo,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2707
+2023-09-20 10:25:14+00:00,[User]_jacek-lewandowski,"{'[User]_blambov', '[User]_Mmuzaf'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2708
+2023-09-20 14:45:36+00:00,[User]_Maxwell-Guo,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2709
+2023-09-20 20:01:27+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2710
+2023-09-21 03:32:27+00:00,[User]_Maxwell-Guo,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2711
+2023-09-21 08:33:27+00:00,[User]_smiklosovic,"{'[User]_blambov', '[User]_Maxwell-Guo', '[User]_smiklosovic'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2712
+2023-09-21 09:15:34+00:00,[User]_jacek-lewandowski,"{'[User]_JeremiahDJordan', '[User]_jacek-lewandowski', '[User]_bereng', '[User]_blerer', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2713
+2023-09-21 18:51:16+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2716
+2023-09-22 05:41:09+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2717
+2023-09-22 05:41:48+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2718
+2023-09-22 05:44:12+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2719
+2023-09-22 05:52:34+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2720
+2023-09-22 07:34:05+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2721
+2023-09-22 14:43:00+00:00,[User]_adelapena,"{'[User]_dcapwell', '[User]_Maxwell-Guo', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2723
+2023-09-25 10:32:27+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2724
+2023-09-25 11:04:11+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2725
+2023-09-25 14:42:42+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2726
+2023-09-25 14:46:38+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2727
+2023-09-25 18:25:50+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2728
+2023-09-25 18:40:35+00:00,[User]_polandll,"{'[User]_polandll', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2729
+2023-09-26 12:06:20+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2730
+2023-09-26 16:11:52+00:00,[User]_hanke580,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2731
+2023-09-26 17:20:51+00:00,[User]_dcapwell,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2732
+2023-09-26 23:35:09+00:00,[User]_grom358,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2733
+2023-09-26 23:50:43+00:00,[User]_grom358,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2734
+2023-09-26 23:55:18+00:00,[User]_grom358,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2735
+2023-09-27 00:02:23+00:00,[User]_grom358,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2736
+2023-09-27 07:43:54+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2737
+2023-09-27 08:08:34+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2738
+2023-09-27 14:19:36+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2741
+2023-09-27 14:21:51+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2742
+2023-09-27 15:04:35+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2744
+2023-09-27 17:17:30+00:00,[User]_adelapena,"{'[User]_Maxwell-Guo', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2746
+2023-09-27 20:58:24+00:00,[User]_adelapena,"{'[User]_sarma1807', '[User]_Maxwell-Guo', '[User]_bereng', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2747
+2023-09-28 11:37:05+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2748
+2023-09-28 14:12:34+00:00,[User]_jacek-lewandowski,"{'[User]_pkolaczk', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2749
+2023-09-28 16:27:44+00:00,[User]_mike-tr-adamson,"{'[User]_pkolaczk', '[User]_JeremiahDJordan'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2750
+2023-09-28 16:40:02+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2751
+2023-09-29 13:49:29+00:00,[User]_mike-tr-adamson,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2753
+2023-09-29 13:53:06+00:00,[User]_mike-tr-adamson,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2754
+2023-10-02 08:55:35+00:00,[User]_bereng,"{'[User]_bereng', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2755
+2023-10-02 08:58:50+00:00,[User]_bereng,"{'[User]_bereng', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2756
+2023-10-02 09:01:59+00:00,[User]_bereng,"{'[User]_bereng', '[User]_ekaterinadimitrova2'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2757
+2023-10-02 17:42:12+00:00,[User]_dcapwell,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2758
+2023-10-03 09:09:05+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2760
+2023-10-03 11:00:41+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2761
+2023-10-03 11:18:11+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2762
+2023-10-03 11:42:31+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2763
+2023-10-03 14:22:52+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_tcataldo'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2764
+2023-10-03 18:18:22+00:00,[User]_maedhroz,"{'[User]_Maxwell-Guo', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2766
+2023-10-03 22:02:17+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2767
+2023-10-04 10:24:47+00:00,[User]_smiklosovic,{'[User]_Mmuzaf'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2768
+2023-10-04 10:42:46+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_jasonstack', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2769
+2023-10-04 10:58:01+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_Mmuzaf'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2770
+2023-10-04 15:09:11+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2772
+2023-10-05 07:11:37+00:00,[User]_jacek-lewandowski,"{'[User]_blambov', '[User]_bereng', '[User]_jacek-lewandowski', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2773
+2023-10-05 09:48:00+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2774
+2023-10-05 14:23:47+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2775
+2023-10-05 19:25:23+00:00,[User]_henrikingo,"{'[User]_blambov', '[User]_henrikingo'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2776
+2023-10-05 20:38:01+00:00,[User]_amitdpawar,"{'[User]_smiklosovic', '[User]_amitdpawar', '[User]_blambov', '[User]_Maxwell-Guo', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2777
+2023-10-06 01:34:05+00:00,[User]_grom358,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2778
+2023-10-06 11:44:36+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2779
+2023-10-06 11:45:54+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2780
+2023-10-06 11:48:01+00:00,[User]_smiklosovic,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2781
+2023-10-06 13:53:21+00:00,[User]_Mmuzaf,"{'[User]_Claudenw', '[User]_Mmuzaf', '[User]_jasonstack', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2782
+2023-10-06 23:02:26+00:00,[User]_dcapwell,"{'[User]_dcapwell', '[User]_Claudenw', '[User]_driftx'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2783
+2023-10-09 13:07:09+00:00,[User]_jacek-lewandowski,"{'[User]_dcapwell', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2784
+2023-10-09 13:12:18+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2785
+2023-10-09 13:36:54+00:00,[User]_Maxwell-Guo,"{'[User]_smiklosovic', '[User]_Maxwell-Guo', '[User]_blambov'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2786
+2023-10-09 21:20:51+00:00,[User]_michaelsembwever,"{'[User]_Mmuzaf', '[User]_michaelsembwever', '[User]_jmckenzie-dev'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2787
+2023-10-09 22:28:43+00:00,[User]_dcapwell,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2788
+2023-10-10 12:11:39+00:00,[User]_smiklosovic,{'[User]_Mmuzaf'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2789
+2023-10-11 07:29:27+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2791
+2023-10-11 08:45:15+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2792
+2023-10-11 09:46:46+00:00,[User]_jacek-lewandowski,"{'[User]_smiklosovic', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2793
+2023-10-11 10:04:57+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2794
+2023-10-11 10:05:44+00:00,[User]_jacek-lewandowski,"{'[User]_Maxwell-Guo', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2795
+2023-10-11 12:58:27+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2796
+2023-10-11 12:59:13+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2797
+2023-10-11 13:02:12+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2798
+2023-10-11 13:10:16+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2800
+2023-10-11 19:12:52+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2801
+2023-10-11 20:21:42+00:00,[User]_polandll,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2802
+2023-10-13 08:24:56+00:00,[User]_ifesdjeen,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2803
+2023-10-13 18:24:26+00:00,[User]_aratno,"{'[User]_dcapwell', '[User]_aratno'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2804
+2023-10-13 18:26:05+00:00,[User]_aratno,{'[User]_dcapwell'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2805
+2023-10-16 10:17:29+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2806
+2023-10-17 16:56:47+00:00,[User]_frankgh,{'[User]_frankgh'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2808
+2023-10-17 19:53:24+00:00,[User]_aratno,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2810
+2023-10-17 19:54:09+00:00,[User]_aratno,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2811
+2023-10-17 19:54:46+00:00,[User]_aratno,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2812
+2023-10-17 19:55:06+00:00,[User]_aratno,"{'[User]_aratno', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2813
+2023-10-17 21:40:30+00:00,[User]_polandll,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2814
+2023-10-17 22:08:22+00:00,[User]_polandll,"{'[User]_polandll', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2815
+2023-10-17 22:23:55+00:00,[User]_polandll,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2816
+2023-10-18 08:47:09+00:00,[User]_smiklosovic,{'[User]_Mmuzaf'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2817
+2023-10-18 11:53:27+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2818
+2023-10-18 12:10:31+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2819
+2023-10-18 12:13:46+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2820
+2023-10-18 12:18:11+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2821
+2023-10-18 12:19:19+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2822
+2023-10-18 18:53:40+00:00,[User]_dcapwell,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2823
+2023-10-18 23:33:29+00:00,[User]_yifan-c,"{'[User]_Maxwell-Guo', '[User]_yifan-c', '[User]_frankgh'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2824
+2023-10-19 06:40:21+00:00,[User]_finalchild,{'[User]_polandll'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2825
+2023-10-19 07:26:30+00:00,[User]_bereng,"{'[User]_bereng', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2826
+2023-10-19 13:47:00+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2827
+2023-10-19 18:55:00+00:00,[User]_polandll,"{'[User]_polandll', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2828
+2023-10-19 21:44:41+00:00,[User]_maedhroz,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2829
+2023-10-20 18:08:33+00:00,[User]_henrikingo,"{'[User]_blambov', '[User]_dcapwell', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2830
+2023-10-20 20:08:13+00:00,[User]_maedhroz,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2831
+2023-10-20 21:27:20+00:00,[User]_dcapwell,"{'[User]_dcapwell', '[User]_frankgh', '[User]_Mmuzaf', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2832
+2023-10-23 08:57:50+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2833
+2023-10-23 20:15:29+00:00,[User]_ethan-brown2022,"{'[User]_blambov', '[User]_ethan-brown2022', '[User]_smiklosovic'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2836
+2023-10-24 09:35:01+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2837
+2023-10-24 12:19:40+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2839
+2023-10-25 01:30:56+00:00,[User]_hanke580,"{'[User]_smiklosovic', '[User]_hanke580'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2840
+2023-10-25 09:42:01+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2841
+2023-10-25 11:19:27+00:00,[User]_Claudenw,"{'[User]_smiklosovic', '[User]_Claudenw', '[User]_michaelsembwever', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2842
+2023-10-25 16:37:14+00:00,[User]_jacek-lewandowski,"{'[User]_jakubzytka', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2843
+2023-10-25 17:50:07+00:00,[User]_dcapwell,"{'[User]_dcapwell', '[User]_bdeggleston'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2844
+2023-10-25 18:54:49+00:00,[User]_yifan-c,{'[User]_yifan-c'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2845
+2023-10-25 18:55:12+00:00,[User]_yifan-c,{'[User]_yifan-c'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2846
+2023-10-25 18:55:40+00:00,[User]_yifan-c,"{'[User]_reevik', '[User]_yifan-c'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2847
+2023-10-27 14:13:16+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2848
+2023-10-27 19:43:10+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2849
+2023-10-30 11:36:30+00:00,[User]_mike-tr-adamson,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2850
+2023-10-30 11:42:05+00:00,[User]_mike-tr-adamson,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2851
+2023-10-30 23:04:27+00:00,[User]_michaelsembwever,"{'[User]_smiklosovic', '[User]_Mmuzaf', '[User]_michaelsembwever', '[User]_HadesArchitect'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2852
+2023-10-31 11:36:05+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2853
+2023-11-01 20:30:08+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2854
+2023-11-01 20:31:45+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2855
+2023-11-02 10:37:44+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2856
+2023-11-02 14:53:38+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2857
+2023-11-02 14:53:43+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2858
+2023-11-03 11:12:40+00:00,[User]_smiklosovic,{'[User]_driftx'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2859
+2023-11-03 12:13:37+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2860
+2023-11-03 15:23:37+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2861
+2023-11-03 20:01:35+00:00,[User]_isaacreath,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2862
+2023-11-03 20:03:17+00:00,[User]_isaacreath,"{'[User]_smiklosovic', '[User]_isaacreath'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2863
+2023-11-06 10:33:52+00:00,[User]_mike-tr-adamson,{'[User]_smiklosovic'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2864
+2023-11-06 10:40:36+00:00,[User]_mike-tr-adamson,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2865
+2023-11-06 18:52:05+00:00,[User]_aweisberg,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2867
+2023-11-06 22:24:18+00:00,[User]_smiklosovic,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2868
+2023-11-06 22:26:13+00:00,[User]_smiklosovic,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2869
+2023-11-07 14:08:26+00:00,[User]_smiklosovic,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2870
+2023-11-07 14:08:51+00:00,[User]_smiklosovic,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2871
+2023-11-07 14:09:35+00:00,[User]_smiklosovic,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2872
+2023-11-07 14:11:44+00:00,[User]_smiklosovic,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2873
+2023-11-07 14:54:16+00:00,[User]_smiklosovic,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2874
+2023-11-07 15:28:45+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2875
+2023-11-07 21:31:08+00:00,[User]_dcapwell,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2876
+2023-11-07 22:34:26+00:00,[User]_aweisberg,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2877
+2023-11-07 22:38:58+00:00,[User]_aweisberg,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2878
+2023-11-08 08:33:38+00:00,[User]_bereng,"{'[User]_frankgh', '[User]_bereng', '[User]_michaelsembwever', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2880
+2023-11-09 11:33:47+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2881
+2023-11-10 02:31:42+00:00,[User]_polandll,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2882
+2023-11-10 09:21:55+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2883
+2023-11-10 17:45:55+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2884
+2023-11-10 17:46:03+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2885
+2023-11-13 08:53:26+00:00,[User]_jacek-lewandowski,"{'[User]_michaelsembwever', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2886
+2023-11-13 19:14:46+00:00,[User]_aweisberg,{'[User]_bdeggleston'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2887
+2023-11-13 22:01:51+00:00,[User]_dmi0,"{'[User]_smiklosovic', '[User]_dmi0'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2889
+2023-11-13 22:03:24+00:00,[User]_dmi0,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2890
+2023-11-13 22:04:06+00:00,[User]_dmi0,"{'[User]_smiklosovic', '[User]_dmi0'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2891
+2023-11-13 23:00:59+00:00,[User]_aweisberg,{'[User]_dcapwell'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2892
+2023-11-14 01:10:45+00:00,[User]_annieden,{'[User]_polandll'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2893
+2023-11-14 14:52:50+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2895
+2023-11-14 16:40:00+00:00,[User]_blambov,"{'[User]_blambov', '[User]_clohfink', '[User]_dcapwell', '[User]_michaelsembwever', '[User]_jacek-lewandowski', '[User]_bereng'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2896
+2023-11-14 20:39:04+00:00,[User]_ethan-brown2022,"{'[User]_blambov', '[User]_ethan-brown2022'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2897
+2023-11-14 21:25:50+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2898
+2023-11-14 21:37:00+00:00,[User]_aweisberg,"{'[User]_dcapwell', '[User]_bdeggleston', '[User]_aweisberg'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2899
+2023-11-15 11:05:37+00:00,[User]_jacek-lewandowski,"{'[User]_blambov', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2900
+2023-11-15 11:25:01+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2901
+2023-11-15 23:18:04+00:00,[User]_jfleming-ic,"{'[User]_polandll', '[User]_michaelsembwever', '[User]_jfleming-ic'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2902
+2023-11-16 09:48:58+00:00,[User]_bereng,"{'[User]_bereng', '[User]_adelapena'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2903
+2023-11-16 13:15:21+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2904
+2023-11-16 13:16:03+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2905
+2023-11-17 08:11:52+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2906
+2023-11-17 08:23:18+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2907
+2023-11-17 08:28:37+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2908
+2023-11-17 09:58:37+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2909
+2023-11-17 14:19:47+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2910
+2023-11-17 16:03:10+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2911
+2023-11-17 16:04:10+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2912
+2023-11-17 16:06:11+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2914
+2023-11-17 16:07:25+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2915
+2023-11-17 16:21:39+00:00,[User]_mike-tr-adamson,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2917
+2023-11-17 18:12:17+00:00,[User]_adelapena,{'[User]_jasonstack'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2918
+2023-11-19 20:09:11+00:00,[User]_zaaath,"{'[User]_smiklosovic', '[User]_zaaath'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2919
+2023-11-20 15:13:16+00:00,[User]_adelapena,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2922
+2023-11-20 19:56:30+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2923
+2023-11-20 22:46:40+00:00,[User]_jameshu15869,"{'[User]_smiklosovic', '[User]_driftx', '[User]_jameshu15869'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2924
+2023-11-21 12:30:40+00:00,[User]_adelapena,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2925
+2023-11-21 12:57:32+00:00,[User]_belliottsmith,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2926
+2023-11-22 08:35:00+00:00,[User]_bereng,"{'[User]_smiklosovic', '[User]_bereng', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2927
+2023-11-22 12:32:38+00:00,[User]_jacek-lewandowski,"{'[User]_blerer', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2928
+2023-11-24 16:49:43+00:00,[User]_mike-tr-adamson,{'[User]_adelapena'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2929
+2023-11-24 16:58:57+00:00,[User]_mike-tr-adamson,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2930
+2023-11-27 10:57:53+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2931
+2023-11-27 13:58:01+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_michaelsembwever', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2932
+2023-11-27 14:03:59+00:00,[User]_mike-tr-adamson,{'[User]_michaelsembwever'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2933
+2023-11-27 16:16:09+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2934
+2023-11-28 00:36:39+00:00,[User]_maedhroz,"{'[User]_ifesdjeen', '[User]_adelapena', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2935
+2023-11-28 06:57:45+00:00,[User]_zyxep,"{'[User]_smiklosovic', '[User]_driftx', '[User]_zyxep'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2936
+2023-11-28 06:59:46+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2937
+2023-11-28 10:23:40+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2938
+2023-11-28 10:26:31+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2939
+2023-11-28 10:29:50+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2940
+2023-11-28 22:01:49+00:00,[User]_rhuffy,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2941
+2023-11-29 11:33:22+00:00,[User]_szymon-miezal,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2942
+2023-11-29 17:06:19+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_michaelsembwever', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2943
+2023-11-29 17:21:37+00:00,[User]_ifesdjeen,"{'[User]_beobal', '[User]_ifesdjeen'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2946
+2023-11-29 17:28:28+00:00,[User]_ifesdjeen,{'[User]_frankgh'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2947
+2023-11-29 17:47:22+00:00,[User]_aweisberg,"{'[User]_dcapwell', '[User]_bdeggleston', '[User]_aweisberg'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2948
+2023-11-30 08:58:14+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2949
+2023-11-30 11:25:50+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2950
+2023-11-30 13:25:07+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2951
+2023-11-30 13:30:14+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2952
+2023-11-30 23:05:41+00:00,[User]_smiklosovic,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2953
+2023-12-01 07:27:05+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2954
+2023-12-01 07:31:26+00:00,[User]_ifesdjeen,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2955
+2023-12-01 07:34:39+00:00,[User]_ifesdjeen,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2956
+2023-12-01 18:38:21+00:00,[User]_Mmuzaf,"{'[User]_smiklosovic', '[User]_Mmuzaf', '[User]_michaelsembwever'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2958
+2023-12-01 20:44:25+00:00,[User]_polandll,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2959
+2023-12-01 23:25:10+00:00,[User]_polandll,{'[User]_polandll'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2960
+2023-12-04 14:50:42+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_mike-tr-adamson', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2961
+2023-12-05 04:18:42+00:00,[User]_aratno,"{'[User]_aratno', '[User]_jacek-lewandowski', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2962
+2023-12-05 16:40:34+00:00,[User]_aweisberg,"{'[User]_dcapwell', '[User]_belliottsmith', '[User]_aweisberg'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2963
+2023-12-06 09:28:23+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2964
+2023-12-06 09:34:27+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2965
+2023-12-06 11:38:35+00:00,[User]_Claudenw,"{'[User]_smiklosovic', '[User]_ethan-brown2022', '[User]_Claudenw', '[User]_blambov'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2966
+2023-12-06 19:25:16+00:00,[User]_isaacreath,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2967
+2023-12-06 19:33:19+00:00,[User]_isaacreath,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2968
+2023-12-06 19:38:29+00:00,[User]_tolbertam,"{'[User]_smiklosovic', '[User]_frankgh', '[User]_jyothsnakonisa', '[User]_tolbertam', '[User]_aratno'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2969
+2023-12-06 22:30:05+00:00,[User]_isaacreath,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2970
+2023-12-07 12:48:26+00:00,[User]_jacek-lewandowski,"{'[User]_smiklosovic', '[User]_Mmuzaf', '[User]_michaelsembwever', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2971
+2023-12-07 13:11:27+00:00,[User]_jacek-lewandowski,"{'[User]_ekaterinadimitrova2', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2972
+2023-12-08 07:04:06+00:00,[User]_ifesdjeen,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2974
+2023-12-08 09:42:34+00:00,[User]_jacek-lewandowski,"{'[User]_blambov', '[User]_bereng', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2975
+2023-12-09 00:15:45+00:00,[User]_zaaath,"{'[User]_smiklosovic', '[User]_bschoening', '[User]_zaaath'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2977
+2023-12-09 05:14:28+00:00,[User]_Runtian,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2978
+2023-12-09 14:43:29+00:00,[User]_tranminhwang,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2979
+2023-12-09 16:06:04+00:00,[User]_Mmuzaf,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2980
+2023-12-10 07:11:40+00:00,[User]_Runtian,"{'[User]_smiklosovic', '[User]_bdeggleston'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2981
+2023-12-11 16:35:46+00:00,[User]_iamaleksey,"{'[User]_iamaleksey', '[User]_aweisberg'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2982
+2023-12-12 11:36:48+00:00,[User]_jacek-lewandowski,"{'[User]_smiklosovic', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2983
+2023-12-12 13:21:50+00:00,[User]_jacek-lewandowski,"{'[User]_ekaterinadimitrova2', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2984
+2023-12-12 13:22:48+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2985
+2023-12-12 14:10:07+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2986
+2023-12-12 14:15:54+00:00,[User]_mike-tr-adamson,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2987
+2023-12-12 14:35:27+00:00,[User]_Claudenw,"{'[User]_smiklosovic', '[User]_Mmuzaf'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2988
+2023-12-12 17:21:16+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_adelapena', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2989
+2023-12-13 09:44:55+00:00,[User]_jacek-lewandowski,"{'[User]_bereng', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2990
+2023-12-13 15:41:05+00:00,[User]_mike-tr-adamson,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2991
+2023-12-14 00:26:27+00:00,[User]_Runtian,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2992
+2023-12-14 00:34:55+00:00,[User]_Runtian,"{'[User]_smiklosovic', '[User]_Runtian'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2993
+2023-12-14 13:53:18+00:00,[User]_jacek-lewandowski,"{'[User]_bereng', '[User]_jacek-lewandowski'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2994
+2023-12-15 09:59:29+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/2995
+2023-12-16 10:44:31+00:00,[User]_arkn98,"{'[User]_bschoening', '[User]_arkn98'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/2996
+2023-12-18 15:13:16+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2997
+2023-12-18 15:15:20+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2998
+2023-12-18 18:38:47+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/2999
+2023-12-18 18:39:44+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/3000
+2023-12-18 18:41:23+00:00,[User]_jacek-lewandowski,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/3001
+2023-12-18 21:28:45+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_Mmuzaf', '[User]_beobal'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/3002
+2023-12-19 01:16:44+00:00,[User]_bschoening,"{'[User]_smiklosovic', '[User]_bschoening'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/3003
+2023-12-19 15:53:54+00:00,[User]_isaacreath,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/3004
+2023-12-20 15:16:59+00:00,[User]_ifesdjeen,"{'[User]_ifesdjeen', '[User]_maedhroz'}",apache/cassandra,2023,https://github.com/apache/cassandra/pull/3005
+2023-12-21 11:18:07+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/3006
+2023-12-21 14:04:57+00:00,[User]_mike-tr-adamson,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/3007
+2023-12-21 15:52:41+00:00,[User]_ifesdjeen,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/3008
+2023-12-21 16:56:44+00:00,[User]_mike-tr-adamson,{'[User]_maedhroz'},apache/cassandra,2023,https://github.com/apache/cassandra/pull/3009
+2023-12-25 06:11:14+00:00,[User]_stonewhitener,set(),apache/cassandra,2023,https://github.com/apache/cassandra/pull/3010
+2024-01-02 12:01:19+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_adelapena'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3011
+2024-01-02 12:04:16+00:00,[User]_smiklosovic,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3012
+2024-01-02 12:50:32+00:00,[User]_adelapena,"{'[User]_bereng', '[User]_adelapena'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3013
+2024-01-02 12:50:36+00:00,[User]_adelapena,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3014
+2024-01-02 14:26:10+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3015
+2024-01-02 14:27:07+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3016
+2024-01-02 14:28:10+00:00,[User]_smiklosovic,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3017
+2024-01-02 14:28:48+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3018
+2024-01-02 21:46:39+00:00,[User]_Runtian,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3019
+2024-01-02 21:52:19+00:00,[User]_Runtian,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3020
+2024-01-02 23:23:09+00:00,[User]_Runtian,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3021
+2024-01-03 12:21:14+00:00,[User]_jacek-lewandowski,{'[User]_szymon-miezal'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3022
+2024-01-03 12:22:02+00:00,[User]_jacek-lewandowski,{'[User]_szymon-miezal'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3023
+2024-01-03 12:22:38+00:00,[User]_jacek-lewandowski,{'[User]_szymon-miezal'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3024
+2024-01-03 12:23:37+00:00,[User]_jacek-lewandowski,{'[User]_szymon-miezal'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3025
+2024-01-03 12:24:10+00:00,[User]_jacek-lewandowski,{'[User]_szymon-miezal'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3026
+2024-01-03 12:24:51+00:00,[User]_jacek-lewandowski,{'[User]_szymon-miezal'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3027
+2024-01-04 17:43:06+00:00,[User]_nvharikrishna,{'[User]_nvharikrishna'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3028
+2024-01-05 15:01:01+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_JeetKunDoug', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3029
+2024-01-07 01:38:35+00:00,[User]_zaaath,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3030
+2024-01-07 02:19:09+00:00,[User]_zaaath,{'[User]_zaaath'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3031
+2024-01-08 18:33:21+00:00,[User]_bdeggleston,"{'[User]_bdeggleston', '[User]_aweisberg'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3032
+2024-01-08 20:06:29+00:00,[User]_dcapwell,"{'[User]_dcapwell', '[User]_bdeggleston'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3033
+2024-01-08 21:24:53+00:00,[User]_maedhroz,"{'[User]_frankgh', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3034
+2024-01-08 22:36:05+00:00,[User]_maedhroz,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3035
+2024-01-08 22:45:32+00:00,[User]_michaelsembwever,"{'[User]_driftx', '[User]_michaelsembwever'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3036
+2024-01-08 22:49:37+00:00,[User]_maedhroz,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3037
+2024-01-09 16:51:09+00:00,[User]_pkolaczk,{'[User]_pkolaczk'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3038
+2024-01-11 08:34:25+00:00,[User]_ifesdjeen,{'[User]_smiklosovic'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3039
+2024-01-11 09:08:44+00:00,[User]_ifesdjeen,{'[User]_beobal'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3040
+2024-01-11 14:10:26+00:00,[User]_maoling,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3041
+2024-01-11 17:46:16+00:00,[User]_ifesdjeen,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3042
+2024-01-11 17:48:36+00:00,[User]_ifesdjeen,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3043
+2024-01-12 05:15:28+00:00,[User]_maedhroz,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3044
+2024-01-15 09:33:54+00:00,[User]_ifesdjeen,"{'[User]_beobal', '[User]_ifesdjeen', '[User]_krummas'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3045
+2024-01-15 16:16:42+00:00,[User]_tomer-mobb,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3047
+2024-01-17 09:12:40+00:00,[User]_bereng,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3048
+2024-01-17 16:30:53+00:00,[User]_smiklosovic,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3049
+2024-01-17 23:36:39+00:00,[User]_ekaterinadimitrova2,{'[User]_ekaterinadimitrova2'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3050
+2024-01-18 16:26:55+00:00,[User]_iamaleksey,{'[User]_krummas'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3051
+2024-01-18 16:43:56+00:00,[User]_sevanthi-suvarna,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3052
+2024-01-19 10:40:15+00:00,[User]_maedhroz,"{'[User]_pkolaczk', '[User]_ifesdjeen', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3054
+2024-01-19 13:45:06+00:00,[User]_akihiro17,{'[User]_smiklosovic'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3055
+2024-01-20 10:00:32+00:00,[User]_vsricharan16,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3057
+2024-01-21 20:18:38+00:00,[User]_jaydeepkumar1984,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3058
+2024-01-21 20:53:59+00:00,[User]_jaydeepkumar1984,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3059
+2024-01-22 17:03:59+00:00,[User]_ifesdjeen,"{'[User]_ifesdjeen', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3060
+2024-01-23 13:41:31+00:00,[User]_smiklosovic,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3061
+2024-01-23 21:25:25+00:00,[User]_belliottsmith,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3062
+2024-01-25 10:11:52+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3063
+2024-01-25 18:37:50+00:00,[User]_ifesdjeen,"{'[User]_iamaleksey', '[User]_jakubzytka'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3064
+2024-01-25 18:40:35+00:00,[User]_ekaterinadimitrova2,{'[User]_ekaterinadimitrova2'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3065
+2024-01-26 13:42:36+00:00,[User]_smiklosovic,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3066
+2024-01-26 21:18:06+00:00,[User]_maedhroz,"{'[User]_2021119', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3067
+2024-01-26 21:59:35+00:00,[User]_aweisberg,"{'[User]_Mmuzaf', '[User]_aweisberg'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3068
+2024-01-28 16:54:48+00:00,[User]_zaaath,"{'[User]_driftx', '[User]_zaaath'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3069
+2024-01-29 10:35:12+00:00,[User]_nasnousssi,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3070
+2024-01-29 15:18:52+00:00,[User]_ekaterinadimitrova2,{'[User]_ekaterinadimitrova2'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3071
+2024-01-30 21:04:22+00:00,[User]_adelapena,"{'[User]_dcapwell', '[User]_adelapena'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3073
+2024-01-31 07:30:09+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3074
+2024-01-31 12:26:49+00:00,[User]_ifesdjeen,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3075
+2024-01-31 14:02:27+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3076
+2024-01-31 16:07:16+00:00,[User]_belliottsmith,"{'[User]_belliottsmith', '[User]_aweisberg'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3077
+2024-02-01 09:10:54+00:00,[User]_ifesdjeen,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3078
+2024-02-01 13:02:48+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3079
+2024-02-01 15:48:43+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3080
+2024-02-01 16:12:28+00:00,[User]_smiklosovic,{'[User]_smiklosovic'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3081
+2024-02-02 19:58:49+00:00,[User]_maedhroz,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3083
+2024-02-05 03:46:01+00:00,[User]_maoling,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3084
+2024-02-05 15:53:24+00:00,[User]_tolbertam,"{'[User]_smiklosovic', '[User]_frankgh', '[User]_tolbertam'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3085
+2024-02-05 19:05:46+00:00,[User]_dcapwell,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3086
+2024-02-06 07:31:26+00:00,[User]_krummas,"{'[User]_beobal', '[User]_krummas'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3088
+2024-02-06 08:09:08+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3089
+2024-02-06 18:18:05+00:00,[User]_polandll,"{'[User]_smiklosovic', '[User]_polandll'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3090
+2024-02-06 19:46:59+00:00,[User]_polandll,"{'[User]_blambov', '[User]_polandll', '[User]_smiklosovic'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3091
+2024-02-08 02:12:50+00:00,[User]_Yukei7,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3092
+2024-02-08 23:13:55+00:00,[User]_aweisberg,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3094
+2024-02-09 09:28:11+00:00,[User]_blerer,"{'[User]_bereng', '[User]_blerer', '[User]_ekaterinadimitrova2'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3095
+2024-02-09 17:22:28+00:00,[User]_krummas,{'[User]_beobal'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3096
+2024-02-09 22:40:25+00:00,[User]_ekaterinadimitrova2,"{'[User]_adelapena', '[User]_ekaterinadimitrova2'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3097
+2024-02-13 10:17:25+00:00,[User]_bereng,"{'[User]_smiklosovic', '[User]_bereng'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3098
+2024-02-13 13:08:24+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_aratno'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3099
+2024-02-13 22:23:32+00:00,[User]_dcapwell,"{'[User]_dcapwell', '[User]_bdeggleston', '[User]_ekaterinadimitrova2'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3100
+2024-02-14 09:52:14+00:00,[User]_nvharikrishna,"{'[User]_smiklosovic', '[User]_nvharikrishna'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3101
+2024-02-14 12:46:30+00:00,[User]_jakubzytka,"{'[User]_jakubzytka', '[User]_pkolaczk', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3102
+2024-02-14 16:55:36+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3103
+2024-02-14 17:08:29+00:00,[User]_krummas,{'[User]_beobal'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3104
+2024-02-15 10:46:18+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3105
+2024-02-15 10:48:00+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3106
+2024-02-15 12:05:26+00:00,[User]_jakubzytka,{'[User]_jakubzytka'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3107
+2024-02-15 18:00:32+00:00,[User]_dcapwell,"{'[User]_dcapwell', '[User]_belliottsmith'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3108
+2024-02-15 21:52:43+00:00,[User]_frankgh,"{'[User]_frankgh', '[User]_tolbertam'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3109
+2024-02-19 06:41:44+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3110
+2024-02-19 06:44:57+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3111
+2024-02-19 06:48:33+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3112
+2024-02-19 06:51:28+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3113
+2024-02-20 14:12:44+00:00,[User]_maoling,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3114
+2024-02-20 14:37:27+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3115
+2024-02-20 14:38:28+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3117
+2024-02-20 18:44:51+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3119
+2024-02-20 23:23:35+00:00,[User]_JackPGreen,{'[User]_smiklosovic'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3120
+2024-02-21 08:37:44+00:00,[User]_bereng,"{'[User]_smiklosovic', '[User]_bereng', '[User]_ekaterinadimitrova2'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3121
+2024-02-22 21:10:05+00:00,[User]_maedhroz,"{'[User]_mike-tr-adamson', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3122
+2024-02-23 12:55:59+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3123
+2024-02-23 12:56:54+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3125
+2024-02-23 12:57:53+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3127
+2024-02-23 12:58:25+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3128
+2024-02-23 16:35:24+00:00,[User]_aratno,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3129
+2024-02-23 22:09:19+00:00,[User]_ekaterinadimitrova2,"{'[User]_adelapena', '[User]_ekaterinadimitrova2'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3130
+2024-02-24 00:28:32+00:00,[User]_salvatoredipietro,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3131
+2024-02-25 18:37:20+00:00,[User]_nathan-cormier,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3132
+2024-02-26 08:10:50+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3133
+2024-02-26 08:29:29+00:00,[User]_maoling,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3134
+2024-02-26 16:13:39+00:00,[User]_aweisberg,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3136
+2024-02-26 19:32:45+00:00,[User]_Mmuzaf,{'[User]_Mmuzaf'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3137
+2024-02-26 21:15:02+00:00,[User]_maedhroz,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3138
+2024-02-27 07:41:08+00:00,[User]_bereng,"{'[User]_bereng', '[User]_ekaterinadimitrova2'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3139
+2024-02-27 12:54:49+00:00,[User]_nvharikrishna,{'[User]_nvharikrishna'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3141
+2024-02-27 15:39:05+00:00,[User]_aratno,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3142
+2024-02-27 15:46:20+00:00,[User]_aratno,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3143
+2024-02-27 15:48:20+00:00,[User]_aratno,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3144
+2024-02-27 20:30:46+00:00,[User]_Mmuzaf,"{'[User]_smiklosovic', '[User]_Mmuzaf'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3147
+2024-02-27 22:47:09+00:00,[User]_arkn98,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3148
+2024-02-27 22:48:22+00:00,[User]_arkn98,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3149
+2024-02-27 22:48:56+00:00,[User]_arkn98,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3150
+2024-02-28 12:24:57+00:00,[User]_mike-tr-adamson,"{'[User]_mike-tr-adamson', '[User]_ekaterinadimitrova2'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3151
+2024-02-28 18:06:32+00:00,[User]_Mmuzaf,"{'[User]_smiklosovic', '[User]_Mmuzaf'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3152
+2024-02-28 23:10:26+00:00,[User]_bschoening,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3154
+2024-03-01 18:06:22+00:00,[User]_maedhroz,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3155
+2024-03-04 15:23:03+00:00,[User]_chatterjeesubarnadatastax,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3156
+2024-03-04 20:02:26+00:00,[User]_dcapwell,"{'[User]_dcapwell', '[User]_belliottsmith'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3157
+2024-03-05 07:25:05+00:00,[User]_arkn98,"{'[User]_dcapwell', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3158
+2024-03-05 10:33:50+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3159
+2024-03-05 13:11:18+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3160
+2024-03-06 18:48:03+00:00,[User]_arkn98,"{'[User]_dcapwell', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3161
+2024-03-06 23:21:24+00:00,[User]_ekaterinadimitrova2,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3162
+2024-03-07 11:33:42+00:00,[User]_krummas,{'[User]_ifesdjeen'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3163
+2024-03-07 11:52:27+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_blambov', '[User]_jacek-lewandowski'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3164
+2024-03-07 14:19:36+00:00,[User]_blambov,"{'[User]_blambov', '[User]_beobal'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3165
+2024-03-07 17:41:20+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3166
+2024-03-08 09:30:37+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3167
+2024-03-08 12:18:01+00:00,[User]_Claudenw,"{'[User]_smiklosovic', '[User]_Claudenw', '[User]_michaelsembwever', '[User]_jacek-lewandowski'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3168
+2024-03-08 14:51:41+00:00,[User]_jacek-lewandowski,"{'[User]_dcapwell', '[User]_jacek-lewandowski'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3169
+2024-03-11 16:56:18+00:00,[User]_arkn98,{'[User]_arkn98'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3170
+2024-03-11 17:46:11+00:00,[User]_arkn98,{'[User]_arkn98'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3171
+2024-03-11 17:46:59+00:00,[User]_arkn98,{'[User]_arkn98'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3172
+2024-03-12 09:03:35+00:00,[User]_bereng,"{'[User]_bereng', '[User]_ekaterinadimitrova2'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3173
+2024-03-14 23:06:02+00:00,[User]_bdeggleston,"{'[User]_dcapwell', '[User]_bdeggleston', '[User]_aweisberg'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3174
+2024-03-15 11:36:57+00:00,[User]_zytell3301,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3175
+2024-03-15 13:38:22+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3177
+2024-03-15 13:40:24+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3178
+2024-03-15 23:45:30+00:00,[User]_maedhroz,"{'[User]_michaelsembwever', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3179
+2024-03-16 22:45:13+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_clohfink', '[User]_iamaleksey'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3180
+2024-03-18 09:49:19+00:00,[User]_krummas,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3181
+2024-03-18 12:05:11+00:00,[User]_arkn98,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3182
+2024-03-19 08:31:05+00:00,[User]_bereng,{'[User]_bereng'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3184
+2024-03-20 21:15:11+00:00,[User]_maedhroz,"{'[User]_dcapwell', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3185
+2024-03-20 22:26:07+00:00,[User]_aweisberg,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3186
+2024-03-20 22:26:32+00:00,[User]_aweisberg,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3187
+2024-03-20 22:27:00+00:00,[User]_aweisberg,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3188
+2024-03-20 22:27:25+00:00,[User]_aweisberg,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3189
+2024-03-20 22:27:57+00:00,[User]_aweisberg,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3190
+2024-03-20 22:28:25+00:00,[User]_aweisberg,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3191
+2024-03-21 13:01:44+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3192
+2024-03-21 13:17:54+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3193
+2024-03-21 17:58:44+00:00,[User]_ekaterinadimitrova2,"{'[User]_ekaterinadimitrova2', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3194
+2024-03-21 18:42:24+00:00,[User]_maedhroz,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3195
+2024-03-22 08:36:54+00:00,[User]_beobal,"{'[User]_ifesdjeen', '[User]_krummas'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3196
+2024-03-22 08:40:02+00:00,[User]_beobal,{'[User]_beobal'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3197
+2024-03-22 09:05:38+00:00,[User]_krummas,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3198
+2024-03-22 12:47:54+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3199
+2024-03-22 13:40:27+00:00,[User]_tiagomlalves,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3200
+2024-03-22 16:20:36+00:00,[User]_aimeeu,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3201
+2024-03-25 06:58:25+00:00,[User]_krummas,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3202
+2024-03-25 11:16:20+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_bereng'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3203
+2024-03-26 21:41:21+00:00,[User]_aweisberg,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3204
+2024-03-26 21:44:47+00:00,[User]_aweisberg,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3205
+2024-03-27 19:23:28+00:00,[User]_smiklosovic,{'[User]_driftx'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3206
+2024-03-28 08:39:41+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3207
+2024-03-28 08:40:49+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3208
+2024-03-28 08:41:27+00:00,[User]_jacek-lewandowski,{'[User]_jacek-lewandowski'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3209
+2024-03-28 08:42:02+00:00,[User]_jacek-lewandowski,"{'[User]_smiklosovic', '[User]_jacek-lewandowski'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3210
+2024-03-28 08:52:55+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3211
+2024-03-28 12:20:09+00:00,[User]_Claudenw,"{'[User]_Claudenw', '[User]_Mmuzaf'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3212
+2024-03-29 11:53:27+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3213
+2024-03-29 22:13:22+00:00,[User]_dcapwell,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3214
+2024-04-01 18:52:16+00:00,[User]_mohammad-aburadeh,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3216
+2024-04-01 18:53:54+00:00,[User]_mohammad-aburadeh,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3217
+2024-04-01 18:54:22+00:00,[User]_mohammad-aburadeh,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3218
+2024-04-01 19:21:14+00:00,[User]_maedhroz,"{'[User]_dcapwell', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3220
+2024-04-02 18:49:22+00:00,[User]_rtib,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3221
+2024-04-02 18:51:19+00:00,[User]_rtib,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3223
+2024-04-02 18:51:59+00:00,[User]_rtib,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3224
+2024-04-02 20:36:22+00:00,[User]_maedhroz,"{'[User]_dcapwell', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3226
+2024-04-02 20:41:15+00:00,[User]_dcapwell,{'[User]_bdeggleston'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3227
+2024-04-03 05:48:30+00:00,[User]_dcapwell,{'[User]_bdeggleston'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3228
+2024-04-04 10:59:34+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3229
+2024-04-04 12:50:46+00:00,[User]_slavavrn,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3230
+2024-04-05 20:27:17+00:00,[User]_maedhroz,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3232
+2024-04-05 23:48:37+00:00,[User]_maedhroz,{'[User]_maedhroz'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3233
+2024-04-08 11:56:15+00:00,[User]_ifesdjeen,"{'[User]_ifesdjeen', '[User]_krummas'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3234
+2024-04-08 13:44:30+00:00,[User]_AndrewHogg,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3235
+2024-04-09 11:58:00+00:00,[User]_smiklosovic,{'[User]_Claudenw'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3239
+2024-04-09 20:20:46+00:00,[User]_aratno,"{'[User]_smiklosovic', '[User]_aratno', '[User]_beobal'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3240
+2024-04-09 22:33:43+00:00,[User]_maedhroz,"{'[User]_smiklosovic', '[User]_JeremiahDJordan', '[User]_bereng', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3241
+2024-04-11 05:40:28+00:00,[User]_Yukei7,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3242
+2024-04-11 05:46:39+00:00,[User]_Yukei7,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3243
+2024-04-11 05:48:13+00:00,[User]_Yukei7,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3244
+2024-04-11 09:54:32+00:00,[User]_ifesdjeen,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3245
+2024-04-11 10:00:30+00:00,[User]_smiklosovic,{'[User]_smiklosovic'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3246
+2024-04-11 18:09:56+00:00,[User]_Yukei7,"{'[User]_smiklosovic', '[User]_Yukei7'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3248
+2024-04-14 09:52:26+00:00,[User]_ilyazr,"{'[User]_bschoening', '[User]_ilyazr'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3249
+2024-04-16 02:05:17+00:00,[User]_jonmeredith,{'[User]_jonmeredith'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3250
+2024-04-16 02:06:46+00:00,[User]_jonmeredith,"{'[User]_jonmeredith', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3251
+2024-04-16 02:07:38+00:00,[User]_jonmeredith,"{'[User]_jonmeredith', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3252
+2024-04-16 02:08:39+00:00,[User]_jonmeredith,"{'[User]_jonmeredith', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3253
+2024-04-16 06:54:16+00:00,[User]_krummas,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3254
+2024-04-16 06:58:43+00:00,[User]_krummas,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3255
+2024-04-17 08:21:53+00:00,[User]_beobal,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3257
+2024-04-17 08:38:52+00:00,[User]_bereng,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3258
+2024-04-17 09:04:57+00:00,[User]_smiklosovic,"{'[User]_smiklosovic', '[User]_nob13'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3259
+2024-04-17 11:17:31+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3260
+2024-04-17 11:40:59+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3261
+2024-04-17 13:41:26+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3262
+2024-04-17 14:22:40+00:00,[User]_ifesdjeen,"{'[User]_beobal', '[User]_ifesdjeen'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3263
+2024-04-19 15:12:55+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3265
+2024-04-19 15:16:32+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3266
+2024-04-19 18:09:04+00:00,[User]_Mmuzaf,"{'[User]_Mmuzaf', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3267
+2024-04-19 23:41:53+00:00,[User]_maedhroz,{'[User]_dcapwell'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3268
+2024-04-22 13:21:19+00:00,[User]_krummas,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3269
+2024-04-23 18:56:42+00:00,[User]_rhuffy,{'[User]_driftx'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3270
+2024-04-24 15:46:19+00:00,[User]_krummas,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3271
+2024-04-26 12:00:01+00:00,[User]_ifesdjeen,{'[User]_smiklosovic'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3272
+2024-04-26 17:43:23+00:00,[User]_maedhroz,"{'[User]_dcapwell', '[User]_maedhroz'}",apache/cassandra,2024,https://github.com/apache/cassandra/pull/3273
+2024-04-29 17:21:26+00:00,[User]_ifesdjeen,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3274
+2024-04-30 00:32:27+00:00,[User]_Yukei7,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3275
+2024-04-30 08:08:42+00:00,[User]_beobal,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3276
+2024-04-30 08:54:58+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3277
+2024-04-30 10:16:46+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3278
+2024-04-30 11:39:20+00:00,[User]_smiklosovic,set(),apache/cassandra,2024,https://github.com/apache/cassandra/pull/3279
+2024-04-30 16:45:35+00:00,[User]_aweisberg,{'[User]_aweisberg'},apache/cassandra,2024,https://github.com/apache/cassandra/pull/3280

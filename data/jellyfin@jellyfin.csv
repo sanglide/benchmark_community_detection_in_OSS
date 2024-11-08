@@ -1,0 +1,905 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 07:13:00+00:00,[User]_AnonymousWebHacker,{'[User]_AnonymousWebHacker'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9710
+2023-05-01 07:17:12+00:00,[User]_endrl,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9711
+2023-05-01 10:42:40+00:00,[User]_KuraiAndras,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9713
+2023-05-01 20:23:40+00:00,[User]_laborantine,"{'[User]_ntallfellow', '[User]_cantcurecancer'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9717
+2023-05-02 07:48:02+00:00,[User]_maxvaneck,{'[User]_maxvaneck'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9720
+2023-05-02 22:08:03+00:00,[User]_dmitrylyzo,"{'[User]_nyanmisaka', '[User]_dmitrylyzo', '[User]_Bond-009', '[User]_PrplHaz4'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9723
+2023-05-03 00:14:02+00:00,[User]_Joep2023,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9724
+2023-05-03 21:49:57+00:00,[User]_TheAllegedGenius,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9728
+2023-05-04 19:07:50+00:00,[User]_1337joe,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9729
+2023-05-05 08:55:47+00:00,[User]_jakanaka,"{'[User]_jakanaka', '[User]_exavince'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9731
+2023-05-05 14:29:43+00:00,[User]_SuperDumbTM,"{'[User]_nielsvanvelzen', '[User]_crobibero', '[User]_SuperDumbTM'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9732
+2023-05-06 05:59:02+00:00,[User]_pbranly,"{'[User]_nielsvanvelzen', '[User]_Bond-009', '[User]_pbranly', '[User]_setomerza'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9733
+2023-05-06 16:29:27+00:00,[User]_fange26,{'[User]_nielsvanvelzen'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9734
+2023-05-06 20:48:43+00:00,[User]_UriSheinman,{'[User]_crobibero'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9735
+2023-05-07 19:35:17+00:00,[User]_olanwe,"{'[User]_TheTyrius', '[User]_cvium', '[User]_nyanmisaka', '[User]_olanwe', '[User]_1337joe'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9738
+2023-05-08 04:14:26+00:00,[User]_vanjudd,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9739
+2023-05-08 15:26:01+00:00,[User]_Typhonragewind,"{'[User]_nicknsy', '[User]_Typhonragewind', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9741
+2023-05-09 02:37:44+00:00,[User]_pureGavin,{'[User]_Bond-009'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9742
+2023-05-11 17:44:41+00:00,[User]_kevgrig,{'[User]_Shadowghost'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9753
+2023-05-11 20:15:54+00:00,[User]_rieve-nailo,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9754
+2023-05-12 18:14:05+00:00,[User]_Kylian030903,"{'[User]_srcrist', '[User]_erky01', '[User]_loginoff', '[User]_synt4x93', '[User]_Kylian030903'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9758
+2023-05-12 18:36:10+00:00,[User]_seaeagle1,"{'[User]_Shadowghost', '[User]_cvium', '[User]_Bond-009', '[User]_seaeagle1'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9759
+2023-05-14 11:00:59+00:00,[User]_coreybruce,"{'[User]_crobibero', '[User]_coreybruce'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9768
+2023-05-14 11:22:30+00:00,[User]_bjerem,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9769
+2023-05-14 19:47:46+00:00,[User]_Shadowghost,"{'[User]_crobibero', '[User]_1337joe', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9771
+2023-05-15 05:48:02+00:00,[User]_van-ddf,{'[User]_van-ddf'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9773
+2023-05-15 19:31:12+00:00,[User]_thornbill,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_thornbill', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9776
+2023-05-16 08:04:53+00:00,[User]_bialabs,"{'[User]_srcrist', '[User]_prahal', '[User]_digital-mystik', '[User]_bialabs', '[User]_yllekz'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9777
+2023-05-16 19:01:19+00:00,[User]_KyloSC,{'[User]_KyloSC'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9779
+2023-05-17 09:50:28+00:00,[User]_mattiasghodsian,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9782
+2023-05-17 10:26:17+00:00,[User]_aurelien-logiciels-bernard,"{'[User]_aurelien-logiciels-bernard', '[User]_sevenrats'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9783
+2023-05-17 16:47:27+00:00,[User]_xxxsen,{'[User]_ChuckSerious'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9784
+2023-05-18 19:05:32+00:00,[User]_oddstr13,"{'[User]_jconnop', '[User]_oddstr13', '[User]_jasonm23', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9785
+2023-05-19 11:13:47+00:00,[User]_IsThisUsernameFree,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9789
+2023-05-20 14:52:03+00:00,[User]_Killface1980,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9792
+2023-05-22 16:14:53+00:00,[User]_Skorrr,"{'[User]_nyanmisaka', '[User]_Skorrr'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9797
+2023-05-22 20:06:58+00:00,[User]_gaalos,{'[User]_gaalos'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9798
+2023-05-22 21:10:54+00:00,[User]_EarlOfMagadan,"{'[User]_EarlOfMagadan', '[User]_Maxplosion'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9800
+2023-05-22 21:29:09+00:00,[User]_gaalos,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9801
+2023-05-23 01:28:01+00:00,[User]_justjanne,"{'[User]_Shadowghost', '[User]_cvium', '[User]_justjanne'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9802
+2023-05-24 12:23:20+00:00,[User]_grossmaul,"{'[User]_grossmaul', '[User]_Eniot666', '[User]_nyanmisaka', '[User]_deejayexe', '[User]_prahal'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9806
+2023-05-24 13:43:23+00:00,[User]_Altycoder,{'[User]_crobibero'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9807
+2023-05-24 17:48:27+00:00,[User]_Killface1980,{'[User]_Tolriq'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9809
+2023-05-24 18:35:49+00:00,[User]_pinghedm,"{'[User]_pinghedm', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9810
+2023-05-25 06:44:20+00:00,[User]_brainiac19,"{'[User]_bozzfozz', '[User]_BBaoVanC', '[User]_obnoxiousish', '[User]_brainiac19'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9813
+2023-05-26 08:56:52+00:00,[User]_svardy1988,"{'[User]_ChuckSerious', '[User]_srcrist', '[User]_mattqze', '[User]_svardy1988'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9817
+2023-05-26 12:12:20+00:00,[User]_killo3967,{'[User]_MovieWiz'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9819
+2023-05-26 17:52:58+00:00,[User]_cvium,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_theGUI001', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9821
+2023-05-27 10:02:37+00:00,[User]_SirMartin,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9824
+2023-05-27 18:00:34+00:00,[User]_Lyamc,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9827
+2023-05-29 15:20:39+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9829
+2023-05-29 15:29:47+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9830
+2023-05-29 15:33:13+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9832
+2023-05-29 21:26:39+00:00,[User]_aicynide,"{'[User]_crobibero', '[User]_aicynide'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9835
+2023-05-30 12:29:09+00:00,[User]_gyilkoszabpehely,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9838
+2023-05-30 16:49:35+00:00,[User]_cuviermarcel14,"{'[User]_JPVenson', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9839
+2023-05-31 12:02:30+00:00,[User]_OscarPoels,"{'[User]_sevenrats', '[User]_OscarPoels', '[User]_El-Biiscuit'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9841
+2023-05-31 23:26:09+00:00,[User]_Silvenga,"{'[User]_Silvenga', '[User]_edrock200', '[User]_cvium', '[User]_srcrist'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9843
+2023-06-01 06:01:42+00:00,[User]_ptzetaa,{'[User]_Bond-009'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9844
+2023-06-01 07:18:36+00:00,[User]_Gloryandel,{'[User]_Gloryandel'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9845
+2023-06-01 22:38:53+00:00,[User]_Kagee,"{'[User]_cvium', '[User]_Kagee', '[User]_thornbill', '[User]_dmitrylyzo'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9848
+2023-06-02 07:01:20+00:00,[User]_felix920506,"{'[User]_Bond-009', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9850
+2023-06-05 10:54:26+00:00,[User]_Askejm,"{'[User]_Askejm', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9854
+2023-06-05 16:36:43+00:00,[User]_Sonusss,"{'[User]_Sonusss', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9856
+2023-06-05 22:48:27+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9857
+2023-06-06 15:51:35+00:00,[User]_nielsvanvelzen,"{'[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9858
+2023-06-06 19:31:57+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_goremykin'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9863
+2023-06-06 19:47:14+00:00,[User]_CyferShepard,"{'[User]_CyferShepard', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9864
+2023-06-06 22:40:10+00:00,[User]_stavae,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9865
+2023-06-09 23:48:49+00:00,[User]_jab416171,"{'[User]_HybridSarcasm', '[User]_felix920506', '[User]_thornbill', '[User]_jab416171'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9877
+2023-06-10 04:29:59+00:00,[User]_akesher123,"{'[User]_crobibero', '[User]_akesher123'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9878
+2023-06-11 10:03:06+00:00,[User]_Killface1980,{'[User]_Shadowghost'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9879
+2023-06-11 15:24:00+00:00,[User]_HavermansStef,"{'[User]_boc-the-git', '[User]_Lord0fBytes'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9880
+2023-06-11 23:14:28+00:00,[User]_pokemaster974,{'[User]_pokemaster974'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9881
+2023-06-12 17:15:01+00:00,[User]_ohitstom,"{'[User]_sevenrats', '[User]_drazil100'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9883
+2023-06-13 14:40:08+00:00,[User]_Opoodoop,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9885
+2023-06-15 11:29:14+00:00,[User]_Shadowghost,"{'[User]_Shadowghost', '[User]_ferferga', '[User]_crobibero', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9890
+2023-06-15 14:44:05+00:00,[User]_fhriley,{'[User]_jacobslusser'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9891
+2023-06-16 01:48:43+00:00,[User]_fhriley,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9893
+2023-06-16 04:19:57+00:00,[User]_fhriley,"{'[User]_crobibero', '[User]_fhriley'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9895
+2023-06-16 17:30:48+00:00,[User]_hbCyber,"{'[User]_clockwork-ws', '[User]_srcrist', '[User]_hbCyber'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9896
+2023-06-18 02:04:14+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9902
+2023-06-18 08:31:13+00:00,[User]_Y0ngg4n,"{'[User]_HybridSarcasm', '[User]_Y0ngg4n'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9903
+2023-06-18 11:25:52+00:00,[User]_nlspln,{'[User]_nlspln'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9904
+2023-06-19 13:56:42+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_jorgectf', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9906
+2023-06-20 16:07:26+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9909
+2023-06-21 22:39:56+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9915
+2023-06-21 22:44:49+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9916
+2023-06-21 23:01:33+00:00,[User]_pitbuster,"{'[User]_pitbuster', '[User]_HybridSarcasm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9917
+2023-06-22 17:26:50+00:00,[User]_DaGloaDone,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9918
+2023-06-23 19:37:40+00:00,[User]_nielsvanvelzen,"{'[User]_cvium', '[User]_crobibero', '[User]_DomiStyle', '[User]_6xingyv', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9920
+2023-06-23 19:56:14+00:00,[User]_wnhre2ur8cxx8,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9921
+2023-06-23 23:10:33+00:00,[User]_oatsvine,"{'[User]_ZacharyACoon', '[User]_JPVenson', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9922
+2023-06-25 10:44:48+00:00,[User]_ClaraCrazy,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9926
+2023-06-25 11:32:22+00:00,[User]_luckyluke985,"{'[User]_luckyluke985', '[User]_JPVenson'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9927
+2023-06-25 13:56:07+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9928
+2023-06-25 14:23:54+00:00,[User]_jx00109,{'[User]_nyanmisaka'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9929
+2023-06-26 10:48:20+00:00,[User]_purevertigo,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_srcrist', '[User]_purevertigo'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9931
+2023-06-27 12:00:15+00:00,[User]_nielsvanvelzen,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9933
+2023-06-27 12:02:58+00:00,[User]_nielsvanvelzen,"{'[User]_crobibero', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9934
+2023-06-27 12:47:35+00:00,[User]_crobibero,"{'[User]_crobibero', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9935
+2023-06-29 13:30:07+00:00,[User]_sidebog7,"{'[User]_DodoLeDev', '[User]_srcrist'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9940
+2023-06-30 05:49:59+00:00,[User]_pignoodle,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9941
+2023-06-30 22:20:47+00:00,[User]_server-imp,"{'[User]_menonGitHub', '[User]_server-imp', '[User]_c4mz', '[User]_srcrist'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9943
+2023-07-01 13:43:56+00:00,[User]_AmbulantRex,{'[User]_AmbulantRex'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9945
+2023-07-02 00:45:01+00:00,[User]_zpjc1,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9947
+2023-07-02 15:00:57+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9948
+2023-07-02 22:08:02+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9952
+2023-07-02 23:03:24+00:00,[User]_nurailroaddev,"{'[User]_aiac', '[User]_crobibero', '[User]_Xeyame'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9953
+2023-07-03 09:04:21+00:00,[User]_csaavedra,{'[User]_cvium'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9955
+2023-07-03 20:05:38+00:00,[User]_Shadowghost,"{'[User]_Shadowghost', '[User]_cvium', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9958
+2023-07-03 20:53:49+00:00,[User]_pbogre,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9959
+2023-07-04 19:17:48+00:00,[User]_raulpetru,"{'[User]_raulpetru', '[User]_happyTonakai'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9964
+2023-07-04 20:19:43+00:00,[User]_user1121321,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9965
+2023-07-04 23:43:29+00:00,[User]_Overwatching,"{'[User]_1337joe', '[User]_Overwatching', '[User]_srcrist', '[User]_sevenrats'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9966
+2023-07-05 12:52:18+00:00,[User]_poireauu,"{'[User]_Bond-009', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9967
+2023-07-06 10:05:55+00:00,[User]_Phil57,{'[User]_Phil57'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9968
+2023-07-07 06:24:38+00:00,[User]_VasilievSerg,"{'[User]_Shadowghost', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9975
+2023-07-08 16:42:25+00:00,[User]_Paillat-dev,"{'[User]_Shadowghost', '[User]_srcrist', '[User]_Paillat-dev'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9978
+2023-07-08 21:29:03+00:00,[User]_mcice7,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9979
+2023-07-09 07:27:36+00:00,[User]_sakarie9,{'[User]_sevenrats'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9980
+2023-07-09 18:51:20+00:00,[User]_Sky-High,"{'[User]_Paulus88', '[User]_Sky-High'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9983
+2023-07-09 23:28:22+00:00,[User]_GittyBruce,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9984
+2023-07-11 00:34:15+00:00,[User]_Sky-High,"{'[User]_Shadowghost', '[User]_cvium', '[User]_Xabis', '[User]_Sky-High', '[User]_Kyon147', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9987
+2023-07-11 21:25:30+00:00,[User]_JRModX,"{'[User]_crobibero', '[User]_gummykage'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9990
+2023-07-12 12:26:09+00:00,[User]_Yivas,"{'[User]_srcrist', '[User]_oxixes'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9991
+2023-07-12 18:35:50+00:00,[User]_Blackskyliner,"{'[User]_Shadowghost', '[User]_cvium', '[User]_Hallo951', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/9992
+2023-07-13 01:53:34+00:00,[User]_Fr0zka,"{'[User]_cvium', '[User]_Fr0zka'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/9994
+2023-07-15 11:27:19+00:00,[User]_mohd-akram,{'[User]_Bond-009'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10000
+2023-07-15 11:32:50+00:00,[User]_marcoh242,{'[User]_mkanilsson'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10001
+2023-07-15 16:23:42+00:00,[User]_Xabis,"{'[User]_Shadowghost', '[User]_cvium', '[User]_Xabis', '[User]_Sky-High'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10002
+2023-07-16 09:42:27+00:00,[User]_Salvoxia,"{'[User]_Shadowghost', '[User]_Salvoxia', '[User]_bradbeattie', '[User]_satmandu'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10005
+2023-07-16 12:06:30+00:00,[User]_Shadowghost,"{'[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10006
+2023-07-16 13:47:02+00:00,[User]_The-Randalorian,"{'[User]_HybridSarcasm', '[User]_The-Randalorian'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10007
+2023-07-17 01:35:29+00:00,[User]_thielj,{'[User]_gummykage'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10010
+2023-07-17 01:51:04+00:00,[User]_DavidMikeSimon,"{'[User]_cvium', '[User]_DavidMikeSimon'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10011
+2023-07-17 05:47:01+00:00,[User]_csaavedra,"{'[User]_csaavedra', '[User]_boc-the-git', '[User]_srcrist'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10012
+2023-07-18 03:09:04+00:00,[User]_gummykage,{'[User]_boc-the-git'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10013
+2023-07-18 04:46:57+00:00,[User]_socphoenix,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10014
+2023-07-18 19:06:42+00:00,[User]_natoyo,{'[User]_srcrist'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10017
+2023-07-19 04:16:43+00:00,[User]_LucasMZReal,{'[User]_cvium'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10020
+2023-07-19 10:13:35+00:00,[User]_cvium,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10022
+2023-07-20 05:32:45+00:00,[User]_PhantomPhoton,{'[User]_cvium'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10026
+2023-07-20 11:53:34+00:00,[User]_mikewesten,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10027
+2023-07-21 09:52:57+00:00,[User]_tallbl0nde,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10029
+2023-07-21 14:19:48+00:00,[User]_BarnJoey,"{'[User]_srcrist', '[User]_BarnJoey'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10030
+2023-07-22 06:34:16+00:00,[User]_navcz,"{'[User]_srcrist', '[User]_felix920506', '[User]_skulleddino'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10031
+2023-07-23 20:15:24+00:00,[User]_hankster112,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10037
+2023-07-23 21:30:06+00:00,[User]_Kronopt,"{'[User]_Shadowghost', '[User]_Miwer', '[User]_nyanmisaka', '[User]_Kronopt'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10038
+2023-07-24 00:15:04+00:00,[User]_hugueslarrive,"{'[User]_Shadowghost', '[User]_hankster112', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10039
+2023-07-27 13:42:19+00:00,[User]_mkrsticch,{'[User]_srcrist'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10044
+2023-07-27 15:07:20+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10045
+2023-07-27 17:11:07+00:00,[User]_kvaster,"{'[User]_Shadowghost', '[User]_kvaster'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10046
+2023-07-28 01:39:48+00:00,[User]_Turingrun,"{'[User]_Shadowghost', '[User]_marcoxyz123', '[User]_Turingrun'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10047
+2023-07-28 02:54:50+00:00,[User]_dwt12777,"{'[User]_sabberworm', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10048
+2023-07-28 05:19:18+00:00,[User]_Shadowghost,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_cvium', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10049
+2023-07-28 09:40:48+00:00,[User]_Shadowghost,"{'[User]_Shadowghost', '[User]_cvium', '[User]_crobibero', '[User]_satmandu', '[User]_PrplHaz4', '[User]_pitbuster', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10051
+2023-07-28 13:58:34+00:00,[User]_christianlegge,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_cvium', '[User]_christianlegge'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10053
+2023-07-29 14:56:31+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10055
+2023-07-29 19:36:06+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_EraYaN'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10056
+2023-07-31 04:27:38+00:00,[User]_libook,"{'[User]_Bond-009', '[User]_felix920506', '[User]_AlexStormwood'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10058
+2023-07-31 19:40:48+00:00,[User]_lonebyte,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10059
+2023-07-31 19:50:24+00:00,[User]_lonebyte,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10060
+2023-07-31 20:08:38+00:00,[User]_lonebyte,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10061
+2023-07-31 20:20:32+00:00,[User]_lonebyte,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10062
+2023-08-01 04:00:08+00:00,[User]_kikmak42,"{'[User]_srcrist', '[User]_crobibero', '[User]_acyr', '[User]_kikmak42', '[User]_MBR-0001', '[User]_omnath0', '[User]_pd98', '[User]_opensubtitles'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10064
+2023-08-01 14:58:40+00:00,[User]_lonebyte,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10066
+2023-08-01 18:32:57+00:00,[User]_lonebyte,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10068
+2023-08-01 21:03:27+00:00,[User]_aptalca,"{'[User]_pitbuster', '[User]_alexi741', '[User]_Cebrain'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10070
+2023-08-02 18:40:19+00:00,[User]_fiechr,{'[User]_srcrist'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10071
+2023-08-02 21:32:11+00:00,[User]_deffcolony,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10073
+2023-08-02 22:28:10+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10074
+2023-08-03 00:12:15+00:00,[User]_iJasonWade,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10075
+2023-08-04 03:53:32+00:00,[User]_j506130598,"{'[User]_crobibero', '[User]_j506130598'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10076
+2023-08-04 13:40:29+00:00,[User]_isuee94,"{'[User]_cvium', '[User]_isuee94'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10079
+2023-08-04 15:41:33+00:00,[User]_scampower3,"{'[User]_Shadowghost', '[User]_JPVenson', '[User]_Bond-009', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10080
+2023-08-04 15:51:58+00:00,[User]_MarkusTieger,"{'[User]_MarkusTieger', '[User]_geirskogul'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10081
+2023-08-04 17:29:54+00:00,[User]_lw6644700,"{'[User]_Bond-009', '[User]_felix920506', '[User]_BG8FRU'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10082
+2023-08-05 16:51:51+00:00,[User]_socphoenix,{'[User]_socphoenix'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10086
+2023-08-05 19:01:26+00:00,[User]_UkeHa,"{'[User]_UkeHa', '[User]_nyanmisaka', '[User]_gileri'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10087
+2023-08-06 03:57:28+00:00,[User]_scampower3,"{'[User]_JPVenson', '[User]_scampower3'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10088
+2023-08-06 08:14:27+00:00,[User]_luzmane,{'[User]_1337joe'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10089
+2023-08-06 08:16:25+00:00,[User]_scampower3,"{'[User]_cvium', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10090
+2023-08-06 15:56:38+00:00,[User]_vansto,"{'[User]_boc-the-git', '[User]_srcrist'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10092
+2023-08-06 20:13:31+00:00,[User]_Satadaes,"{'[User]_Satadaes', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10093
+2023-08-07 03:36:32+00:00,[User]_LSchallot,"{'[User]_cvium', '[User]_byteblenduk', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10094
+2023-08-07 15:02:40+00:00,[User]_Jroiby,"{'[User]_Bond-009', '[User]_Jroiby', '[User]_joshuaboniface'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10095
+2023-08-08 12:18:29+00:00,[User]_Bond-009,"{'[User]_cvium', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10097
+2023-08-09 23:38:12+00:00,[User]_gustavodeon,"{'[User]_gustavodeon', '[User]_jacobslusser'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10102
+2023-08-11 00:11:22+00:00,[User]_Rich-xuguo,"{'[User]_Rich-xuguo', '[User]_cubale', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10105
+2023-08-13 14:54:25+00:00,[User]_pythaeusone,"{'[User]_Shadowghost', '[User]_srcrist'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10108
+2023-08-14 01:57:54+00:00,[User]_fqscfqj,{'[User]_thornbill'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10109
+2023-08-15 11:26:37+00:00,[User]_AETeK5,"{'[User]_FartherOut', '[User]_Anteus'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10113
+2023-08-15 16:05:40+00:00,[User]_Bond-009,"{'[User]_crobibero', '[User]_cvium', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10114
+2023-08-16 13:40:45+00:00,[User]_Elu43,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10117
+2023-08-16 14:38:05+00:00,[User]_scampower3,{'[User]_scampower3'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10118
+2023-08-16 23:13:00+00:00,[User]_sambartik,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10120
+2023-08-18 12:02:59+00:00,[User]_cvium,{'[User]_Bond-009'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10122
+2023-08-18 17:46:37+00:00,[User]_jathek,"{'[User]_Shadowghost', '[User]_jathek'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10123
+2023-08-18 19:08:15+00:00,[User]_Dsamaz,"{'[User]_srcrist', '[User]_Dsamaz'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10124
+2023-08-19 02:36:43+00:00,[User]_HanNano,"{'[User]_cvium', '[User]_Donien'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10126
+2023-08-19 05:17:30+00:00,[User]_Onepamopa,{'[User]_srcrist'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10127
+2023-08-19 12:08:48+00:00,[User]_vince6794,"{'[User]_aljaxus', '[User]_nyanmisaka', '[User]_vince6794'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10129
+2023-08-19 20:36:53+00:00,[User]_cinbunnaps,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10130
+2023-08-20 14:12:05+00:00,[User]_Vyoam,"{'[User]_srcrist', '[User]_thornbill', '[User]_Vyoam'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10133
+2023-08-20 15:07:15+00:00,[User]_Tzundoku,"{'[User]_srcrist', '[User]_gummykage', '[User]_0x25CBFC4F', '[User]_Tzundoku'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10134
+2023-08-20 17:40:59+00:00,[User]_0x25CBFC4F,"{'[User]_Shadowghost', '[User]_cvium', '[User]_thomasjohansen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10135
+2023-08-21 10:24:29+00:00,[User]_Ember-ruby,"{'[User]_Shadowghost', '[User]_srcrist', '[User]_Ember-ruby'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10136
+2023-08-21 17:13:32+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_cvium'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10137
+2023-08-22 03:51:58+00:00,[User]_FantasyGmm,"{'[User]_Shadowghost', '[User]_cvium'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10139
+2023-08-22 16:00:09+00:00,[User]_b33t1e,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10140
+2023-08-22 16:13:32+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10141
+2023-08-23 15:16:00+00:00,[User]_jameskimmel,"{'[User]_cvium', '[User]_srcrist'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10145
+2023-08-25 19:10:57+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10151
+2023-08-26 15:00:25+00:00,[User]_goremykin,"{'[User]_goremykin', '[User]_crobibero', '[User]_cvium', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10154
+2023-08-27 03:28:21+00:00,[User]_nomonkeynodeal,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10157
+2023-08-27 15:31:42+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_cvium'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10158
+2023-08-28 03:50:42+00:00,[User]_Jayspek,"{'[User]_bjlaur', '[User]_Jayspek'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10159
+2023-08-28 21:59:13+00:00,[User]_gticolat,{'[User]_Shadowghost'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10164
+2023-08-29 09:24:08+00:00,[User]_danimart1991,"{'[User]_cvium', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10165
+2023-08-29 22:48:56+00:00,[User]_jhays,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10167
+2023-08-29 23:18:20+00:00,[User]_gandihar,"{'[User]_Shadowghost', '[User]_cvium', '[User]_lxwulf', '[User]_brianjmurrell', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10169
+2023-08-30 11:45:23+00:00,[User]_nyanmisaka,{'[User]_crobibero'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10173
+2023-08-30 11:46:11+00:00,[User]_Zhanzhanle,{'[User]_crobibero'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10174
+2023-08-30 12:06:38+00:00,[User]_irata-coder,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10175
+2023-08-30 13:04:40+00:00,[User]_broetchenrackete36,"{'[User]_Shadowghost', '[User]_broetchenrackete36', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10176
+2023-08-30 18:40:38+00:00,[User]_Gleeeeeman,"{'[User]_srcrist', '[User]_Nextinor', '[User]_Gleeeeeman', '[User]_manduted', '[User]_Killface1980'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10177
+2023-09-01 10:32:29+00:00,[User]_0x5eedfeed,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10181
+2023-09-01 14:33:40+00:00,[User]_RStoroy,{'[User]_srcrist'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10182
+2023-09-01 16:22:21+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10183
+2023-09-01 18:26:13+00:00,[User]_FrankBKK,"{'[User]_sevenrats', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10184
+2023-09-02 14:13:52+00:00,[User]_MartinMSPedersen,"{'[User]_MichaelRUSF', '[User]_MartinMSPedersen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10185
+2023-09-02 18:42:17+00:00,[User]_dandar,"{'[User]_cvium', '[User]_mvforell', '[User]_joshuaboniface'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10187
+2023-09-02 23:40:14+00:00,[User]_maghogrebban,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10188
+2023-09-02 23:41:04+00:00,[User]_mattiasghodsian,{'[User]_1337joe'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10189
+2023-09-03 18:00:51+00:00,[User]_eltociear,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009', '[User]_haruka98'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10190
+2023-09-03 18:17:54+00:00,[User]_cyberpunk2350,{'[User]_cyberpunk2350'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10191
+2023-09-05 19:46:22+00:00,[User]_csaavedra,"{'[User]_csaavedra', '[User]_srcrist', '[User]_SamJongenelen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10195
+2023-09-05 20:54:35+00:00,[User]_thornbill,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_cvium', '[User]_thornbill'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10197
+2023-09-05 22:12:22+00:00,[User]_ze-nite,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10198
+2023-09-06 04:02:21+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10199
+2023-09-09 06:48:22+00:00,[User]_csaavedra,"{'[User]_csaavedra', '[User]_srcrist'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10203
+2023-09-10 14:15:45+00:00,[User]_ricks03,{'[User]_srcrist'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10204
+2023-09-10 20:53:50+00:00,[User]_PacketParker,{'[User]_1337joe'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10205
+2023-09-11 11:46:03+00:00,[User]_Mainfrezzer,{'[User]_sevenrats'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10206
+2023-09-11 14:17:40+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_cvium'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10207
+2023-09-11 19:54:23+00:00,[User]_Danzig67,"{'[User]_Chillsmeit', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10208
+2023-09-12 10:03:46+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10210
+2023-09-12 11:48:15+00:00,[User]_brianjmurrell,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10211
+2023-09-12 11:58:29+00:00,[User]_brianjmurrell,"{'[User]_Shadowghost', '[User]_brianjmurrell', '[User]_joshuaboniface'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10212
+2023-09-12 23:26:24+00:00,[User]_fermulator,"{'[User]_fermulator', '[User]_srcrist'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10215
+2023-09-13 12:41:44+00:00,[User]_thornbill,{'[User]_Bond-009'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10217
+2023-09-13 15:34:51+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_cvium'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10218
+2023-09-13 16:13:30+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_cvium', '[User]_systemcrash', '[User]_crobibero', '[User]_JPVenson', '[User]_barronpm', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10219
+2023-09-13 21:40:07+00:00,[User]_Bond-009,"{'[User]_cvium', '[User]_JPVenson', '[User]_Bond-009', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10222
+2023-09-14 03:50:17+00:00,[User]_nwh3365,"{'[User]_srcrist', '[User]_nwh3365'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10223
+2023-09-15 12:02:16+00:00,[User]_theshoeshiner,"{'[User]_theshoeshiner', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10227
+2023-09-15 23:52:19+00:00,[User]_Reaster0,{'[User]_Reaster0'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10229
+2023-09-16 05:27:30+00:00,[User]_cvium,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10230
+2023-09-16 11:10:29+00:00,[User]_fscorrupt,{'[User]_sjorge'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10233
+2023-09-16 13:11:52+00:00,[User]_Shadowghost,"{'[User]_crobibero', '[User]_JPVenson', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10234
+2023-09-16 17:00:21+00:00,[User]_xcstg,"{'[User]_sevenrats', '[User]_felix920506', '[User]_xcstg'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10235
+2023-09-17 15:44:55+00:00,[User]_ristein,{'[User]_srcrist'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10237
+2023-09-17 17:14:34+00:00,[User]_GJCav,"{'[User]_nyanmisaka', '[User]_GJCav'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10238
+2023-09-17 19:19:05+00:00,[User]_mkanilsson,"{'[User]_mkanilsson', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10239
+2023-09-18 15:22:46+00:00,[User]_JPVenson,{'[User]_JPVenson'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10242
+2023-09-19 08:48:01+00:00,[User]_Okoyl,"{'[User]_nyanmisaka', '[User]_Okoyl'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10245
+2023-09-19 21:48:22+00:00,[User]_ringus1,{'[User]_ringus1'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10247
+2023-09-20 17:02:38+00:00,[User]_adripo,"{'[User]_adripo', '[User]_cvium'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10249
+2023-09-20 22:36:04+00:00,[User]_Middlepepper,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10250
+2023-09-22 06:03:29+00:00,[User]_TheHYPO35,{'[User]_srcrist'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10253
+2023-09-22 09:06:15+00:00,[User]_olafur-palsson,"{'[User]_olafur-palsson', '[User]_joshuaboniface'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10254
+2023-09-22 12:41:11+00:00,[User]_thomasjohansen,"{'[User]_Shadowghost', '[User]_cvium', '[User]_JPVenson', '[User]_thomasjohansen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10255
+2023-09-22 15:56:11+00:00,[User]_ChristinMilloy,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10256
+2023-09-22 17:17:39+00:00,[User]_Bond-009,{'[User]_Shadowghost'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10257
+2023-09-23 01:46:11+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_cvium', '[User]_crobibero', '[User]_barronpm', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10261
+2023-09-23 03:34:22+00:00,[User]_1337joe,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10263
+2023-09-23 11:48:54+00:00,[User]_Shadowghost,"{'[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10265
+2023-09-23 13:17:19+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_cvium'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10266
+2023-09-23 15:46:43+00:00,[User]_muellerjoel,{'[User]_Bond-009'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10267
+2023-09-23 15:47:47+00:00,[User]_crobibero,"{'[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10268
+2023-09-24 13:54:16+00:00,[User]_Chaphasilor,"{'[User]_ebattenberg', '[User]_JonasR', '[User]_exaveal', '[User]_nielsvanvelzen', '[User]_BloodyIron', '[User]_drazil100', '[User]_againstpetra', '[User]_iwillreku3206', '[User]_OriCat101'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10272
+2023-09-25 14:59:50+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10275
+2023-09-25 16:14:35+00:00,[User]_Bond-009,"{'[User]_cvium', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10276
+2023-09-25 16:49:56+00:00,[User]_bbarshaw,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10277
+2023-09-25 19:17:34+00:00,[User]_DarkStarSword,"{'[User]_DarkStarSword', '[User]_crobibero', '[User]_Shadowghost'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10278
+2023-09-26 05:13:08+00:00,[User]_bracham,{'[User]_srcrist'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10281
+2023-09-26 05:22:48+00:00,[User]_lawrence1986101,"{'[User]_1337joe', '[User]_srcrist', '[User]_dgalli1', '[User]_lawrence1986101'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10282
+2023-09-26 23:15:11+00:00,[User]_DavidFair,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10285
+2023-09-27 03:58:24+00:00,[User]_JustinBrow,{'[User]_JustinBrow'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10286
+2023-09-27 22:34:47+00:00,[User]_Janik313,"{'[User]_daps94', '[User]_srcrist', '[User]_Fluhzar'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10295
+2023-09-28 03:27:44+00:00,[User]_shaino,"{'[User]_cvium', '[User]_felix920506', '[User]_shaino'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10298
+2023-09-28 16:23:39+00:00,[User]_bilibilibubububu,"{'[User]_Bond-009', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10302
+2023-09-28 17:56:53+00:00,[User]_Moonbase59,"{'[User]_Shadowghost', '[User]_Moonbase59'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10303
+2023-09-29 14:13:10+00:00,[User]_thornbill,"{'[User]_barronpm', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10305
+2023-09-29 19:19:32+00:00,[User]_cylian914,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10306
+2023-09-29 20:10:45+00:00,[User]_Emily-SAC,{'[User]_Fluhzar'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10307
+2023-09-29 21:14:54+00:00,[User]_cvium,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10308
+2023-09-30 11:49:09+00:00,[User]_owenashurst,"{'[User]_owenashurst', '[User]_nielsvanvelzen', '[User]_VCSocial', '[User]_olafur-palsson', '[User]_caesarm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10309
+2023-09-30 22:57:19+00:00,[User]_megas7,"{'[User]_qwerty12', '[User]_felix920506', '[User]_megas7'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10312
+2023-10-01 02:57:58+00:00,[User]_charlesmunger,"{'[User]_charlesmunger', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10314
+2023-10-01 06:03:47+00:00,[User]_nyanmisaka,"{'[User]_grawlinson', '[User]_nyanmisaka', '[User]_LevitatingBusinessMan', '[User]_FabioLolix'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10315
+2023-10-01 18:45:51+00:00,[User]_zsolt-donca,"{'[User]_crobibero', '[User]_zsolt-donca'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10316
+2023-10-01 21:42:14+00:00,[User]_MartinWilkerson,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10317
+2023-10-01 21:42:43+00:00,[User]_MartinWilkerson,"{'[User]_Shadowghost', '[User]_JPVenson', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10318
+2023-10-02 02:03:31+00:00,[User]_dbchessher,"{'[User]_Shadowghost', '[User]_gaurovgiri', '[User]_Bond-009', '[User]_fogolin'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10320
+2023-10-02 06:03:35+00:00,[User]_feilongfl,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_feilongfl', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10321
+2023-10-02 07:51:55+00:00,[User]_titooo7,{'[User]_crobibero'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10322
+2023-10-02 10:57:09+00:00,[User]_hagaygo,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10323
+2023-10-02 17:53:34+00:00,[User]_Pithaya,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_JPVenson', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10325
+2023-10-03 03:09:33+00:00,[User]_1337joe,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10329
+2023-10-03 07:37:00+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10330
+2023-10-03 14:49:12+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10331
+2023-10-04 03:45:51+00:00,[User]_jacobslusser,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10334
+2023-10-04 14:09:10+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_barronpm', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10336
+2023-10-04 20:50:04+00:00,[User]_barronpm,"{'[User]_cvium', '[User]_Bond-009', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10337
+2023-10-05 03:43:42+00:00,[User]_leovan,"{'[User]_Shadowghost', '[User]_leovan', '[User]_Bond-009', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10339
+2023-10-05 16:07:00+00:00,[User]_gnattu,"{'[User]_gnattu', '[User]_felix920506', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10342
+2023-10-05 21:20:21+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_cvium', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10345
+2023-10-05 21:37:04+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10346
+2023-10-05 22:06:27+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10347
+2023-10-05 23:07:45+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10348
+2023-10-06 01:26:56+00:00,[User]_johndhzd,"{'[User]_johndhzd', '[User]_thornbill', '[User]_happyTonakai'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10349
+2023-10-06 03:36:09+00:00,[User]_victoralexander132,{'[User]_srcrist'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10350
+2023-10-06 21:07:11+00:00,[User]_regimeG,"{'[User]_srcrist', '[User]_oddstr13', '[User]_NiceneNerd', '[User]_regimeG', '[User]_HeisenbergK', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10353
+2023-10-07 11:47:50+00:00,[User]_Dangles91,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10355
+2023-10-07 20:24:36+00:00,[User]_felix920506,"{'[User]_Bond-009', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10359
+2023-10-07 20:33:49+00:00,[User]_acidmanifesto,{'[User]_acidmanifesto'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10360
+2023-10-07 21:42:19+00:00,[User]_SpiderUnderUrBed,"{'[User]_srcrist', '[User]_Rudra2002'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10361
+2023-10-07 22:59:37+00:00,[User]_tussock,"{'[User]_klausmcm', '[User]_felix920506', '[User]_tussock'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10364
+2023-10-07 23:02:01+00:00,[User]_cesaratteh,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10365
+2023-10-08 03:22:30+00:00,[User]_shaino,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10369
+2023-10-08 03:33:08+00:00,[User]_1337joe,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10370
+2023-10-08 13:31:34+00:00,[User]_Reaster0,"{'[User]_nipsy', '[User]_cvium', '[User]_Reaster0'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10372
+2023-10-09 08:05:35+00:00,[User]_libook,{'[User]_Chaphasilor'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10374
+2023-10-09 09:10:56+00:00,[User]_antlarr,"{'[User]_antlarr', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10375
+2023-10-09 22:19:24+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10378
+2023-10-10 20:25:51+00:00,[User]_MichaelRUSF,"{'[User]_MichaelRUSF', '[User]_thornbill', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10384
+2023-10-10 23:25:21+00:00,[User]_nothing2obvi,{'[User]_nothing2obvi'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10386
+2023-10-11 12:06:25+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_felix920506', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10387
+2023-10-11 13:51:22+00:00,[User]_satmandu,{'[User]_Bond-009'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10388
+2023-10-11 16:32:13+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10389
+2023-10-11 18:59:36+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_cvium', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10391
+2023-10-12 12:31:32+00:00,[User]_Moonbase59,{'[User]_Moonbase59'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10394
+2023-10-12 21:23:35+00:00,[User]_DaveSenn,"{'[User]_JPVenson', '[User]_gaurovgiri', '[User]_DaveSenn', '[User]_nielsvanvelzen', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10396
+2023-10-13 06:10:04+00:00,[User]_Eisaichen,{'[User]_Shadowghost'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10398
+2023-10-14 06:36:53+00:00,[User]_cnfjice,"{'[User]_deltonio2', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10403
+2023-10-15 06:25:39+00:00,[User]_thornbill,"{'[User]_Shadowghost', '[User]_cvium', '[User]_gaurovgiri'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10406
+2023-10-15 09:00:29+00:00,[User]_Motophan,"{'[User]_Eiziv', '[User]_srcrist', '[User]_Motophan', '[User]_felix920506', '[User]_hardwareadictos'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10407
+2023-10-15 18:23:41+00:00,[User]_kgoul974,{'[User]_kgoul974'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10409
+2023-10-16 14:15:05+00:00,[User]_dd900,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10411
+2023-10-16 14:15:09+00:00,[User]_Ucda1212,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10412
+2023-10-16 15:26:36+00:00,[User]_markotfk,"{'[User]_Bond-009', '[User]_markotfk'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10413
+2023-10-16 19:25:56+00:00,[User]_mmedic,{'[User]_oddstr13'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10414
+2023-10-16 19:49:30+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10416
+2023-10-16 23:08:14+00:00,[User]_habeebtc,"{'[User]_habeebtc', '[User]_ThermalEfficiency'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10418
+2023-10-17 07:24:04+00:00,[User]_Moonbase59,"{'[User]_GodBleak', '[User]_Arch-Storm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10421
+2023-10-17 16:38:19+00:00,[User]_Chais,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10425
+2023-10-17 21:50:36+00:00,[User]_asdil12,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10429
+2023-10-18 21:03:00+00:00,[User]_jvgeee,{'[User]_jvgeee'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10432
+2023-10-19 09:52:04+00:00,[User]_Hallo951,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10433
+2023-10-19 13:18:52+00:00,[User]_Yusseiin,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10434
+2023-10-19 14:19:29+00:00,[User]_hankster112,{'[User]_hankster112'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10435
+2023-10-21 11:15:09+00:00,[User]_herby2212,"{'[User]_Shadowghost', '[User]_herby2212', '[User]_gaurovgiri', '[User]_nielsvanvelzen', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10443
+2023-10-21 13:32:16+00:00,[User]_nodje,{'[User]_Shadowghost'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10445
+2023-10-21 15:02:13+00:00,[User]_bingzhangdai,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_bingzhangdai'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10446
+2023-10-21 19:11:09+00:00,[User]_jacobslusser,"{'[User]_crobibero', '[User]_oddstr13', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10447
+2023-10-21 21:59:38+00:00,[User]_vincent,"{'[User]_cvium', '[User]_crobibero', '[User]_vincent', '[User]_gaurovgiri', '[User]_1337joe', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10448
+2023-10-22 09:20:48+00:00,[User]_Guru1-228,"{'[User]_Guru1-228', '[User]_srcrist'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10450
+2023-10-22 11:03:31+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10451
+2023-10-22 11:59:12+00:00,[User]_Ozwel,{'[User]_srcrist'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10453
+2023-10-22 14:47:25+00:00,[User]_Shadowghost,"{'[User]_crobibero', '[User]_gaurovgiri', '[User]_oddstr13'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10454
+2023-10-22 20:29:27+00:00,[User]_cvium,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10455
+2023-10-22 22:16:50+00:00,[User]_QantumEntangled,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10456
+2023-10-23 05:06:49+00:00,[User]_cvium,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10457
+2023-10-23 22:47:48+00:00,[User]_ricardonevesmusic,"{'[User]_ricardonevesmusic', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10464
+2023-10-25 00:17:35+00:00,[User]_fuzxi,"{'[User]_SenorSmartyPants', '[User]_fuzxi'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10470
+2023-10-25 21:06:42+00:00,[User]_cvium,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10471
+2023-10-25 21:29:45+00:00,[User]_cvium,"{'[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10472
+2023-10-25 22:15:31+00:00,[User]_jacobslusser,"{'[User]_1337joe', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10473
+2023-10-26 09:51:18+00:00,[User]_DerP4si,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10474
+2023-10-26 15:59:14+00:00,[User]_speediegq,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10475
+2023-10-26 17:21:33+00:00,[User]_habeebtc,"{'[User]_cvium', '[User]_oddstr13', '[User]_habeebtc'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10476
+2023-10-27 01:08:20+00:00,[User]_harry-hart,{'[User]_crobibero'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10477
+2023-10-27 16:47:57+00:00,[User]_IDisposable,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10483
+2023-10-27 17:06:58+00:00,[User]_huyuanjun976,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10484
+2023-10-28 05:14:14+00:00,[User]_thornbill,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10487
+2023-10-28 16:07:52+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_1337joe', '[User]_owenashurst', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10490
+2023-10-30 14:43:01+00:00,[User]_duanyu5871,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10495
+2023-10-30 19:51:40+00:00,[User]_niclan,"{'[User]_Shadowghost', '[User]_niclan'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10496
+2023-10-30 23:54:16+00:00,[User]_Ch1nkara,{'[User]_crobibero'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10499
+2023-10-31 08:38:09+00:00,[User]_methbkts,{'[User]_oddstr13'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10501
+2023-10-31 16:51:15+00:00,[User]_yohanb,"{'[User]_cvium', '[User]_yohanb', '[User]_JPVenson'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10503
+2023-10-31 17:55:32+00:00,[User]_rafma0,{'[User]_rafma0'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10504
+2023-10-31 21:13:02+00:00,[User]_felix920506,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10506
+2023-11-01 07:57:05+00:00,[User]_Morethanevil,"{'[User]_Shadowghost', '[User]_Morethanevil'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10509
+2023-11-01 11:39:45+00:00,[User]_s949492225,"{'[User]_crobibero', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10510
+2023-11-01 14:25:09+00:00,[User]_hardwareadictos,"{'[User]_hardwareadictos', '[User]_nyanmisaka', '[User]_major-mayer', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10512
+2023-11-02 10:20:16+00:00,[User]_jxshuaa,"{'[User]_crobibero', '[User]_jxshuaa'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10518
+2023-11-02 11:01:39+00:00,[User]_s-t-e-v-e-n-k,"{'[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10519
+2023-11-02 20:26:58+00:00,[User]_avdept,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10521
+2023-11-03 20:41:56+00:00,[User]_update-freak,"{'[User]_Shadowghost', '[User]_update-freak'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10524
+2023-11-04 01:46:43+00:00,[User]_pettably,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10527
+2023-11-04 17:13:25+00:00,[User]_nyanmisaka,"{'[User]_cvium', '[User]_joshuaboniface'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10528
+2023-11-05 01:02:23+00:00,[User]_Bond-009,"{'[User]_crobibero', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10531
+2023-11-05 01:26:06+00:00,[User]_nipsy,"{'[User]_nipsy', '[User]_nullip', '[User]_JacKeTUs', '[User]_Maeur1'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10532
+2023-11-05 14:33:26+00:00,[User]_crobibero,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10534
+2023-11-06 04:38:09+00:00,[User]_suyongxin4,{'[User]_nielsvanvelzen'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10537
+2023-11-06 11:52:04+00:00,[User]_mihawk90,"{'[User]_adripo', '[User]_mihawk90'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10538
+2023-11-06 12:08:12+00:00,[User]_bin101,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10539
+2023-11-06 22:32:17+00:00,[User]_ljdssdgOjosdgOsd,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10540
+2023-11-07 20:11:15+00:00,[User]_Maxr1998,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10542
+2023-11-07 21:19:02+00:00,[User]_Joly0,{'[User]_joshuaboniface'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10543
+2023-11-08 04:52:05+00:00,[User]_justin-sleep,"{'[User]_Bond-009', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10544
+2023-11-08 12:30:44+00:00,[User]_Henkow,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10547
+2023-11-08 15:00:25+00:00,[User]_rderensy,{'[User]_Bond-009'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10548
+2023-11-09 01:42:08+00:00,[User]_solisinvictum,{'[User]_TimGels'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10554
+2023-11-09 21:44:28+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10557
+2023-11-10 00:36:08+00:00,[User]_HammyHavoc,{'[User]_HammyHavoc'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10560
+2023-11-10 11:00:30+00:00,[User]_Moonbase59,"{'[User]_anthonylavado', '[User]_Moonbase59', '[User]_alanmilinovic', '[User]_anthonylavado-kxs', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10561
+2023-11-10 14:30:56+00:00,[User]_eomanis,"{'[User]_felix920506', '[User]_eomanis'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10562
+2023-11-11 00:06:58+00:00,[User]_bushaev-denis,"{'[User]_sevenrats', '[User]_bushaev-denis', '[User]_nyanmisaka'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10564
+2023-11-11 10:02:51+00:00,[User]_Motophan,{'[User]_sevenrats'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10565
+2023-11-11 15:48:31+00:00,[User]_vin86,"{'[User]_crobibero', '[User]_vin86', '[User]_sevenrats'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10568
+2023-11-11 17:29:55+00:00,[User]_RDKRACZ,"{'[User]_crobibero', '[User]_RDKRACZ', '[User]_cvium'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10570
+2023-11-11 19:11:24+00:00,[User]_DefinitivLegit,{'[User]_cvium'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10571
+2023-11-11 22:50:06+00:00,[User]_Reaster0,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Reaster0', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10572
+2023-11-12 15:28:56+00:00,[User]_barronpm,{'[User]_Shadowghost'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10574
+2023-11-13 02:00:39+00:00,[User]_Zagreus9723,"{'[User]_Zagreus9723', '[User]_felix920506', '[User]_ovingiv'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10575
+2023-11-13 23:45:59+00:00,[User]_Jburso,"{'[User]_cvium', '[User]_crobibero', '[User]_JPVenson', '[User]_barronpm', '[User]_Jburso', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10576
+2023-11-14 00:13:10+00:00,[User]_amtra,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_amtra', '[User]_DaftFuzz'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10577
+2023-11-14 23:54:48+00:00,[User]_WilliamBjerglund,{'[User]_WilliamBjerglund'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10583
+2023-11-15 23:48:21+00:00,[User]_Gauvino,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Gauvino', '[User]_barronpm', '[User]_joshuaboniface', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10590
+2023-11-15 23:52:46+00:00,[User]_Bond-009,"{'[User]_crobibero', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10591
+2023-11-16 01:49:52+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10592
+2023-11-16 05:19:48+00:00,[User]_aoberoi,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10594
+2023-11-16 22:56:57+00:00,[User]_lunarised,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10596
+2023-11-17 23:43:55+00:00,[User]_hezhijie0327,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10599
+2023-11-18 05:40:33+00:00,[User]_Gauvino,{'[User]_Gauvino'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10600
+2023-11-18 11:52:55+00:00,[User]_Sjoerd,"{'[User]_Sjoerd', '[User]_sevenrats', '[User]_solidsnake1298', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10602
+2023-11-18 21:53:58+00:00,[User]_Gauvino,"{'[User]_Shadowghost', '[User]_jumoog', '[User]_crobibero', '[User]_Gauvino', '[User]_joshuaboniface', '[User]_WizzardHub'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10603
+2023-11-19 16:41:38+00:00,[User]_accuratecopy,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10605
+2023-11-19 22:23:41+00:00,[User]_qdrop17,{'[User]_qdrop17'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10606
+2023-11-20 06:10:19+00:00,[User]_burncode,{'[User]_solidsnake1298'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10608
+2023-11-20 21:31:18+00:00,[User]_Morikko,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10610
+2023-11-21 14:15:12+00:00,[User]_joshuaavalon,{'[User]_joshuaavalon'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10612
+2023-11-21 22:11:39+00:00,[User]_JPVenson,"{'[User]_Shadowghost', '[User]_cvium', '[User]_crobibero', '[User]_JPVenson', '[User]_barronpm', '[User]_servimo', '[User]_Bond-009', '[User]_MarkCiliaVincenti'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10613
+2023-11-22 14:44:16+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_cvium', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10617
+2023-11-23 06:10:24+00:00,[User]_msimic,"{'[User]_msimic', '[User]_acidstout', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10618
+2023-11-23 15:58:44+00:00,[User]_theshoeshiner,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10620
+2023-11-24 08:54:27+00:00,[User]_NachoBB,"{'[User]_GodBleak', '[User]_sevenrats'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10621
+2023-11-24 17:39:54+00:00,[User]_Sulframus,"{'[User]_Sulframus', '[User]_Krafting'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10622
+2023-11-26 00:46:12+00:00,[User]_ilovepilav,"{'[User]_Shadowghost', '[User]_cvium', '[User]_crobibero', '[User]_ilovepilav', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10625
+2023-11-26 07:24:44+00:00,[User]_bond-bbs,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10626
+2023-11-26 16:57:21+00:00,[User]_arturocuya,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10627
+2023-11-27 08:48:54+00:00,[User]_bartlomiejborzucki,{'[User]_bartlomiejborzucki'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10628
+2023-11-27 15:57:13+00:00,[User]_marius-luca-87,"{'[User]_rosenbjerg', '[User]_sevenrats', '[User]_marius-luca-87'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10629
+2023-11-28 05:07:11+00:00,[User]_rosystain,{'[User]_sevenrats'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10632
+2023-11-28 15:46:26+00:00,[User]_MattBlackOnly,"{'[User]_TheMelmacian', '[User]_MattBlackOnly'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10637
+2023-11-28 21:55:26+00:00,[User]_LePips,"{'[User]_JPVenson', '[User]_LePips', '[User]_thornbill'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10639
+2023-11-28 23:12:37+00:00,[User]_JarekDerp,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10640
+2023-11-29 01:00:40+00:00,[User]_justryanw,"{'[User]_Cifer9516', '[User]_nyanmisaka', '[User]_justryanw', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10643
+2023-11-29 01:58:38+00:00,[User]_Zagreus9723,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10644
+2023-11-29 02:04:04+00:00,[User]_OpetyrOrigin,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10645
+2023-11-29 03:25:32+00:00,[User]_morganplancot,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10646
+2023-11-29 07:29:47+00:00,[User]_Anteus,"{'[User]_crobibero', '[User]_Anteus'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10648
+2023-11-29 08:46:30+00:00,[User]_felix920506,"{'[User]_Shadowghost', '[User]_JPVenson', '[User]_Bond-009', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10649
+2023-11-29 09:55:09+00:00,[User]_W-KE,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10650
+2023-11-29 21:35:20+00:00,[User]_verybadsoldier,"{'[User]_verybadsoldier', '[User]_joshuaboniface'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10655
+2023-11-30 16:05:21+00:00,[User]_pokkst,"{'[User]_felix920506', '[User]_thornbill', '[User]_pokkst'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10658
+2023-11-30 17:29:31+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10659
+2023-11-30 17:39:15+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_cvium', '[User]_jumoog', '[User]_crobibero', '[User]_JPVenson', '[User]_barronpm', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10660
+2023-11-30 19:54:39+00:00,[User]_24fpsDaVinci,"{'[User]_cmtonkinson', '[User]_felix920506', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10661
+2023-12-01 16:39:23+00:00,[User]_zjeffer,{'[User]_zjeffer'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10662
+2023-12-01 22:38:24+00:00,[User]_pokkst,"{'[User]_JesseGuerrero', '[User]_pokkst', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10663
+2023-12-01 23:50:26+00:00,[User]_mplough,{'[User]_mplough'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10664
+2023-12-03 04:03:33+00:00,[User]_simoncaron,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10665
+2023-12-03 11:53:18+00:00,[User]_Obamium69,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10667
+2023-12-03 21:03:12+00:00,[User]_Erotemic,"{'[User]_Shadowghost', '[User]_Bond-009', '[User]_joshuaboniface'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10672
+2023-12-04 05:59:00+00:00,[User]_EricThunder,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10675
+2023-12-04 17:50:14+00:00,[User]_verybadsoldier,"{'[User]_verybadsoldier', '[User]_sevenrats'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10677
+2023-12-05 01:17:29+00:00,[User]_someperson,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10679
+2023-12-06 00:02:56+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10682
+2023-12-06 04:59:45+00:00,[User]_bhowe34,"{'[User]_bhowe34', '[User]_crobibero', '[User]_JPVenson', '[User]_Gauvino', '[User]_1337joe'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10684
+2023-12-06 16:44:06+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10685
+2023-12-06 18:23:52+00:00,[User]_MichaelRUSF,{'[User]_thornbill'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10686
+2023-12-06 18:23:54+00:00,[User]_kentdobias,{'[User]_sevenrats'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10687
+2023-12-06 20:52:43+00:00,[User]_wkearney99,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10689
+2023-12-06 22:18:44+00:00,[User]_bradleycundari,"{'[User]_bradleycundari', '[User]_sevenrats', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10690
+2023-12-07 11:30:58+00:00,[User]_hoonlight,"{'[User]_crobibero', '[User]_felix920506', '[User]_hoonlight', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10693
+2023-12-08 11:52:18+00:00,[User]_lin1123,"{'[User]_PrplHaz4', '[User]_felix920506', '[User]_Its-Ankush'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10699
+2023-12-08 22:47:04+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_jnorris441', '[User]_1337joe', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10702
+2023-12-09 09:39:30+00:00,[User]_DFP86,"{'[User]_sevenrats', '[User]_DFP86'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10704
+2023-12-10 10:31:32+00:00,[User]_ztardik,"{'[User]_lolomin', '[User]_ztardik', '[User]_joshuaboniface', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10707
+2023-12-10 11:38:02+00:00,[User]_ChenAlien,"{'[User]_sevenrats', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10708
+2023-12-12 01:51:24+00:00,[User]_jkhsjdhjs,"{'[User]_cvium', '[User]_nyanmisaka', '[User]_Bond-009', '[User]_jkhsjdhjs'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10710
+2023-12-12 09:18:09+00:00,[User]_ljc2266,"{'[User]_Shadowghost', '[User]_ljc2266', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10711
+2023-12-12 10:51:01+00:00,[User]_DerP4si,{'[User]_TheMelmacian'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10712
+2023-12-12 11:30:10+00:00,[User]_PaulDotSH,"{'[User]_felix920506', '[User]_soundsbyjs'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10713
+2023-12-13 09:11:11+00:00,[User]_Arc-Pop,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10720
+2023-12-13 18:31:51+00:00,[User]_BroserBros,"{'[User]_BroserBros', '[User]_nielsvanvelzen', '[User]_felix920506', '[User]_terrelsa13'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10722
+2023-12-13 23:06:24+00:00,[User]_johnl,{'[User]_cvium'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10723
+2023-12-14 13:25:03+00:00,[User]_danieldietsch,{'[User]_Erotemic'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10724
+2023-12-15 01:39:56+00:00,[User]_cinderblockgames,"{'[User]_crobibero', '[User]_cinderblockgames'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10728
+2023-12-15 08:58:59+00:00,[User]_JacobKingDev,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10729
+2023-12-15 10:47:46+00:00,[User]_jakikoske,"{'[User]_jakikoske', '[User]_Schaka', '[User]_felix920506', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10731
+2023-12-15 20:05:19+00:00,[User]_zdzielinski,{'[User]_sevenrats'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10732
+2023-12-15 20:23:21+00:00,[User]_CreatingWithCake,{'[User]_aaemon'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10733
+2023-12-15 22:35:24+00:00,[User]_Maakse,"{'[User]_crobibero', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10734
+2023-12-16 12:01:24+00:00,[User]_nielsvanvelzen,"{'[User]_Shadowghost', '[User]_joshuaboniface', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10736
+2023-12-17 05:17:00+00:00,[User]_1337joe,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10738
+2023-12-17 16:59:25+00:00,[User]_PaulDotSH,"{'[User]_PaulDotSH', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10740
+2023-12-18 12:10:46+00:00,[User]_NielsJanssen90,"{'[User]_NielsJanssen90', '[User]_JPVenson'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10741
+2023-12-18 20:45:32+00:00,[User]_joshuaboniface,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10742
+2023-12-18 21:08:04+00:00,[User]_wazerstar,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10743
+2023-12-19 00:10:23+00:00,[User]_deadcxap,{'[User]_Shadowghost'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10744
+2023-12-19 15:03:16+00:00,[User]_TheDadNerd,{'[User]_crobibero'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10747
+2023-12-20 08:38:09+00:00,[User]_Acenl12,{'[User]_Acenl12'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10750
+2023-12-21 03:05:25+00:00,[User]_tanmoumou252,"{'[User]_JPVenson', '[User]_oddstr13', '[User]_tanmoumou252'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10755
+2023-12-21 08:38:09+00:00,[User]_dmitrylyzo,"{'[User]_Shadowghost', '[User]_dmitrylyzo'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10756
+2023-12-21 10:08:37+00:00,[User]_dmitrylyzo,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10757
+2023-12-21 18:02:25+00:00,[User]_barronpm,{'[User]_crobibero'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10758
+2023-12-22 08:51:28+00:00,[User]_Alex-coffen,"{'[User]_Solsmed', '[User]_sevenrats'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10760
+2023-12-22 10:50:29+00:00,[User]_TylerB260,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10761
+2023-12-22 16:35:36+00:00,[User]_onesandzeroesdotnet,"{'[User]_onesandzeroesdotnet', '[User]_scicomrunner', '[User]_MichaelRUSF'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10762
+2023-12-22 19:46:45+00:00,[User]_beren12,"{'[User]_Shadowghost', '[User]_JPVenson', '[User]_Gauvino', '[User]_MarkCiliaVincenti'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10763
+2023-12-23 04:55:10+00:00,[User]_st3v3nmw,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10765
+2023-12-23 16:08:39+00:00,[User]_angaz,"{'[User]_thornbill', '[User]_angaz', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10766
+2023-12-24 17:07:29+00:00,[User]_Neinei0k,{'[User]_UniverseDevel'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10768
+2023-12-25 15:30:13+00:00,[User]_ramkrishna757575,"{'[User]_ramkrishna757575', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10769
+2023-12-26 08:17:25+00:00,[User]_mateusfn98,"{'[User]_mateusfn98', '[User]_fireXtract', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10771
+2023-12-27 15:13:31+00:00,[User]_Ad-Blokker,"{'[User]_barronpm', '[User]_Ad-Blokker'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10773
+2023-12-28 11:56:50+00:00,[User]_elendil7,"{'[User]_elendil7', '[User]_MichaelRUSF', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10775
+2023-12-28 16:48:04+00:00,[User]_WhiteyDude,"{'[User]_bjornbouetsmith', '[User]_kevincox', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10776
+2023-12-28 19:55:39+00:00,[User]_niclan,"{'[User]_felix920506', '[User]_n0bbi'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10777
+2023-12-29 08:49:04+00:00,[User]_veqryn,"{'[User]_Urworstnit3m3r', '[User]_veqryn', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10778
+2023-12-29 20:23:55+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_JPVenson', '[User]_barronpm', '[User]_Bond-009'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10781
+2023-12-29 21:49:46+00:00,[User]_pisekpiskovec,"{'[User]_pisekpiskovec', '[User]_felix920506'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10783
+2023-12-30 05:51:18+00:00,[User]_devstra,"{'[User]_Shadowghost', '[User]_devstra', '[User]_JPVenson'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10784
+2023-12-30 12:33:51+00:00,[User]_Azmodeszer,{'[User]_Azmodeszer'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10785
+2023-12-30 16:54:42+00:00,[User]_maschulloo,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10786
+2023-12-31 14:05:46+00:00,[User]_Bond-009,"{'[User]_crobibero', '[User]_barronpm'}",jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/pull/10788
+2023-12-31 17:50:03+00:00,[User]_Sveninndh,set(),jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10789
+2023-12-31 19:37:39+00:00,[User]_Sh4d,{'[User]_felix920506'},jellyfin/jellyfin,2023,https://github.com/jellyfin/jellyfin/issues/10790
+2024-01-01 04:41:08+00:00,[User]_bananabob,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10791
+2024-01-01 20:21:29+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_JPVenson', '[User]_barronpm', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10793
+2024-01-01 21:47:34+00:00,[User]_ieure,"{'[User]_Faithy3', '[User]_jtepts', '[User]_EleanorRigby76'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10794
+2024-01-02 00:46:12+00:00,[User]_JHubi1,"{'[User]_JHubi1', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10795
+2024-01-02 06:30:56+00:00,[User]_poijoy,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10797
+2024-01-02 10:22:35+00:00,[User]_amk221,"{'[User]_amk221', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10798
+2024-01-02 17:49:11+00:00,[User]_gitdeath,"{'[User]_solidsnake1298', '[User]_nyanmisaka', '[User]_gitdeath', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10799
+2024-01-03 12:02:14+00:00,[User]_lf-,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10800
+2024-01-03 18:13:18+00:00,[User]_MathijsNL,{'[User]_Jules-Corleo'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10803
+2024-01-04 13:44:05+00:00,[User]_sqlstatement,{'[User]_sqlstatement'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10808
+2024-01-04 14:58:35+00:00,[User]_s7m0n,{'[User]_nyanmisaka'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10809
+2024-01-04 15:21:43+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10810
+2024-01-04 17:20:49+00:00,[User]_dandud100,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10811
+2024-01-04 21:16:27+00:00,[User]_nielsvanvelzen,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_janvs0', '[User]_thornbill', '[User]_nielsvanvelzen', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10812
+2024-01-05 10:55:06+00:00,[User]_marcoxyz123,"{'[User]_Shadowghost', '[User]_marcoxyz123', '[User]_nukewarrior'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10815
+2024-01-05 14:02:47+00:00,[User]_cacharle,"{'[User]_MichaelRUSF', '[User]_cacharle'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10817
+2024-01-05 16:15:14+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10818
+2024-01-05 17:31:23+00:00,[User]_t0meck,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10819
+2024-01-06 21:43:36+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_barronpm', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10822
+2024-01-06 22:02:13+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_Bond-009', '[User]_barronpm'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10823
+2024-01-06 22:46:44+00:00,[User]_saber716rus,{'[User]_Shadowghost'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10824
+2024-01-07 10:57:22+00:00,[User]_florient22,"{'[User]_manjaroblack', '[User]_NilsLeo', '[User]_crobibero', '[User]_florient22', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10827
+2024-01-07 20:52:22+00:00,[User]_Certefied,"{'[User]_Snipy2k4', '[User]_TimGels', '[User]_rxbrad', '[User]_Certefied'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10829
+2024-01-07 22:54:08+00:00,[User]_zombiehoffa,"{'[User]_crobibero', '[User]_zombiehoffa', '[User]_nyanmisaka', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10830
+2024-01-09 03:43:30+00:00,[User]_blakesmith,"{'[User]_blakesmith', '[User]_foss-', '[User]_Chaphasilor'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10834
+2024-01-09 08:27:59+00:00,[User]_Corbie-42,{'[User]_nielsvanvelzen'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10835
+2024-01-09 14:21:15+00:00,[User]_ristein,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10837
+2024-01-09 15:23:42+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_barronpm', '[User]_nielsvanvelzen', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10838
+2024-01-09 19:50:25+00:00,[User]_dathbe,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10839
+2024-01-09 20:54:30+00:00,[User]_sampov2,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10840
+2024-01-09 22:45:52+00:00,[User]_Bond-009,{'[User]_barronpm'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10841
+2024-01-09 22:55:45+00:00,[User]_Trainzack,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10842
+2024-01-10 18:16:36+00:00,[User]_csousougen,{'[User]_TimGels'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10844
+2024-01-10 21:23:10+00:00,[User]_liberodark,"{'[User]_crobibero', '[User]_liberodark'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10846
+2024-01-10 22:11:01+00:00,[User]_barronpm,"{'[User]_mega-mac-slice', '[User]_crobibero', '[User]_barronpm', '[User]_Bond-009', '[User]_MarkCiliaVincenti'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10847
+2024-01-10 22:35:49+00:00,[User]_pktiuk,"{'[User]_pktiuk', '[User]_mikesulsenti', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10848
+2024-01-11 18:09:12+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_barronpm', '[User]_nielsvanvelzen', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10850
+2024-01-11 19:24:15+00:00,[User]_phaelax,"{'[User]_phaelax', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10851
+2024-01-11 22:39:25+00:00,[User]_Spomyx,"{'[User]_Spomyx', '[User]_barronpm', '[User]_solidsnake1298', '[User]_nielsvanvelzen', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10852
+2024-01-12 00:29:42+00:00,[User]_gamefb,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10853
+2024-01-13 00:35:27+00:00,[User]_Bmixo,{'[User]_crobibero'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10855
+2024-01-13 09:49:46+00:00,[User]_jellouser,"{'[User]_frnjjq', '[User]_jellouser', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10856
+2024-01-13 19:53:01+00:00,[User]_HotkeyM,{'[User]_crobibero'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10857
+2024-01-13 20:02:44+00:00,[User]_barronpm,{'[User]_crobibero'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10858
+2024-01-13 21:07:35+00:00,[User]_wittywilla,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10859
+2024-01-14 00:24:13+00:00,[User]_xsaMNJfkltrwq5r3,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10860
+2024-01-14 09:40:37+00:00,[User]_Chingato,{'[User]_deadcxap'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10861
+2024-01-14 13:25:49+00:00,[User]_TelepathicWalrus,"{'[User]_TelepathicWalrus', '[User]_barronpm'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10863
+2024-01-14 14:28:00+00:00,[User]_ncrmro,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10864
+2024-01-14 16:38:44+00:00,[User]_brianjmurrell,"{'[User]_sevenrats', '[User]_brianjmurrell', '[User]_oddstr13', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10865
+2024-01-15 05:53:21+00:00,[User]_AdamantUnstable,{'[User]_ericswpark'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10866
+2024-01-15 14:01:50+00:00,[User]_Meilinhost,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10868
+2024-01-15 15:16:06+00:00,[User]_MaVdbussche,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10869
+2024-01-15 19:16:59+00:00,[User]_felix920506,"{'[User]_JPVenson', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10872
+2024-01-15 21:54:10+00:00,[User]_mcarlton00,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10873
+2024-01-16 11:55:36+00:00,[User]_wazbi68575656,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10874
+2024-01-16 14:21:35+00:00,[User]_zeus86,{'[User]_zeus86'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10875
+2024-01-16 19:24:58+00:00,[User]_Bond-009,"{'[User]_crobibero', '[User]_mcarlton00', '[User]_barronpm'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10876
+2024-01-17 15:13:39+00:00,[User]_infinitytec,"{'[User]_infinitytec', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10877
+2024-01-17 15:20:15+00:00,[User]_infinitytec,"{'[User]_MichaelRUSF', '[User]_infinitytec', '[User]_solidsnake1298', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10879
+2024-01-17 19:41:06+00:00,[User]_TelepathicWalrus,"{'[User]_cvium', '[User]_crobibero', '[User]_barronpm', '[User]_TelepathicWalrus', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10881
+2024-01-18 01:22:09+00:00,[User]_crobibero,"{'[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10882
+2024-01-18 16:30:51+00:00,[User]_alltilla,"{'[User]_crobibero', '[User]_nyanmisaka', '[User]_alltilla', '[User]_barronpm', '[User]_fa1rid', '[User]_mirolm'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10884
+2024-01-18 20:06:18+00:00,[User]_ThePastPlayer,{'[User]_ThePastPlayer'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10885
+2024-01-18 21:23:33+00:00,[User]_scott-ainsworth,"{'[User]_scott-ainsworth', '[User]_solidsnake1298', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10887
+2024-01-19 01:34:25+00:00,[User]_JPVenson,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_JPVenson', '[User]_Gauvino', '[User]_nyanmisaka'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10888
+2024-01-19 06:38:26+00:00,[User]_auyylaso,"{'[User]_JPVenson', '[User]_auyylaso'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10890
+2024-01-19 13:06:28+00:00,[User]_rxbrad,{'[User]_rxbrad'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10892
+2024-01-19 21:02:15+00:00,[User]_Fynn93,"{'[User]_JPVenson', '[User]_Fynn93', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10894
+2024-01-20 18:42:04+00:00,[User]_eobet,"{'[User]_danielb2', '[User]_crobibero', '[User]_eobet', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10896
+2024-01-20 21:12:59+00:00,[User]_gesong2077,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10897
+2024-01-21 16:30:59+00:00,[User]_Gauvino,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_joshuaboniface'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10899
+2024-01-23 06:37:22+00:00,[User]_eppesuig,"{'[User]_eppesuig', '[User]_felix920506', '[User]_strugee'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10902
+2024-01-23 11:27:45+00:00,[User]_Bulmanator,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10904
+2024-01-23 18:42:06+00:00,[User]_kimboslice99,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10905
+2024-01-24 10:38:10+00:00,[User]_bibitocarlos,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10909
+2024-01-25 09:30:32+00:00,[User]_sidebog7,"{'[User]_TimGels', '[User]_sidebog7', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10910
+2024-01-25 17:38:57+00:00,[User]_avionics75,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10913
+2024-01-26 13:47:11+00:00,[User]_rutgerputter,{'[User]_rutgerputter'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10914
+2024-01-27 04:11:55+00:00,[User]_Tim-Roy,"{'[User]_JesseGuerrero', '[User]_bfourgeaud', '[User]_Tim-Roy', '[User]_solidsnake1298', '[User]_vgambier', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10916
+2024-01-27 11:15:39+00:00,[User]_HeHeHeeeeee,"{'[User]_HeHeHeeeeee', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10919
+2024-01-27 15:42:05+00:00,[User]_MCHellspawn,{'[User]_MCHellspawn'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10920
+2024-01-27 18:40:42+00:00,[User]_sney,"{'[User]_MichaelRUSF', '[User]_sney'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10921
+2024-01-28 08:48:08+00:00,[User]_jx00109,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10922
+2024-01-28 12:02:22+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10924
+2024-01-28 12:44:33+00:00,[User]_bdydrp,"{'[User]_JPVenson', '[User]_bdydrp', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10925
+2024-01-29 03:26:38+00:00,[User]_dondretrotman,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10927
+2024-01-29 13:20:05+00:00,[User]_wenfa1999,"{'[User]_gnattu', '[User]_nyanmisaka', '[User]_alex9099', '[User]_wenfa1999'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10928
+2024-01-29 16:12:31+00:00,[User]_TimF0,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10929
+2024-01-30 10:44:39+00:00,[User]_dfyx,{'[User]_dfyx'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10932
+2024-01-31 15:18:25+00:00,[User]_DavidHenryThoreau,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10936
+2024-02-01 02:45:39+00:00,[User]_Harrenkyym,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10938
+2024-02-01 07:29:00+00:00,[User]_peerless2012,"{'[User]_nyanmisaka', '[User]_felix920506', '[User]_peerless2012'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10940
+2024-02-01 16:57:29+00:00,[User]_anoo2niem,"{'[User]_TimGels', '[User]_anoo2niem'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10941
+2024-02-01 17:19:57+00:00,[User]_fusk-l,"{'[User]_solidsnake1298', '[User]_fusk-l'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10942
+2024-02-01 17:46:12+00:00,[User]_schumi4,"{'[User]_crobibero', '[User]_schumi4', '[User]_sevenrats', '[User]_BrianCArnold'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10943
+2024-02-01 18:21:20+00:00,[User]_fusk-l,"{'[User]_MichaelRUSF', '[User]_Zbuddy13', '[User]_fusk-l', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10944
+2024-02-01 21:21:13+00:00,[User]_Jamy-L,"{'[User]_sevenrats', '[User]_Jamy-L', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10945
+2024-02-02 01:34:15+00:00,[User]_felix920506,"{'[User]_crobibero', '[User]_JPVenson', '[User]_Gauvino', '[User]_barronpm', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10946
+2024-02-02 15:54:04+00:00,[User]_Redwid,"{'[User]_crobibero', '[User]_Redwid'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10947
+2024-02-02 20:29:34+00:00,[User]_beakerandjake,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10949
+2024-02-02 22:42:02+00:00,[User]_Etzix,{'[User]_Etzix'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10950
+2024-02-03 01:54:01+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10951
+2024-02-03 06:33:34+00:00,[User]_CharlesCanlom,{'[User]_cvium'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10952
+2024-02-03 11:09:22+00:00,[User]_9thChasingWindGirl,{'[User]_crobibero'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10953
+2024-02-04 16:09:35+00:00,[User]_Joly0,"{'[User]_felix920506', '[User]_Joly0'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10957
+2024-02-04 18:36:06+00:00,[User]_DoTheSneedful,{'[User]_TimGels'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10958
+2024-02-05 02:46:55+00:00,[User]_felix920506,{'[User]_freepizzas-dev'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10959
+2024-02-05 03:38:18+00:00,[User]_kyleyee52,"{'[User]_jmerdich', '[User]_kyleyee52'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10960
+2024-02-05 05:49:01+00:00,[User]_mmomjian,"{'[User]_mnejing', '[User]_mmomjian', '[User]_nyanmisaka', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10961
+2024-02-05 08:06:13+00:00,[User]_aero31aero,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10962
+2024-02-05 14:36:08+00:00,[User]_mebitek,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10963
+2024-02-05 18:07:11+00:00,[User]_CarlMichaelFabe,"{'[User]_TimGels', '[User]_CarlMichaelFabe'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10966
+2024-02-06 13:24:42+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009', '[User]_barronpm'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10968
+2024-02-06 15:27:30+00:00,[User]_barronpm,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10969
+2024-02-06 16:16:54+00:00,[User]_Gauvino,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10971
+2024-02-07 05:08:00+00:00,[User]_felix920506,{'[User]_solidsnake1298'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10974
+2024-02-07 10:27:49+00:00,[User]_adam-kulagowski,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_adam-kulagowski'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10975
+2024-02-08 00:08:16+00:00,[User]_Pedro-MC,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10977
+2024-02-08 05:47:13+00:00,[User]_felix920506,"{'[User]_solidsnake1298', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10978
+2024-02-08 11:21:10+00:00,[User]_Joly0,"{'[User]_nyanmisaka', '[User]_felix920506', '[User]_Joly0'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10979
+2024-02-08 15:19:22+00:00,[User]_felix920506,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_thornbill', '[User]_nielsvanvelzen', '[User]_Bond-009', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10980
+2024-02-08 16:38:16+00:00,[User]_rxbrad,{'[User]_rxbrad'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10982
+2024-02-08 20:13:04+00:00,[User]_nielsvanvelzen,{'[User]_Shadowghost'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10983
+2024-02-09 10:06:17+00:00,[User]_Neinei0k,"{'[User]_Neinei0k', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10984
+2024-02-09 11:58:54+00:00,[User]_yaneony,"{'[User]_crobibero', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10985
+2024-02-09 23:24:07+00:00,[User]_Snipy2k4,"{'[User]_Snipy2k4', '[User]_solidsnake1298', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10986
+2024-02-10 02:41:06+00:00,[User]_Shatomaru,{'[User]_thekdub'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10987
+2024-02-10 09:43:46+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_nyanmisaka', '[User]_oddstr13', '[User]_Gylesie'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10988
+2024-02-10 12:34:07+00:00,[User]_fusk-l,{'[User]_JPVenson'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10989
+2024-02-10 13:17:41+00:00,[User]_Shadowghost,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009', '[User]_Gylesie'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10990
+2024-02-10 20:10:40+00:00,[User]_felix920506,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10991
+2024-02-10 20:12:36+00:00,[User]_felix920506,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10992
+2024-02-10 22:43:49+00:00,[User]_ieure,"{'[User]_telans', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10993
+2024-02-10 23:33:55+00:00,[User]_shanewilhelm,"{'[User]_Gauvino', '[User]_shanewilhelm'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10995
+2024-02-11 20:00:32+00:00,[User]_solidsnake1298,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10996
+2024-02-11 23:52:06+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10997
+2024-02-12 05:26:37+00:00,[User]_hartman8227,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/10998
+2024-02-12 11:22:11+00:00,[User]_dmitrylyzo,"{'[User]_crobibero', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/10999
+2024-02-12 17:34:39+00:00,[User]_nicknsy,"{'[User]_Shadowghost', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11000
+2024-02-12 20:05:46+00:00,[User]_lomenzel,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11001
+2024-02-12 20:42:35+00:00,[User]_MichaelRUSF,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11002
+2024-02-13 02:46:48+00:00,[User]_dmnkf,"{'[User]_crobibero', '[User]_dmnkf', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11003
+2024-02-13 16:56:35+00:00,[User]_rwrozelle,"{'[User]_rwrozelle', '[User]_solidsnake1298'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11006
+2024-02-14 10:35:06+00:00,[User]_blade1989,"{'[User]_crobibero', '[User]_blade1989'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11007
+2024-02-14 11:07:20+00:00,[User]_gnattu,{'[User]_Gauvino'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11008
+2024-02-14 12:24:31+00:00,[User]_rluetzner,"{'[User]_rluetzner', '[User]_felix920506', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11009
+2024-02-14 19:31:20+00:00,[User]_rluetzner,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_rluetzner', '[User]_nielsvanvelzen', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11010
+2024-02-15 09:56:52+00:00,[User]_Schaka,{'[User]_nielsvanvelzen'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11011
+2024-02-15 13:14:50+00:00,[User]_Schaka,"{'[User]_scott-ainsworth', '[User]_felix920506', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11012
+2024-02-15 15:15:24+00:00,[User]_gnattu,"{'[User]_gnattu', '[User]_crobibero', '[User]_nyanmisaka', '[User]_Shadowghost'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11014
+2024-02-15 15:45:09+00:00,[User]_Next-Page-Vi,{'[User]_gnattu'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11015
+2024-02-16 01:37:42+00:00,[User]_raldone01,{'[User]_Shadowghost'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11017
+2024-02-16 08:17:09+00:00,[User]_marcelGoerentz,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11018
+2024-02-16 10:48:17+00:00,[User]_lyarenei,"{'[User]_Shadowghost', '[User]_lyarenei'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11020
+2024-02-17 05:35:29+00:00,[User]_kostaj,"{'[User]_zeaglee', '[User]_nyanmisaka', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11022
+2024-02-17 14:29:00+00:00,[User]_jellouser,{'[User]_jellouser'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11025
+2024-02-17 21:59:50+00:00,[User]_Joly0,"{'[User]_gnattu', '[User]_crobibero', '[User]_Joly0'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11027
+2024-02-18 12:19:33+00:00,[User]_nielsvanvelzen,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11028
+2024-02-18 13:06:50+00:00,[User]_alltilla,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_JPVenson', '[User]_nyanmisaka', '[User]_alltilla'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11029
+2024-02-18 14:07:52+00:00,[User]_Maypul,"{'[User]_Maypul', '[User]_sevenrats'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11030
+2024-02-18 16:40:41+00:00,[User]_jellouser,"{'[User]_nyanmisaka', '[User]_jellouser'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11031
+2024-02-18 19:19:03+00:00,[User]_oxixes,"{'[User]_oxixes', '[User]_mLgz0rn', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11032
+2024-02-18 21:49:17+00:00,[User]_felix920506,"{'[User]_Shadowghost', '[User]_1337joe', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11033
+2024-02-19 13:21:50+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11034
+2024-02-21 02:34:20+00:00,[User]_kg333,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11041
+2024-02-21 02:36:20+00:00,[User]_rmatte,{'[User]_rmatte'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11042
+2024-02-21 06:06:20+00:00,[User]_felix920506,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11043
+2024-02-21 13:46:01+00:00,[User]_ID-86,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11044
+2024-02-21 16:30:22+00:00,[User]_barronpm,"{'[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11045
+2024-02-22 06:52:56+00:00,[User]_dmitrylyzo,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11046
+2024-02-22 09:32:03+00:00,[User]_yamanobe96,"{'[User]_gnattu', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11047
+2024-02-22 14:36:44+00:00,[User]_jellouser,"{'[User]_Shadowghost', '[User]_nyanmisaka', '[User]_jellouser'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11049
+2024-02-22 17:02:40+00:00,[User]_Marco3G,"{'[User]_Marco3G', '[User]_joshuaboniface', '[User]_felix920506', '[User]_mcnewton'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11050
+2024-02-23 13:39:34+00:00,[User]_jellouser,"{'[User]_nyanmisaka', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11052
+2024-02-23 16:02:34+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_cvium', '[User]_TimGels'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11055
+2024-02-24 02:54:10+00:00,[User]_schalkiii,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11057
+2024-02-24 16:49:35+00:00,[User]_iloveicedgreentea,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11059
+2024-02-24 17:35:39+00:00,[User]_williamthrilliam,"{'[User]_MichaelRUSF', '[User]_williamthrilliam'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11060
+2024-02-25 15:10:46+00:00,[User]_halexh,"{'[User]_halexh', '[User]_gnattu', '[User]_nyanmisaka'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11062
+2024-02-25 17:44:09+00:00,[User]_rubdos,"{'[User]_Gauvino', '[User]_rubdos'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11063
+2024-02-25 18:13:53+00:00,[User]_Shadowghost,"{'[User]_crobibero', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11064
+2024-02-25 20:08:22+00:00,[User]_iwch,"{'[User]_crobibero', '[User]_TimGels', '[User]_thornbill', '[User]_nielsvanvelzen', '[User]_johngianni', '[User]_iwch'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11065
+2024-02-26 15:45:34+00:00,[User]_joshuaavalon,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11066
+2024-02-26 18:11:07+00:00,[User]_crobibero,"{'[User]_crobibero', '[User]_cvium', '[User]_JPVenson', '[User]_barronpm'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11067
+2024-02-26 22:58:27+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11068
+2024-02-27 04:40:42+00:00,[User]_geriko2000,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11070
+2024-02-27 15:51:13+00:00,[User]_nodje,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11073
+2024-02-28 03:49:34+00:00,[User]_one-new-message,{'[User]_one-new-message'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11075
+2024-02-28 17:27:55+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11078
+2024-02-28 21:12:18+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11079
+2024-02-29 00:30:25+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_NicholasFlamy', '[User]_DomiStyle', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11081
+2024-03-01 01:37:44+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_JPVenson', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11083
+2024-03-01 03:32:15+00:00,[User]_Betonhaus,{'[User]_Betonhaus'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11084
+2024-03-01 16:44:15+00:00,[User]_TheHellSite,"{'[User]_TheHellSite', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11085
+2024-03-01 21:38:43+00:00,[User]_sebman3,"{'[User]_sebman3', '[User]_solidsnake1298', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11088
+2024-03-01 21:51:43+00:00,[User]_TheHellSite,"{'[User]_TheHellSite', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11089
+2024-03-02 11:32:52+00:00,[User]_Computerboss3000,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11091
+2024-03-02 13:00:22+00:00,[User]_cvium,"{'[User]_Shadowghost', '[User]_cvium', '[User]_jumoog', '[User]_crobibero', '[User]_JPVenson'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11092
+2024-03-02 19:58:48+00:00,[User]_Billos,"{'[User]_JPVenson', '[User]_joshuaboniface'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11094
+2024-03-02 20:25:08+00:00,[User]_rurickdev,{'[User]_Shadowghost'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11095
+2024-03-03 03:47:24+00:00,[User]_felix920506,{'[User]_nielsvanvelzen'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11096
+2024-03-03 06:50:02+00:00,[User]_jeremypenner,{'[User]_TimGels'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11097
+2024-03-03 19:21:53+00:00,[User]_itsjakeman,{'[User]_TimGels'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11099
+2024-03-03 20:32:34+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_JPVenson', '[User]_joshuaboniface'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11100
+2024-03-03 20:34:51+00:00,[User]_joshuaboniface,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11101
+2024-03-04 11:45:50+00:00,[User]_sentakuhm,"{'[User]_sentakuhm', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11105
+2024-03-04 12:54:01+00:00,[User]_jivanpal,"{'[User]_crobibero', '[User]_chiragkrishna'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11106
+2024-03-04 15:26:54+00:00,[User]_chazzawarner,"{'[User]_ACR-Jeff', '[User]_alguatte', '[User]_nyanmisaka', '[User]_kingp0dd', '[User]_OnlyC0RE', '[User]_MCMXD', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11107
+2024-03-04 21:11:36+00:00,[User]_Turiok,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11108
+2024-03-05 00:06:51+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_cvium', '[User]_crobibero', '[User]_thornbill', '[User]_IDisposable', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11109
+2024-03-05 09:23:19+00:00,[User]_adam-kulagowski,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_adam-kulagowski'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11111
+2024-03-05 10:03:02+00:00,[User]_adam-kulagowski,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11112
+2024-03-05 16:25:14+00:00,[User]_stefan1983,"{'[User]_gnattu', '[User]_Chaphasilor', '[User]_stefan1983'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11113
+2024-03-06 10:06:31+00:00,[User]_cooljimy84,"{'[User]_nyanmisaka', '[User]_cooljimy84'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11114
+2024-03-06 14:15:37+00:00,[User]_polskikrol,"{'[User]_TimGels', '[User]_JPVenson', '[User]_polskikrol'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11115
+2024-03-07 01:16:10+00:00,[User]_JamesSwift,"{'[User]_crobibero', '[User]_JamesSwift'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11117
+2024-03-07 03:59:55+00:00,[User]_buzzzz2138,"{'[User]_SourSulfur', '[User]_jbatt33', '[User]_buzzzz2138', '[User]_Shadowghost'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11118
+2024-03-08 03:44:04+00:00,[User]_kimboslice99,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_kimboslice99', '[User]_JPVenson', '[User]_oddstr13', '[User]_sevenrats', '[User]_Xhanti', '[User]_gnattu', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11120
+2024-03-08 04:18:42+00:00,[User]_joshuaboniface,"{'[User]_crobibero', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11121
+2024-03-08 07:37:11+00:00,[User]_kekxv,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11122
+2024-03-08 15:16:19+00:00,[User]_s-talay,"{'[User]_TimGels', '[User]_scampower3', '[User]_s-talay'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11123
+2024-03-08 15:37:47+00:00,[User]_PeachesMLG,"{'[User]_crobibero', '[User]_JPVenson', '[User]_PeachesMLG', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11124
+2024-03-08 19:33:17+00:00,[User]_PeachesMLG,"{'[User]_TimGels', '[User]_PeachesMLG', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11125
+2024-03-08 22:29:51+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_PeachesMLG', '[User]_nyanmisaka', '[User]_nielsvanvelzen', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11126
+2024-03-08 22:53:18+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_cvium', '[User]_crobibero', '[User]_TimGels', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11127
+2024-03-08 22:57:06+00:00,[User]_TimGels,{'[User]_JPVenson'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11128
+2024-03-09 01:10:51+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11129
+2024-03-09 02:39:12+00:00,[User]_NicholasFlamy,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11130
+2024-03-09 03:07:18+00:00,[User]_joshuaboniface,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11131
+2024-03-09 18:27:31+00:00,[User]_Rid,{'[User]_joshuaboniface'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11133
+2024-03-09 18:48:52+00:00,[User]_joshuaboniface,"{'[User]_apuntigam', '[User]_howellrl'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11134
+2024-03-09 21:47:09+00:00,[User]_TimGels,"{'[User]_TimGels', '[User]_Gauvino', '[User]_holow29', '[User]_joshuaboniface', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11135
+2024-03-10 17:49:05+00:00,[User]_scampower3,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_IDisposable'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11136
+2024-03-11 03:24:24+00:00,[User]_JurgenCruz,"{'[User]_TimGels', '[User]_JurgenCruz'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11139
+2024-03-11 18:40:09+00:00,[User]_skiwlkr,{'[User]_TimGels'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11140
+2024-03-12 13:40:38+00:00,[User]_chminsc,"{'[User]_gnattu', '[User]_chminsc'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11144
+2024-03-12 18:04:03+00:00,[User]_Shisheloma,{'[User]_JellychanUwU'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11146
+2024-03-12 21:05:31+00:00,[User]_chicungunya,{'[User]_chicungunya'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11147
+2024-03-13 13:57:53+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11149
+2024-03-13 16:27:37+00:00,[User]_DerP4si,"{'[User]_DerP4si', '[User]_nyanmisaka'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11151
+2024-03-13 16:32:16+00:00,[User]_Chaphasilor,"{'[User]_Shadowghost', '[User]_Chaphasilor', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11152
+2024-03-13 22:08:51+00:00,[User]_isaac-mcfadyen,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11153
+2024-03-13 23:09:21+00:00,[User]_felix920506,"{'[User]_crobibero', '[User]_JPVenson', '[User]_joshuaboniface', '[User]_nielsvanvelzen', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11154
+2024-03-14 13:24:22+00:00,[User]_sel10ut,"{'[User]_Shadowghost', '[User]_sel10ut', '[User]_JPVenson', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11155
+2024-03-15 18:08:58+00:00,[User]_1337joe,"{'[User]_crobibero', '[User]_JPVenson', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11160
+2024-03-15 23:45:22+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_vessd', '[User]_joshuaboniface', '[User]_nielsvanvelzen', '[User]_Erotemic', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11162
+2024-03-16 01:07:38+00:00,[User]_crobibero,{'[User]_Shadowghost'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11164
+2024-03-16 07:05:08+00:00,[User]_vessd,"{'[User]_Shadowghost', '[User]_JPVenson', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11165
+2024-03-16 11:03:35+00:00,[User]_JPVenson,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11166
+2024-03-16 14:11:46+00:00,[User]_ipsi,"{'[User]_Shadowghost', '[User]_edgar88', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11169
+2024-03-16 16:09:39+00:00,[User]_crobibero,"{'[User]_crobibero', '[User]_JPVenson'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11170
+2024-03-17 08:52:49+00:00,[User]_BLumia,"{'[User]_gnattu', '[User]_crobibero', '[User]_BLumia', '[User]_Shadowghost'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11172
+2024-03-17 09:50:03+00:00,[User]_JPVenson,"{'[User]_JPVenson', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11173
+2024-03-18 16:23:21+00:00,[User]_crobibero,"{'[User]_Bond-009', '[User]_joshuaboniface'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11177
+2024-03-18 18:30:59+00:00,[User]_felix920506,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Gauvino'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11178
+2024-03-18 22:28:07+00:00,[User]_jlpedrosa,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11179
+2024-03-18 23:47:59+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11181
+2024-03-19 07:27:45+00:00,[User]_DragonsCgithub,{'[User]_nyanmisaka'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11182
+2024-03-19 15:44:25+00:00,[User]_joshuaboniface,"{'[User]_crobibero', '[User]_Gauvino'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11184
+2024-03-19 18:49:49+00:00,[User]_gnattu,"{'[User]_crobibero', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11185
+2024-03-19 23:42:35+00:00,[User]_goremykin,{'[User]_goremykin'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11188
+2024-03-20 21:00:26+00:00,[User]_CommanderRedYT,"{'[User]_CommanderRedYT', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11192
+2024-03-23 08:51:53+00:00,[User]_gnattu,"{'[User]_crobibero', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11199
+2024-03-23 22:47:40+00:00,[User]_nyanmisaka,"{'[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11203
+2024-03-24 00:13:15+00:00,[User]_revam,"{'[User]_Gauvino', '[User]_revam'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11204
+2024-03-24 02:21:20+00:00,[User]_gnattu,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_nyanmisaka'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11205
+2024-03-24 15:00:38+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11206
+2024-03-25 09:33:48+00:00,[User]_nyanmisaka,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11210
+2024-03-25 11:37:54+00:00,[User]_othyn,"{'[User]_gnattu', '[User]_othyn'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11211
+2024-03-25 14:10:23+00:00,[User]_joshuaboniface,"{'[User]_Shadowghost', '[User]_joshuaboniface', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11214
+2024-03-25 16:34:36+00:00,[User]_joshuaboniface,"{'[User]_Shadowghost', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11215
+2024-03-26 05:25:58+00:00,[User]_BBaoVanC,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11216
+2024-03-26 06:46:16+00:00,[User]_gnattu,"{'[User]_crobibero', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11217
+2024-03-26 09:45:15+00:00,[User]_Bond-009,"{'[User]_nyanmisaka', '[User]_JPVenson', '[User]_joshuaboniface', '[User]_gnattu', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11218
+2024-03-26 16:42:11+00:00,[User]_nagisa,"{'[User]_gnattu', '[User]_nagisa'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11223
+2024-03-26 17:44:33+00:00,[User]_nielsvanvelzen,{'[User]_joshuaboniface'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11224
+2024-03-26 22:13:18+00:00,[User]_MisterGenius0,"{'[User]_Shadowghost', '[User]_MisterGenius0'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11227
+2024-03-26 22:30:44+00:00,[User]_gnattu,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_nyanmisaka', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11228
+2024-03-27 17:27:44+00:00,[User]_felix920506,{'[User]_Shadowghost'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11231
+2024-03-27 18:17:58+00:00,[User]_nielsvanvelzen,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_dmitrylyzo'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11232
+2024-03-28 02:36:59+00:00,[User]_gnattu,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_nyanmisaka', '[User]_gnattu', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11235
+2024-03-28 06:55:03+00:00,[User]_thornbill,"{'[User]_Shadowghost', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11236
+2024-03-28 17:58:51+00:00,[User]_nyanmisaka,"{'[User]_crobibero', '[User]_Bond-009', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11243
+2024-03-28 22:36:03+00:00,[User]_revam,"{'[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11245
+2024-03-29 03:38:51+00:00,[User]_gnattu,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_nyanmisaka', '[User]_gnattu', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11246
+2024-03-29 14:06:40+00:00,[User]_crobibero,"{'[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11248
+2024-03-29 18:26:00+00:00,[User]_nielsvanvelzen,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11249
+2024-03-29 21:36:46+00:00,[User]_nyanmisaka,"{'[User]_gnattu', '[User]_nyanmisaka'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11250
+2024-03-30 00:13:21+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_cvium', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11252
+2024-03-30 06:39:35+00:00,[User]_gnattu,"{'[User]_gnattu', '[User]_Bond-009', '[User]_Shadowghost'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11253
+2024-03-30 11:00:45+00:00,[User]_gnattu,"{'[User]_gnattu', '[User]_jumoog', '[User]_mark-monteiro'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11254
+2024-03-30 13:18:45+00:00,[User]_cvium,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11256
+2024-03-30 14:25:44+00:00,[User]_sibbi77,{'[User]_Bond-009'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11257
+2024-03-30 18:32:02+00:00,[User]_nielsvanvelzen,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11260
+2024-03-31 08:48:42+00:00,[User]_nielsvanvelzen,{'[User]_nielsvanvelzen'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11266
+2024-03-31 18:13:02+00:00,[User]_knocte,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_knocte'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11270
+2024-04-01 09:18:39+00:00,[User]_prayag17,{'[User]_prayag17'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11275
+2024-04-02 04:42:13+00:00,[User]_chencaidy,"{'[User]_gnattu', '[User]_crobibero', '[User]_Bond-009', '[User]_Shadowghost'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11279
+2024-04-02 06:45:16+00:00,[User]_gnattu,"{'[User]_Shadowghost', '[User]_dmitrylyzo', '[User]_JPVenson', '[User]_nyanmisaka', '[User]_gnattu', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11280
+2024-04-05 06:19:16+00:00,[User]_Peronia,"{'[User]_gnattu', '[User]_joshuaboniface', '[User]_Peronia'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11299
+2024-04-05 08:54:18+00:00,[User]_lyarenei,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11301
+2024-04-06 15:58:56+00:00,[User]_JPVenson,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_JPVenson'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11311
+2024-04-08 01:30:57+00:00,[User]_woolmonkey,{'[User]_woolmonkey'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11313
+2024-04-08 05:30:06+00:00,[User]_gnattu,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11315
+2024-04-08 20:24:48+00:00,[User]_nielsvanvelzen,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11321
+2024-04-09 00:12:15+00:00,[User]_vincentroyc,"{'[User]_gnattu', '[User]_felix920506', '[User]_oddstr13', '[User]_vincentroyc'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11323
+2024-04-09 16:39:39+00:00,[User]_Sparhawk76,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11326
+2024-04-11 04:33:02+00:00,[User]_crobibero,"{'[User]_crobibero', '[User]_cvium', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11338
+2024-04-11 12:51:47+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_barronpm', '[User]_nielsvanvelzen', '[User]_mark-monteiro'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11341
+2024-04-11 13:01:00+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11342
+2024-04-11 14:58:39+00:00,[User]_maulik9898,"{'[User]_maulik9898', '[User]_gnattu', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11343
+2024-04-12 23:04:11+00:00,[User]_revam,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11351
+2024-04-13 06:53:55+00:00,[User]_gnattu,"{'[User]_Shadowghost', '[User]_cvium', '[User]_crobibero', '[User]_EraYaN', '[User]_gnattu', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11352
+2024-04-14 12:57:13+00:00,[User]_odddollar,"{'[User]_gnattu', '[User]_odddollar', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11355
+2024-04-14 18:44:42+00:00,[User]_crobibero,"{'[User]_jumoog', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11356
+2024-04-14 20:31:35+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11357
+2024-04-14 21:16:03+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11358
+2024-04-14 21:18:02+00:00,[User]_polyfruitism,"{'[User]_crobibero', '[User]_polyfruitism'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11359
+2024-04-14 21:21:53+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11360
+2024-04-14 21:25:00+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_MarkCiliaVincenti', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11361
+2024-04-16 03:38:10+00:00,[User]_anoraktrend,{'[User]_crobibero'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11364
+2024-04-16 13:11:57+00:00,[User]_nielsvanvelzen,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11367
+2024-04-16 15:32:52+00:00,[User]_gnattu,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11368
+2024-04-16 22:35:23+00:00,[User]_crobibero,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009', '[User]_bin101'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11370
+2024-04-16 23:26:49+00:00,[User]_nickyg91,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11371
+2024-04-17 03:22:55+00:00,[User]_stryan,"{'[User]_gnattu', '[User]_stryan'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11372
+2024-04-17 16:25:29+00:00,[User]_gnattu,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_adoreparler'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11377
+2024-04-18 05:39:41+00:00,[User]_joshuaboniface,"{'[User]_Shadowghost', '[User]_joshuaboniface', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11381
+2024-04-18 13:17:15+00:00,[User]_joshuaboniface,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11383
+2024-04-19 15:56:47+00:00,[User]_gnattu,"{'[User]_gnattu', '[User]_nyanmisaka', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11388
+2024-04-20 14:46:11+00:00,[User]_Bond-009,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11390
+2024-04-21 13:10:32+00:00,[User]_nielsvanvelzen,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11395
+2024-04-21 19:47:39+00:00,[User]_nielsvanvelzen,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11398
+2024-04-21 22:46:45+00:00,[User]_gnattu,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11399
+2024-04-22 00:24:16+00:00,[User]_felix920506,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11400
+2024-04-22 01:35:00+00:00,[User]_gnattu,"{'[User]_gnattu', '[User]_crobibero', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11401
+2024-04-22 14:27:23+00:00,[User]_caeci11ius,{'[User]_gnattu'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11403
+2024-04-22 23:04:26+00:00,[User]_jmqm,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_Bond-009', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11410
+2024-04-23 00:31:45+00:00,[User]_NicholasFlamy,"{'[User]_NicholasFlamy', '[User]_gnattu', '[User]_Shadowghost'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11411
+2024-04-23 01:47:43+00:00,[User]_felix920506,"{'[User]_crobibero', '[User]_felix920506'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11412
+2024-04-23 02:49:57+00:00,[User]_felix920506,{'[User]_Bond-009'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11413
+2024-04-23 07:47:19+00:00,[User]_gnattu,"{'[User]_Shadowghost', '[User]_crobibero'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11416
+2024-04-23 10:40:02+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11419
+2024-04-23 15:41:35+00:00,[User]_HanaO00,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11422
+2024-04-24 14:11:50+00:00,[User]_Trenobol,"{'[User]_SodaWithoutSparkles', '[User]_Trenobol'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11425
+2024-04-25 10:41:03+00:00,[User]_Bond-009,"{'[User]_crobibero', '[User]_cvium'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11431
+2024-04-25 10:42:34+00:00,[User]_Bond-009,{'[User]_Shadowghost'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11432
+2024-04-25 19:32:23+00:00,[User]_gnattu,"{'[User]_Shadowghost', '[User]_crobibero', '[User]_nyanmisaka', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11435
+2024-04-25 19:54:33+00:00,[User]_nielsvanvelzen,"{'[User]_cvium', '[User]_crobibero', '[User]_oddstr13', '[User]_joshuaboniface', '[User]_nielsvanvelzen', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11436
+2024-04-26 06:24:29+00:00,[User]_chibiconsulting,{'[User]_chibiconsulting'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11442
+2024-04-26 12:26:40+00:00,[User]_Chaphasilor,"{'[User]_Chaphasilor', '[User]_nielsvanvelzen'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11443
+2024-04-26 13:31:59+00:00,[User]_gnattu,"{'[User]_crobibero', '[User]_joshuaboniface'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11444
+2024-04-26 15:32:51+00:00,[User]_Akimio521,{'[User]_felix920506'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11446
+2024-04-26 15:55:41+00:00,[User]_Akimio521,{'[User]_sevenrats'},jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11447
+2024-04-28 13:21:32+00:00,[User]_Bond-009,"{'[User]_Shadowghost', '[User]_dmitrylyzo', '[User]_crobibero', '[User]_Chaphasilor', '[User]_nielsvanvelzen', '[User]_Bond-009'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11457
+2024-04-28 13:40:19+00:00,[User]_MarkCiliaVincenti,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11458
+2024-04-29 09:48:07+00:00,[User]_knoopr,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11462
+2024-04-29 13:52:01+00:00,[User]_caeci11ius,set(),jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/issues/11463
+2024-04-29 20:09:31+00:00,[User]_gnattu,"{'[User]_gnattu', '[User]_memehammad', '[User]_Bond-009', '[User]_joshuaboniface'}",jellyfin/jellyfin,2024,https://github.com/jellyfin/jellyfin/pull/11464

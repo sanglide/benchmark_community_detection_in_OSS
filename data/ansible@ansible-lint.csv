@@ -1,0 +1,496 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 12:19:49+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3387
+2023-05-01 17:24:56+00:00,[User]_Qalthos,"{'[User]_felixfontein', '[User]_gotmax23'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3388
+2023-05-02 10:53:11+00:00,[User]_shatakshiiii,"{'[User]_ssbarnea', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3389
+2023-05-02 11:17:09+00:00,[User]_ssbarnea,"{'[User]_shatakshiiii', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3390
+2023-05-02 14:03:29+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3391
+2023-05-02 16:55:08+00:00,[User]_ssbarnea,"{'[User]_shatakshiiii', '[User]_cognifloyd'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3392
+2023-05-03 08:37:10+00:00,[User]_SRv6d,"{'[User]_dvzrv', '[User]_SRv6d', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3393
+2023-05-03 10:19:38+00:00,[User]_yajo,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3394
+2023-05-03 12:32:03+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3395
+2023-05-03 17:02:04+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3397
+2023-05-04 15:32:51+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3398
+2023-05-04 16:37:39+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3399
+2023-05-04 19:14:14+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3400
+2023-05-05 10:09:53+00:00,[User]_ssbarnea,"{'[User]_ssbarnea', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3401
+2023-05-05 11:47:55+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3402
+2023-05-05 12:47:33+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3403
+2023-05-05 16:23:22+00:00,[User]_artis3n,"{'[User]_ajinkyau', '[User]_ssbarnea', '[User]_alisonlhart', '[User]_awcrosby', '[User]_artis3n'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3405
+2023-05-06 15:19:52+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3406
+2023-05-06 16:54:24+00:00,[User]_TimGrt,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3407
+2023-05-06 21:03:19+00:00,[User]_Histalek,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3408
+2023-05-08 10:27:41+00:00,[User]_coglinev3,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3411
+2023-05-09 09:15:59+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3413
+2023-05-09 09:25:07+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3414
+2023-05-09 11:42:24+00:00,[User]_emulanob,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3415
+2023-05-09 11:42:36+00:00,[User]_emulanob,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3416
+2023-05-09 11:42:51+00:00,[User]_emulanob,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3417
+2023-05-09 11:45:21+00:00,[User]_emulanob,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3418
+2023-05-09 11:46:22+00:00,[User]_emulanob,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3419
+2023-05-09 13:33:01+00:00,[User]_emulanob,"{'[User]_chriscroome', '[User]_emulanob', '[User]_MarkusTeufelberger'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3420
+2023-05-09 14:39:40+00:00,[User]_cidrblock,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3421
+2023-05-09 16:23:17+00:00,[User]_ssbarnea,"{'[User]_cognifloyd', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3423
+2023-05-09 17:28:11+00:00,[User]_ashwinik30,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3424
+2023-05-10 13:35:07+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3427
+2023-05-11 06:51:25+00:00,[User]_MrBones757,"{'[User]_MrBones757', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3428
+2023-05-11 07:47:26+00:00,[User]_ssbarnea,{'[User]_shatakshiiii'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3429
+2023-05-11 11:17:52+00:00,[User]_ssbarnea,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3431
+2023-05-11 11:41:44+00:00,[User]_ErwinJanssen,{'[User]_ErwinJanssen'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3432
+2023-05-11 15:38:27+00:00,[User]_ssbarnea,{'[User]_cognifloyd'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3433
+2023-05-11 22:41:46+00:00,[User]_aperum,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3435
+2023-05-12 07:19:52+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3436
+2023-05-12 14:40:47+00:00,[User]_klaus-tux,"{'[User]_klaus-tux', '[User]_StopMotionCuber', '[User]_ssbarnea', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3437
+2023-05-12 16:08:14+00:00,[User]_librick,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3439
+2023-05-15 08:31:15+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3444
+2023-05-15 19:18:01+00:00,[User]_toralf,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3447
+2023-05-15 20:01:43+00:00,[User]_mcdonnnj,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3448
+2023-05-16 07:50:18+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3449
+2023-05-16 14:33:00+00:00,[User]_gardar,"{'[User]_jeremyspencer39171', '[User]_drybjed', '[User]_erikgb', '[User]_alexdyukov', '[User]_gardar', '[User]_richm'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3452
+2023-05-16 14:45:53+00:00,[User]_bnogaro,"{'[User]_nodiscc', '[User]_fanderchan', '[User]_tomaxsas'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3453
+2023-05-16 16:35:32+00:00,[User]_RanabirChakraborty,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3454
+2023-05-16 21:06:29+00:00,[User]_alisonlhart,"{'[User]_cidrblock', '[User]_ssbarnea', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3455
+2023-05-17 17:49:20+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3458
+2023-05-17 20:18:43+00:00,[User]_tachtler,"{'[User]_Hennns', '[User]_cpascual', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3459
+2023-05-18 07:49:52+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3460
+2023-05-18 13:12:43+00:00,[User]_cidrblock,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3461
+2023-05-18 14:10:18+00:00,[User]_Rylon,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3463
+2023-05-19 10:01:31+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3464
+2023-05-19 22:00:45+00:00,[User]_vlotorev,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3466
+2023-05-20 10:39:40+00:00,[User]_ssbarnea,"{'[User]_vlotorev', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3467
+2023-05-20 16:21:26+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3468
+2023-05-21 18:45:21+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3470
+2023-05-21 19:10:08+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3471
+2023-05-22 06:54:55+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3473
+2023-05-22 07:46:23+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3474
+2023-05-22 09:10:48+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3475
+2023-05-22 09:15:28+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3476
+2023-05-22 10:57:06+00:00,[User]_ElieDeloumeau,"{'[User]_hille721', '[User]_kpfleming', '[User]_OlivierCloudar', '[User]_chrisx8', '[User]_ssbarnea', '[User]_osfrickler', '[User]_Dual-0', '[User]_cayla'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3477
+2023-05-22 13:09:21+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3478
+2023-05-22 14:37:20+00:00,[User]_facorazza,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3479
+2023-05-22 15:21:45+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3480
+2023-05-23 07:27:41+00:00,[User]_romankuchin,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3481
+2023-05-23 09:01:56+00:00,[User]_ssbarnea,{'[User]_MarkusTeufelberger'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3482
+2023-05-23 10:14:47+00:00,[User]_infracaninophile,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3483
+2023-05-23 11:01:52+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3484
+2023-05-23 12:49:44+00:00,[User]_gone-for-coding,"{'[User]_sivel', '[User]_gone-for-coding', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3485
+2023-05-23 14:29:10+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3486
+2023-05-23 15:54:52+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3487
+2023-05-24 08:22:44+00:00,[User]_TheLastChosenOne,"{'[User]_hille721', '[User]_TheLastChosenOne', '[User]_osfrickler'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3489
+2023-05-24 12:25:41+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3490
+2023-05-24 18:05:29+00:00,[User]_MallocArray,"{'[User]_netopsengineer', '[User]_MallocArray'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3492
+2023-05-25 12:36:21+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3495
+2023-05-25 12:40:57+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3496
+2023-05-26 07:26:34+00:00,[User]_ajinkyau,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3497
+2023-05-26 07:57:38+00:00,[User]_ajinkyau,"{'[User]_ssbarnea', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3499
+2023-05-26 09:04:22+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3500
+2023-05-26 10:49:09+00:00,[User]_BendingBender,{'[User]_BendingBender'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3501
+2023-05-26 11:16:21+00:00,[User]_ssbarnea,{'[User]_shatakshiiii'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3502
+2023-05-30 14:02:56+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3505
+2023-05-31 07:28:07+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3506
+2023-05-31 10:06:40+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3507
+2023-05-31 13:04:13+00:00,[User]_gone-for-coding,{'[User]_gone-for-coding'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3508
+2023-05-31 13:21:18+00:00,[User]_cidrblock,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3510
+2023-05-31 13:27:36+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3511
+2023-05-31 15:25:22+00:00,[User]_ssbarnea,"{'[User]_evgeni', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3513
+2023-05-31 16:35:49+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3514
+2023-05-31 17:45:44+00:00,[User]_nvuillam,"{'[User]_nvuillam', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3515
+2023-05-31 21:06:15+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3517
+2023-05-31 21:07:49+00:00,[User]_nvuillam,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3518
+2023-05-31 21:15:12+00:00,[User]_nvuillam,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3519
+2023-06-01 09:09:08+00:00,[User]_gone-for-coding,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3522
+2023-06-01 09:24:32+00:00,[User]_B0L1CH,"{'[User]_hille721', '[User]_B0L1CH'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3523
+2023-06-01 10:12:34+00:00,[User]_hille721,"{'[User]_hille721', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3524
+2023-06-01 10:29:38+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3525
+2023-06-01 12:43:47+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3526
+2023-06-01 12:57:14+00:00,[User]_hille721,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3527
+2023-06-01 13:21:53+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3528
+2023-06-01 14:00:17+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3529
+2023-06-02 12:05:00+00:00,[User]_osfrickler,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3530
+2023-06-02 15:12:25+00:00,[User]_Denney-tech,"{'[User]_cidrblock', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3531
+2023-06-06 12:24:59+00:00,[User]_SchmidtJonathan1,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3535
+2023-06-07 15:03:29+00:00,[User]_coaxial,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3536
+2023-06-08 07:58:42+00:00,[User]_konstruktoid,"{'[User]_konstruktoid', '[User]_ssbarnea', '[User]_MarkusTeufelberger', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3538
+2023-06-08 15:28:34+00:00,[User]_lilian-pouliquen,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3539
+2023-06-10 17:52:45+00:00,[User]_gotmax23,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3541
+2023-06-12 07:15:45+00:00,[User]_zeten30,"{'[User]_loganmzz', '[User]_zeten30'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3544
+2023-06-12 10:06:08+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3545
+2023-06-12 10:24:26+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3547
+2023-06-12 10:30:30+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3548
+2023-06-13 09:13:40+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3553
+2023-06-13 13:11:43+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3554
+2023-06-13 15:09:27+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3556
+2023-06-13 16:46:45+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3557
+2023-06-14 04:32:46+00:00,[User]_vaygr,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3558
+2023-06-14 06:01:04+00:00,[User]_bdsoha,"{'[User]_cidrblock', '[User]_MarkusTeufelberger'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3559
+2023-06-14 08:28:49+00:00,[User]_evgeni,"{'[User]_sean-m-sullivan', '[User]_gone-for-coding', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3560
+2023-06-14 12:34:09+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3561
+2023-06-14 12:36:17+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3562
+2023-06-14 16:01:04+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3563
+2023-06-15 00:41:02+00:00,[User]_niall-byrne,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3564
+2023-06-15 01:24:05+00:00,[User]_gilbert-hsu,"{'[User]_gilbert-hsu', '[User]_max06', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3565
+2023-06-15 03:21:35+00:00,[User]_staticdev,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3566
+2023-06-15 14:34:48+00:00,[User]_gpatsiaouras,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3567
+2023-06-15 14:36:43+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3568
+2023-06-16 07:59:27+00:00,[User]_vooon,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3570
+2023-06-16 16:11:06+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3571
+2023-06-16 16:42:17+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3572
+2023-06-19 11:55:23+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3576
+2023-06-19 14:55:40+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3577
+2023-06-20 16:55:38+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3580
+2023-06-21 08:45:19+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3581
+2023-06-21 10:09:15+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3582
+2023-06-21 11:01:50+00:00,[User]_bnogaro,"{'[User]_shatakshiiii', '[User]_bnogaro', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3583
+2023-06-21 11:03:08+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3584
+2023-06-21 14:03:20+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3585
+2023-06-21 22:21:03+00:00,[User]_he32,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3586
+2023-06-22 07:47:48+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3587
+2023-06-22 09:37:40+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3588
+2023-06-22 10:01:15+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3589
+2023-06-22 13:07:50+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3590
+2023-06-22 13:28:31+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3592
+2023-06-22 15:01:03+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3593
+2023-06-26 10:19:53+00:00,[User]_ajinkyau,{'[User]_shatakshiiii'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3597
+2023-07-04 09:20:14+00:00,[User]_iishabakaev,"{'[User]_iishabakaev', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3600
+2023-07-04 09:21:16+00:00,[User]_ajinkyau,{'[User]_shatakshiiii'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3601
+2023-07-04 11:01:56+00:00,[User]_Ruchip16,"{'[User]_bluikko', '[User]_ssbarnea', '[User]_Ruchip16', '[User]_cidrblock', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3602
+2023-07-06 14:36:17+00:00,[User]_max06,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3603
+2023-07-06 18:29:30+00:00,[User]_noonedeadpunk,{'[User]_noonedeadpunk'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3605
+2023-07-06 19:59:25+00:00,[User]_noonedeadpunk,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3606
+2023-07-07 11:38:31+00:00,[User]_konstruktoid,"{'[User]_goldyfruit', '[User]_szEvEz', '[User]_ssbarnea', '[User]_JCTechSol', '[User]_ademmers', '[User]_konstruktoid', '[User]_docsaistvan', '[User]_ziegenberg', '[User]_rustydb', '[User]_danielkubat', '[User]_reinout'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3607
+2023-07-11 22:21:41+00:00,[User]_JohnVillalovos,"{'[User]_JohnVillalovos', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3610
+2023-07-13 13:43:00+00:00,[User]_ajinkyau,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3611
+2023-07-13 19:23:18+00:00,[User]_tima,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3613
+2023-07-14 00:02:03+00:00,[User]_karcaw,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3614
+2023-07-14 05:16:09+00:00,[User]_shatakshiiii,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3615
+2023-07-17 08:45:32+00:00,[User]_ajinkyau,{'[User]_shatakshiiii'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3618
+2023-07-18 06:29:10+00:00,[User]_shatakshiiii,"{'[User]_shatakshiiii', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3621
+2023-07-20 10:57:04+00:00,[User]_ajinkyau,"{'[User]_shatakshiiii', '[User]_Ruchip16'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3622
+2023-07-20 11:18:10+00:00,[User]_ajinkyau,"{'[User]_shatakshiiii', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3623
+2023-07-21 15:39:38+00:00,[User]_michaeljones256,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3625
+2023-07-23 16:14:07+00:00,[User]_CarstenGrohmann,"{'[User]_CarstenGrohmann', '[User]_soroshsabz', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3629
+2023-07-25 08:11:30+00:00,[User]_bendem,"{'[User]_cidrblock', '[User]_bendem', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3630
+2023-07-25 08:54:13+00:00,[User]_wookietreiber,"{'[User]_wookietreiber', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3631
+2023-07-26 13:50:16+00:00,[User]_nE0sIghT,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3633
+2023-07-27 08:35:47+00:00,[User]_ganeshrn,"{'[User]_ssbarnea', '[User]_ganeshrn', '[User]_cidrblock', '[User]_justjais', '[User]_shatakshiiii', '[User]_bendem', '[User]_cognifloyd'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3634
+2023-07-27 08:41:23+00:00,[User]_AliceSimon,"{'[User]_AliceSimon', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3635
+2023-07-28 14:38:52+00:00,[User]_ziegenberg,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3637
+2023-08-01 09:09:34+00:00,[User]_shatakshiiii,"{'[User]_shatakshiiii', '[User]_ssbarnea', '[User]_cognifloyd', '[User]_ganeshrn'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3641
+2023-08-01 16:24:23+00:00,[User]_schwarmco,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3642
+2023-08-02 15:21:44+00:00,[User]_aleprovencio,{'[User]_aleprovencio'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3643
+2023-08-04 06:43:47+00:00,[User]_johanneskastl,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3644
+2023-08-04 18:56:17+00:00,[User]_pavelzw,{'[User]_benedikt-bartscher'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3646
+2023-08-08 17:02:31+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3649
+2023-08-09 06:48:22+00:00,[User]_damosc,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3650
+2023-08-09 15:00:50+00:00,[User]_ajinkyau,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3651
+2023-08-09 16:20:20+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3652
+2023-08-10 07:39:06+00:00,[User]_shatakshiiii,"{'[User]_cidrblock', '[User]_shatakshiiii', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3653
+2023-08-10 11:25:18+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3654
+2023-08-11 15:13:22+00:00,[User]_ReenigneArcher,{'[User]_ajakk'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3655
+2023-08-11 16:15:56+00:00,[User]_nicolasbouchard-ubi,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3656
+2023-08-14 10:30:13+00:00,[User]_LTek-online,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3658
+2023-08-15 07:20:50+00:00,[User]_sgabenov,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3660
+2023-08-15 13:38:35+00:00,[User]_sgabenov,"{'[User]_cidrblock', '[User]_TamiTakamiya', '[User]_Qalthos'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3662
+2023-08-16 13:59:50+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3664
+2023-08-16 15:32:12+00:00,[User]_cidrblock,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3666
+2023-08-16 17:15:54+00:00,[User]_marcandre-larochelle-bell,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3667
+2023-08-17 10:05:42+00:00,[User]_nesies,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3668
+2023-08-17 15:05:33+00:00,[User]_ganeshrn,{'[User]_ganeshrn'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3670
+2023-08-17 18:40:57+00:00,[User]_Qalthos,{'[User]_Qalthos'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3671
+2023-08-18 08:33:04+00:00,[User]_MathiasRudolphSec,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3672
+2023-08-18 12:57:47+00:00,[User]_RobinGoussey,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3673
+2023-08-18 14:38:55+00:00,[User]_joshtrutwin,"{'[User]_ssbarnea', '[User]_joshtrutwin'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3674
+2023-08-21 12:21:22+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3675
+2023-08-21 17:59:40+00:00,[User]_ssbarnea,{'[User]_Ruchip16'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3676
+2023-08-22 09:31:01+00:00,[User]_shatakshiiii,"{'[User]_ssbarnea', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3679
+2023-08-22 18:15:42+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3680
+2023-08-22 18:48:04+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3681
+2023-08-24 11:42:18+00:00,[User]_alessfg,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3683
+2023-08-24 12:58:42+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3684
+2023-08-24 15:07:54+00:00,[User]_alinabuzachis,"{'[User]_s-hertel', '[User]_bcoca', '[User]_sivel', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3686
+2023-08-26 16:21:51+00:00,[User]_maxbur89,"{'[User]_maxbur89', '[User]_neutralalice'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3687
+2023-08-28 09:26:48+00:00,[User]_ajinkyau,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3688
+2023-08-28 10:07:29+00:00,[User]_ajinkyau,{'[User]_shatakshiiii'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3689
+2023-08-28 12:46:20+00:00,[User]_cidrblock,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3690
+2023-08-28 13:53:35+00:00,[User]_ajinkyau,"{'[User]_cidrblock', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3691
+2023-08-28 15:37:18+00:00,[User]_shatakshiiii,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3692
+2023-08-28 18:08:10+00:00,[User]_cidrblock,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3693
+2023-08-29 16:01:22+00:00,[User]_alisonlhart,{'[User]_alisonlhart'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3694
+2023-08-30 07:41:52+00:00,[User]_alqu,"{'[User]_ssbarnea', '[User]_alqu'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3695
+2023-08-30 08:50:56+00:00,[User]_lisenet,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3696
+2023-08-30 15:55:25+00:00,[User]_ssbarnea,{'[User]_Qalthos'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3697
+2023-08-30 17:03:52+00:00,[User]_ssbarnea,"{'[User]_cidrblock', '[User]_Qalthos'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3698
+2023-08-30 18:04:35+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3699
+2023-08-31 04:51:47+00:00,[User]_shatakshiiii,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3700
+2023-08-31 11:58:53+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3701
+2023-08-31 17:49:54+00:00,[User]_ssbarnea,{'[User]_Qalthos'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3702
+2023-08-31 19:37:07+00:00,[User]_ReenigneArcher,"{'[User]_ReenigneArcher', '[User]_tamiroh', '[User]_mszumilak', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3703
+2023-09-01 07:30:43+00:00,[User]_roock,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3704
+2023-09-01 10:27:58+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3705
+2023-09-02 00:32:02+00:00,[User]_mageebr,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3706
+2023-09-04 07:28:48+00:00,[User]_ajinkyau,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3708
+2023-09-05 15:05:57+00:00,[User]_cavcrosby,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3714
+2023-09-05 15:48:10+00:00,[User]_ssbarnea,{'[User]_cognifloyd'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3715
+2023-09-05 15:56:56+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3716
+2023-09-06 10:17:24+00:00,[User]_jb-graindorge-sc,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3718
+2023-09-06 10:18:21+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3719
+2023-09-06 10:25:17+00:00,[User]_chrysle,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3720
+2023-09-06 11:02:39+00:00,[User]_shatakshiiii,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3721
+2023-09-06 14:05:58+00:00,[User]_ssbarnea,{'[User]_cristianonicolai'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3722
+2023-09-06 14:54:11+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3723
+2023-09-07 14:08:12+00:00,[User]_ajinkyau,{'[User]_shatakshiiii'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3725
+2023-09-08 13:19:35+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3727
+2023-09-08 13:20:29+00:00,[User]_ajinkyau,"{'[User]_cidrblock', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3728
+2023-09-08 13:28:02+00:00,[User]_ajinkyau,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3729
+2023-09-08 16:53:01+00:00,[User]_chrysle,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3730
+2023-09-08 21:53:45+00:00,[User]_Perdu,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3731
+2023-09-09 16:32:38+00:00,[User]_ajinkyau,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3732
+2023-09-10 09:38:33+00:00,[User]_soroshsabz,"{'[User]_soroshsabz', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3734
+2023-09-13 14:08:54+00:00,[User]_jkossis,"{'[User]_jkossis', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3736
+2023-09-14 08:16:07+00:00,[User]_shatakshiiii,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3737
+2023-09-16 17:51:15+00:00,[User]_TamiTakamiya,{'[User]_TamiTakamiya'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3739
+2023-09-16 19:19:53+00:00,[User]_TamiTakamiya,"{'[User]_cidrblock', '[User]_TamiTakamiya'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3740
+2023-09-17 23:16:13+00:00,[User]_cosmikwolf,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3741
+2023-09-18 12:52:09+00:00,[User]_cidrblock,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3742
+2023-09-18 20:39:37+00:00,[User]_joseurena3,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3744
+2023-09-19 12:09:44+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3745
+2023-09-19 12:57:17+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3746
+2023-09-19 13:49:59+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3747
+2023-09-19 17:40:49+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3749
+2023-09-19 18:28:35+00:00,[User]_cavcrosby,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3750
+2023-09-19 19:34:21+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3751
+2023-09-19 21:02:50+00:00,[User]_alisonlhart,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3753
+2023-09-19 21:04:17+00:00,[User]_alisonlhart,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3754
+2023-09-19 21:06:13+00:00,[User]_alisonlhart,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3755
+2023-09-20 02:35:16+00:00,[User]_TamiTakamiya,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3756
+2023-09-20 11:36:40+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3757
+2023-09-20 12:27:40+00:00,[User]_ssbarnea,{'[User]_shatakshiiii'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3758
+2023-09-21 07:20:17+00:00,[User]_netsandbox,"{'[User]_netsandbox', '[User]_geerlingguy', '[User]_ssbarnea', '[User]_dnapier'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3760
+2023-09-21 08:52:25+00:00,[User]_karl-johan-grahn,{'[User]_jamesholland-uk'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3761
+2023-09-21 09:08:37+00:00,[User]_karl-johan-grahn,"{'[User]_karl-johan-grahn', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3762
+2023-09-21 11:15:57+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3763
+2023-09-21 14:01:36+00:00,[User]_Ruchip16,"{'[User]_Ruchip16', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3764
+2023-09-22 13:23:01+00:00,[User]_cavcrosby,"{'[User]_cidrblock', '[User]_cavcrosby', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3765
+2023-09-22 13:47:26+00:00,[User]_alisonlhart,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3766
+2023-09-24 23:12:14+00:00,[User]_ajakk,"{'[User]_ssbarnea', '[User]_ajakk'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3767
+2023-09-26 14:13:03+00:00,[User]_snail59,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3769
+2023-09-27 06:47:52+00:00,[User]_shatakshiiii,"{'[User]_ssbarnea', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3770
+2023-09-27 12:37:55+00:00,[User]_ajinkyau,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3771
+2023-09-27 12:50:23+00:00,[User]_cidrblock,"{'[User]_cidrblock', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3772
+2023-09-27 17:46:19+00:00,[User]_cidrblock,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3774
+2023-09-27 17:55:13+00:00,[User]_cidrblock,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3775
+2023-09-27 18:51:19+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3776
+2023-09-28 07:57:24+00:00,[User]_ajinkyau,{'[User]_shatakshiiii'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3777
+2023-09-28 08:19:40+00:00,[User]_cocoonkid,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3778
+2023-09-28 14:13:06+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3779
+2023-09-28 15:57:49+00:00,[User]_cidrblock,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3781
+2023-09-28 16:04:09+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3782
+2023-09-28 16:34:03+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3783
+2023-09-28 17:01:45+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3784
+2023-09-29 04:44:06+00:00,[User]_shatakshiiii,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3785
+2023-09-29 05:27:32+00:00,[User]_shatakshiiii,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3786
+2023-09-29 06:31:59+00:00,[User]_shatakshiiii,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3787
+2023-09-29 06:39:52+00:00,[User]_shatakshiiii,"{'[User]_cidrblock', '[User]_ssbarnea', '[User]_ganeshrn'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3788
+2023-09-29 11:15:28+00:00,[User]_ssbarnea,"{'[User]_cidrblock', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3789
+2023-09-29 11:52:23+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3790
+2023-09-29 13:03:04+00:00,[User]_ssbarnea,"{'[User]_cidrblock', '[User]_shatakshiiii'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3791
+2023-09-29 13:09:46+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3792
+2023-09-29 13:30:23+00:00,[User]_ssbarnea,"{'[User]_cidrblock', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3793
+2023-09-29 16:07:32+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3795
+2023-09-29 16:24:15+00:00,[User]_ssbarnea,{'[User]_shatakshiiii'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3796
+2023-09-29 17:01:48+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3797
+2023-09-29 20:40:39+00:00,[User]_ReenigneArcher,"{'[User]_ReenigneArcher', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3798
+2023-09-30 21:16:58+00:00,[User]_masoud-maghsoudi,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3800
+2023-10-01 11:33:43+00:00,[User]_felixfontein,"{'[User]_felixfontein', '[User]_jamesholland-uk', '[User]_jasonramey', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3801
+2023-10-01 16:03:42+00:00,[User]_cocoonkid,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3802
+2023-10-02 21:15:15+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3806
+2023-10-03 11:28:50+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3808
+2023-10-03 17:33:03+00:00,[User]_ssbarnea,"{'[User]_cidrblock', '[User]_ssbarnea', '[User]_cognifloyd'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3809
+2023-10-04 11:17:26+00:00,[User]_gma,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3810
+2023-10-04 11:57:30+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3811
+2023-10-04 14:45:57+00:00,[User]_mislav,"{'[User]_mislav', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3812
+2023-10-04 16:09:55+00:00,[User]_ssbarnea,{'[User]_Qalthos'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3813
+2023-10-04 17:09:00+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3814
+2023-10-05 08:20:31+00:00,[User]_ajinkyau,"{'[User]_shatakshiiii', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3815
+2023-10-05 11:08:05+00:00,[User]_ssbarnea,"{'[User]_SirUli', '[User]_ssbarnea', '[User]_ganeshrn'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3816
+2023-10-06 08:49:45+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3817
+2023-10-06 09:27:01+00:00,[User]_ssbarnea,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3818
+2023-10-06 14:32:15+00:00,[User]_Qalthos,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3819
+2023-10-06 15:28:03+00:00,[User]_ssbarnea,"{'[User]_Qalthos', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3820
+2023-10-06 15:53:27+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3821
+2023-10-06 18:23:28+00:00,[User]_tapetersen,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3822
+2023-10-06 18:29:52+00:00,[User]_tapetersen,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3823
+2023-10-08 18:00:59+00:00,[User]_4ch1m,"{'[User]_4ch1m', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3824
+2023-10-09 10:32:19+00:00,[User]_ajinkyau,"{'[User]_priyamsahoo', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3825
+2023-10-09 16:24:21+00:00,[User]_ShawnHardwick,{'[User]_ShawnHardwick'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3826
+2023-10-09 16:36:46+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3827
+2023-10-10 13:26:58+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3828
+2023-10-10 13:39:03+00:00,[User]_cidrblock,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3829
+2023-10-10 16:27:32+00:00,[User]_cidrblock,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3830
+2023-10-10 18:44:41+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3831
+2023-10-11 09:44:07+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3832
+2023-10-11 10:53:18+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3833
+2023-10-11 14:48:43+00:00,[User]_ajinkyau,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3835
+2023-10-11 14:55:49+00:00,[User]_ssbarnea,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3836
+2023-10-11 15:00:42+00:00,[User]_ssbarnea,"{'[User]_cidrblock', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3837
+2023-10-12 10:40:08+00:00,[User]_ajinkyau,"{'[User]_ssbarnea', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3838
+2023-10-12 13:59:17+00:00,[User]_netopsengineer,{'[User]_netopsengineer'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3839
+2023-10-13 07:18:38+00:00,[User]_ganeshrn,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3840
+2023-10-13 22:38:33+00:00,[User]_mcdonnnj,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3841
+2023-10-15 14:35:07+00:00,[User]_scrhicks,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3842
+2023-10-16 07:49:40+00:00,[User]_facorazza,"{'[User]_facorazza', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3843
+2023-10-16 08:22:09+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3844
+2023-10-16 17:15:49+00:00,[User]_mcdonnnj,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3845
+2023-10-17 07:12:08+00:00,[User]_justjais,"{'[User]_ssbarnea', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3847
+2023-10-17 07:39:55+00:00,[User]_justjais,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3848
+2023-10-18 06:32:34+00:00,[User]_ganeshrn,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3849
+2023-10-18 08:20:25+00:00,[User]_netsandbox,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3850
+2023-10-18 14:19:39+00:00,[User]_ssbarnea,{'[User]_cognifloyd'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3852
+2023-10-18 15:34:06+00:00,[User]_rjeffman,"{'[User]_rjeffman', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3853
+2023-10-19 10:29:01+00:00,[User]_justjais,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3854
+2023-10-19 11:41:43+00:00,[User]_ssbarnea,{'[User]_ajinkyau'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3855
+2023-10-19 12:21:49+00:00,[User]_ssbarnea,"{'[User]_oraNod', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3856
+2023-10-19 15:27:47+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3857
+2023-10-20 13:07:51+00:00,[User]_guidograzioli,"{'[User]_atocko', '[User]_ssbarnea', '[User]_cidrblock', '[User]_bcoca', '[User]_tremble', '[User]_guidograzioli'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3860
+2023-10-22 14:20:15+00:00,[User]_szaffarano,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3863
+2023-10-23 16:06:18+00:00,[User]_aarroba,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3865
+2023-10-25 07:17:01+00:00,[User]_rohitthakur2590,{'[User]_KB-perByte'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3867
+2023-10-25 12:05:42+00:00,[User]_hswong3i,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3869
+2023-10-25 13:35:07+00:00,[User]_ssbarnea,"{'[User]_ssbarnea', '[User]_cognifloyd', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3870
+2023-10-26 10:12:23+00:00,[User]_juanvalino,"{'[User]_ssbarnea', '[User]_juanvalino'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3871
+2023-10-26 13:47:35+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3873
+2023-10-27 10:56:36+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3874
+2023-10-27 11:38:48+00:00,[User]_ssbarnea,{'[User]_Qalthos'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3875
+2023-10-28 11:32:01+00:00,[User]_ansibleguy,"{'[User]_cidrblock', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3876
+2023-10-30 11:08:59+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3877
+2023-11-02 14:27:45+00:00,[User]_lucendio,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3879
+2023-11-03 13:06:23+00:00,[User]_ssbarnea,{'[User]_Qalthos'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3880
+2023-11-04 11:52:14+00:00,[User]_unikitty37,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3881
+2023-11-06 16:32:40+00:00,[User]_gtirloni,{'[User]_isuftin'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3884
+2023-11-07 15:36:10+00:00,[User]_ssbarnea,"{'[User]_Qalthos', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3887
+2023-11-08 03:41:01+00:00,[User]_jeffmcutter,"{'[User]_jakob1379', '[User]_yump'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3888
+2023-11-10 08:27:32+00:00,[User]_tremble,"{'[User]_ssbarnea', '[User]_tremble'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3890
+2023-11-10 22:52:55+00:00,[User]_baierjan,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3891
+2023-11-13 15:35:02+00:00,[User]_jsf9k,"{'[User]_felddy', '[User]_jasonodoom', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3893
+2023-11-13 15:58:26+00:00,[User]_ziegenberg,"{'[User]_ziegenberg', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3894
+2023-11-14 16:54:37+00:00,[User]_bschonec,"{'[User]_priyamsahoo', '[User]_ssbarnea', '[User]_bschonec'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3898
+2023-11-16 07:53:46+00:00,[User]_bluecmd,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3900
+2023-11-19 20:01:31+00:00,[User]_FliegenKLATSCH,"{'[User]_ssbarnea', '[User]_FliegenKLATSCH'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3903
+2023-11-21 10:53:00+00:00,[User]_ajinkyau,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3904
+2023-11-21 13:26:53+00:00,[User]_ptoscano,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3905
+2023-11-24 07:48:46+00:00,[User]_nervo,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3908
+2023-11-27 10:19:14+00:00,[User]_Yannik,"{'[User]_synergiator', '[User]_ssbarnea', '[User]_Yannik'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3911
+2023-11-27 14:02:42+00:00,[User]_ilikejam,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3912
+2023-11-27 17:16:03+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3913
+2023-11-28 11:13:09+00:00,[User]_pablomh,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3914
+2023-11-28 15:05:46+00:00,[User]_ssbarnea,{'[User]_cristianonicolai'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3915
+2023-11-28 16:20:34+00:00,[User]_ssbarnea,{'[User]_Qalthos'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3916
+2023-11-28 17:00:24+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3917
+2023-11-29 13:29:19+00:00,[User]_chriscroome,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3919
+2023-11-29 14:35:13+00:00,[User]_ssbarnea,"{'[User]_yshollander-selerity', '[User]_andrewkendall', '[User]_FliegenKLATSCH', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3920
+2023-11-29 16:18:56+00:00,[User]_djdanielsson,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3921
+2023-12-02 07:02:51+00:00,[User]_cavcrosby,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3923
+2023-12-04 13:53:15+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3926
+2023-12-05 07:09:52+00:00,[User]_zerwes,"{'[User]_TehreemNisa', '[User]_zerwes', '[User]_McSim85', '[User]_ajinkyau'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3928
+2023-12-06 06:21:52+00:00,[User]_ajinkyau,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3930
+2023-12-06 12:21:53+00:00,[User]_zerwes,{'[User]_zerwes'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3932
+2023-12-06 22:11:32+00:00,[User]_AdrienEti,{'[User]_s3lph'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3935
+2023-12-11 02:09:56+00:00,[User]_tigattack,"{'[User]_jhg03a', '[User]_ajfabbri', '[User]_ssbarnea', '[User]_tigattack'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3938
+2023-12-11 09:56:58+00:00,[User]_tremble,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3940
+2023-12-12 03:57:41+00:00,[User]_jeffmcutter,"{'[User]_nitzmahone', '[User]_jeffmcutter'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3941
+2023-12-12 10:56:43+00:00,[User]_veksh,"{'[User]_konstruktoid', '[User]_veksh'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3942
+2023-12-13 21:20:41+00:00,[User]_MallocArray,"{'[User]_ssbarnea', '[User]_MallocArray'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3943
+2023-12-14 08:22:33+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3945
+2023-12-14 15:32:22+00:00,[User]_ssbarnea,{'[User]_cristianonicolai'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3946
+2023-12-16 07:10:41+00:00,[User]_andy-maier,"{'[User]_alisonlhart', '[User]_andy-maier', '[User]_ssbarnea'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3950
+2023-12-17 05:27:30+00:00,[User]_andy-maier,"{'[User]_alisonlhart', '[User]_andy-maier'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3951
+2023-12-20 14:30:42+00:00,[User]_ssbarnea,{'[User]_Qalthos'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3954
+2023-12-20 15:40:20+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3955
+2023-12-20 16:26:05+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3956
+2023-12-21 06:16:37+00:00,[User]_xrow,"{'[User]_zac90', '[User]_ssbarnea', '[User]_garymm'}",ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3957
+2023-12-21 13:44:29+00:00,[User]_ssbarnea,{'[User]_cristianonicolai'},ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/pull/3959
+2023-12-28 12:02:22+00:00,[User]_sur5r,set(),ansible/ansible-lint,2023,https://github.com/ansible/ansible-lint/issues/3961
+2024-01-01 10:17:40+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/3963
+2024-01-01 12:26:58+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/3964
+2024-01-02 16:37:30+00:00,[User]_ssbarnea,{'[User]_cristianonicolai'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/3968
+2024-01-03 12:10:32+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/3969
+2024-01-05 18:47:59+00:00,[User]_gardar,"{'[User]_gardar', '[User]_ssbarnea'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/3970
+2024-01-10 10:00:50+00:00,[User]_pb82,"{'[User]_TamiTakamiya', '[User]_ganeshrn'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/3973
+2024-01-10 15:07:59+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/3974
+2024-01-10 16:10:52+00:00,[User]_ssbarnea,{'[User]_Qalthos'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/3975
+2024-01-10 16:55:21+00:00,[User]_ssbarnea,"{'[User]_cristianonicolai', '[User]_ajinkyau'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/3976
+2024-01-11 19:20:10+00:00,[User]_ansiblejunky,{'[User]_gardar'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/3980
+2024-01-12 14:05:18+00:00,[User]_wlfshmn,"{'[User]_shatakshiiii', '[User]_ssbarnea'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/3981
+2024-01-20 07:20:14+00:00,[User]_AKorezin,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/3991
+2024-01-22 08:16:48+00:00,[User]_ajinkyau,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/3993
+2024-01-23 17:31:36+00:00,[User]_Qalthos,{'[User]_audgirka'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/3996
+2024-01-26 14:52:49+00:00,[User]_davorceman,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/3997
+2024-01-26 16:51:13+00:00,[User]_0xFaul,"{'[User]_0xFaul', '[User]_ssbarnea'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/3998
+2024-01-28 12:53:44+00:00,[User]_nodiscc,"{'[User]_ssbarnea', '[User]_nodiscc'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4000
+2024-02-02 13:44:05+00:00,[User]_P-N-L,"{'[User]_P-N-L', '[User]_ajinkyau'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4004
+2024-02-02 20:08:59+00:00,[User]_dbowling,"{'[User]_audgirka', '[User]_dbowling'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4005
+2024-02-04 12:06:38+00:00,[User]_iay,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4007
+2024-02-05 11:18:57+00:00,[User]_mr1chter,"{'[User]_audgirka', '[User]_mr1chter'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4008
+2024-02-05 13:37:01+00:00,[User]_ajinkyau,"{'[User]_priyamsahoo', '[User]_shatakshiiii', '[User]_ssbarnea', '[User]_audgirka'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4009
+2024-02-06 12:48:28+00:00,[User]_audgirka,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4011
+2024-02-06 15:57:21+00:00,[User]_cristianonicolai,{'[User]_audgirka'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4012
+2024-02-09 17:23:49+00:00,[User]_ssbarnea,{'[User]_audgirka'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4016
+2024-02-10 22:03:03+00:00,[User]_kpfleming,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4020
+2024-02-12 08:10:07+00:00,[User]_cristianonicolai,"{'[User]_audgirka', '[User]_ssbarnea'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4022
+2024-02-13 00:40:29+00:00,[User]_sajattack,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4023
+2024-02-13 12:06:58+00:00,[User]_falon,{'[User]_tombosmansibm'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4024
+2024-02-13 15:11:55+00:00,[User]_konstruktoid,{'[User]_audgirka'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4025
+2024-02-14 09:23:00+00:00,[User]_audgirka,"{'[User]_audgirka', '[User]_ssbarnea'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4026
+2024-02-14 10:26:02+00:00,[User]_ArgyrisKefalas2022,"{'[User]_ssbarnea', '[User]_vazome', '[User]_ArgyrisKefalas2022', '[User]_Tanguille', '[User]_rrauenza'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4027
+2024-02-15 12:33:46+00:00,[User]_heuwerk,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4028
+2024-02-16 04:20:45+00:00,[User]_guppy0130,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4030
+2024-02-16 06:55:25+00:00,[User]_felixfontein,{'[User]_felixfontein'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4031
+2024-02-16 10:25:50+00:00,[User]_falon,"{'[User]_alisonlhart', '[User]_felixfontein', '[User]_ssbarnea'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4032
+2024-02-16 21:07:13+00:00,[User]_alisonlhart,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4033
+2024-02-19 09:15:44+00:00,[User]_audgirka,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4035
+2024-02-20 09:05:37+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4037
+2024-02-20 09:50:05+00:00,[User]_audgirka,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4038
+2024-02-20 12:09:56+00:00,[User]_falon,"{'[User]_Tardo', '[User]_ssbarnea', '[User]_shepherdjay'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4039
+2024-02-21 08:30:19+00:00,[User]_p7kdev,"{'[User]_Durf1985', '[User]_ssbarnea'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4040
+2024-02-21 11:05:36+00:00,[User]_Javex,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4042
+2024-02-21 14:07:04+00:00,[User]_Drugoy,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4043
+2024-02-24 14:15:54+00:00,[User]_gowizzard,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4046
+2024-02-26 10:26:20+00:00,[User]_ssbarnea,{'[User]_audgirka'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4049
+2024-03-02 18:46:32+00:00,[User]_guppy0130,"{'[User]_audgirka', '[User]_guppy0130'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4055
+2024-03-02 19:16:39+00:00,[User]_guppy0130,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4056
+2024-03-03 19:17:01+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4058
+2024-03-04 10:20:01+00:00,[User]_ritmas,{'[User]_ritmas'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4060
+2024-03-07 23:05:19+00:00,[User]_jhongturney,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4061
+2024-03-11 11:46:43+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4063
+2024-03-11 14:12:41+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4064
+2024-03-11 19:56:55+00:00,[User]_samwcoulter,"{'[User]_samwcoulter', '[User]_ssbarnea'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4065
+2024-03-12 11:51:21+00:00,[User]_RayJin2000,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4066
+2024-03-13 13:36:38+00:00,[User]_audgirka,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4068
+2024-03-14 08:22:24+00:00,[User]_goegol,{'[User]_audgirka'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4070
+2024-03-22 15:58:54+00:00,[User]_alisonlhart,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4076
+2024-03-22 16:05:55+00:00,[User]_alisonlhart,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4077
+2024-04-02 07:45:43+00:00,[User]_RayJin2000,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4085
+2024-04-03 10:34:49+00:00,[User]_audgirka,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4088
+2024-04-04 13:14:48+00:00,[User]_ssbarnea,{'[User]_cidrblock'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4089
+2024-04-04 18:07:05+00:00,[User]_zack-mayoh,"{'[User]_TamiTakamiya', '[User]_kitos9112', '[User]_Qalthos'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4091
+2024-04-04 20:48:16+00:00,[User]_hhartzer,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4092
+2024-04-05 08:55:53+00:00,[User]_RayJin2000,{'[User]_TamiTakamiya'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4093
+2024-04-08 09:27:53+00:00,[User]_evgeni,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4095
+2024-04-08 09:53:56+00:00,[User]_audgirka,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4096
+2024-04-09 13:38:47+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4097
+2024-04-09 14:17:12+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4098
+2024-04-10 18:33:53+00:00,[User]_gardar,{'[User]_cavcrosby'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4104
+2024-04-10 19:23:21+00:00,[User]_r-pufky,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4105
+2024-04-11 10:35:51+00:00,[User]_audgirka,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4106
+2024-04-11 23:04:51+00:00,[User]_cavcrosby,"{'[User]_audgirka', '[User]_Qalthos'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4107
+2024-04-14 08:23:16+00:00,[User]_dvzrv,"{'[User]_dvzrv', '[User]_ssbarnea'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4110
+2024-04-17 07:47:08+00:00,[User]_justjais,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4114
+2024-04-17 08:49:54+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4115
+2024-04-19 13:53:19+00:00,[User]_pb82,{'[User]_pb82'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4118
+2024-04-23 08:14:37+00:00,[User]_audgirka,"{'[User]_audgirka', '[User]_ssbarnea'}",ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4120
+2024-04-23 09:25:17+00:00,[User]_audgirka,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4121
+2024-04-28 03:29:04+00:00,[User]_east4ming,{'[User]_ssbarnea'},ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4123
+2024-04-29 13:02:24+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4125
+2024-04-29 21:36:44+00:00,[User]_jadacyrus,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/issues/4126
+2024-04-30 07:13:59+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4127
+2024-04-30 08:14:35+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4128
+2024-04-30 11:48:59+00:00,[User]_ssbarnea,set(),ansible/ansible-lint,2024,https://github.com/ansible/ansible-lint/pull/4130

@@ -1,0 +1,589 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-03 00:22:09+00:00,[User]_shrichards,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9734
+2023-05-03 11:45:45+00:00,[User]_uriyyo,"{'[User]_sqla-tester', '[User]_TallJimbo', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9736
+2023-05-03 23:06:29+00:00,[User]_Rubikoid,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9739
+2023-05-04 18:43:49+00:00,[User]_Dreamsorcerer,"{'[User]_Dreamsorcerer', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9740
+2023-05-04 20:36:40+00:00,[User]_CaselIT,"{'[User]_jvanasco', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9741
+2023-05-05 07:29:37+00:00,[User]_JorhsonDeng,"{'[User]_zzzeek', '[User]_CaselIT', '[User]_JorhsonDeng'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9743
+2023-05-05 08:28:00+00:00,[User]_dourvaris,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9744
+2023-05-05 13:19:49+00:00,[User]_zzzeek,"{'[User]_dabdada', '[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9746
+2023-05-05 21:58:28+00:00,[User]_fdcastel,"{'[User]_fdcastel', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9747
+2023-05-07 16:50:05+00:00,[User]_hartwork,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9749
+2023-05-07 19:08:08+00:00,[User]_Viicos,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9751
+2023-05-08 23:08:13+00:00,[User]_NickCrews,"{'[User]_sqla-tester', '[User]_NickCrews', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9753
+2023-05-09 02:36:58+00:00,[User]_ColinStroud,"{'[User]_ColinStroud', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9755
+2023-05-10 14:32:53+00:00,[User]_philer-jambit,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9762
+2023-05-10 23:28:51+00:00,[User]_spladug,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9766
+2023-05-11 02:55:45+00:00,[User]_optimalstrategy,"{'[User]_optimalstrategy', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9767
+2023-05-12 14:41:08+00:00,[User]_evansd,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9772
+2023-05-12 17:52:06+00:00,[User]_ohaibbq,"{'[User]_zzzeek', '[User]_sqla-tester', '[User]_ohaibbq'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9773
+2023-05-13 03:25:10+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_CaselIT', '[User]_zzzeek', '[User]_ejlangev'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9777
+2023-05-13 14:33:14+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9779
+2023-05-14 07:53:39+00:00,[User]_SridharCR,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9781
+2023-05-15 01:35:55+00:00,[User]_gam-phon,"{'[User]_gam-phon', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9785
+2023-05-15 11:28:24+00:00,[User]_PaleNeutron,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9788
+2023-05-15 13:13:15+00:00,[User]_mgorny,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9789
+2023-05-15 20:58:41+00:00,[User]_sughosh-kaushik-eightfold,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9791
+2023-05-15 21:37:40+00:00,[User]_jakehilton,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9793
+2023-05-15 21:41:27+00:00,[User]_jakehilton,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9794
+2023-05-16 09:49:55+00:00,[User]_Todoroki02,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9796
+2023-05-18 19:59:37+00:00,[User]_leahein,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9803
+2023-05-19 11:58:28+00:00,[User]_zzzeek,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9805
+2023-05-20 12:17:03+00:00,[User]_CaselIT,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9809
+2023-05-20 13:54:38+00:00,[User]_zzzeek,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9810
+2023-05-20 16:28:04+00:00,[User]_lijiaweinpc,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9811
+2023-05-20 16:30:15+00:00,[User]_lijiaweinpc,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9812
+2023-05-22 06:27:18+00:00,[User]_eladhaz05,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9816
+2023-05-22 16:37:21+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9819
+2023-05-22 17:05:24+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9820
+2023-05-22 20:27:40+00:00,[User]_sethgilchrist,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_sethgilchrist'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9822
+2023-05-24 19:14:21+00:00,[User]_CaselIT,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9832
+2023-05-24 19:49:58+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9833
+2023-05-24 20:38:19+00:00,[User]_Bulbashful,"{'[User]_zzzeek', '[User]_Bulbashful', '[User]_sqla-tester', '[User]_CaselIT', '[User]_Spaceface16518'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9834
+2023-05-25 07:12:55+00:00,[User]_jmriebold,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9836
+2023-05-25 10:08:53+00:00,[User]_maxence-corexpert,"{'[User]_maxence-corexpert', '[User]_AndySemenov', '[User]_CaselIT', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9838
+2023-05-25 14:49:56+00:00,[User]_silverboots,"{'[User]_silverboots', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9839
+2023-05-26 13:41:33+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9841
+2023-05-26 17:14:07+00:00,[User]_ryantimjohn,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9842
+2023-05-26 20:24:36+00:00,[User]_amacfie-tc,"{'[User]_amacfie-tc', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9843
+2023-05-28 04:52:56+00:00,[User]_gustavosett,"{'[User]_gustavosett', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9845
+2023-05-28 22:47:39+00:00,[User]_peterschutt,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9848
+2023-05-29 08:10:23+00:00,[User]_chirayushukla28,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9849
+2023-05-29 19:24:34+00:00,[User]_jackwotherspoon,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_jackwotherspoon'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9854
+2023-05-29 20:01:22+00:00,[User]_BranislavBajuzik,"{'[User]_zzzeek', '[User]_CaselIT', '[User]_BranislavBajuzik'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9855
+2023-05-30 18:45:24+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9862
+2023-05-31 08:51:49+00:00,[User]_ziima,"{'[User]_ziima', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9865
+2023-05-31 17:32:32+00:00,[User]_phy1729,"{'[User]_zzzeek', '[User]_phy1729'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9870
+2023-06-01 10:51:25+00:00,[User]_yajo,"{'[User]_yajo', '[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9873
+2023-06-01 13:38:00+00:00,[User]_AlexanderPodorov,"{'[User]_AlexanderPodorov', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9875
+2023-06-01 17:29:50+00:00,[User]_macdjord,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9878
+2023-06-01 18:46:42+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9879
+2023-06-01 20:39:45+00:00,[User]_macdjord,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9881
+2023-06-02 00:39:27+00:00,[User]_marselsultanov,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9882
+2023-06-02 11:52:58+00:00,[User]_jmbski,"{'[User]_jmbski', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9885
+2023-06-04 07:13:29+00:00,[User]_joshua-morris,"{'[User]_zzzeek', '[User]_joshua-morris', '[User]_CaselIT', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9892
+2023-06-05 11:28:09+00:00,[User]_mreiche,"{'[User]_mreiche', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9895
+2023-06-07 15:25:34+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9905
+2023-06-07 17:27:01+00:00,[User]_martiner,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9907
+2023-06-07 17:29:04+00:00,[User]_martiner,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_martiner'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9908
+2023-06-07 19:05:47+00:00,[User]_phy1729,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9909
+2023-06-08 13:50:25+00:00,[User]_huwcbjones,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9911
+2023-06-08 21:26:28+00:00,[User]_zzzeek,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9917
+2023-06-09 07:40:25+00:00,[User]_benoit74,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9919
+2023-06-09 12:59:33+00:00,[User]_espdev,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9922
+2023-06-10 13:25:31+00:00,[User]_methane,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9926
+2023-06-10 14:24:13+00:00,[User]_lucasgadams,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9927
+2023-06-10 14:37:30+00:00,[User]_provinzkraut,"{'[User]_sqla-tester', '[User]_provinzkraut', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9929
+2023-06-10 14:40:13+00:00,[User]_zzzeek,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9930
+2023-06-10 16:48:58+00:00,[User]_phy1729,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_phy1729'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9931
+2023-06-10 18:33:00+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_gordthompson', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9932
+2023-06-12 11:11:21+00:00,[User]_RyogaWan,"{'[User]_zzzeek', '[User]_RyogaWan', '[User]_AlexanderPodorov', '[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9936
+2023-06-12 15:28:11+00:00,[User]_0e4ef622,"{'[User]_0e4ef622', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9937
+2023-06-12 18:30:41+00:00,[User]_miketheman,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9939
+2023-06-13 10:48:18+00:00,[User]_Dontes-cn,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9943
+2023-06-13 21:06:09+00:00,[User]_joaostorrer,"{'[User]_sqla-tester', '[User]_joaostorrer', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9944
+2023-06-14 06:41:01+00:00,[User]_jtbeach,"{'[User]_sqla-tester', '[User]_jtbeach', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9945
+2023-06-14 22:37:09+00:00,[User]_jvanasco,"{'[User]_jvanasco', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9953
+2023-06-15 12:43:10+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9957
+2023-06-15 12:43:23+00:00,[User]_tzing,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9958
+2023-06-15 15:06:56+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9960
+2023-06-15 15:54:41+00:00,[User]_Alc-Alc,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9961
+2023-06-15 22:17:31+00:00,[User]_zzzeek,"{'[User]_zzzeek', '[User]_sqla-tester', '[User]_Daverball'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9963
+2023-06-16 09:05:15+00:00,[User]_tlocke,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9965
+2023-06-16 09:10:26+00:00,[User]_tlocke,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_tlocke'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9966
+2023-06-18 09:36:05+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9973
+2023-06-19 17:36:43+00:00,[User]_dufferzafar,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9980
+2023-06-20 10:22:04+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9983
+2023-06-20 13:41:19+00:00,[User]_asvetlov,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_asvetlov'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9985
+2023-06-21 11:15:21+00:00,[User]_jiri-otoupal,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9989
+2023-06-21 15:09:39+00:00,[User]_oliviernguyenquoc,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/9993
+2023-06-21 17:03:19+00:00,[User]_SeonbeomKim,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/9996
+2023-06-22 14:58:00+00:00,[User]_iliadmitriev,"{'[User]_iliadmitriev', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10004
+2023-06-22 15:17:47+00:00,[User]_iliadmitriev,"{'[User]_iliadmitriev', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10005
+2023-06-22 21:38:36+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10006
+2023-06-23 14:28:15+00:00,[User]_askurihin,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10009
+2023-06-24 00:01:40+00:00,[User]_JonathanRRogers,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10013
+2023-06-26 07:59:11+00:00,[User]_ConanChan2012,"{'[User]_ConanChan2012', '[User]_oorjaa-sagar', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10017
+2023-06-27 09:54:45+00:00,[User]_mehdigmira,"{'[User]_mehdigmira', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10021
+2023-06-27 14:14:00+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10025
+2023-06-28 00:16:02+00:00,[User]_krzysdz,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10028
+2023-06-28 13:28:29+00:00,[User]_Daverball,"{'[User]_Daverball', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10030
+2023-06-29 10:52:36+00:00,[User]_Cehovoi,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10036
+2023-06-29 16:42:48+00:00,[User]_cancan101,"{'[User]_sqla-tester', '[User]_cancan101', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10038
+2023-06-29 19:03:28+00:00,[User]_cancan101,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10039
+2023-06-30 10:08:30+00:00,[User]_lonvia,"{'[User]_lonvia', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10042
+2023-06-30 14:51:48+00:00,[User]_alexjironkin,"{'[User]_alexjironkin', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10043
+2023-07-01 08:54:28+00:00,[User]_XufengXufengXufeng,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10044
+2023-07-01 15:10:23+00:00,[User]_studioph,"{'[User]_studioph', '[User]_zzzeek', '[User]_CaselIT', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10046
+2023-07-02 14:17:53+00:00,[User]_zzzeek,"{'[User]_AlexanderPodorov', '[User]_zzzeek', '[User]_CaselIT', '[User]_yomajo'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10050
+2023-07-03 14:52:51+00:00,[User]_BorisOrca,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10054
+2023-07-03 19:29:03+00:00,[User]_CaselIT,"{'[User]_rajat315315', '[User]_zzzeek', '[User]_CaselIT', '[User]_indiVar0508'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10056
+2023-07-04 11:41:38+00:00,[User]_alexjironkin,"{'[User]_alexjironkin', '[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10058
+2023-07-04 15:36:34+00:00,[User]_lelit,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10060
+2023-07-05 12:05:36+00:00,[User]_zzzeek,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10064
+2023-07-05 13:08:34+00:00,[User]_hofrob,"{'[User]_zzzeek', '[User]_hofrob', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10065
+2023-07-05 15:48:57+00:00,[User]_yuheinoda,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10066
+2023-07-05 18:52:07+00:00,[User]_jeffwidman,"{'[User]_jeffwidman', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10067
+2023-07-05 23:03:18+00:00,[User]_aebrahim,"{'[User]_sqla-tester', '[User]_CaselIT', '[User]_zzzeek', '[User]_cofin'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10069
+2023-07-06 17:02:46+00:00,[User]_petercinibulk,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10071
+2023-07-07 17:17:11+00:00,[User]_mliu-aqtc,"{'[User]_mliu-aqtc', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10077
+2023-07-09 04:25:24+00:00,[User]_grigoriev-semyon,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10079
+2023-07-09 04:26:40+00:00,[User]_grigoriev-semyon,"{'[User]_grigoriev-semyon', '[User]_zzzeek', '[User]_CaselIT', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10080
+2023-07-09 14:11:01+00:00,[User]_mmzeynalli,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10082
+2023-07-10 13:44:51+00:00,[User]_thomas-brandstaetter,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10085
+2023-07-10 20:31:07+00:00,[User]_gadhagod,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10087
+2023-07-10 23:43:32+00:00,[User]_gwerbin,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10088
+2023-07-11 02:46:59+00:00,[User]_Goryaa,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10089
+2023-07-11 04:04:14+00:00,[User]_Goryaa,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CodeMouse92'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10090
+2023-07-11 17:31:30+00:00,[User]_ronytesler,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10092
+2023-07-11 19:15:04+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10094
+2023-07-12 07:56:04+00:00,[User]_jtbeach,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10096
+2023-07-12 12:36:14+00:00,[User]_stephenfin,"{'[User]_stephenfin', '[User]_zzzeek', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10098
+2023-07-14 00:35:00+00:00,[User]_stabacco,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10103
+2023-07-15 03:03:31+00:00,[User]_grigoriev-semyon,"{'[User]_grigoriev-semyon', '[User]_zzzeek', '[User]_CaselIT', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10106
+2023-07-15 18:58:37+00:00,[User]_mehdigmira,"{'[User]_mehdigmira', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10108
+2023-07-18 10:39:36+00:00,[User]_torsdag,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10114
+2023-07-18 13:43:12+00:00,[User]_zzzeek,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10116
+2023-07-19 01:58:15+00:00,[User]_ZhaoGuan,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10118
+2023-07-20 08:09:47+00:00,[User]_torsdag,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10124
+2023-07-20 13:52:26+00:00,[User]_torsdag,"{'[User]_sqla-tester', '[User]_torsdag', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10125
+2023-07-21 13:05:23+00:00,[User]_provinzkraut,"{'[User]_sqla-tester', '[User]_provinzkraut', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10131
+2023-07-22 17:27:19+00:00,[User]_provinzkraut,"{'[User]_sqla-tester', '[User]_provinzkraut', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10133
+2023-07-23 12:30:44+00:00,[User]_elipoultorak,"{'[User]_gordthompson', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10134
+2023-07-24 19:55:06+00:00,[User]_dankrzeminski32,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10137
+2023-07-24 23:29:31+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10139
+2023-07-25 14:48:55+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_tmrlvi'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10142
+2023-07-26 15:46:12+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10147
+2023-07-28 20:08:43+00:00,[User]_rajat315315,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10154
+2023-07-28 20:13:10+00:00,[User]_willsthompson,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10155
+2023-07-29 15:24:40+00:00,[User]_Dreamsorcerer,"{'[User]_Dreamsorcerer', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10160
+2023-07-31 13:09:08+00:00,[User]_BaaaZen,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10165
+2023-07-31 15:06:38+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10167
+2023-07-31 21:09:18+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10169
+2023-08-01 07:41:22+00:00,[User]_alextk87,"{'[User]_alextk87', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10170
+2023-08-01 08:15:20+00:00,[User]_baijingetangzichen,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10171
+2023-08-02 06:01:53+00:00,[User]_cschroeer,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10175
+2023-08-04 00:00:55+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10182
+2023-08-04 17:36:03+00:00,[User]_Gaizgrol,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10185
+2023-08-04 21:02:50+00:00,[User]_jlynchMicron,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10187
+2023-08-06 23:25:43+00:00,[User]_lewis-morris,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10191
+2023-08-07 06:45:04+00:00,[User]_laricko,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10192
+2023-08-07 15:05:59+00:00,[User]_Krzmbrzl,"{'[User]_CaselIT', '[User]_zzzeek', '[User]_Krzmbrzl'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10196
+2023-08-07 15:31:22+00:00,[User]_zzzeek,"{'[User]_andersk', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10197
+2023-08-08 04:35:28+00:00,[User]_110holmberg,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10201
+2023-08-08 22:32:48+00:00,[User]_offby1,"{'[User]_jvanasco', '[User]_zzzeek', '[User]_sqla-tester', '[User]_offby1'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10210
+2023-08-09 12:22:14+00:00,[User]_donnillo,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10213
+2023-08-10 14:45:33+00:00,[User]_hubernhard,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10218
+2023-08-10 17:30:49+00:00,[User]_AlexanderPodorov,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10220
+2023-08-10 21:40:03+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10223
+2023-08-11 14:41:58+00:00,[User]_ionsome,"{'[User]_zzzeek', '[User]_sqla-tester', '[User]_CaselIT', '[User]_alphavector', '[User]_ionsome'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10226
+2023-08-13 14:21:42+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10231
+2023-08-15 01:51:14+00:00,[User]_zzzeek,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10236
+2023-08-15 18:53:13+00:00,[User]_zackees,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10237
+2023-08-16 03:08:28+00:00,[User]_psqjgsw45,"{'[User]_CaselIT', '[User]_psqjgsw45'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10241
+2023-08-16 19:21:49+00:00,[User]_yanivps,"{'[User]_yanivps', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10245
+2023-08-16 20:08:50+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10247
+2023-08-17 11:34:26+00:00,[User]_BayerSe,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10249
+2023-08-17 17:13:04+00:00,[User]_mquilling,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10251
+2023-08-17 19:03:12+00:00,[User]_CaselIT,"{'[User]_gordthompson', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10255
+2023-08-19 12:24:26+00:00,[User]_Peacexoom,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_Peacexoom'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10260
+2023-08-19 22:35:20+00:00,[User]_0x1618,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10262
+2023-08-21 04:23:52+00:00,[User]_HassanAbouelela,"{'[User]_zzzeek', '[User]_eltoder', '[User]_sqla-tester', '[User]_BartlomiejSkwiraAML', '[User]_CaselIT', '[User]_BartlomiejSkwira'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10264
+2023-08-21 12:00:11+00:00,[User]_Luancem,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10266
+2023-08-21 13:42:02+00:00,[User]_zzzeek,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10267
+2023-08-21 18:39:32+00:00,[User]_eltoder,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10269
+2023-08-22 12:07:16+00:00,[User]_suraj-ora-2020,"{'[User]_suraj-ora-2020', '[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10271
+2023-08-22 12:14:50+00:00,[User]_suraj-ora-2020,"{'[User]_suraj-ora-2020', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10272
+2023-08-22 15:38:21+00:00,[User]_eltoder,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10274
+2023-08-23 02:21:59+00:00,[User]_lj-1998,"{'[User]_lj-1998', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10275
+2023-08-23 15:54:00+00:00,[User]_mehdigmira,"{'[User]_mehdigmira', '[User]_eltoder', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10276
+2023-08-25 13:19:41+00:00,[User]_mehdigmira,"{'[User]_mehdigmira', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10279
+2023-08-25 14:39:33+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10280
+2023-08-25 17:16:55+00:00,[User]_k4nar,"{'[User]_Hnasar', '[User]_k4nar', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10282
+2023-08-27 10:39:20+00:00,[User]_mmzeynalli,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10284
+2023-08-28 15:18:05+00:00,[User]_RomeoDespres,"{'[User]_RomeoDespres', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10289
+2023-08-29 14:46:10+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_CarlosEduR', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10292
+2023-08-29 16:51:18+00:00,[User]_ldthorne,"{'[User]_ldthorne', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10294
+2023-08-31 18:06:51+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10296
+2023-09-01 14:37:47+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10300
+2023-09-04 12:00:08+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10310
+2023-09-05 18:08:55+00:00,[User]_akshay-hazari,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10313
+2023-09-06 18:45:13+00:00,[User]_toinbis,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10317
+2023-09-07 21:34:17+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10321
+2023-09-08 10:51:36+00:00,[User]_pdudhaiya-crest,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10322
+2023-09-08 22:18:34+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10326
+2023-09-09 09:09:44+00:00,[User]_faganchalabizada,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10327
+2023-09-10 07:29:20+00:00,[User]_commonism,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10330
+2023-09-10 16:07:06+00:00,[User]_alphavector,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10332
+2023-09-10 16:09:53+00:00,[User]_alphavector,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10333
+2023-09-10 17:22:55+00:00,[User]_CaselIT,"{'[User]_dolfinus', '[User]_ThirVondukr', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10335
+2023-09-11 09:25:45+00:00,[User]_CaselIT,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10337
+2023-09-11 10:27:19+00:00,[User]_Melacoding,"{'[User]_CaselIT', '[User]_antoinebon'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10338
+2023-09-11 20:39:40+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_whysage'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10339
+2023-09-12 09:20:42+00:00,[User]_delijati,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10340
+2023-09-12 14:07:48+00:00,[User]_CaselIT,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10341
+2023-09-12 14:38:50+00:00,[User]_hozn,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_hozn'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10342
+2023-09-14 03:18:14+00:00,[User]_Huihuihh,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10345
+2023-09-15 12:49:45+00:00,[User]_lephuongbg,"{'[User]_wangxin688', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10351
+2023-09-15 15:55:32+00:00,[User]_mhauru,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10352
+2023-09-15 19:19:51+00:00,[User]_rmorshea,"{'[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10353
+2023-09-16 21:21:18+00:00,[User]_indiVar0508,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_indiVar0508'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10354
+2023-09-17 01:29:30+00:00,[User]_cepbuch,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10355
+2023-09-17 09:37:46+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10357
+2023-09-19 12:44:31+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10365
+2023-09-19 15:02:53+00:00,[User]_CaselIT,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10369
+2023-09-20 08:12:03+00:00,[User]_ihtiuh,"{'[User]_ihtiuh', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10373
+2023-09-21 00:12:13+00:00,[User]_CarlosEduR,"{'[User]_zzzeek', '[User]_sqla-tester', '[User]_CarlosEduR', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10376
+2023-09-21 12:06:01+00:00,[User]_anil-enable,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10378
+2023-09-21 18:25:56+00:00,[User]_anil-enable,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10380
+2023-09-23 02:48:06+00:00,[User]_raceychan,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10382
+2023-09-24 13:52:47+00:00,[User]_indiVar0508,"{'[User]_zzzeek', '[User]_sqla-tester', '[User]_CaselIT', '[User]_lelit', '[User]_indiVar0508'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10383
+2023-09-24 22:36:04+00:00,[User]_pcorpet,"{'[User]_pcorpet', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10385
+2023-09-25 16:31:59+00:00,[User]_djpirra,"{'[User]_djpirra', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10386
+2023-09-26 13:14:08+00:00,[User]_pcorpet,"{'[User]_pcorpet', '[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10390
+2023-09-28 05:13:00+00:00,[User]_9EOR9,"{'[User]_marshallm94', '[User]_zzzeek', '[User]_sqla-tester', '[User]_CaselIT', '[User]_9EOR9'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10396
+2023-09-29 06:42:05+00:00,[User]_BimaAdi,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10401
+2023-10-01 11:13:17+00:00,[User]_janbuchar,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10403
+2023-10-03 03:19:28+00:00,[User]_CarlosEduR,"{'[User]_CarlosEduR', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10406
+2023-10-03 12:38:06+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10408
+2023-10-03 12:40:02+00:00,[User]_jba-tm,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10409
+2023-10-03 14:19:17+00:00,[User]_stefmolin,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10411
+2023-10-03 16:54:35+00:00,[User]_francipvb,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_francipvb'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10412
+2023-10-04 13:11:16+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10414
+2023-10-04 15:15:18+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10415
+2023-10-04 16:16:45+00:00,[User]_jvanasco,"{'[User]_jvanasco', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10417
+2023-10-05 00:52:20+00:00,[User]_gustavocmv,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10418
+2023-10-05 06:40:52+00:00,[User]_ProgramRipper,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10421
+2023-10-05 14:22:30+00:00,[User]_stevewalker-de,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10425
+2023-10-05 21:19:13+00:00,[User]_ProgramRipper,"{'[User]_ProgramRipper', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10429
+2023-10-06 05:59:45+00:00,[User]_bmakan,{'[User]_bmakan'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10431
+2023-10-06 08:01:54+00:00,[User]_77obrien,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10433
+2023-10-06 09:09:40+00:00,[User]_JeremyVriens,"{'[User]_zzzeek', '[User]_JeremyVriens', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10435
+2023-10-07 06:25:17+00:00,[User]_jenstroeger,"{'[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10437
+2023-10-09 10:47:02+00:00,[User]_iurisilvio,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_iurisilvio'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10442
+2023-10-09 18:35:25+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10445
+2023-10-09 18:55:55+00:00,[User]_CaselIT,{'[User]_flyly0755'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10446
+2023-10-10 20:20:58+00:00,[User]_miketheman,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10450
+2023-10-11 10:55:51+00:00,[User]_iurisilvio,"{'[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10451
+2023-10-11 11:00:01+00:00,[User]_iurisilvio,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_iurisilvio'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10452
+2023-10-11 19:15:49+00:00,[User]_leonokubo,"{'[User]_sqla-tester', '[User]_leonokubo', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10458
+2023-10-11 19:59:48+00:00,[User]_floan,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_floan'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10459
+2023-10-12 20:03:13+00:00,[User]_Jmkernes,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10465
+2023-10-13 08:56:46+00:00,[User]_arunkumaralagesan,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10466
+2023-10-13 17:48:08+00:00,[User]_vectro,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10470
+2023-10-13 19:05:28+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10472
+2023-10-14 02:48:39+00:00,[User]_homeworkprod,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10473
+2023-10-16 15:45:47+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10479
+2023-10-16 18:11:58+00:00,[User]_mattoberle,"{'[User]_sqla-tester', '[User]_mattoberle', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10481
+2023-10-16 18:25:44+00:00,[User]_vectro,"{'[User]_vectro', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10482
+2023-10-17 11:03:58+00:00,[User]_ashish16052,"{'[User]_zzzeek', '[User]_ashish16052'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10485
+2023-10-17 14:53:28+00:00,[User]_sunlightwalkerQi,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10486
+2023-10-18 07:19:00+00:00,[User]_ziima,"{'[User]_ziima', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10491
+2023-10-18 13:31:32+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10492
+2023-10-18 13:45:56+00:00,[User]_codyscott-rmw,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10493
+2023-10-18 15:08:14+00:00,[User]_martinuncountable,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10495
+2023-10-18 23:04:19+00:00,[User]_zzzeek,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10500
+2023-10-19 09:41:03+00:00,[User]_mickeynp,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10502
+2023-10-19 13:58:29+00:00,[User]_gordthompson,"{'[User]_sqla-tester', '[User]_gordthompson', '[User]_CaselIT', '[User]_soha-namnabat'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10504
+2023-10-19 14:06:01+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10505
+2023-10-19 15:56:51+00:00,[User]_amirsoroush,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10506
+2023-10-19 19:42:57+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_indiVar0508'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10509
+2023-10-20 14:34:38+00:00,[User]_indiVar0508,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10513
+2023-10-20 17:53:29+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10516
+2023-10-21 19:12:12+00:00,[User]_gunzino,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10520
+2023-10-22 17:01:22+00:00,[User]_D00mSlayer,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10523
+2023-10-23 11:21:33+00:00,[User]_rafales,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10527
+2023-10-23 15:43:00+00:00,[User]_CaselIT,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10528
+2023-10-24 06:32:17+00:00,[User]_tianqi-z,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10529
+2023-10-24 10:42:32+00:00,[User]_halbow,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10531
+2023-10-24 11:28:55+00:00,[User]_soldag,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10532
+2023-10-24 13:25:19+00:00,[User]_soldag,"{'[User]_sqla-tester', '[User]_soldag', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10533
+2023-10-24 15:45:02+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10535
+2023-10-25 11:33:13+00:00,[User]_syhao,"{'[User]_syhao', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10539
+2023-10-25 16:11:33+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10541
+2023-10-25 20:49:58+00:00,[User]_nilsso,"{'[User]_zzzeek', '[User]_nilsso'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10543
+2023-10-26 09:13:48+00:00,[User]_WoolenWang,{'[User]_WoolenWang'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10544
+2023-10-26 09:30:04+00:00,[User]_WoolenWang,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10545
+2023-10-26 15:19:10+00:00,[User]_chipxsd,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10548
+2023-10-28 14:50:11+00:00,[User]_zzzeek,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10556
+2023-10-30 14:28:59+00:00,[User]_jyoti194,"{'[User]_CaselIT', '[User]_jyoti194'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10562
+2023-10-31 02:21:26+00:00,[User]_zzzeek,{'[User]_msavinash'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10564
+2023-10-31 06:42:51+00:00,[User]_dobet,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10566
+2023-10-31 07:02:18+00:00,[User]_dobet,{'[User]_dobet'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10567
+2023-10-31 18:44:14+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10570
+2023-11-01 17:27:45+00:00,[User]_indiVar0508,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_indiVar0508'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10574
+2023-11-03 11:47:46+00:00,[User]_rsaleev,"{'[User]_rsaleev', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10582
+2023-11-04 10:02:19+00:00,[User]_tiangolo,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10584
+2023-11-04 10:07:13+00:00,[User]_tiangolo,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10585
+2023-11-06 15:14:41+00:00,[User]_tiangolo,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10590
+2023-11-06 17:48:45+00:00,[User]_ff-sdesai,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10591
+2023-11-06 20:54:48+00:00,[User]_Dreamsorcerer,"{'[User]_Dreamsorcerer', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10593
+2023-11-06 21:27:19+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10594
+2023-11-06 21:38:38+00:00,[User]_lesinigo,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10595
+2023-11-06 22:00:05+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10597
+2023-11-08 09:01:48+00:00,[User]_h-vetinari,"{'[User]_zzzeek', '[User]_h-vetinari', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10601
+2023-11-08 12:01:43+00:00,[User]_stekow,"{'[User]_stekow', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10602
+2023-11-08 17:20:09+00:00,[User]_zzzeek,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10604
+2023-11-09 10:39:32+00:00,[User]_raviteja540,"{'[User]_zzzeek', '[User]_raviteja540'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10608
+2023-11-09 13:40:59+00:00,[User]_zzzeek,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10610
+2023-11-09 14:59:27+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_jvanasco', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10611
+2023-11-10 17:07:08+00:00,[User]_mjpieters,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10613
+2023-11-11 15:58:08+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10617
+2023-11-12 09:11:23+00:00,[User]_aleksandr-kiliushin,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10620
+2023-11-12 17:42:17+00:00,[User]_CaselIT,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10622
+2023-11-13 15:30:10+00:00,[User]_TallJimbo,"{'[User]_sqla-tester', '[User]_TallJimbo', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10625
+2023-11-13 16:10:07+00:00,[User]_Apakottur,"{'[User]_Apakottur', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10626
+2023-11-13 20:51:07+00:00,[User]_GuilhermeReda,"{'[User]_zzzeek', '[User]_GuilhermeReda'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10629
+2023-11-14 09:17:31+00:00,[User]_torsdag,"{'[User]_torsdag', '[User]_nemanjab17', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10630
+2023-11-14 16:09:24+00:00,[User]_rsaleev,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10632
+2023-11-14 17:15:58+00:00,[User]_uriyyo,"{'[User]_uriyyo', '[User]_zzzeek', '[User]_sqla-tester', '[User]_CaselIT', '[User]_mehdigmira'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10634
+2023-11-14 17:46:25+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10635
+2023-11-14 18:22:53+00:00,[User]_cranium,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10637
+2023-11-15 19:06:29+00:00,[User]_mjpieters,"{'[User]_mjpieters', '[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10643
+2023-11-16 02:51:52+00:00,[User]_williamhakim10,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10644
+2023-11-16 14:13:01+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10646
+2023-11-17 05:31:01+00:00,[User]_fazledyn-or,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_fazledyn-or'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10648
+2023-11-17 16:10:05+00:00,[User]_luoye2018,"{'[User]_luoye2018', '[User]_zzzeek', '[User]_CaselIT', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10650
+2023-11-17 16:35:33+00:00,[User]_luoye2018,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10651
+2023-11-17 20:31:40+00:00,[User]_rsanden-deca,"{'[User]_rsanden-deca', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10652
+2023-11-17 21:42:35+00:00,[User]_joel-olazagasti,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10653
+2023-11-18 04:00:04+00:00,[User]_PythonCoderAS,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10654
+2023-11-19 02:22:02+00:00,[User]_LLuke,"{'[User]_zzzeek', '[User]_CaselIT', '[User]_LLuke'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10656
+2023-11-19 02:40:04+00:00,[User]_LLuke,"{'[User]_zzzeek', '[User]_CaselIT', '[User]_LLuke'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10657
+2023-11-19 06:31:04+00:00,[User]_gvenzl,"{'[User]_gvenzl', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10658
+2023-11-20 17:53:07+00:00,[User]_jachien,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_jachien'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10662
+2023-11-20 20:08:11+00:00,[User]_CaselIT,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10665
+2023-11-21 22:11:55+00:00,[User]_jvllmr,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10668
+2023-11-21 22:21:10+00:00,[User]_jvllmr,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10669
+2023-11-22 19:44:09+00:00,[User]_CaselIT,"{'[User]_jace', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10673
+2023-11-22 19:51:47+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10674
+2023-11-22 20:31:17+00:00,[User]_CaselIT,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10676
+2023-11-23 01:36:08+00:00,[User]_zzzeek,"{'[User]_zzzeek', '[User]_anthony-tuininga', '[User]_cjbj', '[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10679
+2023-11-23 07:19:12+00:00,[User]_CaselIT,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10680
+2023-11-23 07:56:22+00:00,[User]_h-vetinari,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10681
+2023-11-23 12:30:51+00:00,[User]_frankie567,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10686
+2023-11-23 21:57:04+00:00,[User]_ssvine,"{'[User]_CaselIT', '[User]_ssvine'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10689
+2023-11-24 01:11:27+00:00,[User]_zhaoziming,"{'[User]_zzzeek', '[User]_zhaoziming'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10691
+2023-11-24 06:09:44+00:00,[User]_ovangle,"{'[User]_ovangle', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10693
+2023-11-24 10:37:06+00:00,[User]_juusom,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10696
+2023-11-25 19:29:06+00:00,[User]_c0dezer019,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10701
+2023-11-27 06:17:23+00:00,[User]_haiconmeo,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10704
+2023-11-27 15:42:32+00:00,[User]_robcalon,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10706
+2023-11-29 07:55:36+00:00,[User]_SincerelyUnique,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10711
+2023-11-30 16:16:07+00:00,[User]_kkirsche,"{'[User]_kkirsche', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10720
+2023-11-30 21:43:45+00:00,[User]_CaselIT,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10721
+2023-12-01 15:01:57+00:00,[User]_eXenon,"{'[User]_eXenon', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10726
+2023-12-02 14:31:18+00:00,[User]_pestoffne,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10728
+2023-12-03 21:07:15+00:00,[User]_kboenke,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10730
+2023-12-06 18:03:50+00:00,[User]_puilp0502,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10738
+2023-12-08 08:52:29+00:00,[User]_mehdigmira,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10746
+2023-12-09 16:53:39+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10747
+2023-12-10 16:36:27+00:00,[User]_inglesp,"{'[User]_inglesp', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10748
+2023-12-11 13:41:26+00:00,[User]_Fred-si,"{'[User]_Fred-si', '[User]_md384', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10751
+2023-12-12 18:14:25+00:00,[User]_odelmarcelle,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10753
+2023-12-13 13:38:59+00:00,[User]_iurisilvio,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10757
+2023-12-14 01:37:22+00:00,[User]_badinplaid737,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10759
+2023-12-16 04:05:07+00:00,[User]_ntaylorwss,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10765
+2023-12-16 09:32:24+00:00,[User]_amisadmin,"{'[User]_zzzeek', '[User]_amisadmin'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10767
+2023-12-19 07:54:30+00:00,[User]_CaselIT,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10776
+2023-12-19 15:06:08+00:00,[User]_ellisvalentiner,"{'[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10777
+2023-12-19 15:10:26+00:00,[User]_ellisvalentiner,"{'[User]_ellisvalentiner', '[User]_CaselIT', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10778
+2023-12-19 18:26:30+00:00,[User]_ericatkin,"{'[User]_zzzeek', '[User]_CaselIT', '[User]_ericatkin'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10780
+2023-12-19 20:41:35+00:00,[User]_yilei,"{'[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10782
+2023-12-19 21:17:46+00:00,[User]_yilei,"{'[User]_sqla-tester', '[User]_CaselIT', '[User]_yilei'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10783
+2023-12-20 14:38:05+00:00,[User]_glouvigny,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10784
+2023-12-20 16:10:28+00:00,[User]_matthewgdv,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10785
+2023-12-20 17:43:05+00:00,[User]_KyloEntro,"{'[User]_CaselIT', '[User]_KyloEntro'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10787
+2023-12-20 20:45:53+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10788
+2023-12-21 14:26:24+00:00,[User]_zzzeek,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10789
+2023-12-26 11:54:45+00:00,[User]_undergroundenemy616,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10792
+2023-12-27 16:35:55+00:00,[User]_LexiconGap,set(),sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10793
+2023-12-28 20:40:58+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10800
+2023-12-29 10:21:21+00:00,[User]_enadeau,"{'[User]_zzzeek', '[User]_sqla-tester', '[User]_xmatthias', '[User]_enadeau', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10801
+2023-12-29 12:15:50+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10802
+2023-12-30 12:23:58+00:00,[User]_rijenkii,"{'[User]_rijenkii', '[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/issues/10807
+2023-12-31 12:30:17+00:00,[User]_PaulMcMillan,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2023,https://github.com/sqlalchemy/sqlalchemy/pull/10809
+2024-01-01 17:39:18+00:00,[User]_s-pratyush,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10811
+2024-01-01 21:33:21+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10813
+2024-01-02 10:58:55+00:00,[User]_DavideCanton,"{'[User]_DavideCanton', '[User]_zzzeek', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10815
+2024-01-02 12:42:23+00:00,[User]_amaslyaev,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_amaslyaev'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10817
+2024-01-02 13:52:38+00:00,[User]_erdnaxeli,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10818
+2024-01-02 23:55:01+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10820
+2024-01-03 00:03:24+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10821
+2024-01-03 20:35:05+00:00,[User]_lonvia,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10827
+2024-01-04 15:38:01+00:00,[User]_zenfiric,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10829
+2024-01-05 04:55:30+00:00,[User]_jamesbraza,"{'[User]_zzzeek', '[User]_jamesbraza'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10831
+2024-01-05 18:52:32+00:00,[User]_jlynchMicron,"{'[User]_jlynchMicron', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10832
+2024-01-05 20:38:50+00:00,[User]_james-emerton,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10834
+2024-01-06 17:31:09+00:00,[User]_zzzeek,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10835
+2024-01-08 14:13:01+00:00,[User]_Wint3rmute,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10842
+2024-01-08 15:10:42+00:00,[User]_evansd,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10843
+2024-01-08 15:42:56+00:00,[User]_subbyte,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10845
+2024-01-08 16:52:02+00:00,[User]_evansd,"{'[User]_sqla-tester', '[User]_evansd', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10847
+2024-01-09 07:31:45+00:00,[User]_whysage,"{'[User]_CaselIT', '[User]_whysage'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10848
+2024-01-09 07:51:16+00:00,[User]_whysage,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_whysage'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10849
+2024-01-09 13:27:00+00:00,[User]_GeorchW,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10850
+2024-01-09 13:30:25+00:00,[User]_GeorchW,"{'[User]_GeorchW', '[User]_CaselIT', '[User]_zzzeek', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10851
+2024-01-09 16:18:31+00:00,[User]_RichieCahill,"{'[User]_zzzeek', '[User]_RichieCahill'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10852
+2024-01-10 04:18:20+00:00,[User]_terryli0095,"{'[User]_CaselIT', '[User]_terryli0095'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10856
+2024-01-10 14:32:08+00:00,[User]_zzzeek,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10859
+2024-01-11 03:20:40+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10863
+2024-01-12 06:56:30+00:00,[User]_arron1227,"{'[User]_arron1227', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10872
+2024-01-12 08:13:24+00:00,[User]_flyly0755,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10873
+2024-01-12 15:24:18+00:00,[User]_CaselIT,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10877
+2024-01-15 14:30:21+00:00,[User]_mjpieters,"{'[User]_sqla-tester', '[User]_mjpieters', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10886
+2024-01-15 18:08:09+00:00,[User]_mjpieters,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10888
+2024-01-15 18:12:06+00:00,[User]_mjpieters,"{'[User]_zzzeek', '[User]_mjpieters', '[User]_CaselIT', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10889
+2024-01-17 15:28:06+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10893
+2024-01-18 02:09:24+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10896
+2024-01-18 17:09:30+00:00,[User]_twiddli,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10899
+2024-01-19 16:04:44+00:00,[User]_CaselIT,"{'[User]_CaselIT', '[User]_SenorPuzzles'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10902
+2024-01-20 01:39:24+00:00,[User]_edgarrmondragon,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10904
+2024-01-20 03:40:21+00:00,[User]_edgarrmondragon,"{'[User]_sqla-tester', '[User]_CaselIT', '[User]_edgarrmondragon'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10905
+2024-01-20 13:04:38+00:00,[User]_decaz,"{'[User]_decaz', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10906
+2024-01-20 17:50:06+00:00,[User]_decaz,{'[User]_decaz'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10907
+2024-01-22 03:30:12+00:00,[User]_edgarrmondragon,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10909
+2024-01-22 22:01:03+00:00,[User]_jbalogh,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10912
+2024-01-23 13:37:10+00:00,[User]_DramaticFuro,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10915
+2024-01-23 17:28:43+00:00,[User]_gordthompson,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10918
+2024-01-23 18:50:19+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10920
+2024-01-25 21:28:50+00:00,[User]_eltoder,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10925
+2024-01-26 10:23:44+00:00,[User]_iurisilvio,"{'[User]_zzzeek', '[User]_CaselIT', '[User]_iurisilvio'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10927
+2024-01-27 19:57:50+00:00,[User]_umerf52,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10931
+2024-01-28 21:20:37+00:00,[User]_decaz,"{'[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10933
+2024-01-29 14:17:47+00:00,[User]_zzzeek,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10936
+2024-01-29 15:17:44+00:00,[User]_AlexanderPodorov,"{'[User]_AlexanderPodorov', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10937
+2024-01-29 15:25:54+00:00,[User]_AlexanderPodorov,"{'[User]_AlexanderPodorov', '[User]_CaselIT', '[User]_MarkWine'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10939
+2024-01-29 21:36:15+00:00,[User]_jgadling,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10942
+2024-02-01 11:09:04+00:00,[User]_k-ronning,"{'[User]_k-ronning', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10951
+2024-02-03 13:31:25+00:00,[User]_tomeknn,"{'[User]_tomeknn', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10959
+2024-02-03 19:45:24+00:00,[User]_moriyoshi,"{'[User]_zzzeek', '[User]_moriyoshi'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10960
+2024-02-05 06:25:44+00:00,[User]_hauntsaninja,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10962
+2024-02-06 01:39:11+00:00,[User]_SamuelMarks,"{'[User]_zzzeek', '[User]_CaselIT', '[User]_SamuelMarks'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10968
+2024-02-06 02:28:11+00:00,[User]_jenstroeger,"{'[User]_jenstroeger', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10969
+2024-02-06 02:29:57+00:00,[User]_jenstroeger,"{'[User]_jenstroeger', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10970
+2024-02-06 13:29:41+00:00,[User]_urpylka,"{'[User]_CaselIT', '[User]_urpylka'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10973
+2024-02-06 17:41:05+00:00,[User]_jsormaz,"{'[User]_zzzeek', '[User]_jsormaz'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10975
+2024-02-06 22:52:43+00:00,[User]_Noah3141,"{'[User]_Noah3141', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10977
+2024-02-07 14:13:44+00:00,[User]_Roast-Lord,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10984
+2024-02-07 15:21:30+00:00,[User]_jtay-pm,{'[User]_jtay-pm'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10985
+2024-02-08 13:16:46+00:00,[User]_cziebuhr,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10990
+2024-02-09 09:17:07+00:00,[User]_lelit,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/10992
+2024-02-12 19:11:05+00:00,[User]_kar-pev,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/10999
+2024-02-13 12:34:25+00:00,[User]_decaz,"{'[User]_sqla-tester', '[User]_decaz', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11005
+2024-02-13 13:30:13+00:00,[User]_zzzeek,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11006
+2024-02-14 13:25:20+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11010
+2024-02-14 21:02:52+00:00,[User]_hab6,"{'[User]_hab6', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11014
+2024-02-15 03:28:32+00:00,[User]_cbscsm,"{'[User]_cbscsm', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11015
+2024-02-15 06:29:08+00:00,[User]_Zhong-z,"{'[User]_sqla-tester', '[User]_Zhong-z', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11018
+2024-02-15 19:49:56+00:00,[User]_Dreamsorcerer,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11023
+2024-02-16 06:30:33+00:00,[User]_Sfurti-yb,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11026
+2024-02-16 19:10:38+00:00,[User]_TabLand,"{'[User]_TabLand', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11027
+2024-02-19 07:49:03+00:00,[User]_layday,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11034
+2024-02-19 07:56:04+00:00,[User]_layday,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11035
+2024-02-20 02:26:25+00:00,[User]_MarkWine,{'[User]_MarkWine'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11037
+2024-02-20 15:51:28+00:00,[User]_mattjudge,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11039
+2024-02-21 20:41:51+00:00,[User]_zzzeek,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11045
+2024-02-22 04:43:44+00:00,[User]_Sfurti-yb,"{'[User]_Sfurti-yb', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11047
+2024-02-22 08:30:18+00:00,[User]_linpan,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11048
+2024-02-24 07:35:58+00:00,[User]_imeckr,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11053
+2024-02-24 08:51:57+00:00,[User]_valery-iwanofu,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11054
+2024-02-25 01:43:11+00:00,[User]_francipvb,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_francipvb'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11055
+2024-02-27 05:53:05+00:00,[User]_finswimmer,"{'[User]_finswimmer', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11062
+2024-02-27 16:05:50+00:00,[User]_fabioaraujopt,"{'[User]_espdev', '[User]_fernandocamargoai', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11063
+2024-02-27 21:46:26+00:00,[User]_matthew-mcallister,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11065
+2024-02-28 13:48:55+00:00,[User]_9en9i,"{'[User]_9en9i', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11069
+2024-03-01 03:50:30+00:00,[User]_zzzeek,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11074
+2024-03-01 13:12:49+00:00,[User]_rrupy,"{'[User]_rrupy', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11078
+2024-03-01 19:47:34+00:00,[User]_drobert,{'[User]_drobert'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11083
+2024-03-02 04:59:46+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_9en9i', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11085
+2024-03-04 13:59:27+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11091
+2024-03-04 19:30:12+00:00,[User]_drobert,"{'[User]_sqla-tester', '[User]_drobert', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11095
+2024-03-05 11:09:36+00:00,[User]_rrupy,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11098
+2024-03-05 12:51:30+00:00,[User]_fishfacegit,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11099
+2024-03-05 18:26:04+00:00,[User]_eltoder,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11103
+2024-03-05 19:38:06+00:00,[User]_eltoder,"{'[User]_eltoder', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11104
+2024-03-05 19:57:27+00:00,[User]_kevin-ayala,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11106
+2024-03-05 20:56:21+00:00,[User]_jvanasco,"{'[User]_jvanasco', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11107
+2024-03-05 22:01:08+00:00,[User]_rrupy,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11109
+2024-03-05 22:17:14+00:00,[User]_rrupy,{'[User]_rrupy'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11110
+2024-03-06 13:04:12+00:00,[User]_rrupy,"{'[User]_sqla-tester', '[User]_rrupy', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11111
+2024-03-06 18:56:11+00:00,[User]_ejlangev,"{'[User]_ejlangev', '[User]_sqla-tester'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11113
+2024-03-07 13:32:45+00:00,[User]_wbolster,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11116
+2024-03-08 09:17:19+00:00,[User]_dlax,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11120
+2024-03-08 12:52:36+00:00,[User]_diorcety,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11122
+2024-03-08 22:29:53+00:00,[User]_JordanZimmitti,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11125
+2024-03-09 04:57:52+00:00,[User]_inklesspen,"{'[User]_inklesspen', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11129
+2024-03-09 14:50:42+00:00,[User]_imacat,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11130
+2024-03-10 16:55:41+00:00,[User]_MacBath,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11132
+2024-03-10 19:44:27+00:00,[User]_jenstroeger,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_jenstroeger'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11133
+2024-03-11 10:35:43+00:00,[User]_acceptacross,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11134
+2024-03-11 15:46:34+00:00,[User]_snkuranga-candid,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11136
+2024-03-11 21:29:55+00:00,[User]_CaselIT,{'[User]_jvanasco'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11139
+2024-03-11 23:31:39+00:00,[User]_CobaltCause,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11141
+2024-03-11 23:38:51+00:00,[User]_CobaltCause,"{'[User]_CobaltCause', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11142
+2024-03-12 00:57:02+00:00,[User]_ManiMozaffar,"{'[User]_ManiMozaffar', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11143
+2024-03-12 01:47:47+00:00,[User]_XJPeng12,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11144
+2024-03-12 08:04:32+00:00,[User]_acanizares,{'[User]_acanizares'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11145
+2024-03-13 11:43:18+00:00,[User]_acanizares,"{'[User]_acanizares', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11154
+2024-03-13 21:41:00+00:00,[User]_JoeKellyRVA,"{'[User]_sqla-tester', '[User]_JoeKellyRVA', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11157
+2024-03-14 17:40:02+00:00,[User]_adeel-sky,"{'[User]_adeel-sky', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11158
+2024-03-14 17:50:34+00:00,[User]_tamird,"{'[User]_tamird', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11159
+2024-03-15 04:08:16+00:00,[User]_shabani1,"{'[User]_sqla-tester', '[User]_CaselIT', '[User]_zzzeek', '[User]_shabani1'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11160
+2024-03-15 15:19:04+00:00,[User]_RazerM,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_RazerM'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11163
+2024-03-15 17:54:57+00:00,[User]_seanbright,"{'[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11166
+2024-03-15 17:55:59+00:00,[User]_seanbright,"{'[User]_sqla-tester', '[User]_seanbright'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11167
+2024-03-16 21:44:47+00:00,[User]_david-caro,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11168
+2024-03-19 17:17:53+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_AurelienJoy', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11173
+2024-03-21 12:04:14+00:00,[User]_Buvi1234,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11182
+2024-03-21 20:00:08+00:00,[User]_ncopa,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11186
+2024-03-25 10:25:12+00:00,[User]_PaleNeutron,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11193
+2024-03-26 19:25:57+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_francipvb'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11200
+2024-03-26 23:53:34+00:00,[User]_francipvb,"{'[User]_sqla-tester', '[User]_CaselIT', '[User]_francipvb'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11201
+2024-03-27 11:43:40+00:00,[User]_heidouNeo,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11205
+2024-03-28 11:34:07+00:00,[User]_nettnikl,"{'[User]_nettnikl', '[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11210
+2024-03-29 06:29:55+00:00,[User]_emscbQ,"{'[User]_zzzeek', '[User]_CaselIT', '[User]_emscbQ'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11211
+2024-04-01 21:28:04+00:00,[User]_zzzeek,"{'[User]_sqla-tester', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11220
+2024-04-02 02:20:45+00:00,[User]_zhangke-zhangke,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11222
+2024-04-02 13:01:51+00:00,[User]_Buczek05,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11225
+2024-04-02 13:05:18+00:00,[User]_zzzeek,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11226
+2024-04-02 23:22:22+00:00,[User]_floan,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11230
+2024-04-03 17:02:28+00:00,[User]_wbolster,"{'[User]_sqla-tester', '[User]_CaselIT', '[User]_wbolster'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11231
+2024-04-04 09:09:28+00:00,[User]_wbolster,"{'[User]_sqla-tester', '[User]_CaselIT', '[User]_wbolster'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11233
+2024-04-04 14:19:22+00:00,[User]_AlexeyDmitriev,"{'[User]_zzzeek', '[User]_CaselIT', '[User]_AlexeyDmitriev'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11234
+2024-04-05 18:22:23+00:00,[User]_CaselIT,"{'[User]_CarlosEduR', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11238
+2024-04-08 10:42:20+00:00,[User]_yawhide,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11244
+2024-04-09 08:35:36+00:00,[User]_JichaoS,"{'[User]_JichaoS', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11247
+2024-04-09 14:05:55+00:00,[User]_rad-pat,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11248
+2024-04-09 17:29:43+00:00,[User]_gordthompson,"{'[User]_sqla-tester', '[User]_gordthompson', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11250
+2024-04-09 20:33:54+00:00,[User]_hari01584,"{'[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11252
+2024-04-12 19:57:13+00:00,[User]_floan,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11260
+2024-04-12 21:03:10+00:00,[User]_jchouinard-dimonoff,"{'[User]_jchouinard-dimonoff', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11262
+2024-04-14 10:39:55+00:00,[User]_zdlay,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11264
+2024-04-15 16:33:08+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11268
+2024-04-16 09:30:37+00:00,[User]_funkindy,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11275
+2024-04-17 09:40:39+00:00,[User]_ma9ni,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11281
+2024-04-17 13:09:27+00:00,[User]_rshunim,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11282
+2024-04-17 17:05:03+00:00,[User]_zzzeek,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11284
+2024-04-17 18:38:21+00:00,[User]_quentin-roche,"{'[User]_zzzeek', '[User]_CaselIT', '[User]_quentin-roche'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11285
+2024-04-18 09:13:24+00:00,[User]_yoadev22,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11288
+2024-04-18 18:16:13+00:00,[User]_kkroening,"{'[User]_kkroening', '[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11291
+2024-04-18 21:35:07+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11292
+2024-04-20 20:14:59+00:00,[User]_alphavector,"{'[User]_alphavector', '[User]_zzzeek', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11296
+2024-04-21 07:47:36+00:00,[User]_ilanKeshet,{'[User]_ilanKeshet'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11297
+2024-04-22 12:41:10+00:00,[User]_ionsome,"{'[User]_CaselIT', '[User]_ionsome'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11299
+2024-04-22 17:05:13+00:00,[User]_gmanny,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11302
+2024-04-22 22:39:08+00:00,[User]_ElHaban3ro,{'[User]_zzzeek'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11304
+2024-04-23 02:26:42+00:00,[User]_Alc-Alc,"{'[User]_sqla-tester', '[User]_CaselIT', '[User]_Alc-Alc'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11305
+2024-04-23 09:49:23+00:00,[User]_Apakottur,"{'[User]_sqla-tester', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11307
+2024-04-23 19:41:16+00:00,[User]_dadrake3,"{'[User]_dadrake3', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11312
+2024-04-24 17:46:39+00:00,[User]_CaselIT,set(),sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11317
+2024-04-25 11:51:36+00:00,[User]_andreasc-kuehn,"{'[User]_andreasc-kuehn', '[User]_zzzeek'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11321
+2024-04-26 10:34:09+00:00,[User]_felix-zenk,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11325
+2024-04-27 01:10:34+00:00,[User]_zzzeek,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11327
+2024-04-27 02:46:08+00:00,[User]_mark-thm,{'[User]_sqla-tester'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11328
+2024-04-28 00:33:39+00:00,[User]_mark-thm,"{'[User]_sqla-tester', '[User]_mark-thm', '[User]_CaselIT'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11329
+2024-04-30 00:01:18+00:00,[User]_edgarrmondragon,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_edgarrmondragon'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11334
+2024-04-30 00:11:47+00:00,[User]_edgarrmondragon,"{'[User]_sqla-tester', '[User]_zzzeek', '[User]_CaselIT', '[User]_edgarrmondragon'}",sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11335
+2024-04-30 09:37:03+00:00,[User]_tspng,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/issues/11336
+2024-04-30 12:21:07+00:00,[User]_robertsilen,{'[User]_CaselIT'},sqlalchemy/sqlalchemy,2024,https://github.com/sqlalchemy/sqlalchemy/pull/11337

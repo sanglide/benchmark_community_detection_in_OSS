@@ -1,0 +1,499 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 02:03:06+00:00,[User]_nathanmoore,"{'[User]_stuartarchibald', '[User]_iperov'}",numba/numba,2023,https://github.com/numba/numba/issues/8934
+2023-05-01 15:10:54+00:00,[User]_sklam,{'[User]_stuartarchibald'},numba/numba,2023,https://github.com/numba/numba/pull/8935
+2023-05-03 01:26:36+00:00,[User]_iguinn,"{'[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/8936
+2023-05-04 12:28:43+00:00,[User]_gmarkall,"{'[User]_apmasell', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/8937
+2023-05-04 16:16:27+00:00,[User]_david-zwicker,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/8939
+2023-05-04 17:26:34+00:00,[User]_sk1p,"{'[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/8940
+2023-05-04 19:02:02+00:00,[User]_kc611,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/8941
+2023-05-04 22:27:47+00:00,[User]_lgray,"{'[User]_gmarkall', '[User]_lgray', '[User]_GeorgWa'}",numba/numba,2023,https://github.com/numba/numba/issues/8942
+2023-05-05 12:10:39+00:00,[User]_dmoklaf,"{'[User]_MischaPanch', '[User]_dmoklaf', '[User]_torext'}",numba/numba,2023,https://github.com/numba/numba/issues/8943
+2023-05-05 17:02:18+00:00,[User]_guilhermeleobas,"{'[User]_guilhermeleobas', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/8944
+2023-05-05 17:19:47+00:00,[User]_gregoryfdel,set(),numba/numba,2023,https://github.com/numba/numba/issues/8945
+2023-05-05 18:14:02+00:00,[User]_remydubois,"{'[User]_gmarkall', '[User]_remydubois'}",numba/numba,2023,https://github.com/numba/numba/issues/8946
+2023-05-05 18:18:54+00:00,[User]_guilhermeleobas,"{'[User]_guilhermeleobas', '[User]_apmasell', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/8947
+2023-05-08 14:02:07+00:00,[User]_guilhermeleobas,"{'[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/8948
+2023-05-09 08:07:10+00:00,[User]_AngelFP,"{'[User]_guilhermeleobas', '[User]_gmarkall', '[User]_AngelFP', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/8949
+2023-05-09 16:41:46+00:00,[User]_sklam,set(),numba/numba,2023,https://github.com/numba/numba/issues/8950
+2023-05-09 17:08:12+00:00,[User]_RemiLehe,"{'[User]_guilhermeleobas', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/8951
+2023-05-10 10:56:32+00:00,[User]_TheBB,set(),numba/numba,2023,https://github.com/numba/numba/issues/8952
+2023-05-10 16:06:54+00:00,[User]_gmarkall,set(),numba/numba,2023,https://github.com/numba/numba/issues/8954
+2023-05-12 13:01:07+00:00,[User]_myuanz,"{'[User]_myuanz', '[User]_guilhermeleobas', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/8955
+2023-05-15 09:18:27+00:00,[User]_esc,"{'[User]_guilhermeleobas', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/8958
+2023-05-15 17:45:33+00:00,[User]_Matt711,"{'[User]_stuartarchibald', '[User]_Matt711', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/8960
+2023-05-15 18:48:24+00:00,[User]_pauljurczak,"{'[User]_nablabits', '[User]_pauljurczak', '[User]_seibert'}",numba/numba,2023,https://github.com/numba/numba/issues/8961
+2023-05-15 22:03:21+00:00,[User]_Matt711,"{'[User]_Matt711', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/8962
+2023-05-16 02:04:22+00:00,[User]_testhound,"{'[User]_gmarkall', '[User]_testhound'}",numba/numba,2023,https://github.com/numba/numba/pull/8963
+2023-05-16 12:59:40+00:00,[User]_esc,"{'[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/8964
+2023-05-16 13:10:55+00:00,[User]_esc,"{'[User]_guilhermeleobas', '[User]_apmasell', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/8965
+2023-05-16 15:43:15+00:00,[User]_djhoese,"{'[User]_sklam', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/8966
+2023-05-16 18:24:49+00:00,[User]_adofarsi,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/8967
+2023-05-17 12:13:49+00:00,[User]_gmarkall,"{'[User]_sklam', '[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/8968
+2023-05-18 14:19:00+00:00,[User]_gmarkall,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/issues/8970
+2023-05-19 15:11:04+00:00,[User]_sklam,"{'[User]_sklam', '[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/8972
+2023-05-22 07:04:38+00:00,[User]_kc611,"{'[User]_kc611', '[User]_lgray'}",numba/numba,2023,https://github.com/numba/numba/pull/8973
+2023-05-23 00:04:19+00:00,[User]_Matt711,"{'[User]_Matt711', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/8974
+2023-05-23 12:17:22+00:00,[User]_ricardoV94,{'[User]_kc611'},numba/numba,2023,https://github.com/numba/numba/issues/8975
+2023-05-23 17:16:00+00:00,[User]_bdice,"{'[User]_bdice', '[User]_gmarkall', '[User]_jakirkham'}",numba/numba,2023,https://github.com/numba/numba/pull/8976
+2023-05-24 18:23:05+00:00,[User]_bdice,set(),numba/numba,2023,https://github.com/numba/numba/issues/8977
+2023-05-24 18:24:38+00:00,[User]_bdice,"{'[User]_bdice', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/8978
+2023-05-25 10:22:05+00:00,[User]_gmarkall,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/pull/8979
+2023-05-25 11:22:58+00:00,[User]_SheharazSheik,set(),numba/numba,2023,https://github.com/numba/numba/issues/8981
+2023-05-25 18:04:55+00:00,[User]_DrTodd13,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/pull/8982
+2023-05-25 22:13:40+00:00,[User]_dsgibbons,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/pull/8983
+2023-05-25 22:19:55+00:00,[User]_guilhermeleobas,"{'[User]_stuartarchibald', '[User]_guilhermeleobas', '[User]_esc', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/pull/8984
+2023-05-26 04:53:53+00:00,[User]_FindHao,"{'[User]_gmarkall', '[User]_FindHao'}",numba/numba,2023,https://github.com/numba/numba/issues/8985
+2023-05-26 20:06:16+00:00,[User]_testhound,"{'[User]_gmarkall', '[User]_sklam', '[User]_testhound'}",numba/numba,2023,https://github.com/numba/numba/pull/8987
+2023-05-28 18:45:35+00:00,[User]_s1Sharp,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/pull/8988
+2023-05-30 09:23:46+00:00,[User]_gmarkall,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/pull/8991
+2023-05-30 20:33:14+00:00,[User]_apmasell,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/8992
+2023-05-31 13:47:26+00:00,[User]_gmarkall,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/issues/8994
+2023-06-01 09:16:08+00:00,[User]_esc,"{'[User]_apmasell', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/8996
+2023-06-02 13:48:09+00:00,[User]_esc,"{'[User]_apmasell', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/8998
+2023-06-05 08:30:48+00:00,[User]_JSKenyon,"{'[User]_JSKenyon', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/8999
+2023-06-05 08:59:34+00:00,[User]_esc,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9000
+2023-06-05 09:12:28+00:00,[User]_gmarkall,"{'[User]_zansibal', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/9001
+2023-06-05 09:32:23+00:00,[User]_raviapatel,"{'[User]_DrTodd13', '[User]_raviapatel', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9002
+2023-06-06 16:00:18+00:00,[User]_gmarkall,"{'[User]_sklam', '[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9005
+2023-06-07 12:15:51+00:00,[User]_esc,{'[User]_apmasell'},numba/numba,2023,https://github.com/numba/numba/pull/9006
+2023-06-08 17:31:32+00:00,[User]_Matt711,"{'[User]_Matt711', '[User]_gmarkall', '[User]_esc', '[User]_apmasell'}",numba/numba,2023,https://github.com/numba/numba/pull/9007
+2023-06-09 12:42:30+00:00,[User]_tegonzalo,"{'[User]_sklam', '[User]_jeremy010203'}",numba/numba,2023,https://github.com/numba/numba/issues/9008
+2023-06-10 11:31:19+00:00,[User]_zvarnitis,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9009
+2023-06-12 17:09:14+00:00,[User]_gmarkall,set(),numba/numba,2023,https://github.com/numba/numba/issues/9010
+2023-06-12 22:52:44+00:00,[User]_sklam,"{'[User]_sklam', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9012
+2023-06-13 22:55:07+00:00,[User]_DrTodd13,set(),numba/numba,2023,https://github.com/numba/numba/pull/9013
+2023-06-13 23:08:27+00:00,[User]_DrTodd13,"{'[User]_DrTodd13', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9014
+2023-06-14 08:12:43+00:00,[User]_Konjkov,set(),numba/numba,2023,https://github.com/numba/numba/issues/9017
+2023-06-14 21:27:52+00:00,[User]_apmasell,{'[User]_apmasell'},numba/numba,2023,https://github.com/numba/numba/issues/9019
+2023-06-15 17:35:55+00:00,[User]_sklam,set(),numba/numba,2023,https://github.com/numba/numba/pull/9020
+2023-06-16 14:31:03+00:00,[User]_esc,{'[User]_kc611'},numba/numba,2023,https://github.com/numba/numba/pull/9021
+2023-06-18 11:25:08+00:00,[User]_emmanuel-ferdman,{'[User]_apmasell'},numba/numba,2023,https://github.com/numba/numba/pull/9022
+2023-06-19 10:09:25+00:00,[User]_esc,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9023
+2023-06-19 12:50:06+00:00,[User]_esc,"{'[User]_esc', '[User]_ZupoLlask'}",numba/numba,2023,https://github.com/numba/numba/issues/9024
+2023-06-19 12:56:15+00:00,[User]_Badr-MOUFAD,"{'[User]_apmasell', '[User]_Badr-MOUFAD'}",numba/numba,2023,https://github.com/numba/numba/issues/9025
+2023-06-19 18:08:41+00:00,[User]_ZlaTanskY,"{'[User]_gmarkall', '[User]_esc', '[User]_ZlaTanskY'}",numba/numba,2023,https://github.com/numba/numba/issues/9027
+2023-06-19 21:30:05+00:00,[User]_hauntsaninja,{'[User]_apmasell'},numba/numba,2023,https://github.com/numba/numba/pull/9028
+2023-06-21 13:41:57+00:00,[User]_99991,"{'[User]_stuartarchibald', '[User]_esc', '[User]_gmarkall', '[User]_99991', '[User]_DrTodd13'}",numba/numba,2023,https://github.com/numba/numba/issues/9029
+2023-06-21 13:58:04+00:00,[User]_dlee992,"{'[User]_sklam', '[User]_gmarkall', '[User]_dlee992'}",numba/numba,2023,https://github.com/numba/numba/issues/9030
+2023-06-22 11:40:51+00:00,[User]_lrlunin,"{'[User]_lrlunin', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/9031
+2023-06-22 13:20:02+00:00,[User]_jorlow,"{'[User]_jorlow', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/9032
+2023-06-23 10:51:58+00:00,[User]_gmarkall,"{'[User]_bdice', '[User]_gmarkall', '[User]_stuartarchibald'}",numba/numba,2023,https://github.com/numba/numba/pull/9034
+2023-06-23 14:45:00+00:00,[User]_Matt711,"{'[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9035
+2023-06-23 19:52:39+00:00,[User]_ellifteria,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/pull/9036
+2023-06-23 21:13:40+00:00,[User]_DrTodd13,"{'[User]_DrTodd13', '[User]_stuartarchibald'}",numba/numba,2023,https://github.com/numba/numba/pull/9037
+2023-06-26 03:09:03+00:00,[User]_auderson,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/issues/9038
+2023-06-27 10:14:32+00:00,[User]_gmarkall,"{'[User]_stuartarchibald', '[User]_sklam', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9040
+2023-06-27 10:42:50+00:00,[User]_esc,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9041
+2023-06-27 11:01:13+00:00,[User]_egormkn,set(),numba/numba,2023,https://github.com/numba/numba/issues/9042
+2023-06-27 11:19:11+00:00,[User]_esc,"{'[User]_sklam', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9043
+2023-06-27 19:31:26+00:00,[User]_apmasell,"{'[User]_stuartarchibald', '[User]_apmasell'}",numba/numba,2023,https://github.com/numba/numba/pull/9044
+2023-06-27 20:15:39+00:00,[User]_pentschev,"{'[User]_shaunc', '[User]_gmarkall', '[User]_jakirkham', '[User]_ZupoLlask', '[User]_bdice', '[User]_pentschev'}",numba/numba,2023,https://github.com/numba/numba/issues/9045
+2023-06-28 09:35:21+00:00,[User]_esc,{'[User]_kc611'},numba/numba,2023,https://github.com/numba/numba/pull/9046
+2023-06-28 23:27:00+00:00,[User]_DrTodd13,"{'[User]_DrTodd13', '[User]_sklam', '[User]_esc', '[User]_stuartarchibald'}",numba/numba,2023,https://github.com/numba/numba/pull/9048
+2023-06-29 16:14:52+00:00,[User]_guilhermeleobas,set(),numba/numba,2023,https://github.com/numba/numba/issues/9049
+2023-06-30 18:46:07+00:00,[User]_Matt711,"{'[User]_stuartarchibald', '[User]_sklam', '[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9051
+2023-07-03 01:41:20+00:00,[User]_devindg,set(),numba/numba,2023,https://github.com/numba/numba/issues/9052
+2023-07-03 01:42:04+00:00,[User]_devindg,"{'[User]_gmarkall', '[User]_apmasell', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9053
+2023-07-03 13:21:59+00:00,[User]_guilhermeleobas,{'[User]_guilhermeleobas'},numba/numba,2023,https://github.com/numba/numba/issues/9055
+2023-07-04 13:59:21+00:00,[User]_esc,"{'[User]_apmasell', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9056
+2023-07-04 15:28:07+00:00,[User]_Matt711,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/pull/9057
+2023-07-04 17:30:57+00:00,[User]_guilhermeleobas,"{'[User]_guilhermeleobas', '[User]_zaa730Sight', '[User]_kc611'}",numba/numba,2023,https://github.com/numba/numba/pull/9058
+2023-07-05 11:36:57+00:00,[User]_apmasell,"{'[User]_stuartarchibald', '[User]_guilhermeleobas', '[User]_apmasell'}",numba/numba,2023,https://github.com/numba/numba/pull/9059
+2023-07-05 16:07:57+00:00,[User]_esc,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9060
+2023-07-09 11:53:33+00:00,[User]_c2j,"{'[User]_stuartarchibald', '[User]_max9111', '[User]_esc', '[User]_c2j'}",numba/numba,2023,https://github.com/numba/numba/issues/9066
+2023-07-11 05:50:25+00:00,[User]_KrisMinchev,"{'[User]_guilhermeleobas', '[User]_KrisMinchev', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9068
+2023-07-11 14:48:59+00:00,[User]_sklam,"{'[User]_stuartarchibald', '[User]_sklam', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9069
+2023-07-11 14:57:22+00:00,[User]_esc,set(),numba/numba,2023,https://github.com/numba/numba/issues/9070
+2023-07-11 16:43:48+00:00,[User]_dlee992,"{'[User]_sklam', '[User]_dlee992'}",numba/numba,2023,https://github.com/numba/numba/issues/9071
+2023-07-12 15:24:39+00:00,[User]_sklam,"{'[User]_gmarkall', '[User]_dlee992'}",numba/numba,2023,https://github.com/numba/numba/pull/9072
+2023-07-12 15:28:35+00:00,[User]_stuartarchibald,"{'[User]_stuartarchibald', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/9073
+2023-07-13 17:06:10+00:00,[User]_guilhermeleobas,"{'[User]_guilhermeleobas', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9074
+2023-07-13 20:30:45+00:00,[User]_yiorgb,"{'[User]_sklam', '[User]_yiorgb'}",numba/numba,2023,https://github.com/numba/numba/issues/9075
+2023-07-16 11:09:42+00:00,[User]_gaowutong,"{'[User]_sklam', '[User]_gaowutong'}",numba/numba,2023,https://github.com/numba/numba/issues/9078
+2023-07-17 09:38:05+00:00,[User]_852023301,"{'[User]_852023301', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/issues/9079
+2023-07-17 16:09:14+00:00,[User]_guilhermeleobas,{'[User]_stuartarchibald'},numba/numba,2023,https://github.com/numba/numba/issues/9080
+2023-07-18 09:10:37+00:00,[User]_KrisMinchev,set(),numba/numba,2023,https://github.com/numba/numba/pull/9081
+2023-07-18 10:01:31+00:00,[User]_KrisMinchev,"{'[User]_guilhermeleobas', '[User]_gmarkall', '[User]_KrisMinchev'}",numba/numba,2023,https://github.com/numba/numba/pull/9082
+2023-07-19 07:08:31+00:00,[User]_kc611,"{'[User]_stuartarchibald', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9083
+2023-07-24 11:55:22+00:00,[User]_KrisMinchev,"{'[User]_stuartarchibald', '[User]_guilhermeleobas', '[User]_KrisMinchev'}",numba/numba,2023,https://github.com/numba/numba/pull/9085
+2023-07-25 12:06:53+00:00,[User]_KrisMinchev,"{'[User]_guilhermeleobas', '[User]_sklam', '[User]_KrisMinchev', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9087
+2023-07-25 12:10:04+00:00,[User]_gmarkall,"{'[User]_stuartarchibald', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9088
+2023-07-25 19:50:16+00:00,[User]_hellozee,"{'[User]_sklam', '[User]_hellozee', '[User]_guilhermeleobas', '[User]_gmarkall', '[User]_kc611'}",numba/numba,2023,https://github.com/numba/numba/pull/9089
+2023-07-25 19:58:45+00:00,[User]_sklam,"{'[User]_sklam', '[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9090
+2023-07-26 15:53:12+00:00,[User]_stuartarchibald,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/pull/9094
+2023-07-26 22:13:43+00:00,[User]_sklam,"{'[User]_DrTodd13', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9095
+2023-07-26 22:49:13+00:00,[User]_sklam,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/9096
+2023-07-27 10:04:38+00:00,[User]_albop,"{'[User]_albop', '[User]_guilhermeleobas'}",numba/numba,2023,https://github.com/numba/numba/issues/9098
+2023-07-27 11:16:06+00:00,[User]_stuartarchibald,"{'[User]_stuartarchibald', '[User]_sklam', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9099
+2023-07-27 21:34:05+00:00,[User]_sklam,"{'[User]_sklam', '[User]_guilhermeleobas'}",numba/numba,2023,https://github.com/numba/numba/pull/9101
+2023-07-27 21:48:07+00:00,[User]_sklam,set(),numba/numba,2023,https://github.com/numba/numba/issues/9102
+2023-07-28 06:13:11+00:00,[User]_thomasWeise,"{'[User]_tsangwpx', '[User]_guilhermeleobas', '[User]_thomasWeise'}",numba/numba,2023,https://github.com/numba/numba/issues/9103
+2023-07-28 08:41:30+00:00,[User]_albop,{'[User]_guilhermeleobas'},numba/numba,2023,https://github.com/numba/numba/issues/9104
+2023-07-28 13:04:29+00:00,[User]_gmarkall,"{'[User]_sklam', '[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9105
+2023-07-28 15:53:06+00:00,[User]_vrunm,"{'[User]_guilhermeleobas', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/9107
+2023-07-29 13:58:39+00:00,[User]_Peter230655,"{'[User]_guilhermeleobas', '[User]_Peter230655'}",numba/numba,2023,https://github.com/numba/numba/issues/9110
+2023-07-31 19:17:55+00:00,[User]_sklam,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/pull/9112
+2023-08-01 10:16:08+00:00,[User]_KrisMinchev,{'[User]_guilhermeleobas'},numba/numba,2023,https://github.com/numba/numba/pull/9113
+2023-08-01 10:51:15+00:00,[User]_esc,"{'[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9114
+2023-08-02 09:16:08+00:00,[User]_KrisMinchev,"{'[User]_guilhermeleobas', '[User]_KrisMinchev'}",numba/numba,2023,https://github.com/numba/numba/pull/9115
+2023-08-02 19:35:52+00:00,[User]_hleumas,"{'[User]_gmarkall', '[User]_hleumas'}",numba/numba,2023,https://github.com/numba/numba/issues/9116
+2023-08-03 10:40:35+00:00,[User]_kc611,"{'[User]_sklam', '[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9117
+2023-08-03 12:32:06+00:00,[User]_KrisMinchev,"{'[User]_guilhermeleobas', '[User]_KrisMinchev', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9118
+2023-08-04 18:43:12+00:00,[User]_sklam,"{'[User]_sklam', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9120
+2023-08-05 09:19:43+00:00,[User]_plutonium-94,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/issues/9121
+2023-08-07 12:13:27+00:00,[User]_esc,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9122
+2023-08-07 17:30:00+00:00,[User]_guilhermeleobas,"{'[User]_gmarkall', '[User]_mattip', '[User]_guilhermeleobas', '[User]_kc611'}",numba/numba,2023,https://github.com/numba/numba/pull/9123
+2023-08-09 11:49:55+00:00,[User]_pashaPASHaa,"{'[User]_pashaPASHaa', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9124
+2023-08-09 14:58:44+00:00,[User]_guilhermeleobas,set(),numba/numba,2023,https://github.com/numba/numba/issues/9125
+2023-08-10 10:09:28+00:00,[User]_KrisMinchev,"{'[User]_guilhermeleobas', '[User]_karthikkurella', '[User]_KrisMinchev'}",numba/numba,2023,https://github.com/numba/numba/pull/9126
+2023-08-10 13:50:42+00:00,[User]_gmarkall,"{'[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9127
+2023-08-11 15:41:36+00:00,[User]_cestpasphoto,"{'[User]_gmarkall', '[User]_esc', '[User]_cestpasphoto'}",numba/numba,2023,https://github.com/numba/numba/issues/9129
+2023-08-12 04:52:13+00:00,[User]_yurivict,"{'[User]_yurivict', '[User]_timohouben', '[User]_esc', '[User]_VitaliyaIoffe'}",numba/numba,2023,https://github.com/numba/numba/issues/9130
+2023-08-14 22:49:17+00:00,[User]_fingoldo,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9132
+2023-08-15 12:46:12+00:00,[User]_esc,set(),numba/numba,2023,https://github.com/numba/numba/pull/9135
+2023-08-16 09:50:11+00:00,[User]_kc611,set(),numba/numba,2023,https://github.com/numba/numba/pull/9136
+2023-08-16 10:17:43+00:00,[User]_esc,{'[User]_kc611'},numba/numba,2023,https://github.com/numba/numba/pull/9137
+2023-08-16 12:08:11+00:00,[User]_esc,"{'[User]_kc611', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9138
+2023-08-16 19:42:30+00:00,[User]_njriasan,"{'[User]_DrTodd13', '[User]_njriasan'}",numba/numba,2023,https://github.com/numba/numba/issues/9139
+2023-08-17 08:27:19+00:00,[User]_KrisMinchev,"{'[User]_guilhermeleobas', '[User]_KrisMinchev'}",numba/numba,2023,https://github.com/numba/numba/pull/9140
+2023-08-17 12:12:30+00:00,[User]_KrisMinchev,"{'[User]_sklam', '[User]_guilhermeleobas', '[User]_KrisMinchev'}",numba/numba,2023,https://github.com/numba/numba/pull/9141
+2023-08-18 05:29:20+00:00,[User]_njriasan,"{'[User]_DrTodd13', '[User]_njriasan', '[User]_stuartarchibald'}",numba/numba,2023,https://github.com/numba/numba/pull/9142
+2023-08-18 21:40:17+00:00,[User]_folded,{'[User]_folded'},numba/numba,2023,https://github.com/numba/numba/issues/9143
+2023-08-21 18:48:08+00:00,[User]_guilhermeleobas,"{'[User]_stuartarchibald', '[User]_guilhermeleobas'}",numba/numba,2023,https://github.com/numba/numba/pull/9144
+2023-08-22 01:50:44+00:00,[User]_guilhermeleobas,set(),numba/numba,2023,https://github.com/numba/numba/pull/9145
+2023-08-22 04:19:57+00:00,[User]_Ranfir,{'[User]_kc611'},numba/numba,2023,https://github.com/numba/numba/issues/9147
+2023-08-22 12:32:16+00:00,[User]_esc,"{'[User]_kc611', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9148
+2023-08-22 12:42:08+00:00,[User]_esc,{'[User]_kc611'},numba/numba,2023,https://github.com/numba/numba/pull/9149
+2023-08-22 14:58:08+00:00,[User]_sklam,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9150
+2023-08-22 15:14:26+00:00,[User]_sklam,"{'[User]_sklam', '[User]_jpivarski'}",numba/numba,2023,https://github.com/numba/numba/issues/9151
+2023-08-22 23:25:41+00:00,[User]_sklam,"{'[User]_sklam', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9152
+2023-08-22 23:55:19+00:00,[User]_MatheusCPatrocinio,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9153
+2023-08-24 09:14:43+00:00,[User]_esc,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/pull/9156
+2023-08-24 09:26:45+00:00,[User]_esc,set(),numba/numba,2023,https://github.com/numba/numba/pull/9157
+2023-08-24 10:12:08+00:00,[User]_esc,"{'[User]_sklam', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9158
+2023-08-24 15:47:20+00:00,[User]_gmarkall,"{'[User]_sklam', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9159
+2023-08-24 17:55:14+00:00,[User]_sklam,set(),numba/numba,2023,https://github.com/numba/numba/issues/9160
+2023-08-24 20:02:29+00:00,[User]_dlee992,"{'[User]_sklam', '[User]_gmarkall', '[User]_esc', '[User]_dlee992'}",numba/numba,2023,https://github.com/numba/numba/pull/9161
+2023-08-25 16:42:24+00:00,[User]_dlee992,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9162
+2023-08-25 22:23:41+00:00,[User]_sohitmiglani,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9163
+2023-08-26 17:00:16+00:00,[User]_saulshanabrook,"{'[User]_leofang', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/issues/9164
+2023-08-27 18:00:48+00:00,[User]_jstovold,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9165
+2023-08-27 18:24:57+00:00,[User]_plutonium-94,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9166
+2023-08-28 03:37:45+00:00,[User]_limwz01,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9167
+2023-08-28 12:01:44+00:00,[User]_dlee992,"{'[User]_sklam', '[User]_gmarkall', '[User]_dlee992'}",numba/numba,2023,https://github.com/numba/numba/pull/9168
+2023-08-28 12:47:00+00:00,[User]_rjenc29,"{'[User]_rjenc29', '[User]_guilhermeleobas'}",numba/numba,2023,https://github.com/numba/numba/pull/9169
+2023-08-29 06:12:19+00:00,[User]_munahaf,"{'[User]_DrTodd13', '[User]_gmarkall', '[User]_sarva-karthik'}",numba/numba,2023,https://github.com/numba/numba/pull/9170
+2023-08-29 06:22:26+00:00,[User]_munahaf,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/9171
+2023-08-29 06:42:29+00:00,[User]_munahaf,"{'[User]_sarva-karthik', '[User]_munahaf'}",numba/numba,2023,https://github.com/numba/numba/pull/9172
+2023-08-30 12:07:44+00:00,[User]_auderson,"{'[User]_auderson', '[User]_kc611'}",numba/numba,2023,https://github.com/numba/numba/issues/9174
+2023-08-31 12:26:29+00:00,[User]_LeGuideMinecraft,set(),numba/numba,2023,https://github.com/numba/numba/issues/9176
+2023-09-04 01:57:50+00:00,[User]_46319943,{'[User]_kc611'},numba/numba,2023,https://github.com/numba/numba/issues/9178
+2023-09-05 07:31:15+00:00,[User]_maxnoe,set(),numba/numba,2023,https://github.com/numba/numba/issues/9179
+2023-09-05 15:04:14+00:00,[User]_GeorgePapanik,{'[User]_guilhermeleobas'},numba/numba,2023,https://github.com/numba/numba/issues/9180
+2023-09-05 21:29:47+00:00,[User]_sklam,{'[User]_kc611'},numba/numba,2023,https://github.com/numba/numba/pull/9181
+2023-09-05 22:52:36+00:00,[User]_sklam,"{'[User]_DrTodd13', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/issues/9182
+2023-09-06 16:58:34+00:00,[User]_sklam,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/9184
+2023-09-07 03:45:06+00:00,[User]_rishabh1212,"{'[User]_guilhermeleobas', '[User]_gmarkall', '[User]_rishabh1212'}",numba/numba,2023,https://github.com/numba/numba/issues/9185
+2023-09-07 10:23:49+00:00,[User]_dlee992,"{'[User]_stuartarchibald', '[User]_sklam', '[User]_guilhermeleobas', '[User]_gmarkall', '[User]_dlee992'}",numba/numba,2023,https://github.com/numba/numba/issues/9186
+2023-09-07 18:27:59+00:00,[User]_lgarrison,"{'[User]_stuartarchibald', '[User]_lgarrison', '[User]_guilhermeleobas'}",numba/numba,2023,https://github.com/numba/numba/issues/9187
+2023-09-08 13:36:17+00:00,[User]_dlee992,"{'[User]_stuartarchibald', '[User]_guilhermeleobas', '[User]_dlee992'}",numba/numba,2023,https://github.com/numba/numba/issues/9188
+2023-09-09 15:10:53+00:00,[User]_rjenc29,"{'[User]_rjenc29', '[User]_guilhermeleobas'}",numba/numba,2023,https://github.com/numba/numba/pull/9189
+2023-09-12 09:08:55+00:00,[User]_stuartarchibald,{'[User]_kc611'},numba/numba,2023,https://github.com/numba/numba/pull/9190
+2023-09-12 10:02:22+00:00,[User]_stuartarchibald,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/9191
+2023-09-12 10:09:30+00:00,[User]_stuartarchibald,set(),numba/numba,2023,https://github.com/numba/numba/issues/9192
+2023-09-12 10:45:18+00:00,[User]_kc611,set(),numba/numba,2023,https://github.com/numba/numba/issues/9193
+2023-09-12 17:26:18+00:00,[User]_sklam,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9194
+2023-09-12 18:06:58+00:00,[User]_kc611,"{'[User]_karthikkurella', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9195
+2023-09-14 08:57:15+00:00,[User]_pgp,"{'[User]_pgp', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9196
+2023-09-14 12:43:35+00:00,[User]_esc,"{'[User]_jorenham', '[User]_esc', '[User]_jamesmyatt', '[User]_cyschneck', '[User]_paddyroddy', '[User]_detrin', '[User]_kc611', '[User]_JamshedQurbonboev', '[User]_rupeshknn', '[User]_ioachim-hub'}",numba/numba,2023,https://github.com/numba/numba/issues/9197
+2023-09-15 15:43:30+00:00,[User]_sklam,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/9198
+2023-09-16 14:02:25+00:00,[User]_dlee992,"{'[User]_sklam', '[User]_gmarkall', '[User]_dlee992'}",numba/numba,2023,https://github.com/numba/numba/issues/9199
+2023-09-18 15:37:15+00:00,[User]_guilhermeleobas,set(),numba/numba,2023,https://github.com/numba/numba/issues/9200
+2023-09-18 18:01:22+00:00,[User]_afuentes09651,"{'[User]_RoyiAvital', '[User]_gmarkall', '[User]_blakeNaccarato', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9201
+2023-09-19 07:35:50+00:00,[User]_gmarkall,"{'[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9202
+2023-09-19 10:07:12+00:00,[User]_esc,{'[User]_kc611'},numba/numba,2023,https://github.com/numba/numba/pull/9203
+2023-09-21 12:57:51+00:00,[User]_esc,"{'[User]_sklam', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9205
+2023-09-21 17:42:21+00:00,[User]_dlee992,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9206
+2023-09-22 08:16:30+00:00,[User]_iperov,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9207
+2023-09-22 09:13:44+00:00,[User]_Tialo,"{'[User]_A-CGray', '[User]_esc', '[User]_Tialo'}",numba/numba,2023,https://github.com/numba/numba/pull/9208
+2023-09-22 17:26:12+00:00,[User]_A-CGray,"{'[User]_A-CGray', '[User]_esc', '[User]_Tialo'}",numba/numba,2023,https://github.com/numba/numba/issues/9209
+2023-09-22 18:17:30+00:00,[User]_itamarst,"{'[User]_itamarst', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/issues/9210
+2023-09-22 18:23:29+00:00,[User]_itamarst,"{'[User]_itamarst', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/issues/9211
+2023-09-22 20:27:11+00:00,[User]_CCranney,"{'[User]_CCranney', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/issues/9212
+2023-09-25 17:04:24+00:00,[User]_dlee992,"{'[User]_sklam', '[User]_dlee992'}",numba/numba,2023,https://github.com/numba/numba/issues/9213
+2023-09-26 14:49:34+00:00,[User]_shaleenb,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9214
+2023-09-27 17:49:40+00:00,[User]_tobias-haenel,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9215
+2023-09-28 10:29:49+00:00,[User]_AromaticJ,"{'[User]_gmarkall', '[User]_AromaticJ'}",numba/numba,2023,https://github.com/numba/numba/issues/9216
+2023-09-29 13:31:47+00:00,[User]_ruoqiu6,"{'[User]_stuartarchibald', '[User]_ruoqiu6'}",numba/numba,2023,https://github.com/numba/numba/issues/9217
+2023-09-29 16:14:59+00:00,[User]_tobias-haenel,set(),numba/numba,2023,https://github.com/numba/numba/issues/9218
+2023-09-29 18:45:28+00:00,[User]_dforero0896,{'[User]_stuartarchibald'},numba/numba,2023,https://github.com/numba/numba/issues/9219
+2023-10-03 06:16:50+00:00,[User]_gmarkall,"{'[User]_stuartarchibald', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9220
+2023-10-03 21:48:36+00:00,[User]_ehsantn,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/issues/9222
+2023-10-04 10:49:26+00:00,[User]_gmarkall,"{'[User]_stuartarchibald', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9223
+2023-10-05 01:49:50+00:00,[User]_Franklyn1987,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9225
+2023-10-05 13:13:36+00:00,[User]_dforero0896,set(),numba/numba,2023,https://github.com/numba/numba/pull/9226
+2023-10-05 15:04:39+00:00,[User]_gmarkall,"{'[User]_lovettchris', '[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9227
+2023-10-06 10:40:28+00:00,[User]_gmarkall,"{'[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9228
+2023-10-09 02:03:14+00:00,[User]_nathanfarlow,"{'[User]_nathanfarlow', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/9229
+2023-10-09 08:24:29+00:00,[User]_dlee992,"{'[User]_stuartarchibald', '[User]_gmarkall', '[User]_esc', '[User]_dlee992'}",numba/numba,2023,https://github.com/numba/numba/pull/9230
+2023-10-10 06:36:36+00:00,[User]_esc,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9231
+2023-10-10 12:14:54+00:00,[User]_Dengda98,"{'[User]_sklam', '[User]_Dengda98'}",numba/numba,2023,https://github.com/numba/numba/issues/9233
+2023-10-10 14:34:26+00:00,[User]_SridharCR,"{'[User]_esc', '[User]_SridharCR'}",numba/numba,2023,https://github.com/numba/numba/issues/9234
+2023-10-10 18:39:48+00:00,[User]_SridharCR,"{'[User]_esc', '[User]_SridharCR'}",numba/numba,2023,https://github.com/numba/numba/pull/9236
+2023-10-12 09:46:49+00:00,[User]_esc,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9238
+2023-10-12 16:24:39+00:00,[User]_esc,"{'[User]_sklam', '[User]_kc611', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9240
+2023-10-13 16:15:42+00:00,[User]_gmarkall,set(),numba/numba,2023,https://github.com/numba/numba/issues/9241
+2023-10-13 17:32:44+00:00,[User]_Hardcode84,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9242
+2023-10-14 18:30:15+00:00,[User]_plutonium-94,"{'[User]_plutonium-94', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/issues/9243
+2023-10-16 20:18:52+00:00,[User]_sklam,{'[User]_stuartarchibald'},numba/numba,2023,https://github.com/numba/numba/pull/9245
+2023-10-17 13:31:02+00:00,[User]_esc,"{'[User]_stuartarchibald', '[User]_sklam', '[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9246
+2023-10-17 15:13:46+00:00,[User]_sklam,"{'[User]_lmcinnes', '[User]_sklam', '[User]_crhea93', '[User]_sgbaird'}",numba/numba,2023,https://github.com/numba/numba/issues/9247
+2023-10-17 21:20:33+00:00,[User]_saulshanabrook,"{'[User]_stuartarchibald', '[User]_guilhermeleobas', '[User]_saulshanabrook'}",numba/numba,2023,https://github.com/numba/numba/pull/9249
+2023-10-22 18:39:05+00:00,[User]_BojkaV,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9250
+2023-10-23 21:24:37+00:00,[User]_diptorupd,"{'[User]_diptorupd', '[User]_guilhermeleobas', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/9251
+2023-10-24 14:51:27+00:00,[User]_ErolBa,"{'[User]_sklam', '[User]_Konjkov', '[User]_ErolBa'}",numba/numba,2023,https://github.com/numba/numba/issues/9252
+2023-10-24 20:41:18+00:00,[User]_sklam,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/pull/9253
+2023-10-25 22:19:45+00:00,[User]_davidsvy,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9254
+2023-10-26 19:00:13+00:00,[User]_sklam,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/pull/9255
+2023-10-26 22:54:37+00:00,[User]_sklam,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9256
+2023-10-28 18:35:12+00:00,[User]_Azmisov,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/issues/9257
+2023-10-31 16:57:01+00:00,[User]_kinow,{'[User]_stuartarchibald'},numba/numba,2023,https://github.com/numba/numba/pull/9258
+2023-10-31 22:32:34+00:00,[User]_sklam,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/9259
+2023-11-01 13:08:44+00:00,[User]_fankiat,"{'[User]_DrTodd13', '[User]_gmarkall', '[User]_fankiat'}",numba/numba,2023,https://github.com/numba/numba/issues/9260
+2023-11-01 17:00:13+00:00,[User]_Huite,{'[User]_Huite'},numba/numba,2023,https://github.com/numba/numba/pull/9261
+2023-11-01 17:34:04+00:00,[User]_guilhermeleobas,"{'[User]_stuartarchibald', '[User]_guilhermeleobas'}",numba/numba,2023,https://github.com/numba/numba/pull/9262
+2023-11-02 00:54:24+00:00,[User]_alanhdu,"{'[User]_stuartarchibald', '[User]_alanhdu'}",numba/numba,2023,https://github.com/numba/numba/issues/9263
+2023-11-02 02:43:03+00:00,[User]_Azmisov,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/issues/9264
+2023-11-02 22:07:30+00:00,[User]_sklam,"{'[User]_DrTodd13', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/issues/9265
+2023-11-03 03:40:58+00:00,[User]_Azmisov,"{'[User]_guilhermeleobas', '[User]_Azmisov'}",numba/numba,2023,https://github.com/numba/numba/issues/9266
+2023-11-03 12:28:58+00:00,[User]_gmarkall,"{'[User]_stuartarchibald', '[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9267
+2023-11-03 13:16:48+00:00,[User]_lgeiger,"{'[User]_gmarkall', '[User]_lgeiger'}",numba/numba,2023,https://github.com/numba/numba/issues/9268
+2023-11-06 20:04:32+00:00,[User]_sklam,set(),numba/numba,2023,https://github.com/numba/numba/issues/9269
+2023-11-07 14:01:39+00:00,[User]_mbargull,"{'[User]_gmarkall', '[User]_mbargull'}",numba/numba,2023,https://github.com/numba/numba/issues/9270
+2023-11-07 15:30:53+00:00,[User]_esc,"{'[User]_sklam', '[User]_esc', '[User]_mbargull'}",numba/numba,2023,https://github.com/numba/numba/issues/9271
+2023-11-07 16:51:33+00:00,[User]_sklam,"{'[User]_esc', '[User]_gmarkall', '[User]_henryiii', '[User]_mbargull', '[User]_jamesobutler'}",numba/numba,2023,https://github.com/numba/numba/issues/9272
+2023-11-07 23:33:32+00:00,[User]_COOLIRON2311,"{'[User]_gmarkall', '[User]_COOLIRON2311'}",numba/numba,2023,https://github.com/numba/numba/issues/9273
+2023-11-08 12:51:19+00:00,[User]_gmarkall,"{'[User]_stuartarchibald', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9274
+2023-11-09 01:25:54+00:00,[User]_caicaiwoshishei132,"{'[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9275
+2023-11-10 15:35:04+00:00,[User]_philiptromans,"{'[User]_stuartarchibald', '[User]_philiptromans'}",numba/numba,2023,https://github.com/numba/numba/issues/9276
+2023-11-10 16:55:52+00:00,[User]_TsiVit,{'[User]_stuartarchibald'},numba/numba,2023,https://github.com/numba/numba/issues/9277
+2023-11-11 03:23:01+00:00,[User]_jakirkham,"{'[User]_stuartarchibald', '[User]_jakirkham', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/9278
+2023-11-14 12:16:39+00:00,[User]_gmarkall,"{'[User]_sklam', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9279
+2023-11-14 20:29:47+00:00,[User]_alanhdu,set(),numba/numba,2023,https://github.com/numba/numba/issues/9281
+2023-11-15 14:18:11+00:00,[User]_guilhermeleobas,set(),numba/numba,2023,https://github.com/numba/numba/issues/9282
+2023-11-15 14:59:18+00:00,[User]_guilhermeleobas,set(),numba/numba,2023,https://github.com/numba/numba/issues/9283
+2023-11-17 05:34:35+00:00,[User]_shaunc,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9284
+2023-11-17 13:27:49+00:00,[User]_shaunc,"{'[User]_Azmisov', '[User]_esc', '[User]_shaunc'}",numba/numba,2023,https://github.com/numba/numba/issues/9285
+2023-11-17 17:23:16+00:00,[User]_shaunc,"{'[User]_shrealist', '[User]_esc', '[User]_shaunc'}",numba/numba,2023,https://github.com/numba/numba/issues/9286
+2023-11-18 20:37:01+00:00,[User]_TsiVit,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9287
+2023-11-19 23:45:32+00:00,[User]_max-sixty,"{'[User]_esc', '[User]_max-sixty', '[User]_dcherian'}",numba/numba,2023,https://github.com/numba/numba/issues/9288
+2023-11-20 11:08:16+00:00,[User]_kc611,set(),numba/numba,2023,https://github.com/numba/numba/issues/9289
+2023-11-20 11:11:29+00:00,[User]_kc611,"{'[User]_stuartarchibald', '[User]_DrTodd13'}",numba/numba,2023,https://github.com/numba/numba/issues/9290
+2023-11-20 11:21:23+00:00,[User]_kc611,set(),numba/numba,2023,https://github.com/numba/numba/issues/9291
+2023-11-20 11:34:52+00:00,[User]_gmarkall,"{'[User]_stuartarchibald', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9292
+2023-11-20 22:43:37+00:00,[User]_phalexo,"{'[User]_phalexo', '[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9293
+2023-11-21 02:05:33+00:00,[User]_shaunc,"{'[User]_gmarkall', '[User]_shaunc'}",numba/numba,2023,https://github.com/numba/numba/issues/9294
+2023-11-21 21:13:34+00:00,[User]_guilhermeleobas,"{'[User]_guilhermeleobas', '[User]_kc611'}",numba/numba,2023,https://github.com/numba/numba/pull/9296
+2023-11-22 02:04:34+00:00,[User]_guilhermeleobas,set(),numba/numba,2023,https://github.com/numba/numba/pull/9297
+2023-11-22 15:29:26+00:00,[User]_QuantFreedom1022,"{'[User]_stuartarchibald', '[User]_QuantFreedom1022'}",numba/numba,2023,https://github.com/numba/numba/issues/9298
+2023-11-23 17:08:27+00:00,[User]_QuantFreedom1022,"{'[User]_QuantFreedom1022', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9299
+2023-11-24 12:20:53+00:00,[User]_esc,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9300
+2023-11-24 13:52:08+00:00,[User]_esc,"{'[User]_stuartarchibald', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9301
+2023-11-24 13:57:44+00:00,[User]_esc,{'[User]_stuartarchibald'},numba/numba,2023,https://github.com/numba/numba/pull/9302
+2023-11-24 21:28:34+00:00,[User]_kkokkoros,"{'[User]_stuartarchibald', '[User]_kkokkoros'}",numba/numba,2023,https://github.com/numba/numba/pull/9303
+2023-11-26 10:08:53+00:00,[User]_thomasfrederikhoeck,set(),numba/numba,2023,https://github.com/numba/numba/issues/9304
+2023-11-27 03:09:12+00:00,[User]_drewmoore27,set(),numba/numba,2023,https://github.com/numba/numba/issues/9305
+2023-11-28 20:47:21+00:00,[User]_sklam,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/9307
+2023-11-28 20:56:32+00:00,[User]_sklam,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/pull/9308
+2023-11-29 10:50:34+00:00,[User]_stuartarchibald,"{'[User]_stuartarchibald', '[User]_sklam', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9309
+2023-11-29 11:37:37+00:00,[User]_stuartarchibald,"{'[User]_stuartarchibald', '[User]_sklam', '[User]_kc611', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9310
+2023-11-29 11:46:40+00:00,[User]_stuartarchibald,"{'[User]_kc611', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9311
+2023-11-29 14:47:08+00:00,[User]_larsoner,"{'[User]_larsoner', '[User]_esc', '[User]_hoechenberger'}",numba/numba,2023,https://github.com/numba/numba/issues/9312
+2023-11-29 17:53:25+00:00,[User]_ZzEeKkAa,{'[User]_guilhermeleobas'},numba/numba,2023,https://github.com/numba/numba/issues/9314
+2023-11-30 05:47:30+00:00,[User]_DannyWeitekamp,"{'[User]_stuartarchibald', '[User]_DannyWeitekamp', '[User]_dlee992'}",numba/numba,2023,https://github.com/numba/numba/issues/9316
+2023-11-30 18:27:59+00:00,[User]_esc,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9320
+2023-12-01 06:45:40+00:00,[User]_1fish2,set(),numba/numba,2023,https://github.com/numba/numba/issues/9323
+2023-12-01 10:11:59+00:00,[User]_bluenote10,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/issues/9324
+2023-12-01 14:25:10+00:00,[User]_gmarkall,"{'[User]_gmarkall', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9325
+2023-12-01 21:41:38+00:00,[User]_sklam,{'[User]_stuartarchibald'},numba/numba,2023,https://github.com/numba/numba/pull/9326
+2023-12-02 23:06:10+00:00,[User]_max-sixty,set(),numba/numba,2023,https://github.com/numba/numba/issues/9327
+2023-12-03 15:12:57+00:00,[User]_mRcSchwering,set(),numba/numba,2023,https://github.com/numba/numba/issues/9328
+2023-12-04 09:15:12+00:00,[User]_dignfei,"{'[User]_gmarkall', '[User]_dignfei'}",numba/numba,2023,https://github.com/numba/numba/issues/9329
+2023-12-04 17:12:30+00:00,[User]_stuartarchibald,"{'[User]_stuartarchibald', '[User]_guilhermeleobas', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/pull/9330
+2023-12-04 17:29:50+00:00,[User]_stuartarchibald,"{'[User]_guilhermeleobas', '[User]_kc611'}",numba/numba,2023,https://github.com/numba/numba/pull/9331
+2023-12-05 12:40:26+00:00,[User]_kif,"{'[User]_guilhermeleobas', '[User]_kif'}",numba/numba,2023,https://github.com/numba/numba/issues/9333
+2023-12-05 22:24:23+00:00,[User]_DrTodd13,"{'[User]_stuartarchibald', '[User]_DrTodd13'}",numba/numba,2023,https://github.com/numba/numba/pull/9334
+2023-12-06 05:04:10+00:00,[User]_kc611,"{'[User]_sklam', '[User]_kc611'}",numba/numba,2023,https://github.com/numba/numba/pull/9335
+2023-12-06 13:16:21+00:00,[User]_stuartarchibald,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/9336
+2023-12-06 16:14:20+00:00,[User]_sklam,"{'[User]_sklam', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9337
+2023-12-08 00:41:43+00:00,[User]_max-sixty,"{'[User]_guilhermeleobas', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/9339
+2023-12-08 11:13:16+00:00,[User]_gmarkall,"{'[User]_stuartarchibald', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9341
+2023-12-08 20:26:30+00:00,[User]_sklam,"{'[User]_stuartarchibald', '[User]_sklam', '[User]_kc611'}",numba/numba,2023,https://github.com/numba/numba/pull/9346
+2023-12-08 22:03:25+00:00,[User]_sklam,"{'[User]_stuartarchibald', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/pull/9347
+2023-12-10 21:51:56+00:00,[User]_sklam,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/9349
+2023-12-11 09:22:16+00:00,[User]_esc,set(),numba/numba,2023,https://github.com/numba/numba/issues/9350
+2023-12-11 12:56:02+00:00,[User]_kc611,"{'[User]_stuartarchibald', '[User]_kc611'}",numba/numba,2023,https://github.com/numba/numba/pull/9351
+2023-12-11 16:49:29+00:00,[User]_stuartarchibald,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/pull/9354
+2023-12-13 10:22:16+00:00,[User]_stuartarchibald,set(),numba/numba,2023,https://github.com/numba/numba/issues/9355
+2023-12-13 10:34:51+00:00,[User]_stuartarchibald,"{'[User]_stuartarchibald', '[User]_kc611'}",numba/numba,2023,https://github.com/numba/numba/pull/9356
+2023-12-13 17:21:21+00:00,[User]_stuartarchibald,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/9357
+2023-12-13 17:42:54+00:00,[User]_stuartarchibald,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/pull/9358
+2023-12-13 20:55:10+00:00,[User]_stuartarchibald,{'[User]_sklam'},numba/numba,2023,https://github.com/numba/numba/pull/9359
+2023-12-13 21:07:27+00:00,[User]_sklam,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/pull/9360
+2023-12-14 03:36:54+00:00,[User]_sklam,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/pull/9362
+2023-12-14 06:42:12+00:00,[User]_kc611,"{'[User]_sklam', '[User]_kc611', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9364
+2023-12-14 07:41:17+00:00,[User]_bmerry,{'[User]_gmarkall'},numba/numba,2023,https://github.com/numba/numba/issues/9365
+2023-12-14 07:53:20+00:00,[User]_bmerry,"{'[User]_bmerry', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/9366
+2023-12-14 09:20:18+00:00,[User]_gmarkall,{'[User]_kc611'},numba/numba,2023,https://github.com/numba/numba/pull/9367
+2023-12-14 09:26:14+00:00,[User]_kc611,"{'[User]_stuartarchibald', '[User]_gmarkall', '[User]_kc611'}",numba/numba,2023,https://github.com/numba/numba/pull/9368
+2023-12-14 10:29:11+00:00,[User]_gmarkall,"{'[User]_stuartarchibald', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/pull/9369
+2023-12-14 11:29:26+00:00,[User]_stuartarchibald,set(),numba/numba,2023,https://github.com/numba/numba/issues/9370
+2023-12-14 17:58:25+00:00,[User]_sklam,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2023,https://github.com/numba/numba/pull/9371
+2023-12-15 17:18:20+00:00,[User]_sklam,set(),numba/numba,2023,https://github.com/numba/numba/issues/9372
+2023-12-15 18:13:10+00:00,[User]_jason-s,{'[User]_esc'},numba/numba,2023,https://github.com/numba/numba/issues/9373
+2023-12-16 12:42:53+00:00,[User]_lesshaste,"{'[User]_gmarkall', '[User]_lesshaste'}",numba/numba,2023,https://github.com/numba/numba/issues/9374
+2023-12-18 15:39:15+00:00,[User]_Faberix,"{'[User]_sklam', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9375
+2023-12-22 16:50:17+00:00,[User]_mhvk,"{'[User]_jorenham', '[User]_esc'}",numba/numba,2023,https://github.com/numba/numba/issues/9376
+2023-12-22 20:19:06+00:00,[User]_guilhermeleobas,{'[User]_guilhermeleobas'},numba/numba,2023,https://github.com/numba/numba/pull/9377
+2023-12-28 17:14:03+00:00,[User]_slayoo,"{'[User]_gmarkall', '[User]_slayoo'}",numba/numba,2023,https://github.com/numba/numba/issues/9380
+2023-12-29 10:19:09+00:00,[User]_bluenote10,"{'[User]_gmarkall', '[User]_bluenote10'}",numba/numba,2023,https://github.com/numba/numba/issues/9381
+2023-12-29 21:08:10+00:00,[User]_shaunc,"{'[User]_Kamakshi8104', '[User]_gmarkall'}",numba/numba,2023,https://github.com/numba/numba/issues/9382
+2024-01-08 00:59:09+00:00,[User]_genaix,"{'[User]_auderson', '[User]_gmarkall', '[User]_genaix'}",numba/numba,2024,https://github.com/numba/numba/issues/9383
+2024-01-09 08:52:08+00:00,[User]_Kamakshi8104,"{'[User]_guilhermeleobas', '[User]_Kamakshi8104', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/pull/9384
+2024-01-09 19:49:19+00:00,[User]_Kamakshi8104,"{'[User]_Kamakshi8104', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/pull/9386
+2024-01-10 04:19:19+00:00,[User]_richa-sawant,{'[User]_gmarkall'},numba/numba,2024,https://github.com/numba/numba/pull/9388
+2024-01-10 23:56:42+00:00,[User]_pchudy02,{'[User]_pchudy02'},numba/numba,2024,https://github.com/numba/numba/issues/9389
+2024-01-12 18:08:07+00:00,[User]_guilhermeleobas,set(),numba/numba,2024,https://github.com/numba/numba/pull/9390
+2024-01-14 10:05:12+00:00,[User]_shrealist,{'[User]_gmarkall'},numba/numba,2024,https://github.com/numba/numba/issues/9392
+2024-01-15 16:23:42+00:00,[User]_dlee992,"{'[User]_gmarkall', '[User]_dlee992'}",numba/numba,2024,https://github.com/numba/numba/issues/9393
+2024-01-16 21:46:42+00:00,[User]_matanster,"{'[User]_sklam', '[User]_matanster', '[User]_marioroy'}",numba/numba,2024,https://github.com/numba/numba/issues/9395
+2024-01-17 01:13:22+00:00,[User]_itamarst,"{'[User]_stuartarchibald', '[User]_itamarst'}",numba/numba,2024,https://github.com/numba/numba/issues/9396
+2024-01-21 14:27:01+00:00,[User]_iv461,"{'[User]_sklam', '[User]_iv461'}",numba/numba,2024,https://github.com/numba/numba/issues/9399
+2024-01-21 18:36:53+00:00,[User]_bmerry,"{'[User]_sklam', '[User]_bmerry'}",numba/numba,2024,https://github.com/numba/numba/issues/9400
+2024-01-23 18:11:12+00:00,[User]_aneeshdurg,"{'[User]_stuartarchibald', '[User]_aneeshdurg'}",numba/numba,2024,https://github.com/numba/numba/pull/9401
+2024-01-23 20:13:39+00:00,[User]_sklam,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2024,https://github.com/numba/numba/pull/9402
+2024-01-24 22:31:17+00:00,[User]_sklam,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2024,https://github.com/numba/numba/pull/9403
+2024-01-26 14:31:05+00:00,[User]_stuartarchibald,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2024,https://github.com/numba/numba/pull/9404
+2024-01-26 20:25:52+00:00,[User]_sklam,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2024,https://github.com/numba/numba/pull/9405
+2024-01-28 16:33:36+00:00,[User]_leslielee619,"{'[User]_stuartarchibald', '[User]_leslielee619'}",numba/numba,2024,https://github.com/numba/numba/issues/9406
+2024-01-29 16:28:36+00:00,[User]_sklam,{'[User]_DrTodd13'},numba/numba,2024,https://github.com/numba/numba/pull/9407
+2024-01-30 06:02:59+00:00,[User]_kc611,"{'[User]_stuartarchibald', '[User]_kc611'}",numba/numba,2024,https://github.com/numba/numba/pull/9408
+2024-01-30 06:12:06+00:00,[User]_kc611,set(),numba/numba,2024,https://github.com/numba/numba/issues/9409
+2024-01-30 18:52:03+00:00,[User]_sklam,{'[User]_esc'},numba/numba,2024,https://github.com/numba/numba/issues/9410
+2024-01-31 13:05:20+00:00,[User]_stuartarchibald,"{'[User]_stuartarchibald', '[User]_sklam'}",numba/numba,2024,https://github.com/numba/numba/pull/9411
+2024-01-31 16:12:29+00:00,[User]_sklam,set(),numba/numba,2024,https://github.com/numba/numba/issues/9413
+2024-01-31 20:32:31+00:00,[User]_shaunc,"{'[User]_guilhermeleobas', '[User]_shaunc'}",numba/numba,2024,https://github.com/numba/numba/issues/9414
+2024-02-01 10:11:15+00:00,[User]_ladrians,"{'[User]_gmarkall', '[User]_guilhermeleobas', '[User]_ladrians'}",numba/numba,2024,https://github.com/numba/numba/issues/9415
+2024-02-02 17:45:57+00:00,[User]_guilhermeleobas,"{'[User]_stuartarchibald', '[User]_guilhermeleobas'}",numba/numba,2024,https://github.com/numba/numba/pull/9416
+2024-02-02 20:31:23+00:00,[User]_guilhermeleobas,"{'[User]_stuartarchibald', '[User]_guilhermeleobas', '[User]_gmarkall', '[User]_shaunc'}",numba/numba,2024,https://github.com/numba/numba/pull/9417
+2024-02-03 03:56:45+00:00,[User]_wrongbad,"{'[User]_stuartarchibald', '[User]_wrongbad'}",numba/numba,2024,https://github.com/numba/numba/issues/9418
+2024-02-03 16:48:13+00:00,[User]_bmerry,{'[User]_stuartarchibald'},numba/numba,2024,https://github.com/numba/numba/issues/9419
+2024-02-03 17:14:12+00:00,[User]_s-m-e,{'[User]_s-m-e'},numba/numba,2024,https://github.com/numba/numba/issues/9420
+2024-02-04 08:57:06+00:00,[User]_bmerry,"{'[User]_stuartarchibald', '[User]_bmerry'}",numba/numba,2024,https://github.com/numba/numba/pull/9422
+2024-02-06 14:03:10+00:00,[User]_ttencate,{'[User]_sklam'},numba/numba,2024,https://github.com/numba/numba/issues/9423
+2024-02-07 18:02:20+00:00,[User]_groutr,"{'[User]_guilhermeleobas', '[User]_groutr'}",numba/numba,2024,https://github.com/numba/numba/issues/9424
+2024-02-07 20:46:07+00:00,[User]_sklam,"{'[User]_sklam', '[User]_esc'}",numba/numba,2024,https://github.com/numba/numba/pull/9425
+2024-02-07 20:48:16+00:00,[User]_sklam,set(),numba/numba,2024,https://github.com/numba/numba/issues/9426
+2024-02-08 22:05:31+00:00,[User]_sklam,set(),numba/numba,2024,https://github.com/numba/numba/pull/9428
+2024-02-09 03:22:49+00:00,[User]_shaunc,{'[User]_stuartarchibald'},numba/numba,2024,https://github.com/numba/numba/issues/9429
+2024-02-09 05:12:42+00:00,[User]_kc611,set(),numba/numba,2024,https://github.com/numba/numba/pull/9430
+2024-02-09 23:15:27+00:00,[User]_shaunc,"{'[User]_kc611', '[User]_shaunc'}",numba/numba,2024,https://github.com/numba/numba/issues/9431
+2024-02-10 04:21:07+00:00,[User]_shaunc,"{'[User]_gmarkall', '[User]_shaunc'}",numba/numba,2024,https://github.com/numba/numba/issues/9432
+2024-02-13 08:08:48+00:00,[User]_leoschwarz,{'[User]_kc611'},numba/numba,2024,https://github.com/numba/numba/issues/9433
+2024-02-13 13:52:13+00:00,[User]_s-m-e,set(),numba/numba,2024,https://github.com/numba/numba/issues/9435
+2024-02-14 09:44:06+00:00,[User]_kc611,"{'[User]_sklam', '[User]_kc611'}",numba/numba,2024,https://github.com/numba/numba/pull/9437
+2024-02-14 22:08:14+00:00,[User]_groutr,"{'[User]_guilhermeleobas', '[User]_s-m-e', '[User]_groutr'}",numba/numba,2024,https://github.com/numba/numba/pull/9438
+2024-02-15 04:37:06+00:00,[User]_jakirkham,{'[User]_guilhermeleobas'},numba/numba,2024,https://github.com/numba/numba/issues/9439
+2024-02-17 23:22:33+00:00,[User]_GeorgWa,"{'[User]_guilhermeleobas', '[User]_GeorgWa'}",numba/numba,2024,https://github.com/numba/numba/issues/9441
+2024-02-18 02:34:48+00:00,[User]_mweinelt,"{'[User]_mweinelt', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/issues/9442
+2024-02-18 22:17:08+00:00,[User]_jorenham,"{'[User]_jorenham', '[User]_guilhermeleobas'}",numba/numba,2024,https://github.com/numba/numba/issues/9443
+2024-02-19 21:52:56+00:00,[User]_gmarkall,{'[User]_gmarkall'},numba/numba,2024,https://github.com/numba/numba/pull/9444
+2024-02-19 23:23:51+00:00,[User]_sklam,"{'[User]_guilhermeleobas', '[User]_sklam'}",numba/numba,2024,https://github.com/numba/numba/pull/9445
+2024-02-20 11:30:37+00:00,[User]_kc611,"{'[User]_gmarkall', '[User]_kc611'}",numba/numba,2024,https://github.com/numba/numba/pull/9446
+2024-02-20 13:23:42+00:00,[User]_gmarkall,"{'[User]_stuartarchibald', '[User]_gmarkall', '[User]_shaunc'}",numba/numba,2024,https://github.com/numba/numba/pull/9447
+2024-02-20 19:26:30+00:00,[User]_sklam,"{'[User]_sklam', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/pull/9449
+2024-02-20 20:34:37+00:00,[User]_gmarkall,"{'[User]_sklam', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/pull/9450
+2024-02-20 23:05:41+00:00,[User]_nvlcambier,{'[User]_gmarkall'},numba/numba,2024,https://github.com/numba/numba/issues/9451
+2024-02-21 03:25:20+00:00,[User]_timothymillar,"{'[User]_timothymillar', '[User]_sklam', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/issues/9452
+2024-02-21 13:21:30+00:00,[User]_gmarkall,"{'[User]_stuartarchibald', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/pull/9454
+2024-02-21 20:59:47+00:00,[User]_sklam,{'[User]_esc'},numba/numba,2024,https://github.com/numba/numba/pull/9456
+2024-02-22 16:11:56+00:00,[User]_sklam,"{'[User]_guilhermeleobas', '[User]_jorenham', '[User]_sklam'}",numba/numba,2024,https://github.com/numba/numba/pull/9459
+2024-02-22 22:55:27+00:00,[User]_sklam,{'[User]_sklam'},numba/numba,2024,https://github.com/numba/numba/pull/9460
+2024-02-24 00:26:06+00:00,[User]_dlee992,{'[User]_dlee992'},numba/numba,2024,https://github.com/numba/numba/issues/9463
+2024-02-24 19:33:11+00:00,[User]_RoyiAvital,"{'[User]_sklam', '[User]_RoyiAvital'}",numba/numba,2024,https://github.com/numba/numba/issues/9464
+2024-02-26 14:55:09+00:00,[User]_kc611,"{'[User]_gmarkall', '[User]_sklam', '[User]_kc611'}",numba/numba,2024,https://github.com/numba/numba/pull/9466
+2024-02-26 16:12:38+00:00,[User]_esc,{'[User]_esc'},numba/numba,2024,https://github.com/numba/numba/pull/9467
+2024-02-27 04:52:30+00:00,[User]_shaunc,"{'[User]_gmarkall', '[User]_shaunc'}",numba/numba,2024,https://github.com/numba/numba/issues/9469
+2024-02-27 22:57:26+00:00,[User]_ed-o-saurus,{'[User]_gmarkall'},numba/numba,2024,https://github.com/numba/numba/pull/9470
+2024-02-28 09:15:14+00:00,[User]_shaunc,"{'[User]_gmarkall', '[User]_shaunc'}",numba/numba,2024,https://github.com/numba/numba/issues/9471
+2024-02-28 14:58:53+00:00,[User]_esc,set(),numba/numba,2024,https://github.com/numba/numba/issues/9472
+2024-02-29 16:19:54+00:00,[User]_dlee992,{'[User]_sklam'},numba/numba,2024,https://github.com/numba/numba/issues/9473
+2024-03-01 10:39:01+00:00,[User]_kc611,"{'[User]_sklam', '[User]_kc611'}",numba/numba,2024,https://github.com/numba/numba/pull/9474
+2024-03-01 18:21:31+00:00,[User]_donielix,"{'[User]_jorenham', '[User]_esc'}",numba/numba,2024,https://github.com/numba/numba/issues/9475
+2024-03-05 07:36:34+00:00,[User]_banksempire,{'[User]_sklam'},numba/numba,2024,https://github.com/numba/numba/issues/9477
+2024-03-06 00:14:14+00:00,[User]_dlee992,{'[User]_dlee992'},numba/numba,2024,https://github.com/numba/numba/pull/9478
+2024-03-07 17:19:55+00:00,[User]_sklam,"{'[User]_sklam', '[User]_kc611'}",numba/numba,2024,https://github.com/numba/numba/pull/9480
+2024-03-07 17:53:51+00:00,[User]_dlee992,"{'[User]_sklam', '[User]_dlee992'}",numba/numba,2024,https://github.com/numba/numba/pull/9481
+2024-03-08 03:05:04+00:00,[User]_ivme,"{'[User]_stuartarchibald', '[User]_ivme'}",numba/numba,2024,https://github.com/numba/numba/issues/9483
+2024-03-08 13:54:20+00:00,[User]_guilhermeleobas,"{'[User]_stuartarchibald', '[User]_guilhermeleobas'}",numba/numba,2024,https://github.com/numba/numba/issues/9484
+2024-03-08 14:20:46+00:00,[User]_sklam,"{'[User]_sklam', '[User]_tasansal'}",numba/numba,2024,https://github.com/numba/numba/issues/9485
+2024-03-09 11:56:51+00:00,[User]_lesshaste,{'[User]_stuartarchibald'},numba/numba,2024,https://github.com/numba/numba/issues/9486
+2024-03-10 16:37:40+00:00,[User]_bdice,"{'[User]_stuartarchibald', '[User]_gmarkall', '[User]_jakirkham', '[User]_bdice', '[User]_pentschev'}",numba/numba,2024,https://github.com/numba/numba/pull/9487
+2024-03-10 21:05:56+00:00,[User]_jftsang,"{'[User]_guilhermeleobas', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/pull/9488
+2024-03-11 01:33:43+00:00,[User]_shaunc,{'[User]_stuartarchibald'},numba/numba,2024,https://github.com/numba/numba/issues/9489
+2024-03-11 16:38:16+00:00,[User]_sklam,set(),numba/numba,2024,https://github.com/numba/numba/issues/9490
+2024-03-11 19:01:11+00:00,[User]_sklam,"{'[User]_guilhermeleobas', '[User]_loicdtx', '[User]_sklam'}",numba/numba,2024,https://github.com/numba/numba/pull/9491
+2024-03-12 15:27:45+00:00,[User]_lesshaste,set(),numba/numba,2024,https://github.com/numba/numba/issues/9492
+2024-03-13 07:50:35+00:00,[User]_lesshaste,set(),numba/numba,2024,https://github.com/numba/numba/issues/9494
+2024-03-13 17:09:26+00:00,[User]_crusaderky,"{'[User]_guilhermeleobas', '[User]_crusaderky'}",numba/numba,2024,https://github.com/numba/numba/pull/9495
+2024-03-13 21:55:42+00:00,[User]_99991,"{'[User]_99991', '[User]_esc'}",numba/numba,2024,https://github.com/numba/numba/issues/9496
+2024-03-14 19:03:27+00:00,[User]_adityav1810,set(),numba/numba,2024,https://github.com/numba/numba/pull/9497
+2024-03-14 19:46:45+00:00,[User]_adityav1810,"{'[User]_guilhermeleobas', '[User]_kc611', '[User]_adityav1810'}",numba/numba,2024,https://github.com/numba/numba/pull/9498
+2024-03-15 17:44:05+00:00,[User]_nbecker,{'[User]_esc'},numba/numba,2024,https://github.com/numba/numba/issues/9499
+2024-03-17 06:22:45+00:00,[User]_Nee-DS,"{'[User]_Nee-DS', '[User]_esc'}",numba/numba,2024,https://github.com/numba/numba/issues/9500
+2024-03-18 17:37:49+00:00,[User]_sklam,set(),numba/numba,2024,https://github.com/numba/numba/issues/9501
+2024-03-19 15:25:26+00:00,[User]_sklam,"{'[User]_sklam', '[User]_esc'}",numba/numba,2024,https://github.com/numba/numba/pull/9502
+2024-03-19 17:56:28+00:00,[User]_gmarkall,set(),numba/numba,2024,https://github.com/numba/numba/issues/9503
+2024-03-19 19:41:48+00:00,[User]_shourya5,"{'[User]_guilhermeleobas', '[User]_kc611', '[User]_shourya5'}",numba/numba,2024,https://github.com/numba/numba/pull/9504
+2024-03-20 12:23:45+00:00,[User]_johnhelt,{'[User]_kc611'},numba/numba,2024,https://github.com/numba/numba/issues/9505
+2024-03-20 19:48:49+00:00,[User]_doronf-cortica,"{'[User]_sklam', '[User]_gmarkall', '[User]_doronf-cortica'}",numba/numba,2024,https://github.com/numba/numba/issues/9507
+2024-03-20 20:31:57+00:00,[User]_sklam,"{'[User]_sklam', '[User]_tasansal'}",numba/numba,2024,https://github.com/numba/numba/pull/9508
+2024-03-22 15:52:12+00:00,[User]_SohamTilekar,"{'[User]_SohamTilekar', '[User]_diptorupd'}",numba/numba,2024,https://github.com/numba/numba/issues/9509
+2024-03-25 22:39:11+00:00,[User]_dlee992,{'[User]_dlee992'},numba/numba,2024,https://github.com/numba/numba/issues/9510
+2024-03-26 12:08:55+00:00,[User]_classysky,"{'[User]_stuartarchibald', '[User]_guilhermeleobas', '[User]_classysky'}",numba/numba,2024,https://github.com/numba/numba/issues/9511
+2024-03-26 14:31:02+00:00,[User]_alex180500,{'[User]_guilhermeleobas'},numba/numba,2024,https://github.com/numba/numba/issues/9512
+2024-03-27 10:37:07+00:00,[User]_kc611,set(),numba/numba,2024,https://github.com/numba/numba/pull/9513
+2024-03-27 19:09:38+00:00,[User]_c200chromebook,"{'[User]_guilhermeleobas', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/issues/9514
+2024-03-27 21:19:15+00:00,[User]_dgrigonis,"{'[User]_guilhermeleobas', '[User]_dgrigonis'}",numba/numba,2024,https://github.com/numba/numba/issues/9515
+2024-03-28 14:08:27+00:00,[User]_guilhermeleobas,"{'[User]_guilhermeleobas', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/pull/9516
+2024-03-28 19:18:16+00:00,[User]_sleepingcat4,{'[User]_sleepingcat4'},numba/numba,2024,https://github.com/numba/numba/issues/9517
+2024-03-29 02:53:02+00:00,[User]_baiyunfeiiop,"{'[User]_sklam', '[User]_baiyunfeiiop', '[User]_DrTodd13'}",numba/numba,2024,https://github.com/numba/numba/issues/9518
+2024-04-01 18:30:44+00:00,[User]_dlee992,"{'[User]_guilhermeleobas', '[User]_dlee992'}",numba/numba,2024,https://github.com/numba/numba/issues/9519
+2024-04-01 22:01:23+00:00,[User]_dlee992,"{'[User]_guilhermeleobas', '[User]_dlee992'}",numba/numba,2024,https://github.com/numba/numba/pull/9520
+2024-04-02 23:33:56+00:00,[User]_DrTodd13,"{'[User]_DrTodd13', '[User]_sklam', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/pull/9521
+2024-04-03 13:27:23+00:00,[User]_JulVandenBroeck,"{'[User]_gmarkall', '[User]_guilhermeleobas', '[User]_JulVandenBroeck'}",numba/numba,2024,https://github.com/numba/numba/issues/9522
+2024-04-05 18:26:28+00:00,[User]_guilhermeleobas,"{'[User]_stuartarchibald', '[User]_guilhermeleobas', '[User]_gmarkall'}",numba/numba,2024,https://github.com/numba/numba/pull/9524
+2024-04-08 16:13:32+00:00,[User]_gmarkall,set(),numba/numba,2024,https://github.com/numba/numba/issues/9526
+2024-04-14 02:02:45+00:00,[User]_soerenwolfers,"{'[User]_lindenr', '[User]_soerenwolfers', '[User]_sklam'}",numba/numba,2024,https://github.com/numba/numba/issues/9529
+2024-04-16 17:55:59+00:00,[User]_Arenhart,{'[User]_esc'},numba/numba,2024,https://github.com/numba/numba/pull/9530
+2024-04-17 11:50:51+00:00,[User]_gmarkall,{'[User]_stuartarchibald'},numba/numba,2024,https://github.com/numba/numba/pull/9531
+2024-04-18 18:30:01+00:00,[User]_DrTodd13,{'[User]_sklam'},numba/numba,2024,https://github.com/numba/numba/pull/9532
+2024-04-19 12:02:35+00:00,[User]_yxdragon,"{'[User]_yxdragon', '[User]_esc'}",numba/numba,2024,https://github.com/numba/numba/issues/9533
+2024-04-21 03:44:47+00:00,[User]_nh2,{'[User]_stuartarchibald'},numba/numba,2024,https://github.com/numba/numba/issues/9534
+2024-04-21 11:26:55+00:00,[User]_soerenwolfers,"{'[User]_stuartarchibald', '[User]_soerenwolfers', '[User]_esc'}",numba/numba,2024,https://github.com/numba/numba/issues/9535
+2024-04-22 20:11:32+00:00,[User]_dgrigonis,set(),numba/numba,2024,https://github.com/numba/numba/issues/9536
+2024-04-23 00:21:40+00:00,[User]_DrTodd13,{'[User]_DrTodd13'},numba/numba,2024,https://github.com/numba/numba/pull/9537
+2024-04-23 16:22:37+00:00,[User]_sklam,"{'[User]_diptorupd', '[User]_sklam'}",numba/numba,2024,https://github.com/numba/numba/issues/9538
+2024-04-23 17:51:31+00:00,[User]_sklam,{'[User]_gmarkall'},numba/numba,2024,https://github.com/numba/numba/pull/9539
+2024-04-23 22:21:40+00:00,[User]_sklam,set(),numba/numba,2024,https://github.com/numba/numba/issues/9540
+2024-04-23 23:43:17+00:00,[User]_s-m-e,"{'[User]_gmarkall', '[User]_s-m-e'}",numba/numba,2024,https://github.com/numba/numba/pull/9541
+2024-04-24 03:42:58+00:00,[User]_M0gician,"{'[User]_M0gician', '[User]_sklam', '[User]_esc'}",numba/numba,2024,https://github.com/numba/numba/issues/9542
+2024-04-24 15:10:09+00:00,[User]_sklam,{'[User]_gmarkall'},numba/numba,2024,https://github.com/numba/numba/pull/9543
+2024-04-24 15:57:35+00:00,[User]_stuartarchibald,set(),numba/numba,2024,https://github.com/numba/numba/issues/9544
+2024-04-24 16:09:32+00:00,[User]_AvyChanna,set(),numba/numba,2024,https://github.com/numba/numba/issues/9545
+2024-04-25 11:23:08+00:00,[User]_TheTesla,{'[User]_esc'},numba/numba,2024,https://github.com/numba/numba/issues/9546
+2024-04-29 04:00:00+00:00,[User]_yxdragon,"{'[User]_gmarkall', '[User]_yxdragon', '[User]_esc'}",numba/numba,2024,https://github.com/numba/numba/issues/9547
+2024-04-29 11:03:34+00:00,[User]_kc611,set(),numba/numba,2024,https://github.com/numba/numba/pull/9548
+2024-04-29 19:00:49+00:00,[User]_dlee992,"{'[User]_guilhermeleobas', '[User]_sklam', '[User]_dlee992'}",numba/numba,2024,https://github.com/numba/numba/issues/9550
+2024-04-29 19:48:05+00:00,[User]_dlee992,"{'[User]_esc', '[User]_dlee992'}",numba/numba,2024,https://github.com/numba/numba/pull/9551
+2024-04-30 07:45:27+00:00,[User]_sgheinemann,"{'[User]_sgheinemann', '[User]_esc'}",numba/numba,2024,https://github.com/numba/numba/issues/9552

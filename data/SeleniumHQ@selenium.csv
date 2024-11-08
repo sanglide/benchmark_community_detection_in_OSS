@@ -1,0 +1,587 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 03:26:29+00:00,[User]_titusfortner,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/11973
+2023-05-01 04:21:18+00:00,[User]_iampopovich,"{'[User]_codecov-commenter', '[User]_iampopovich', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/11974
+2023-05-01 14:29:14+00:00,[User]_iampopovich,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/11975
+2023-05-03 23:23:06+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/11990
+2023-05-04 18:16:52+00:00,[User]_mdmintz,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/11993
+2023-05-04 19:26:53+00:00,[User]_diemol,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/11994
+2023-05-07 06:53:41+00:00,[User]_joerg1985,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12000
+2023-05-07 09:19:03+00:00,[User]_joerg1985,{'[User]_joerg1985'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12001
+2023-05-07 10:14:41+00:00,[User]_joerg1985,{'[User]_joerg1985'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12002
+2023-05-08 13:36:43+00:00,[User]_jorg-vr,"{'[User]_titusfortner', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12006
+2023-05-08 16:01:23+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12007
+2023-05-08 19:27:45+00:00,[User]_vlad8x8,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12008
+2023-05-08 22:31:33+00:00,[User]_ShahJahanIshaq,"{'[User]_titusfortner', '[User]_diemol', '[User]_CLAassistant', '[User]_ShahJahanIshaq'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12011
+2023-05-09 15:50:30+00:00,[User]_bhecquet,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_bhecquet'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12014
+2023-05-09 20:47:23+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12018
+2023-05-10 11:01:05+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12020
+2023-05-10 12:56:44+00:00,[User]_shs96c,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12023
+2023-05-10 13:04:42+00:00,[User]_diemol,"{'[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12024
+2023-05-12 00:26:02+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_zjtalia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12029
+2023-05-12 01:16:34+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12030
+2023-05-14 02:50:42+00:00,[User]_titusfortner,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12032
+2023-05-14 04:31:09+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_isaulv'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12033
+2023-05-14 17:22:57+00:00,[User]_joerg1985,"{'[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12035
+2023-05-14 18:18:46+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12036
+2023-05-15 00:45:00+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_p0deje', '[User]_giladshanan'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12037
+2023-05-15 03:16:21+00:00,[User]_MichalStrehovsky,"{'[User]_MichalStrehovsky', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12038
+2023-05-15 06:17:41+00:00,[User]_sethuraman2203,{'[User]_CLAassistant'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12039
+2023-05-15 19:31:36+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_diemol', '[User]_nvborisenko', '[User]_NCLnclNCL'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12045
+2023-05-16 21:47:41+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12051
+2023-05-16 22:06:48+00:00,[User]_nvborisenko,"{'[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12052
+2023-05-17 09:37:55+00:00,[User]_cocreature,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12054
+2023-05-17 19:30:05+00:00,[User]_joerg1985,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12055
+2023-05-17 19:42:54+00:00,[User]_joerg1985,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12056
+2023-05-18 09:30:20+00:00,[User]_bonigarcia,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12058
+2023-05-18 10:58:59+00:00,[User]_krmahadevan,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12059
+2023-05-18 12:48:24+00:00,[User]_nvborisenko,"{'[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12061
+2023-05-18 19:29:38+00:00,[User]_iampopovich,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12065
+2023-05-19 08:07:15+00:00,[User]_M1troll,"{'[User]_M1troll', '[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12067
+2023-05-19 12:02:19+00:00,[User]_joerg1985,"{'[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12068
+2023-05-19 17:20:42+00:00,[User]_joerg1985,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12070
+2023-05-19 22:14:15+00:00,[User]_damencho,"{'[User]_aaronkvanmeerten', '[User]_damencho', '[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12072
+2023-05-19 22:46:27+00:00,[User]_nvborisenko,"{'[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12073
+2023-05-22 18:26:36+00:00,[User]_TamsilAmani,"{'[User]_p0deje', '[User]_TamsilAmani', '[User]_titusfortner'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12082
+2023-05-23 19:46:58+00:00,[User]_cbiesinger,"{'[User]_titusfortner', '[User]_cbiesinger', '[User]_shs96c'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12087
+2023-05-25 19:50:17+00:00,[User]_cbiesinger,"{'[User]_cbiesinger', '[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12096
+2023-05-26 15:57:26+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12100
+2023-05-27 03:53:14+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12103
+2023-05-27 15:04:41+00:00,[User]_sandeepsuryaprasad,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12106
+2023-05-28 13:59:32+00:00,[User]_bonigarcia,"{'[User]_diemol', '[User]_dev-ardi', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12108
+2023-05-29 08:14:16+00:00,[User]_ShadowLNC,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant', '[User]_ShadowLNC'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12109
+2023-05-31 15:41:08+00:00,[User]_diemol,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12122
+2023-06-01 12:21:55+00:00,[User]_TamsilAmani,{'[User]_harsha509'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12124
+2023-06-01 22:29:50+00:00,[User]_iampopovich,"{'[User]_iampopovich', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12127
+2023-06-02 20:04:55+00:00,[User]_titusfortner,"{'[User]_p0deje', '[User]_titusfortner'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12131
+2023-06-02 21:11:36+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_p0deje'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12132
+2023-06-03 05:09:55+00:00,[User]_sandeepsuryaprasad,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12135
+2023-06-03 05:10:15+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12136
+2023-06-03 07:38:40+00:00,[User]_ce86f3bb9faf71e,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12137
+2023-06-03 13:58:06+00:00,[User]_sandeepsuryaprasad,"{'[User]_codecov-commenter', '[User]_sandeepsuryaprasad', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12139
+2023-06-04 23:24:20+00:00,[User]_p0deje,"{'[User]_titusfortner', '[User]_KazuCocoa', '[User]_diemol', '[User]_p0deje'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12141
+2023-06-05 12:29:02+00:00,[User]_MajesticOl,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12144
+2023-06-05 16:37:14+00:00,[User]_joerg1985,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12146
+2023-06-05 16:42:32+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12147
+2023-06-05 17:07:27+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12148
+2023-06-05 17:13:46+00:00,[User]_joerg1985,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12149
+2023-06-05 20:39:19+00:00,[User]_shs96c,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12152
+2023-06-05 21:09:12+00:00,[User]_titusfortner,"{'[User]_p0deje', '[User]_titusfortner'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12153
+2023-06-05 21:24:32+00:00,[User]_titusfortner,{'[User]_p0deje'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12154
+2023-06-06 01:55:54+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12156
+2023-06-06 03:01:00+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12157
+2023-06-06 09:21:19+00:00,[User]_bswhb,"{'[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12158
+2023-06-06 20:59:24+00:00,[User]_joerg1985,"{'[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12164
+2023-06-07 10:28:34+00:00,[User]_sandeepsuryaprasad,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12169
+2023-06-07 14:32:31+00:00,[User]_iampopovich,"{'[User]_iampopovich', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12170
+2023-06-07 17:52:22+00:00,[User]_mdmintz,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12174
+2023-06-07 18:58:39+00:00,[User]_RevealOscar,"{'[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12175
+2023-06-08 17:13:01+00:00,[User]_TamsilAmani,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12182
+2023-06-09 03:49:38+00:00,[User]_sandeepsuryaprasad,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12186
+2023-06-10 03:59:02+00:00,[User]_sandeepsuryaprasad,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12190
+2023-06-11 05:54:52+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_AutomatedTester', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12191
+2023-06-12 09:21:29+00:00,[User]_nvborisenko,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12193
+2023-06-12 09:53:02+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12194
+2023-06-13 17:31:42+00:00,[User]_sandeepsuryaprasad,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12199
+2023-06-14 16:43:09+00:00,[User]_sandeepsuryaprasad,"{'[User]_sandeepsuryaprasad', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12202
+2023-06-15 08:25:33+00:00,[User]_joerg1985,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_Yith1'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12205
+2023-06-15 15:07:28+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_diemol', '[User]_bonigarcia', '[User]_occamssafetyrazor', '[User]_Akkasim46'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12208
+2023-06-16 11:15:13+00:00,[User]_krmahadevan,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_krmahadevan', '[User]_sbabcoc'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12209
+2023-06-17 07:55:42+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_AutomatedTester', '[User]_KazuCocoa', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12213
+2023-06-17 10:52:17+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_AutomatedTester', '[User]_sandeepsuryaprasad', '[User]_isaulv'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12214
+2023-06-17 13:47:09+00:00,[User]_joerg1985,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12215
+2023-06-17 16:43:34+00:00,[User]_joerg1985,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12216
+2023-06-17 21:30:42+00:00,[User]_MathausC,"{'[User]_titusfortner', '[User]_diemol', '[User]_CLAassistant', '[User]_asolntsev', '[User]_MathausC'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12218
+2023-06-18 12:07:57+00:00,[User]_joerg1985,"{'[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12219
+2023-06-19 15:17:54+00:00,[User]_jlucartc,"{'[User]_p0deje', '[User]_CLAassistant', '[User]_jlucartc'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12226
+2023-06-19 21:35:38+00:00,[User]_TamsilAmani,"{'[User]_titusfortner', '[User]_TamsilAmani', '[User]_p0deje'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12228
+2023-06-20 10:41:45+00:00,[User]_diemol,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12231
+2023-06-21 13:46:47+00:00,[User]_nvborisenko,{'[User]_nvborisenko'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12235
+2023-06-21 22:58:07+00:00,[User]_djbrown,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_djbrown', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12237
+2023-06-22 06:27:08+00:00,[User]_bhecquet,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_bhecquet'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12240
+2023-06-22 20:36:23+00:00,[User]_joerg1985,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12244
+2023-06-23 07:28:30+00:00,[User]_diemol,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12246
+2023-06-23 12:35:32+00:00,[User]_baflQA,"{'[User]_titusfortner', '[User]_baflQA', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12248
+2023-06-24 10:06:43+00:00,[User]_joerg1985,"{'[User]_titusfortner', '[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12249
+2023-06-25 04:44:07+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12251
+2023-06-25 16:46:32+00:00,[User]_sandeepsuryaprasad,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12253
+2023-06-25 17:02:39+00:00,[User]_shs96c,"{'[User]_shs96c', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12254
+2023-06-25 18:30:10+00:00,[User]_KazuCocoa,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_mykola-mokhnach', '[User]_AutomatedTester', '[User]_KazuCocoa'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12255
+2023-06-26 06:42:32+00:00,[User]_sandeepsuryaprasad,"{'[User]_diemol', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12256
+2023-06-26 13:18:32+00:00,[User]_vedanthvdev,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12258
+2023-06-26 15:23:57+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_diemol', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12261
+2023-06-26 19:17:01+00:00,[User]_joerg1985,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12263
+2023-06-27 02:02:23+00:00,[User]_sandeepsuryaprasad,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12265
+2023-06-27 19:09:58+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12269
+2023-06-27 21:28:13+00:00,[User]_vedanthvdev,"{'[User]_titusfortner', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12270
+2023-06-28 02:16:08+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_codecov-commenter'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12271
+2023-06-28 03:35:33+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12272
+2023-06-28 03:44:23+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12273
+2023-06-28 07:18:50+00:00,[User]_sandeepsuryaprasad,{'[User]_AutomatedTester'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12274
+2023-06-28 09:56:19+00:00,[User]_Hyphenhypen,"{'[User]_diemol', '[User]_harsha509', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12276
+2023-06-28 12:47:08+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_diemol', '[User]_sandeepsuryaprasad', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12280
+2023-06-28 15:00:50+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12281
+2023-06-28 18:26:00+00:00,[User]_sandeepsuryaprasad,{'[User]_AutomatedTester'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12283
+2023-06-28 20:29:37+00:00,[User]_vedanthvdev,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12284
+2023-06-29 08:32:48+00:00,[User]_sandeepsuryaprasad,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12286
+2023-06-29 10:27:40+00:00,[User]_sandeepsuryaprasad,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_sandeepsuryaprasad', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12287
+2023-06-29 13:19:57+00:00,[User]_AdamPDotty,"{'[User]_CLAassistant', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12289
+2023-06-29 14:40:39+00:00,[User]_sandeepsuryaprasad,"{'[User]_codecov-commenter', '[User]_mykola-mokhnach', '[User]_AutomatedTester', '[User]_sandeepsuryaprasad', '[User]_MarcelWilson'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12290
+2023-06-29 15:26:54+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_diemol', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12291
+2023-06-29 15:56:57+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_AutomatedTester', '[User]_isaulv'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12292
+2023-06-29 19:52:56+00:00,[User]_joerg1985,"{'[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12294
+2023-06-30 12:06:19+00:00,[User]_sandeepsuryaprasad,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12295
+2023-07-01 12:43:27+00:00,[User]_sandeepsuryaprasad,"{'[User]_codecov-commenter', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12296
+2023-07-01 14:28:11+00:00,[User]_sandeepsuryaprasad,"{'[User]_codecov-commenter', '[User]_sandeepsuryaprasad', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12297
+2023-07-01 18:36:48+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_p0deje'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12298
+2023-07-02 18:44:50+00:00,[User]_titusfortner,"{'[User]_p0deje', '[User]_diemol', '[User]_titusfortner'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12299
+2023-07-03 11:29:53+00:00,[User]_bonigarcia,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12304
+2023-07-03 16:20:54+00:00,[User]_joerg1985,{'[User]_AutomatedTester'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12306
+2023-07-03 16:37:28+00:00,[User]_joerg1985,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12307
+2023-07-04 03:58:34+00:00,[User]_sandeepsuryaprasad,{'[User]_AutomatedTester'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12309
+2023-07-06 18:05:31+00:00,[User]_joerg1985,"{'[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12320
+2023-07-08 04:38:01+00:00,[User]_sandeepsuryaprasad,{'[User]_AutomatedTester'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12325
+2023-07-09 04:16:55+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12326
+2023-07-09 13:17:28+00:00,[User]_sandeepsuryaprasad,"{'[User]_sandeepsuryaprasad', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12328
+2023-07-10 16:35:31+00:00,[User]_joerg1985,"{'[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12336
+2023-07-11 16:24:03+00:00,[User]_sandeepsuryaprasad,"{'[User]_isaulv', '[User]_codecov-commenter', '[User]_diemol', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12340
+2023-07-12 02:00:34+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12342
+2023-07-12 02:50:28+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12343
+2023-07-12 03:13:54+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12344
+2023-07-12 03:35:19+00:00,[User]_titusfortner,{'[User]_p0deje'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12345
+2023-07-12 12:51:02+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_alokeutpal'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12352
+2023-07-12 13:56:49+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_bonigarcia', '[User]_nir-tal-talkspace'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12353
+2023-07-12 16:21:52+00:00,[User]_joerg1985,"{'[User]_titusfortner', '[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12354
+2023-07-12 19:21:35+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12356
+2023-07-13 16:32:41+00:00,[User]_joerg1985,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12361
+2023-07-14 01:27:45+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_isaulv'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12364
+2023-07-14 02:34:27+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_codecov-commenter'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12365
+2023-07-14 18:15:11+00:00,[User]_sandeepsuryaprasad,"{'[User]_diemol', '[User]_alokeutpal'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12367
+2023-07-14 20:02:11+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_jimevans', '[User]_diemol', '[User]_christian-bromann', '[User]_joerg1985', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12368
+2023-07-14 21:42:16+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12369
+2023-07-14 21:46:26+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12370
+2023-07-16 14:54:25+00:00,[User]_joerg1985,"{'[User]_codecov-commenter', '[User]_joerg1985'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12372
+2023-07-17 13:26:05+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12373
+2023-07-18 09:34:38+00:00,[User]_ggkiokas,"{'[User]_diemol', '[User]_alokeutpal', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12376
+2023-07-19 16:05:24+00:00,[User]_joerg1985,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12384
+2023-07-19 18:37:00+00:00,[User]_joerg1985,"{'[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_alokeutpal'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12385
+2023-07-19 18:52:20+00:00,[User]_Lehonti,{'[User]_CLAassistant'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12386
+2023-07-21 10:54:12+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_alokeutpal'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12394
+2023-07-21 11:01:50+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_alokeutpal'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12395
+2023-07-21 21:33:16+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_p0deje'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12398
+2023-07-22 16:02:09+00:00,[User]_symonk,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_isaulv', '[User]_AutomatedTester', '[User]_symonk'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12400
+2023-07-22 17:25:33+00:00,[User]_symonk,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_symonk'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12401
+2023-07-23 17:17:14+00:00,[User]_joerg1985,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12402
+2023-07-23 22:08:56+00:00,[User]_titusfortner,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12404
+2023-07-23 22:15:19+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12405
+2023-07-24 17:08:02+00:00,[User]_joerg1985,"{'[User]_titusfortner', '[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12407
+2023-07-24 22:03:51+00:00,[User]_symonk,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_symonk', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12409
+2023-07-24 23:32:21+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12410
+2023-07-25 06:09:39+00:00,[User]_diemol,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12411
+2023-07-25 11:11:02+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12413
+2023-07-25 14:42:24+00:00,[User]_sandeepsuryaprasad,"{'[User]_AutomatedTester', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12416
+2023-07-25 14:52:56+00:00,[User]_titusfortner,"{'[User]_p0deje', '[User]_titusfortner', '[User]_compwron'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12417
+2023-07-26 12:14:59+00:00,[User]_bonigarcia,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12422
+2023-07-27 17:13:29+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12429
+2023-07-27 18:06:07+00:00,[User]_nvborisenko,"{'[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12431
+2023-07-27 19:33:07+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_sandeepsuryaprasad', '[User]_symonk'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12432
+2023-07-27 22:43:16+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12434
+2023-07-28 02:38:02+00:00,[User]_SenZmaKi,"{'[User]_codecov-commenter', '[User]_CLAassistant', '[User]_symonk'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12435
+2023-07-28 15:44:00+00:00,[User]_claytonneal,"{'[User]_titusfortner', '[User]_CLAassistant', '[User]_AutomatedTester', '[User]_claytonneal'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12438
+2023-07-28 21:24:41+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12439
+2023-07-29 06:55:23+00:00,[User]_sandeepsuryaprasad,{'[User]_symonk'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12440
+2023-07-29 14:20:59+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12443
+2023-07-30 05:52:08+00:00,[User]_sbabcoc,"{'[User]_diemol', '[User]_sbabcoc'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12444
+2023-07-30 21:14:30+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12445
+2023-07-31 10:08:08+00:00,[User]_shs96c,{'[User]_shs96c'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12449
+2023-07-31 13:06:17+00:00,[User]_shs96c,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12450
+2023-07-31 21:33:22+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12454
+2023-07-31 22:30:23+00:00,[User]_p0deje,"{'[User]_diemol', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12455
+2023-08-01 05:01:23+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12460
+2023-08-01 06:03:16+00:00,[User]_sandeepsuryaprasad,"{'[User]_diemol', '[User]_mgorny', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12462
+2023-08-01 11:05:57+00:00,[User]_shs96c,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12463
+2023-08-01 14:31:04+00:00,[User]_sandeepsuryaprasad,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12464
+2023-08-02 07:54:38+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12472
+2023-08-03 18:43:41+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12486
+2023-08-04 04:03:26+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12488
+2023-08-04 06:26:47+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12489
+2023-08-04 13:55:51+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12494
+2023-08-04 20:47:02+00:00,[User]_jerone,"{'[User]_titusfortner', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12497
+2023-08-06 09:39:00+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12499
+2023-08-06 10:07:31+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_codecov-commenter'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12500
+2023-08-06 12:21:18+00:00,[User]_aldobrynin,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant', '[User]_krmahadevan', '[User]_karanjeetbirdeye', '[User]_aldobrynin'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12501
+2023-08-06 14:32:22+00:00,[User]_joerg1985,"{'[User]_shs96c', '[User]_joerg1985', '[User]_krmahadevan', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12502
+2023-08-07 08:18:59+00:00,[User]_dvarrui,"{'[User]_titusfortner', '[User]_dvarrui'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12506
+2023-08-07 08:49:31+00:00,[User]_HyoungUkJJang,"{'[User]_titusfortner', '[User]_CLAassistant', '[User]_HyoungUkJJang'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12507
+2023-08-07 09:35:44+00:00,[User]_utamas,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_utamas'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12508
+2023-08-07 10:44:42+00:00,[User]_TamsilAmani,"{'[User]_diemol', '[User]_harsha509', '[User]_AutomatedTester', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12510
+2023-08-07 16:41:33+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12514
+2023-08-07 19:22:48+00:00,[User]_Pepan,"{'[User]_titusfortner', '[User]_davidcornu', '[User]_Pepan'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12516
+2023-08-08 13:58:36+00:00,[User]_shs96c,"{'[User]_diemol', '[User]_captain-hoity-toity'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12520
+2023-08-08 23:54:07+00:00,[User]_palmermbandy,"{'[User]_titusfortner', '[User]_CLAassistant', '[User]_isaulv', '[User]_palmermbandy', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12523
+2023-08-09 21:42:32+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12526
+2023-08-10 09:08:36+00:00,[User]_diemol,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12528
+2023-08-10 15:03:11+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12531
+2023-08-10 16:38:28+00:00,[User]_jlipps,"{'[User]_titusfortner', '[User]_jlipps', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12532
+2023-08-10 16:51:11+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12533
+2023-08-10 17:17:40+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12534
+2023-08-11 16:24:59+00:00,[User]_stevetracvc,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_stevetracvc', '[User]_CLAassistant', '[User]_isaulv', '[User]_AutomatedTester', '[User]_cosing', '[User]_bollwyvl'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12536
+2023-08-11 23:57:35+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_bonigarcia', '[User]_Andreito95'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12539
+2023-08-14 13:23:41+00:00,[User]_shs96c,{'[User]_shs96c'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12545
+2023-08-14 18:31:08+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12548
+2023-08-14 23:42:38+00:00,[User]_bonigarcia,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12550
+2023-08-15 00:27:04+00:00,[User]_bonigarcia,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12551
+2023-08-15 03:48:27+00:00,[User]_sandeepsuryaprasad,{'[User]_AutomatedTester'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12552
+2023-08-15 06:54:54+00:00,[User]_sandeepsuryaprasad,"{'[User]_codecov-commenter', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12553
+2023-08-15 10:46:02+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_AutomatedTester', '[User]_diemol', '[User]_isaulv'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12554
+2023-08-15 18:34:16+00:00,[User]_jlipps,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12555
+2023-08-15 21:53:51+00:00,[User]_RevealOscar,"{'[User]_titusfortner', '[User]_RevealOscar'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12556
+2023-08-15 22:06:38+00:00,[User]_jlipps,{'[User]_AutomatedTester'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12557
+2023-08-15 23:41:25+00:00,[User]_sbabcoc,"{'[User]_shs96c', '[User]_sbabcoc'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12559
+2023-08-16 09:45:29+00:00,[User]_luke-hill,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12561
+2023-08-16 13:09:04+00:00,[User]_luke-hill,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12562
+2023-08-20 19:48:54+00:00,[User]_RevealOscar,"{'[User]_titusfortner', '[User]_pujagani', '[User]_RevealOscar'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12578
+2023-08-21 16:02:19+00:00,[User]_Yith1,"{'[User]_titusfortner', '[User]_joerg1985', '[User]_diemol', '[User]_CLAassistant', '[User]_Yith1'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12581
+2023-08-22 00:13:11+00:00,[User]_bonigarcia,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12582
+2023-08-22 03:06:59+00:00,[User]_sbabcoc,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12584
+2023-08-22 18:53:17+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_diemol', '[User]_p0deje', '[User]_Tratcher', '[User]_YevgeniyShunevych', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12591
+2023-08-22 20:35:48+00:00,[User]_nvborisenko,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12592
+2023-08-22 21:03:42+00:00,[User]_nvborisenko,"{'[User]_diemol', '[User]_ShoodEver'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12593
+2023-08-22 21:29:22+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12594
+2023-08-23 05:31:50+00:00,[User]_RevealOscar,"{'[User]_diemol', '[User]_RevealOscar'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12596
+2023-08-23 13:43:55+00:00,[User]_bonigarcia,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12601
+2023-08-23 19:39:12+00:00,[User]_joerg1985,"{'[User]_joerg1985', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12603
+2023-08-24 07:27:30+00:00,[User]_RevealOscar,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_captain-hoity-toity', '[User]_RevealOscar', '[User]_mdmintz'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12605
+2023-08-24 20:21:50+00:00,[User]_jimevans,"{'[User]_titusfortner', '[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12608
+2023-08-24 21:44:12+00:00,[User]_sbabcoc,"{'[User]_shs96c', '[User]_diemol', '[User]_sbabcoc'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12609
+2023-08-25 20:28:31+00:00,[User]_jimevans,"{'[User]_codecov-commenter', '[User]_jimevans', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12614
+2023-08-28 16:21:07+00:00,[User]_bonigarcia,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12623
+2023-08-29 11:06:47+00:00,[User]_tatsuyafw,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12626
+2023-08-29 19:56:37+00:00,[User]_bonigarcia,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12631
+2023-08-29 19:59:35+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12632
+2023-08-30 09:27:24+00:00,[User]_Sean-Gomez,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_CLAassistant', '[User]_isaulv', '[User]_Sean-Gomez'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12637
+2023-08-30 14:16:18+00:00,[User]_bonigarcia,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12639
+2023-08-30 14:52:51+00:00,[User]_krishtoautomate,"{'[User]_krishtoautomate', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12640
+2023-08-30 15:02:15+00:00,[User]_titusfortner,"{'[User]_diemol', '[User]_harsha509'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12641
+2023-09-01 12:19:21+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12654
+2023-09-01 16:07:42+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12660
+2023-09-01 16:43:57+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12662
+2023-09-01 21:58:28+00:00,[User]_nvborisenko,{'[User]_jimevans'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12664
+2023-09-01 22:15:48+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12666
+2023-09-02 12:31:15+00:00,[User]_nvborisenko,"{'[User]_jimevans', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12667
+2023-09-02 14:32:47+00:00,[User]_davidenglishmusic,"{'[User]_titusfortner', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12668
+2023-09-02 14:33:23+00:00,[User]_nvborisenko,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12669
+2023-09-02 17:30:37+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12672
+2023-09-02 18:37:06+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_Tristan107'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12673
+2023-09-03 01:11:23+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12674
+2023-09-03 19:57:03+00:00,[User]_nvborisenko,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12677
+2023-09-03 22:26:30+00:00,[User]_manuelsblanco,"{'[User]_manuelsblanco', '[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12678
+2023-09-04 13:55:01+00:00,[User]_Trigtrig,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12682
+2023-09-04 16:14:17+00:00,[User]_joerg1985,"{'[User]_codecov-commenter', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12684
+2023-09-04 21:22:36+00:00,[User]_titusfortner,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12685
+2023-09-05 12:22:47+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12690
+2023-09-06 13:25:17+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_valfirst'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12696
+2023-09-07 09:38:54+00:00,[User]_bonigarcia,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12699
+2023-09-07 13:05:17+00:00,[User]_KrishnaSuravarapu,"{'[User]_KrishnaSuravarapu', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12700
+2023-09-07 16:31:20+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12702
+2023-09-07 18:19:20+00:00,[User]_sbabcoc,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_sbabcoc'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12703
+2023-09-07 21:24:43+00:00,[User]_mdmintz,"{'[User]_titusfortner', '[User]_asolntsev'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12704
+2023-09-07 22:50:22+00:00,[User]_mdmintz,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_isaulv'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12705
+2023-09-08 10:58:22+00:00,[User]_nvborisenko,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12707
+2023-09-08 13:28:32+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12708
+2023-09-08 18:36:18+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_diemol', '[User]_nvborisenko', '[User]_Sigrec'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12711
+2023-09-09 20:50:16+00:00,[User]_JefferyVin,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_JefferyVin', '[User]_CLAassistant', '[User]_isaulv', '[User]_captain-hoity-toity'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12715
+2023-09-10 03:39:04+00:00,[User]_sbabcoc,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_krmahadevan', '[User]_sbabcoc'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12716
+2023-09-11 07:59:43+00:00,[User]_apupier,{'[User]_CLAassistant'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12717
+2023-09-11 09:45:32+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12718
+2023-09-11 10:31:53+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12719
+2023-09-11 10:36:14+00:00,[User]_shs96c,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12720
+2023-09-11 10:38:20+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12721
+2023-09-11 11:21:06+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12722
+2023-09-11 12:40:13+00:00,[User]_apupier,"{'[User]_diemol', '[User]_apupier', '[User]_CLAassistant', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12724
+2023-09-12 23:45:05+00:00,[User]_manuelsblanco,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12733
+2023-09-14 18:47:41+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12744
+2023-09-15 18:05:00+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_nvborisenko', '[User]_isaulv'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12752
+2023-09-15 18:22:48+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12753
+2023-09-15 22:13:15+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12754
+2023-09-16 13:14:28+00:00,[User]_sandeepsuryaprasad,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12755
+2023-09-17 20:26:11+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12760
+2023-09-17 21:17:01+00:00,[User]_nvborisenko,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12761
+2023-09-17 23:22:50+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12762
+2023-09-18 07:35:43+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12764
+2023-09-18 13:32:43+00:00,[User]_sandeepsuryaprasad,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_jsa34', '[User]_AutomatedTester', '[User]_sandeepsuryaprasad', '[User]_symonk'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12767
+2023-09-18 13:40:08+00:00,[User]_bonigarcia,{'[User]_bonigarcia'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12768
+2023-09-18 20:26:35+00:00,[User]_nvborisenko,{'[User]_nvborisenko'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12772
+2023-09-19 08:22:37+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12776
+2023-09-19 11:02:54+00:00,[User]_nvborisenko,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12777
+2023-09-19 13:40:12+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_nvborisenko', '[User]_ckuetbach'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12781
+2023-09-19 20:55:21+00:00,[User]_shs96c,"{'[User]_shs96c', '[User]_codecov-commenter', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12784
+2023-09-21 14:53:00+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_vivin-joghee'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12807
+2023-09-22 12:35:10+00:00,[User]_ShaheedHaque,"{'[User]_titusfortner', '[User]_vbaulac', '[User]_diemol', '[User]_ShaheedHaque'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12812
+2023-09-24 22:24:50+00:00,[User]_titusfortner,"{'[User]_nvborisenko', '[User]_madushag'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12816
+2023-09-25 00:52:21+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_nvborisenko', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12817
+2023-09-25 21:13:00+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12820
+2023-09-26 12:27:49+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12823
+2023-09-27 21:19:46+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12830
+2023-09-28 22:11:03+00:00,[User]_nvborisenko,{'[User]_nvborisenko'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12834
+2023-09-29 10:48:01+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12835
+2023-09-29 13:24:17+00:00,[User]_yanniszark,"{'[User]_titusfortner', '[User]_yanniszark'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12837
+2023-09-29 14:48:37+00:00,[User]_pujagani,"{'[User]_titusfortner', '[User]_joerg1985', '[User]_diemol', '[User]_pujagani', '[User]_shs96c'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12838
+2023-09-29 15:16:28+00:00,[User]_bonigarcia,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12840
+2023-09-30 02:35:04+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_rbri', '[User]_pujagani', '[User]_shs96c'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12843
+2023-09-30 13:12:42+00:00,[User]_aguspe,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_CLAassistant', '[User]_p0deje', '[User]_aguspe'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12844
+2023-10-01 22:28:12+00:00,[User]_shs96c,"{'[User]_shs96c', '[User]_codecov-commenter', '[User]_diemol', '[User]_titusfortner'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12847
+2023-10-02 07:48:19+00:00,[User]_bhecquet,"{'[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_pujagani', '[User]_bhecquet'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12848
+2023-10-02 09:34:13+00:00,[User]_joerg1985,"{'[User]_rbri', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12849
+2023-10-02 15:04:45+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12852
+2023-10-02 19:15:56+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_diemol', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12853
+2023-10-03 16:53:08+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12863
+2023-10-04 17:00:55+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12866
+2023-10-05 06:12:47+00:00,[User]_alexey-pelykh,"{'[User]_titusfortner', '[User]_codecov-commenter'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12871
+2023-10-05 11:08:20+00:00,[User]_pujagani,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12874
+2023-10-05 14:55:24+00:00,[User]_bonigarcia,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12877
+2023-10-05 20:22:56+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12878
+2023-10-05 20:48:46+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12879
+2023-10-05 21:44:05+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12880
+2023-10-06 07:24:59+00:00,[User]_MrSerth,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12884
+2023-10-06 13:14:08+00:00,[User]_bonigarcia,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12890
+2023-10-06 15:01:31+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12892
+2023-10-06 18:22:56+00:00,[User]_manuelsblanco,"{'[User]_titusfortner', '[User]_manuelsblanco', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12893
+2023-10-06 19:17:15+00:00,[User]_manuelsblanco,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12894
+2023-10-07 17:12:53+00:00,[User]_joerg1985,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_pujagani', '[User]_mykola-mokhnach'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12898
+2023-10-07 22:13:00+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12899
+2023-10-09 06:45:17+00:00,[User]_Prince23gitof,"{'[User]_CLAassistant', '[User]_Prince23gitof'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12901
+2023-10-09 14:09:09+00:00,[User]_alaahong,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12903
+2023-10-09 14:54:36+00:00,[User]_bonigarcia,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12904
+2023-10-09 14:54:46+00:00,[User]_pkduongsu,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12905
+2023-10-09 15:31:07+00:00,[User]_shs96c,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12907
+2023-10-09 18:04:22+00:00,[User]_danielrozenberg,"{'[User]_titusfortner', '[User]_diemol', '[User]_harsha509', '[User]_CLAassistant', '[User]_danielrozenberg'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12909
+2023-10-10 08:34:00+00:00,[User]_pujagani,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12912
+2023-10-10 09:53:13+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12913
+2023-10-10 16:38:05+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12916
+2023-10-10 17:40:16+00:00,[User]_joerg1985,"{'[User]_titusfortner', '[User]_joerg1985'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12917
+2023-10-10 21:23:25+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_mykola-mokhnach'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12919
+2023-10-10 23:20:29+00:00,[User]_manuelsblanco,"{'[User]_codecov-commenter', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12920
+2023-10-11 16:34:02+00:00,[User]_bollwyvl,"{'[User]_bollwyvl', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12928
+2023-10-11 20:17:29+00:00,[User]_manuelsblanco,"{'[User]_codecov-commenter', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12932
+2023-10-11 21:00:06+00:00,[User]_manuelsblanco,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12933
+2023-10-11 22:15:11+00:00,[User]_asolntsev,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_pujagani', '[User]_asolntsev'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12934
+2023-10-12 13:15:13+00:00,[User]_sazi-y,"{'[User]_titusfortner', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12937
+2023-10-12 14:44:06+00:00,[User]_pujagani,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12940
+2023-10-12 15:45:52+00:00,[User]_manuelsblanco,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12941
+2023-10-12 16:55:01+00:00,[User]_manuelsblanco,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_manuelsblanco', '[User]_diemol', '[User]_mykola-mokhnach'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12942
+2023-10-12 19:03:43+00:00,[User]_joerg1985,"{'[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_pujagani', '[User]_krmahadevan'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12943
+2023-10-13 10:30:38+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12946
+2023-10-13 19:12:12+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12948
+2023-10-16 03:33:06+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12951
+2023-10-17 09:09:51+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12960
+2023-10-18 14:06:59+00:00,[User]_bonigarcia,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12966
+2023-10-20 09:36:45+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_diemol', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12974
+2023-10-20 18:37:54+00:00,[User]_joerg1985,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12978
+2023-10-20 21:15:48+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_rbri', '[User]_codecov-commenter', '[User]_diemol', '[User]_pujagani', '[User]_krmahadevan'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12979
+2023-10-21 07:36:08+00:00,[User]_ramyags123,{'[User]_CLAassistant'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12980
+2023-10-21 18:58:41+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_YevgeniyShunevych', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/12981
+2023-10-22 15:57:49+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12985
+2023-10-22 16:12:17+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_itsayopapi', '[User]_diemol', '[User]_bonigarcia', '[User]_kool79', '[User]_boris-petrov', '[User]_MohabMohie'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/12986
+2023-10-22 19:20:28+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/13021
+2023-10-22 19:22:39+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/13022
+2023-10-22 22:11:42+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13023
+2023-10-22 23:08:01+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13024
+2023-10-23 02:00:40+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13025
+2023-10-23 02:48:51+00:00,[User]_titusfortner,{'[User]_nvborisenko'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13026
+2023-10-23 09:42:07+00:00,[User]_bonigarcia,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13028
+2023-10-24 12:44:56+00:00,[User]_AutomatedTester,{'[User]_AutomatedTester'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13039
+2023-10-25 10:56:08+00:00,[User]_dlanza1,"{'[User]_CLAassistant', '[User]_isaulv'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13053
+2023-10-27 08:18:06+00:00,[User]_bonigarcia,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13057
+2023-10-30 14:04:47+00:00,[User]_pinterior,"{'[User]_CLAassistant', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13070
+2023-10-30 15:35:23+00:00,[User]_mweinelt,"{'[User]_titusfortner', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13071
+2023-11-01 10:21:56+00:00,[User]_pujagani,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13078
+2023-11-01 18:59:43+00:00,[User]_pinterior,"{'[User]_titusfortner', '[User]_diemol', '[User]_pinterior'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13082
+2023-11-02 17:22:44+00:00,[User]_luketudge,"{'[User]_titusfortner', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13088
+2023-11-03 03:35:01+00:00,[User]_MatzFan,"{'[User]_titusfortner', '[User]_MatzFan', '[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13090
+2023-11-03 15:42:16+00:00,[User]_joromero,"{'[User]_titusfortner', '[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13093
+2023-11-04 23:06:43+00:00,[User]_marvinruder,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13098
+2023-11-06 10:52:30+00:00,[User]_bonigarcia,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13101
+2023-11-06 15:29:52+00:00,[User]_titusfortner,{'[User]_harsha509'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13102
+2023-11-07 14:23:53+00:00,[User]_pinterior,"{'[User]_codecov-commenter', '[User]_isaulv'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13108
+2023-11-08 04:40:28+00:00,[User]_nikhlagrwl,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_CLAassistant', '[User]_nikhlagrwl'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13113
+2023-11-09 09:47:59+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_giuliohome', '[User]_bonigarcia', '[User]_dummyuser992', '[User]_krmahadevan', '[User]_ctunkl'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13123
+2023-11-09 12:22:57+00:00,[User]_shs96c,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13125
+2023-11-09 14:10:05+00:00,[User]_titusfortner,{'[User]_p0deje'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13126
+2023-11-09 17:18:28+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13129
+2023-11-09 21:45:22+00:00,[User]_nvborisenko,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13131
+2023-11-10 10:19:22+00:00,[User]_bonigarcia,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13133
+2023-11-10 10:54:32+00:00,[User]_bonigarcia,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13134
+2023-11-10 16:11:44+00:00,[User]_purkhusid,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13136
+2023-11-10 20:09:30+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_YevgeniyShunevych', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13140
+2023-11-11 08:58:57+00:00,[User]_centic9,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant', '[User]_pujagani', '[User]_centic9'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13142
+2023-11-11 16:24:35+00:00,[User]_manuelsblanco,"{'[User]_manuelsblanco', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13143
+2023-11-15 07:00:48+00:00,[User]_jnhyperion,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_jnhyperion', '[User]_isaulv'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13151
+2023-11-15 09:32:25+00:00,[User]_pujagani,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13153
+2023-11-16 10:39:07+00:00,[User]_bonigarcia,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13159
+2023-11-16 14:55:50+00:00,[User]_asottile,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13162
+2023-11-17 09:21:00+00:00,[User]_pujagani,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13165
+2023-11-17 11:59:38+00:00,[User]_anemele,"{'[User]_titusfortner', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13166
+2023-11-20 11:42:12+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_bonigarcia', '[User]_walksonair', '[User]_rjhancock'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13173
+2023-11-20 14:30:11+00:00,[User]_EdwinVanVliet,"{'[User]_EdwinVanVliet', '[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13174
+2023-11-20 15:30:21+00:00,[User]_EdwinVanVliet,"{'[User]_EdwinVanVliet', '[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13175
+2023-11-22 02:46:37+00:00,[User]_matt-kemp-m2x,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13187
+2023-11-23 07:56:04+00:00,[User]_pujagani,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985', '[User]_diemol', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13190
+2023-11-23 14:47:19+00:00,[User]_aguspe,"{'[User]_titusfortner', '[User]_aguspe'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13192
+2023-11-23 22:23:04+00:00,[User]_jsmolic,"{'[User]_titusfortner', '[User]_jsmolic', '[User]_CLAassistant', '[User]_bonigarcia'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13194
+2023-11-24 10:07:04+00:00,[User]_anandbagmar,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13196
+2023-11-24 19:43:56+00:00,[User]_RevealOscar,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_RevealOscar'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13198
+2023-11-24 19:46:20+00:00,[User]_RevealOscar,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13199
+2023-11-24 19:48:03+00:00,[User]_RevealOscar,"{'[User]_titusfortner', '[User]_diemol', '[User]_valfirst', '[User]_RevealOscar'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13200
+2023-11-27 10:32:52+00:00,[User]_bonigarcia,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13204
+2023-11-28 16:28:34+00:00,[User]_whimboo,"{'[User]_43081j', '[User]_whimboo'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13211
+2023-11-28 17:25:37+00:00,[User]_RevealOscar,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13212
+2023-11-29 15:38:26+00:00,[User]_whimboo,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_whimboo'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13218
+2023-11-29 18:12:29+00:00,[User]_vietnd96,"{'[User]_codecov-commenter', '[User]_vietnd96'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13219
+2023-11-30 08:14:14+00:00,[User]_ioquatix,"{'[User]_titusfortner', '[User]_diemol', '[User]_CLAassistant', '[User]_ioquatix', '[User]_p0deje'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13222
+2023-11-30 14:05:43+00:00,[User]_pujagani,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13224
+2023-12-02 19:33:22+00:00,[User]_aguspe,"{'[User]_p0deje', '[User]_aguspe'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13234
+2023-12-04 18:26:12+00:00,[User]_joerg1985,{'[User]_joerg1985'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13243
+2023-12-05 10:22:37+00:00,[User]_bhecquet,"{'[User]_titusfortner', '[User]_joerg1985', '[User]_diemol', '[User]_pujagani', '[User]_bhecquet', '[User]_JmerAuchan'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/13246
+2023-12-06 09:32:56+00:00,[User]_nvborisenko,"{'[User]_YevgeniyShunevych', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13249
+2023-12-06 11:49:21+00:00,[User]_nvborisenko,"{'[User]_shs96c', '[User]_nvborisenko', '[User]_ms6073'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13253
+2023-12-07 05:26:13+00:00,[User]_M1troll,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13258
+2023-12-07 08:55:08+00:00,[User]_pujagani,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13259
+2023-12-07 19:40:49+00:00,[User]_mmccartn,{'[User]_CLAassistant'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13266
+2023-12-08 08:17:09+00:00,[User]_pujagani,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_pujagani', '[User]_vietnd96'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13268
+2023-12-08 20:44:42+00:00,[User]_neilvcarvalho,"{'[User]_titusfortner', '[User]_CLAassistant', '[User]_ryanb', '[User]_jeppester', '[User]_runephilosof-abtion', '[User]_neilvcarvalho'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13271
+2023-12-09 17:43:35+00:00,[User]_nvborisenko,{'[User]_nvborisenko'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13277
+2023-12-11 05:17:47+00:00,[User]_lauromoura,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_sandeepsuryaprasad', '[User]_lauromoura'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13278
+2023-12-11 11:50:11+00:00,[User]_bonigarcia,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13281
+2023-12-11 17:21:50+00:00,[User]_bonigarcia,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13283
+2023-12-11 19:04:50+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_pujagani', '[User]_p0deje', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13285
+2023-12-11 21:26:33+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_mykola-mokhnach'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13286
+2023-12-12 09:58:55+00:00,[User]_bonigarcia,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13291
+2023-12-12 13:24:35+00:00,[User]_valfirst,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13292
+2023-12-12 21:07:54+00:00,[User]_titusfortner,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13297
+2023-12-13 18:49:54+00:00,[User]_manuelsblanco,"{'[User]_titusfortner', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13303
+2023-12-14 20:37:00+00:00,[User]_kluever,"{'[User]_diemol', '[User]_CLAassistant', '[User]_kluever'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13309
+2023-12-15 07:21:35+00:00,[User]_pujagani,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13313
+2023-12-15 08:04:22+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13314
+2023-12-17 20:43:29+00:00,[User]_deedy5,"{'[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13321
+2023-12-17 22:01:17+00:00,[User]_manuelsblanco,{'[User]_diemol'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13322
+2023-12-18 08:03:37+00:00,[User]_pujagani,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13325
+2023-12-18 14:23:17+00:00,[User]_manuelsblanco,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13327
+2023-12-18 14:59:10+00:00,[User]_graingert,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant', '[User]_graingert'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13329
+2023-12-18 15:20:34+00:00,[User]_EdwinVanVliet,"{'[User]_EdwinVanVliet', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13330
+2023-12-18 20:03:36+00:00,[User]_nvborisenko,"{'[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13331
+2023-12-18 21:06:17+00:00,[User]_nvborisenko,"{'[User]_codecov-commenter', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13332
+2023-12-19 09:47:14+00:00,[User]_pujagani,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_krmahadevan', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13333
+2023-12-19 15:49:27+00:00,[User]_manuelsblanco,"{'[User]_codecov-commenter', '[User]_pujagani'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13335
+2023-12-19 20:07:54+00:00,[User]_manuelsblanco,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13336
+2023-12-20 06:40:51+00:00,[User]_titusfortner,"{'[User]_p0deje', '[User]_diemol', '[User]_apupier', '[User]_titusfortner'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13338
+2023-12-21 16:16:32+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/13347
+2023-12-21 17:50:25+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_joerg1985', '[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/13349
+2023-12-21 21:15:42+00:00,[User]_manuelsblanco,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_jsa34', '[User]_manuelsblanco'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13351
+2023-12-22 00:36:29+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/13352
+2023-12-22 05:45:42+00:00,[User]_vietnd96,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13353
+2023-12-22 13:48:12+00:00,[User]_qpttat2812,{'[User]_CLAassistant'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13354
+2023-12-23 19:01:14+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13356
+2023-12-26 06:57:14+00:00,[User]_pujagani,set(),SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13360
+2023-12-26 11:50:00+00:00,[User]_pujagani,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13362
+2023-12-29 16:52:47+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13372
+2023-12-29 20:50:01+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13373
+2023-12-30 18:13:58+00:00,[User]_graingert,"{'[User]_titusfortner', '[User]_diemol', '[User]_graingert'}",SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/pull/13377
+2023-12-31 16:08:37+00:00,[User]_titusfortner,{'[User]_titusfortner'},SeleniumHQ/selenium,2023,https://github.com/SeleniumHQ/selenium/issues/13379
+2024-01-01 00:10:27+00:00,[User]_seidnerj,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_CLAassistant', '[User]_viniciusd', '[User]_seidnerj'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13381
+2024-01-02 17:40:35+00:00,[User]_titusfortner,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/issues/13383
+2024-01-02 17:54:29+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_bonigarcia'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/issues/13384
+2024-01-02 20:18:46+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13387
+2024-01-03 00:54:39+00:00,[User]_harsha509,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13388
+2024-01-03 09:27:16+00:00,[User]_pujagani,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_harsha509'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13389
+2024-01-03 21:36:49+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_joerg1985'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13392
+2024-01-05 22:46:54+00:00,[User]_valfirst,{'[User]_titusfortner'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13399
+2024-01-06 20:57:20+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_AutomatedTester', '[User]_sandeepsuryaprasad'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13402
+2024-01-07 20:20:06+00:00,[User]_valfirst,{'[User]_diemol'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13405
+2024-01-07 23:18:30+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_Dor-bl'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/issues/13406
+2024-01-08 04:06:21+00:00,[User]_vietnd96,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_krmahadevan', '[User]_vietnd96'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13407
+2024-01-08 08:24:56+00:00,[User]_pujagani,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13408
+2024-01-09 03:06:31+00:00,[User]_vietnd96,"{'[User]_vietnd96', '[User]_codecov-commenter', '[User]_diemol', '[User]_pujagani'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13413
+2024-01-09 10:56:28+00:00,[User]_bonigarcia,"{'[User]_titusfortner', '[User]_diemol', '[User]_bonigarcia'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13414
+2024-01-09 13:34:40+00:00,[User]_mzubairtahir,"{'[User]_codecov-commenter', '[User]_CLAassistant'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13415
+2024-01-09 18:52:54+00:00,[User]_joerg1985,{'[User]_shs96c'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13416
+2024-01-09 22:52:24+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_diemol', '[User]_bonigarcia'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/issues/13420
+2024-01-09 23:43:03+00:00,[User]_p0deje,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13422
+2024-01-10 12:25:44+00:00,[User]_valfirst,{'[User]_diemol'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13425
+2024-01-13 22:50:06+00:00,[User]_p0deje,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13435
+2024-01-15 06:34:16+00:00,[User]_middlingphys,"{'[User]_CLAassistant', '[User]_pujagani'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13440
+2024-01-15 21:10:01+00:00,[User]_manuelsblanco,"{'[User]_manuelsblanco', '[User]_titusfortner', '[User]_pujagani'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13444
+2024-01-16 07:45:23+00:00,[User]_pujagani,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13445
+2024-01-17 16:27:50+00:00,[User]_manuelsblanco,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_pujagani'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13450
+2024-01-17 20:03:48+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_nvborisenko'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13452
+2024-01-17 21:32:54+00:00,[User]_Earlopain,"{'[User]_titusfortner', '[User]_Earlopain'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13454
+2024-01-18 18:55:55+00:00,[User]_titusfortner,"{'[User]_p0deje', '[User]_titusfortner'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13457
+2024-01-18 22:06:05+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_naseemx'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/issues/13459
+2024-01-19 10:10:31+00:00,[User]_pujagani,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_pujagani'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13463
+2024-01-19 13:11:24+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13465
+2024-01-19 14:46:57+00:00,[User]_titusfortner,"{'[User]_p0deje', '[User]_diemol', '[User]_titusfortner'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13466
+2024-01-19 18:02:41+00:00,[User]_nvborisenko,{'[User]_diemol'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13468
+2024-01-19 21:18:05+00:00,[User]_nvborisenko,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13471
+2024-01-20 20:00:55+00:00,[User]_jamesbraza,"{'[User]_codecov-commenter', '[User]_CLAassistant'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13475
+2024-01-20 22:19:49+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13476
+2024-01-21 05:28:24+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13477
+2024-01-22 08:46:03+00:00,[User]_pujagani,{'[User]_diemol'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13479
+2024-01-22 15:41:56+00:00,[User]_take0x,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_CLAassistant'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13482
+2024-01-22 18:20:14+00:00,[User]_titusfortner,"{'[User]_p0deje', '[User]_titusfortner'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/issues/13483
+2024-01-22 21:00:23+00:00,[User]_titusfortner,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13485
+2024-01-23 09:05:27+00:00,[User]_EwaMarek,"{'[User]_EwaMarek', '[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13487
+2024-01-23 09:50:56+00:00,[User]_pujagani,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13489
+2024-01-23 10:27:30+00:00,[User]_adamtheturtle,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13490
+2024-01-23 10:38:25+00:00,[User]_adamtheturtle,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13491
+2024-01-23 10:59:57+00:00,[User]_adamtheturtle,"{'[User]_adamtheturtle', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13492
+2024-01-23 13:09:46+00:00,[User]_Jakub-CZ,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant', '[User]_Jakub-CZ'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13494
+2024-01-24 01:53:38+00:00,[User]_kmgallahan,{'[User]_CLAassistant'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13498
+2024-01-24 12:24:37+00:00,[User]_pujagani,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13501
+2024-01-25 09:57:39+00:00,[User]_nvborisenko,"{'[User]_titusfortner', '[User]_nvborisenko'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13507
+2024-01-25 20:31:04+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13512
+2024-01-25 22:54:13+00:00,[User]_titusfortner,"{'[User]_p0deje', '[User]_titusfortner'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13513
+2024-01-25 23:12:04+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant', '[User]_p0deje'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13514
+2024-01-26 17:09:28+00:00,[User]_titusfortner,{'[User]_p0deje'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13516
+2024-01-26 17:14:06+00:00,[User]_selenium-ci,"{'[User]_titusfortner', '[User]_codecov-commenter'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13517
+2024-01-29 18:36:16+00:00,[User]_titusfortner,"{'[User]_titusfortner', '[User]_A1exKH', '[User]_nvborisenko'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13522
+2024-01-30 00:31:44+00:00,[User]_selenium-ci,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13523
+2024-01-30 14:56:09+00:00,[User]_guillaumebriday,"{'[User]_titusfortner', '[User]_A1exKH'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13526
+2024-01-31 06:12:01+00:00,[User]_pujagani,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_pujagani'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13528
+2024-02-02 09:24:45+00:00,[User]_diemol,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/issues/13538
+2024-02-02 15:19:02+00:00,[User]_EdwinVanVliet,"{'[User]_titusfortner', '[User]_EdwinVanVliet', '[User]_diemol', '[User]_nvborisenko'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13539
+2024-02-03 00:37:43+00:00,[User]_selenium-ci,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13540
+2024-02-06 00:31:35+00:00,[User]_selenium-ci,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13546
+2024-02-06 15:16:44+00:00,[User]_mtrea,"{'[User]_titusfortner', '[User]_CLAassistant'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13549
+2024-02-07 00:28:57+00:00,[User]_selenium-ci,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13552
+2024-02-07 10:22:08+00:00,[User]_bonigarcia,{'[User]_diemol'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13554
+2024-02-07 11:36:12+00:00,[User]_bonigarcia,{'[User]_diemol'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13555
+2024-02-07 11:55:10+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13556
+2024-02-07 12:28:48+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13557
+2024-02-07 13:27:53+00:00,[User]_valfirst,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13558
+2024-02-07 14:54:18+00:00,[User]_valfirst,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_pujagani'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13559
+2024-02-07 15:25:39+00:00,[User]_shs96c,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13560
+2024-02-08 05:41:39+00:00,[User]_pujagani,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13564
+2024-02-09 14:52:10+00:00,[User]_bonigarcia,{'[User]_diemol'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13566
+2024-02-12 09:22:19+00:00,[User]_semaperepelitsa,"{'[User]_titusfortner', '[User]_CLAassistant'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13570
+2024-02-13 07:39:22+00:00,[User]_pujagani,{'[User]_diemol'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13572
+2024-02-13 15:21:11+00:00,[User]_nvborisenko,{'[User]_diemol'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13576
+2024-02-13 17:55:32+00:00,[User]_p0deje,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13577
+2024-02-14 10:25:01+00:00,[User]_nvborisenko,{'[User]_diemol'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13579
+2024-02-14 16:20:07+00:00,[User]_Trigtrig,"{'[User]_codecov-commenter', '[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13583
+2024-02-14 21:16:22+00:00,[User]_manuelsblanco,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13586
+2024-02-18 22:13:51+00:00,[User]_selenium-ci,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13597
+2024-02-19 12:14:53+00:00,[User]_diemol,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13602
+2024-02-19 21:58:03+00:00,[User]_manuelsblanco,"{'[User]_manuelsblanco', '[User]_codecov-commenter', '[User]_pujagani'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13604
+2024-02-20 10:40:02+00:00,[User]_pujagani,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13607
+2024-02-20 11:14:00+00:00,[User]_nvborisenko,{'[User]_nvborisenko'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13608
+2024-02-21 17:55:20+00:00,[User]_ClaudenirFreitas,"{'[User]_diemol', '[User]_CLAassistant'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13614
+2024-02-23 06:09:14+00:00,[User]_kkb912002,{'[User]_CLAassistant'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13618
+2024-02-23 06:13:15+00:00,[User]_kkb912002,"{'[User]_kkb912002', '[User]_CLAassistant', '[User]_AutomatedTester'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13619
+2024-02-24 15:37:09+00:00,[User]_YevgeniyShunevych,"{'[User]_YevgeniyShunevych', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13626
+2024-02-28 15:57:25+00:00,[User]_Trigtrig,"{'[User]_diemol', '[User]_Trigtrig'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13638
+2024-03-06 15:57:07+00:00,[User]_shs96c,{'[User]_codecov-commenter'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13659
+2024-03-07 14:21:52+00:00,[User]_zhani,"{'[User]_codecov-commenter', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13663
+2024-03-19 19:42:47+00:00,[User]_aguspe,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13709
+2024-03-20 16:25:50+00:00,[User]_pphadatare,"{'[User]_bsamett', '[User]_diemol', '[User]_thycao', '[User]_nienienienie', '[User]_westsidedev', '[User]_sifar1234', '[User]_MuraliJallu', '[User]_pphadatare'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/issues/13716
+2024-04-10 15:55:12+00:00,[User]_aguspe,set(),SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/pull/13796
+2024-04-15 15:11:01+00:00,[User]_keesbosch1996,{'[User]_diemol'},SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/issues/13826
+2024-04-29 12:54:50+00:00,[User]_gitissuepost,"{'[User]_gitissuepost', '[User]_diemol'}",SeleniumHQ/selenium,2024,https://github.com/SeleniumHQ/selenium/issues/13884

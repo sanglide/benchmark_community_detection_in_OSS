@@ -1,0 +1,572 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-02 02:30:07+00:00,[User]_rex-johnston,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2620
+2023-05-02 03:19:30+00:00,[User]_rex-johnston,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2621
+2023-05-02 08:44:42+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_illuusio'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2623
+2023-05-04 05:14:27+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2624
+2023-05-05 10:11:47+00:00,[User]_hholzgra,"{'[User]_grooverdan', '[User]_hholzgra'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2626
+2023-05-10 06:28:29+00:00,[User]_LinuxJedi,"{'[User]_vuvova', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2628
+2023-05-10 08:26:07+00:00,[User]_sjaakola,{'[User]_dlenski'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2629
+2023-05-10 10:50:35+00:00,[User]_an3l,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2630
+2023-05-11 06:56:40+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2631
+2023-05-11 08:21:13+00:00,[User]_sciascid,"{'[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2632
+2023-05-11 09:19:23+00:00,[User]_karmengc,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2633
+2023-05-12 05:56:26+00:00,[User]_janlindstrom,"{'[User]_janlindstrom', '[User]_sysprg', '[User]_dlenski'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2634
+2023-05-12 06:07:25+00:00,[User]_illuusio,"{'[User]_illuusio', '[User]_ottok'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2635
+2023-05-12 06:20:30+00:00,[User]_illuusio,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2636
+2023-05-13 16:11:14+00:00,[User]_LinuxJedi,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2637
+2023-05-14 20:33:54+00:00,[User]_brad0,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_brad0', '[User]_dlenski'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2638
+2023-05-14 23:15:06+00:00,[User]_grooverdan,"{'[User]_LinuxJedi', '[User]_pgnd'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2639
+2023-05-15 08:11:10+00:00,[User]_LinuxJedi,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_dlenski'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2640
+2023-05-16 06:34:27+00:00,[User]_ottok,"{'[User]_ericherman', '[User]_LinuxJedi', '[User]_ottok'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2641
+2023-05-18 02:11:32+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2642
+2023-05-18 12:39:45+00:00,[User]_LinuxJedi,"{'[User]_grooverdan', '[User]_ericherman', '[User]_LinuxJedi', '[User]_dlenski'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2643
+2023-05-20 12:57:49+00:00,[User]_NodeJSd3v3loper,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2644
+2023-05-28 05:44:49+00:00,[User]_ottok,"{'[User]_grooverdan', '[User]_illuusio'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2646
+2023-05-29 06:58:14+00:00,[User]_janlindstrom,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2647
+2023-05-29 08:20:00+00:00,[User]_junqi-xie,"{'[User]_grooverdan', '[User]_haidong', '[User]_LinuxJedi', '[User]_dlenski', '[User]_junqi-xie'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2648
+2023-05-29 13:24:42+00:00,[User]_andrelkin,{'[User]_andrelkin'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2649
+2023-05-30 08:27:40+00:00,[User]_illuusio,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2650
+2023-05-30 10:04:45+00:00,[User]_LinuxJedi,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_fauust', '[User]_ottok'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2651
+2023-05-30 13:12:44+00:00,[User]_diogoteles08,"{'[User]_grooverdan', '[User]_diogoteles08'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2652
+2023-05-30 22:40:23+00:00,[User]_Chaloff,{'[User]_Chaloff'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2653
+2023-05-30 23:45:28+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2654
+2023-05-31 20:20:51+00:00,[User]_bnestere,{'[User]_andrelkin'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2655
+2023-06-01 03:57:18+00:00,[User]_rex-johnston,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2656
+2023-06-01 12:16:34+00:00,[User]_LinuxJedi,"{'[User]_cvicentiu', '[User]_illuusio', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2657
+2023-06-02 01:02:45+00:00,[User]_mariadb-YuchenPei,"{'[User]_grooverdan', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2658
+2023-06-02 15:55:05+00:00,[User]_LinuxJedi,"{'[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2659
+2023-06-04 10:44:15+00:00,[User]_heyingquan0030,{'[User]_CLAassistant'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2660
+2023-06-04 11:07:21+00:00,[User]_heyingquan0030,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2661
+2023-06-05 03:16:36+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_vuvova', '[User]_dlenski'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2662
+2023-06-06 16:40:56+00:00,[User]_bnestere,"{'[User]_bnestere', '[User]_knielsen', '[User]_andrelkin', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2663
+2023-06-07 12:39:51+00:00,[User]_illuusio,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2664
+2023-06-09 22:41:10+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2666
+2023-06-12 11:23:58+00:00,[User]_illuusio,{'[User]_ericherman'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2667
+2023-06-13 02:11:01+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_YuryChaikou-ServiceNow', '[User]_knielsen', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2668
+2023-06-15 05:28:36+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_gremo', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2669
+2023-06-16 00:36:44+00:00,[User]_rex-johnston,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2670
+2023-06-16 20:48:43+00:00,[User]_HugoWenTD,"{'[User]_grooverdan', '[User]_vuvova', '[User]_CLAassistant', '[User]_dlenski', '[User]_HugoWenTD'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2671
+2023-06-17 05:52:13+00:00,[User]_janlindstrom,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2672
+2023-06-17 05:54:50+00:00,[User]_janlindstrom,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2673
+2023-06-20 11:41:23+00:00,[User]_LinuxJedi,"{'[User]_grooverdan', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2674
+2023-06-22 07:06:37+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2675
+2023-06-22 16:59:48+00:00,[User]_lottaquestions,"{'[User]_grooverdan', '[User]_lottaquestions', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2676
+2023-06-22 18:23:55+00:00,[User]_lottaquestions,"{'[User]_lottaquestions', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2677
+2023-06-26 17:15:26+00:00,[User]_bnestere,{'[User]_CLAassistant'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2678
+2023-06-27 05:08:25+00:00,[User]_rex-johnston,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2679
+2023-06-28 13:57:38+00:00,[User]_Vanislavsky,"{'[User]_FooBarrior', '[User]_LinuxJedi', '[User]_Vanislavsky'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2680
+2023-06-28 21:35:29+00:00,[User]_dlenski,"{'[User]_vuvova', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_dlenski', '[User]_markus456'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2681
+2023-07-03 01:34:32+00:00,[User]_rex-johnston,{'[User]_knielsen'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2683
+2023-07-03 16:47:32+00:00,[User]_dlenski,"{'[User]_vuvova', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_dlenski', '[User]_markus456', '[User]_vaintroub', '[User]_svaroqui'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2684
+2023-07-04 15:28:27+00:00,[User]_an3l,"{'[User]_montywi', '[User]_an3l', '[User]_vuvova'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2685
+2023-07-05 06:50:43+00:00,[User]_grooverdan,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2686
+2023-07-05 08:06:35+00:00,[User]_grooverdan,{'[User]_dr-m'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2687
+2023-07-06 06:50:48+00:00,[User]_grooverdan,"{'[User]_fraser-nds', '[User]_grooverdan', '[User]_vuvova', '[User]_LinuxJedi', '[User]_PhysicsTing'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2688
+2023-07-10 01:45:14+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2689
+2023-07-10 02:35:19+00:00,[User]_grooverdan,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2690
+2023-07-10 09:07:32+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2691
+2023-07-10 21:34:33+00:00,[User]_dlenski,"{'[User]_vuvova', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_dlenski'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2692
+2023-07-11 21:56:48+00:00,[User]_bnestere,"{'[User]_andrelkin', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2693
+2023-07-12 15:01:50+00:00,[User]_Olernov,"{'[User]_grooverdan', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2694
+2023-07-14 21:04:35+00:00,[User]_PhysicsTing,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2695
+2023-07-15 08:59:40+00:00,[User]_an3l,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2696
+2023-07-17 19:22:20+00:00,[User]_tntnatbry,"{'[User]_vuvova', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2697
+2023-07-17 22:20:07+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_ottok'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2698
+2023-07-18 02:03:15+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2699
+2023-07-18 03:03:12+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_vuvova', '[User]_dr-m', '[User]_thesamesam', '[User]_clan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2700
+2023-07-18 03:45:08+00:00,[User]_grooverdan,"{'[User]_bnestere', '[User]_an3l', '[User]_grooverdan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2701
+2023-07-18 07:20:32+00:00,[User]_grooverdan,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2702
+2023-07-19 05:04:22+00:00,[User]_rex-johnston,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2703
+2023-07-19 08:15:41+00:00,[User]_cvicentiu,{'[User]_vuvova'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2704
+2023-07-20 03:34:11+00:00,[User]_grooverdan,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2705
+2023-07-21 06:45:17+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_vuvova'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2707
+2023-07-21 10:09:39+00:00,[User]_LinuxJedi,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2708
+2023-07-21 11:29:50+00:00,[User]_grooverdan,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2709
+2023-07-22 11:47:04+00:00,[User]_9EOR9,{'[User]_CLAassistant'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2710
+2023-07-25 01:09:16+00:00,[User]_grooverdan,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2711
+2023-07-25 12:14:00+00:00,[User]_iangilfillan,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2712
+2023-07-25 18:40:43+00:00,[User]_iangilfillan,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2713
+2023-07-26 07:27:51+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2714
+2023-07-26 13:06:06+00:00,[User]_Olernov,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2715
+2023-07-27 05:23:07+00:00,[User]_janlindstrom,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2716
+2023-07-27 05:25:18+00:00,[User]_janlindstrom,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2717
+2023-07-31 20:22:27+00:00,[User]_ayurchen,"{'[User]_grooverdan', '[User]_ayurchen'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2718
+2023-08-03 07:33:59+00:00,[User]_shalom2727,"{'[User]_vuvova', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_ericherman', '[User]_shalom2727'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2719
+2023-08-04 00:10:13+00:00,[User]_an3l,"{'[User]_an3l', '[User]_vuvova'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2720
+2023-08-07 09:41:33+00:00,[User]_sjaakola,"{'[User]_knielsen', '[User]_sysprg'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2721
+2023-08-08 13:06:37+00:00,[User]_LinuxJedi,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2722
+2023-08-08 17:27:11+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2723
+2023-08-09 00:31:29+00:00,[User]_eworm-de,{'[User]_eworm-de'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2724
+2023-08-09 07:02:52+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2725
+2023-08-10 06:57:06+00:00,[User]_eworm-de,"{'[User]_grooverdan', '[User]_eworm-de', '[User]_illuusio', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2726
+2023-08-12 22:31:18+00:00,[User]_federico-razzoli,"{'[User]_federico-razzoli', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2727
+2023-08-14 00:34:16+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_illuusio'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2728
+2023-08-14 11:41:38+00:00,[User]_an3l,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2729
+2023-08-15 01:45:32+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2731
+2023-08-20 13:19:53+00:00,[User]_ZhongRuoyu,"{'[User]_grooverdan', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2732
+2023-08-23 09:16:47+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2733
+2023-08-24 09:04:12+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2734
+2023-08-24 11:37:54+00:00,[User]_an3l,"{'[User]_bnestere', '[User]_knielsen', '[User]_an3l'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2735
+2023-08-24 11:52:03+00:00,[User]_bnestere,"{'[User]_bnestere', '[User]_knielsen', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2736
+2023-08-24 13:44:04+00:00,[User]_an3l,{'[User]_bnestere'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2737
+2023-08-25 05:06:37+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2738
+2023-08-26 03:46:45+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_dr-m', '[User]_FooBarrior'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2739
+2023-08-28 13:48:06+00:00,[User]_cvicentiu,"{'[User]_abarkov', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2740
+2023-08-28 18:21:19+00:00,[User]_bnestere,"{'[User]_bnestere', '[User]_knielsen', '[User]_andrelkin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2741
+2023-08-30 05:21:13+00:00,[User]_grooverdan,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2742
+2023-08-30 23:22:29+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_vuvova'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2743
+2023-08-31 03:18:57+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_vuvova'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2744
+2023-09-04 07:33:39+00:00,[User]_Nayana-ibm,"{'[User]_grooverdan', '[User]_dr-m', '[User]_Nayana-ibm', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2745
+2023-09-05 07:22:59+00:00,[User]_sciascid,"{'[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2746
+2023-09-05 17:30:41+00:00,[User]_rusher,{'[User]_CLAassistant'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2747
+2023-09-06 06:59:36+00:00,[User]_illuusio,"{'[User]_grooverdan', '[User]_illuusio', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2748
+2023-09-06 07:07:10+00:00,[User]_grooverdan,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2749
+2023-09-06 16:48:28+00:00,[User]_YVEF,"{'[User]_grooverdan', '[User]_vuvova', '[User]_YVEF', '[User]_CLAassistant', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2750
+2023-09-07 09:52:06+00:00,[User]_9EOR9,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2751
+2023-09-08 05:47:23+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2752
+2023-09-08 08:45:55+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2753
+2023-09-08 08:46:40+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2754
+2023-09-13 07:49:02+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_vaintroub'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2755
+2023-09-13 12:20:05+00:00,[User]_grooverdan,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2756
+2023-09-13 12:40:27+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_cvicentiu'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2757
+2023-09-14 07:41:13+00:00,[User]_LinuxJedi,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2758
+2023-09-15 21:12:46+00:00,[User]_bnestere,{'[User]_knielsen'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2760
+2023-09-17 15:48:21+00:00,[User]_heyingquan0030,"{'[User]_grooverdan', '[User]_vuvova', '[User]_heyingquan0030'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2761
+2023-09-18 15:21:08+00:00,[User]_an3l,{'[User]_bnestere'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2762
+2023-09-18 18:04:46+00:00,[User]_dlenski,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_dlenski', '[User]_andrelkin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2763
+2023-09-19 02:41:10+00:00,[User]_grooverdan,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2764
+2023-09-19 03:54:28+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2765
+2023-09-19 05:50:05+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_cvicentiu'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2766
+2023-09-20 03:53:44+00:00,[User]_grooverdan,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2767
+2023-09-20 07:51:17+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2768
+2023-09-21 08:33:28+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2769
+2023-09-25 23:22:42+00:00,[User]_grooverdan,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2771
+2023-09-27 20:57:56+00:00,[User]_bnestere,"{'[User]_bnestere', '[User]_andrelkin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2772
+2023-09-28 14:38:23+00:00,[User]_an3l,"{'[User]_an3l', '[User]_vuvova'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2773
+2023-09-30 20:19:24+00:00,[User]_temeo,"{'[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2774
+2023-10-01 07:20:55+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_illuusio', '[User]_ottok'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2775
+2023-10-02 09:20:16+00:00,[User]_tgross35,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2776
+2023-10-05 13:59:07+00:00,[User]_grooverdan,"{'[User]_LinuxJedi', '[User]_ottok'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2777
+2023-10-08 04:05:30+00:00,[User]_ottok,"{'[User]_grooverdan', '[User]_illuusio', '[User]_ottok'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2778
+2023-10-08 04:30:07+00:00,[User]_ottok,"{'[User]_grooverdan', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2779
+2023-10-08 14:39:45+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_ottok'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2780
+2023-10-09 07:17:53+00:00,[User]_gelidNiu,"{'[User]_grooverdan', '[User]_gelidNiu', '[User]_CLAassistant', '[User]_cyb70289'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2781
+2023-10-10 12:34:40+00:00,[User]_Olernov,{'[User]_CLAassistant'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2782
+2023-10-12 01:59:50+00:00,[User]_grooverdan,{'[User]_vuvova'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2783
+2023-10-12 04:39:11+00:00,[User]_grooverdan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2784
+2023-10-12 06:40:18+00:00,[User]_grooverdan,{'[User]_dr-m'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2785
+2023-10-12 12:46:06+00:00,[User]_iangilfillan,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2786
+2023-10-12 22:13:21+00:00,[User]_grooverdan,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2787
+2023-10-16 10:49:15+00:00,[User]_dr-m,"{'[User]_FooBarrior', '[User]_dr-m', '[User]_CLAassistant', '[User]_vaintroub'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2789
+2023-10-17 13:59:02+00:00,[User]_an3l,"{'[User]_grooverdan', '[User]_cvicentiu', '[User]_an3l'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2790
+2023-10-19 07:51:50+00:00,[User]_sjaakola,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2791
+2023-10-19 09:28:51+00:00,[User]_dr-m,"{'[User]_vaintroub', '[User]_dr-m', '[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2792
+2023-10-20 05:19:21+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2793
+2023-10-20 07:08:54+00:00,[User]_illuusio,"{'[User]_grooverdan', '[User]_Justman100', '[User]_illuusio', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2794
+2023-10-21 02:45:57+00:00,[User]_anthonyryan1,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2795
+2023-10-21 05:25:14+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_vaintroub', '[User]_illuusio', '[User]_vuvova'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2796
+2023-10-21 05:57:04+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_illuusio', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2797
+2023-10-23 21:10:05+00:00,[User]_bnestere,"{'[User]_bnestere', '[User]_vaintroub', '[User]_andrelkin', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2798
+2023-10-24 14:18:14+00:00,[User]_sciascid,"{'[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2800
+2023-10-24 17:20:30+00:00,[User]_mariadb-LuisLizardo,"{'[User]_grooverdan', '[User]_midenok', '[User]_mariadb-LuisLizardo'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2801
+2023-10-24 22:11:39+00:00,[User]_an3l,"{'[User]_an3l', '[User]_vuvova'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2802
+2023-10-26 07:49:21+00:00,[User]_SongLibing,"{'[User]_bnestere', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_SongLibing', '[User]_andrelkin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2803
+2023-10-27 04:56:46+00:00,[User]_gelidNiu,"{'[User]_grooverdan', '[User]_dr-m', '[User]_gelidNiu'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2804
+2023-10-27 08:39:26+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_dr-m', '[User]_CLAassistant', '[User]_mleich1'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2805
+2023-10-27 09:57:30+00:00,[User]_an3l,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2806
+2023-10-27 15:15:55+00:00,[User]_vaintroub,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2807
+2023-10-28 18:45:59+00:00,[User]_gulshanpr,"{'[User]_grooverdan', '[User]_CLAassistant', '[User]_gulshanpr'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2808
+2023-10-30 13:31:53+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_grooverdan', '[User]_DaveGosselin-MariaDB', '[User]_CLAassistant', '[User]_spetrunia', '[User]_dr-m'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2809
+2023-10-30 18:29:02+00:00,[User]_gulshanpr,"{'[User]_bnestere', '[User]_grooverdan', '[User]_CLAassistant', '[User]_gulshanpr'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2810
+2023-10-31 19:38:44+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_grooverdan', '[User]_DaveGosselin-MariaDB', '[User]_spetrunia', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2812
+2023-11-02 03:35:23+00:00,[User]_howz97,"{'[User]_grooverdan', '[User]_howz97', '[User]_CLAassistant', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2813
+2023-11-02 07:10:52+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2814
+2023-11-02 12:41:23+00:00,[User]_an3l,"{'[User]_cvicentiu', '[User]_an3l'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2815
+2023-11-03 01:16:01+00:00,[User]_mariadb-RexJohnston,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2816
+2023-11-03 08:48:52+00:00,[User]_an3l,{'[User]_montywi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2817
+2023-11-06 01:05:50+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_vaintroub', '[User]_an3l'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2818
+2023-11-06 06:24:20+00:00,[User]_illuusio,"{'[User]_grooverdan', '[User]_illuusio', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2819
+2023-11-07 20:40:20+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_spetrunia', '[User]_vuvova', '[User]_CLAassistant', '[User]_DaveGosselin-MariaDB'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2821
+2023-11-08 11:47:57+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2822
+2023-11-09 06:08:41+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2823
+2023-11-09 08:02:41+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2824
+2023-11-09 10:29:06+00:00,[User]_Thirunarayanan,{'[User]_CLAassistant'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2825
+2023-11-09 11:22:25+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2826
+2023-11-10 07:59:09+00:00,[User]_an3l,"{'[User]_grooverdan', '[User]_aheacon', '[User]_an3l', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2827
+2023-11-10 09:32:56+00:00,[User]_illuusio,"{'[User]_grooverdan', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2828
+2023-11-10 10:38:56+00:00,[User]_dr-m,"{'[User]_Thirunarayanan', '[User]_dr-m', '[User]_CLAassistant', '[User]_mleich1'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2829
+2023-11-10 11:39:57+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2831
+2023-11-10 14:42:17+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2832
+2023-11-13 14:57:03+00:00,[User]_dr-m,"{'[User]_mleich1', '[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan', '[User]_vaintroub'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2834
+2023-11-13 17:36:04+00:00,[User]_iangilfillan,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2835
+2023-11-13 20:16:33+00:00,[User]_grooverdan,{'[User]_dmitryshulga'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2836
+2023-11-13 23:54:33+00:00,[User]_grooverdan,{'[User]_mariadb-RuchaDeodhar'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2837
+2023-11-14 08:58:59+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2838
+2023-11-14 11:19:18+00:00,[User]_an3l,"{'[User]_cvicentiu', '[User]_an3l'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2839
+2023-11-14 12:59:26+00:00,[User]_an3l,{'[User]_an3l'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2840
+2023-11-14 14:26:44+00:00,[User]_an3l,{'[User]_bnestere'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2841
+2023-11-15 06:45:50+00:00,[User]_tgross35,"{'[User]_grooverdan', '[User]_tgross35', '[User]_vuvova'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2842
+2023-11-15 08:57:03+00:00,[User]_illuusio,"{'[User]_grooverdan', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2843
+2023-11-15 16:27:06+00:00,[User]_bnestere,"{'[User]_bnestere', '[User]_knielsen', '[User]_andrelkin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2844
+2023-11-16 01:01:24+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2845
+2023-11-16 06:08:47+00:00,[User]_janlindstrom,{'[User]_knielsen'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2846
+2023-11-16 14:47:06+00:00,[User]_dr-m,"{'[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2847
+2023-11-17 01:38:54+00:00,[User]_mariadb-RexJohnston,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2849
+2023-11-17 07:51:56+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2850
+2023-11-17 09:20:45+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2851
+2023-11-17 09:23:29+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2852
+2023-11-17 09:26:25+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2853
+2023-11-17 17:47:23+00:00,[User]_LinuxJedi,"{'[User]_grooverdan', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2854
+2023-11-18 14:37:50+00:00,[User]_gulshanpr,"{'[User]_bnestere', '[User]_an3l', '[User]_gulshanpr'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2855
+2023-11-20 07:46:34+00:00,[User]_sciascid,"{'[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2856
+2023-11-20 09:04:03+00:00,[User]_dr-m,"{'[User]_vaintroub', '[User]_CLAassistant', '[User]_dr-m'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2857
+2023-11-20 13:06:07+00:00,[User]_sciascid,"{'[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2858
+2023-11-20 15:29:58+00:00,[User]_an3l,"{'[User]_grooverdan', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2859
+2023-11-20 16:03:58+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2860
+2023-11-21 20:21:47+00:00,[User]_SeanCAdams,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2861
+2023-11-22 17:46:23+00:00,[User]_mariadb-RexJohnston,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2862
+2023-11-22 21:53:20+00:00,[User]_an3l,{'[User]_andrelkin'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2863
+2023-11-23 09:19:05+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2865
+2023-11-23 10:19:58+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2866
+2023-11-27 07:11:10+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2867
+2023-11-27 08:12:03+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2868
+2023-11-27 13:26:31+00:00,[User]_dr-m,"{'[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2869
+2023-11-27 15:08:06+00:00,[User]_SongLibing,"{'[User]_LinuxJedi', '[User]_SongLibing', '[User]_andrelkin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2872
+2023-11-27 23:51:57+00:00,[User]_jasoncu-MariaDB,"{'[User]_grooverdan', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2873
+2023-11-28 11:47:50+00:00,[User]_vaintroub,{'[User]_vaintroub'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2875
+2023-11-28 12:00:52+00:00,[User]_vaintroub,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2876
+2023-11-28 13:59:29+00:00,[User]_vlad-lesin,{'[User]_dr-m'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2878
+2023-11-29 01:28:03+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2880
+2023-11-29 07:21:39+00:00,[User]_dr-m,"{'[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2881
+2023-11-29 14:54:42+00:00,[User]_bnestere,"{'[User]_bnestere', '[User]_knielsen'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2882
+2023-11-30 03:16:32+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_mariadb-RexJohnston', '[User]_ottok'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2883
+2023-11-30 10:32:38+00:00,[User]_denis-protivensky,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2885
+2023-11-30 14:08:52+00:00,[User]_bnestere,{'[User]_andrelkin'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2886
+2023-11-30 15:08:43+00:00,[User]_sciascid,"{'[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2887
+2023-11-30 19:48:52+00:00,[User]_mariadb-RexJohnston,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2888
+2023-11-30 19:53:11+00:00,[User]_mariadb-RexJohnston,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2889
+2023-12-01 08:23:27+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_illuusio', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2890
+2023-12-01 10:00:24+00:00,[User]_dr-m,{'[User]_CLAassistant'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2891
+2023-12-04 08:08:08+00:00,[User]_illuusio,"{'[User]_grooverdan', '[User]_ottok'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2893
+2023-12-04 15:12:01+00:00,[User]_bnestere,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2895
+2023-12-05 09:56:09+00:00,[User]_illuusio,"{'[User]_grooverdan', '[User]_CLAassistant', '[User]_ottok', '[User]_FooBarrior', '[User]_vaintroub', '[User]_dr-m', '[User]_illuusio'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2896
+2023-12-05 12:45:28+00:00,[User]_dr-m,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2897
+2023-12-05 15:11:30+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2898
+2023-12-05 22:21:19+00:00,[User]_jasoncu-MariaDB,{'[User]_spetrunia'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2899
+2023-12-05 23:47:16+00:00,[User]_bnestere,"{'[User]_knielsen', '[User]_andrelkin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2900
+2023-12-06 06:14:37+00:00,[User]_an3l,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2901
+2023-12-06 15:44:54+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2903
+2023-12-06 18:29:13+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_DaveGosselin-MariaDB', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2904
+2023-12-07 12:15:49+00:00,[User]_denis-protivensky,"{'[User]_dr-m', '[User]_denis-protivensky', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2907
+2023-12-07 17:48:15+00:00,[User]_robinnewhouse,"{'[User]_dlenski', '[User]_LinuxJedi', '[User]_robinnewhouse'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2910
+2023-12-10 16:49:58+00:00,[User]_hsser,"{'[User]_grooverdan', '[User]_an3l', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2912
+2023-12-10 20:01:15+00:00,[User]_mariadb-RexJohnston,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2913
+2023-12-10 20:14:18+00:00,[User]_Luko429,"{'[User]_LinuxJedi', '[User]_CLAassistant', '[User]_LukeRecInd'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2914
+2023-12-10 23:19:35+00:00,[User]_grooverdan,"{'[User]_vaintroub', '[User]_dr-m'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2915
+2023-12-11 10:53:53+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2916
+2023-12-11 10:57:36+00:00,[User]_janlindstrom,"{'[User]_dr-m', '[User]_sysprg'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2918
+2023-12-11 12:21:50+00:00,[User]_dr-m,"{'[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2919
+2023-12-11 13:30:36+00:00,[User]_dr-m,"{'[User]_grooverdan', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2920
+2023-12-12 07:44:48+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2921
+2023-12-12 08:33:54+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2922
+2023-12-12 09:03:57+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2923
+2023-12-12 09:56:20+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2924
+2023-12-12 15:27:08+00:00,[User]_dr-m,"{'[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2925
+2023-12-12 16:47:37+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2926
+2023-12-13 00:17:07+00:00,[User]_robinnewhouse,"{'[User]_grooverdan', '[User]_vuvova', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_dlenski', '[User]_FooBarrior', '[User]_robinnewhouse'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2927
+2023-12-13 00:36:58+00:00,[User]_christian7007,"{'[User]_grooverdan', '[User]_vuvova', '[User]_CLAassistant', '[User]_dlenski', '[User]_christian7007'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2928
+2023-12-13 06:15:58+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2929
+2023-12-13 08:58:36+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2930
+2023-12-13 09:02:27+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2931
+2023-12-13 12:24:00+00:00,[User]_sjaakola,"{'[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2932
+2023-12-13 13:44:59+00:00,[User]_dr-m,"{'[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2933
+2023-12-13 20:05:06+00:00,[User]_adaugherity,"{'[User]_grooverdan', '[User]_adaugherity', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2934
+2023-12-13 23:22:48+00:00,[User]_tonychen2001,"{'[User]_vuvova', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_tonychen2001'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2935
+2023-12-14 00:31:17+00:00,[User]_tonychen2001,{'[User]_CLAassistant'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2936
+2023-12-14 06:44:52+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_dmitryshulga'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2937
+2023-12-14 07:06:59+00:00,[User]_grooverdan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2938
+2023-12-15 13:56:38+00:00,[User]_labath,"{'[User]_labath', '[User]_dr-m', '[User]_vuvova', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2939
+2023-12-18 04:26:13+00:00,[User]_hsser,"{'[User]_grooverdan', '[User]_an3l', '[User]_LinuxJedi', '[User]_hsser'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2940
+2023-12-18 08:13:04+00:00,[User]_iangilfillan,"{'[User]_grooverdan', '[User]_illuusio', '[User]_iangilfillan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2941
+2023-12-18 08:45:42+00:00,[User]_dr-m,"{'[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2942
+2023-12-19 06:32:59+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2943
+2023-12-19 07:21:30+00:00,[User]_grooverdan,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2944
+2023-12-19 10:16:08+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2945
+2023-12-19 10:28:02+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2946
+2023-12-19 12:49:21+00:00,[User]_dr-m,{'[User]_CLAassistant'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2947
+2023-12-19 13:24:32+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2948
+2023-12-19 14:23:25+00:00,[User]_dr-m,"{'[User]_mariadb-DebarunBanerjee', '[User]_vaintroub', '[User]_CLAassistant', '[User]_dr-m'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2949
+2023-12-19 22:25:13+00:00,[User]_grooverdan,{'[User]_CLAassistant'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2950
+2023-12-19 22:57:21+00:00,[User]_grooverdan,{'[User]_dr-m'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2951
+2023-12-19 23:43:40+00:00,[User]_grooverdan,set(),MariaDB/server,2023,https://github.com/MariaDB/server/pull/2952
+2023-12-20 03:04:25+00:00,[User]_SongLibing,"{'[User]_FooBarrior', '[User]_andrelkin', '[User]_SongLibing', '[User]_LinuxJedi'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2953
+2023-12-20 04:43:06+00:00,[User]_grooverdan,{'[User]_grooverdan'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2954
+2023-12-20 06:05:13+00:00,[User]_hardpoem,"{'[User]_dr-m', '[User]_poempeng', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2955
+2023-12-20 23:06:21+00:00,[User]_grooverdan,{'[User]_dr-m'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2956
+2023-12-21 04:34:31+00:00,[User]_tgross35,"{'[User]_grooverdan', '[User]_tgross35', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2957
+2023-12-21 08:51:22+00:00,[User]_tgross35,"{'[User]_grooverdan', '[User]_CLAassistant', '[User]_dlenski', '[User]_tgross35', '[User]_vaintroub'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2958
+2023-12-21 15:19:48+00:00,[User]_dr-m,"{'[User]_FooBarrior', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2959
+2023-12-21 20:11:18+00:00,[User]_Sophist-UK,"{'[User]_grooverdan', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2960
+2023-12-21 22:41:01+00:00,[User]_keeper,"{'[User]_FooBarrior', '[User]_dr-m', '[User]_keeper', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2961
+2023-12-22 06:36:07+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2962
+2023-12-22 08:09:08+00:00,[User]_hsser,{'[User]_bnestere'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2963
+2023-12-22 12:49:35+00:00,[User]_dr-m,"{'[User]_Thirunarayanan', '[User]_dr-m', '[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2964
+2023-12-22 19:28:35+00:00,[User]_PhysicsTing,"{'[User]_vuvova', '[User]_CLAassistant', '[User]_dlenski', '[User]_ottok', '[User]_PhysicsTing', '[User]_dr-m'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2965
+2023-12-26 16:33:41+00:00,[User]_jayaddison,"{'[User]_jayaddison', '[User]_CLAassistant', '[User]_vuvova'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2966
+2023-12-27 03:23:21+00:00,[User]_northhurricane,"{'[User]_northhurricane', '[User]_vaintroub', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2967
+2023-12-27 10:14:24+00:00,[User]_denis-protivensky,"{'[User]_janlindstrom', '[User]_dr-m', '[User]_denis-protivensky', '[User]_CLAassistant'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2968
+2023-12-27 10:30:18+00:00,[User]_denis-protivensky,{'[User]_CLAassistant'},MariaDB/server,2023,https://github.com/MariaDB/server/pull/2969
+2023-12-28 14:22:12+00:00,[User]_spetrunia,"{'[User]_spetrunia', '[User]_Olernov'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2970
+2023-12-30 14:00:31+00:00,[User]_Olernov,"{'[User]_spetrunia', '[User]_cvicentiu', '[User]_Olernov'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2971
+2023-12-30 21:41:05+00:00,[User]_brad0,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_brad0'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2972
+2023-12-31 00:46:48+00:00,[User]_brad0,"{'[User]_grooverdan', '[User]_brad0'}",MariaDB/server,2023,https://github.com/MariaDB/server/pull/2973
+2024-01-03 08:28:02+00:00,[User]_dr-m,"{'[User]_montywi', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2974
+2024-01-04 06:27:28+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/2975
+2024-01-04 12:10:54+00:00,[User]_vainiovano,"{'[User]_montywi', '[User]_CLAassistant', '[User]_dr-m', '[User]_ottok', '[User]_vainiovano', '[User]_vaintroub'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2976
+2024-01-04 13:32:27+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/2977
+2024-01-04 14:56:40+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/2978
+2024-01-04 15:20:12+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2979
+2024-01-04 16:01:38+00:00,[User]_aurel32,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_ottok', '[User]_illuusio'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2980
+2024-01-05 07:09:48+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2981
+2024-01-07 10:55:19+00:00,[User]_jtojnar,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2983
+2024-01-08 17:00:47+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_spetrunia', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2984
+2024-01-08 18:18:03+00:00,[User]_christian7007,"{'[User]_ottok', '[User]_christian7007', '[User]_CLAassistant', '[User]_vuvova'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2985
+2024-01-09 11:51:34+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/2986
+2024-01-09 23:14:44+00:00,[User]_grooverdan,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/2988
+2024-01-09 23:58:58+00:00,[User]_grooverdan,"{'[User]_cvicentiu', '[User]_an3l', '[User]_vuvova'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2989
+2024-01-10 06:06:20+00:00,[User]_dr-m,"{'[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2990
+2024-01-10 17:22:52+00:00,[User]_vaintroub,"{'[User]_vaintroub', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2991
+2024-01-11 04:08:37+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_vaintroub'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2992
+2024-01-11 11:05:36+00:00,[User]_cvicentiu,"{'[User]_spetrunia', '[User]_cvicentiu'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2993
+2024-01-11 11:42:13+00:00,[User]_dr-m,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2994
+2024-01-11 12:42:14+00:00,[User]_an3l,"{'[User]_grooverdan', '[User]_CLAassistant', '[User]_ottok'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2995
+2024-01-11 14:31:55+00:00,[User]_an3l,"{'[User]_grooverdan', '[User]_an3l'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2996
+2024-01-11 15:05:12+00:00,[User]_an3l,"{'[User]_bnestere', '[User]_cvicentiu', '[User]_an3l', '[User]_andrelkin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2997
+2024-01-11 17:27:21+00:00,[User]_bnestere,"{'[User]_bnestere', '[User]_knielsen'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2998
+2024-01-11 19:55:35+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_spetrunia', '[User]_cvicentiu', '[User]_CLAassistant', '[User]_DaveGosselin-MariaDB'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/2999
+2024-01-12 07:16:07+00:00,[User]_hsser,{'[User]_grooverdan'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3000
+2024-01-12 09:16:33+00:00,[User]_sciascid,"{'[User]_sysprg', '[User]_sciascid', '[User]_Chupsy', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3001
+2024-01-12 12:21:13+00:00,[User]_dr-m,"{'[User]_grooverdan', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3002
+2024-01-12 19:01:11+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3003
+2024-01-15 17:09:35+00:00,[User]_iangilfillan,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3005
+2024-01-15 17:20:28+00:00,[User]_iangilfillan,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3006
+2024-01-16 07:11:57+00:00,[User]_dr-m,"{'[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3007
+2024-01-17 20:18:11+00:00,[User]_bnestere,{'[User]_knielsen'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3008
+2024-01-18 06:19:51+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3009
+2024-01-18 09:30:47+00:00,[User]_denis-protivensky,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3010
+2024-01-18 09:33:38+00:00,[User]_denis-protivensky,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3011
+2024-01-18 11:00:46+00:00,[User]_Olernov,"{'[User]_grooverdan', '[User]_spetrunia', '[User]_Olernov'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3012
+2024-01-19 04:38:03+00:00,[User]_grooverdan,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3013
+2024-01-22 00:46:48+00:00,[User]_grooverdan,{'[User]_illuusio'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3014
+2024-01-22 03:29:37+00:00,[User]_grooverdan,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3015
+2024-01-22 11:59:47+00:00,[User]_bnestere,{'[User]_andrelkin'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3016
+2024-01-22 16:53:24+00:00,[User]_mariadb-RexJohnston,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3017
+2024-01-23 02:32:05+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_DaveGosselin-MariaDB'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3018
+2024-01-23 06:47:46+00:00,[User]_janlindstrom,"{'[User]_dr-m', '[User]_sysprg'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3019
+2024-01-23 08:58:06+00:00,[User]_iangilfillan,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3020
+2024-01-23 15:26:49+00:00,[User]_dr-m,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3021
+2024-01-24 12:17:43+00:00,[User]_dr-m,"{'[User]_mariadb-DebarunBanerjee', '[User]_montywi', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3022
+2024-01-24 14:32:12+00:00,[User]_sciascid,"{'[User]_grooverdan', '[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3023
+2024-01-25 05:32:00+00:00,[User]_grooverdan,"{'[User]_illuusio', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3024
+2024-01-26 17:29:42+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_DaveGosselin-MariaDB', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3025
+2024-01-26 21:31:11+00:00,[User]_robinnewhouse,"{'[User]_grooverdan', '[User]_vuvova', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_dlenski'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3026
+2024-01-28 23:02:59+00:00,[User]_grooverdan,{'[User]_illuusio'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3027
+2024-01-30 08:59:30+00:00,[User]_gulshanpr,"{'[User]_grooverdan', '[User]_CLAassistant', '[User]_gulshanpr'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3028
+2024-01-30 10:52:23+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3029
+2024-01-30 11:32:11+00:00,[User]_SongLibing,"{'[User]_grooverdan', '[User]_knielsen', '[User]_SongLibing', '[User]_dr-m', '[User]_andrelkin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3030
+2024-01-30 13:27:31+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3031
+2024-01-30 14:11:06+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3032
+2024-01-30 14:31:26+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3033
+2024-01-30 15:10:18+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3034
+2024-01-30 23:10:29+00:00,[User]_bnestere,{'[User]_knielsen'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3035
+2024-01-31 09:32:37+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3036
+2024-02-01 07:09:54+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3037
+2024-02-01 15:24:57+00:00,[User]_arkamar,"{'[User]_grooverdan', '[User]_arkamar', '[User]_thesamesam'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3038
+2024-02-02 00:43:08+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3039
+2024-02-02 20:10:34+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_spetrunia', '[User]_DaveGosselin-MariaDB', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3040
+2024-02-02 20:46:09+00:00,[User]_DaveGosselin-MariaDB,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3041
+2024-02-04 20:04:24+00:00,[User]_ottok,{'[User]_abarkov'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3042
+2024-02-05 14:42:42+00:00,[User]_Olernov,{'[User]_lottaquestions'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3043
+2024-02-05 15:02:16+00:00,[User]_dr-m,"{'[User]_vaintroub', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3044
+2024-02-05 15:48:03+00:00,[User]_dr-m,"{'[User]_vaintroub', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3045
+2024-02-06 11:21:41+00:00,[User]_tiandiwonder,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3046
+2024-02-06 11:41:13+00:00,[User]_tiandiwonder,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3047
+2024-02-06 16:58:15+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3048
+2024-02-06 20:47:04+00:00,[User]_dbart,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3049
+2024-02-07 04:47:48+00:00,[User]_grooverdan,{'[User]_dr-m'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3050
+2024-02-07 06:32:50+00:00,[User]_ourfor,"{'[User]_vaintroub', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3051
+2024-02-07 10:41:23+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3052
+2024-02-07 17:11:12+00:00,[User]_spetrunia,"{'[User]_spetrunia', '[User]_DaveGosselin-MariaDB', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3053
+2024-02-08 20:30:37+00:00,[User]_bnestere,"{'[User]_bnestere', '[User]_knielsen', '[User]_andrelkin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3054
+2024-02-09 09:37:07+00:00,[User]_denis-protivensky,"{'[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3055
+2024-02-10 08:33:36+00:00,[User]_Olernov,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3056
+2024-02-12 16:18:50+00:00,[User]_arkamar,{'[User]_grooverdan'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3057
+2024-02-13 08:22:18+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_montywi', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3058
+2024-02-13 11:32:49+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3059
+2024-02-13 15:34:49+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3060
+2024-02-13 16:17:22+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3061
+2024-02-13 16:38:20+00:00,[User]_DaveGosselin-MariaDB,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3062
+2024-02-14 02:50:39+00:00,[User]_XanC,"{'[User]_grooverdan', '[User]_XanC', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3063
+2024-02-14 07:52:23+00:00,[User]_chenrui333,"{'[User]_bevanjkay', '[User]_CLAassistant', '[User]_dr-m', '[User]_ZhongRuoyu', '[User]_chenrui333'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3064
+2024-02-15 08:51:39+00:00,[User]_dr-m,"{'[User]_mariadb-DebarunBanerjee', '[User]_CLAassistant', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3065
+2024-02-15 13:15:36+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3067
+2024-02-15 14:28:34+00:00,[User]_an3l,"{'[User]_sysprg', '[User]_vaintroub', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3068
+2024-02-15 16:35:19+00:00,[User]_dr-m,"{'[User]_mariadb-DebarunBanerjee', '[User]_CLAassistant', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3069
+2024-02-16 05:35:39+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_CLAassistant', '[User]_FooBarrior', '[User]_mariadb-DebarunBanerjee', '[User]_spetrunia', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3070
+2024-02-16 08:02:44+00:00,[User]_Olernov,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3071
+2024-02-20 00:56:42+00:00,[User]_grooverdan,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3073
+2024-02-20 06:44:23+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3074
+2024-02-20 07:25:03+00:00,[User]_tgross35,"{'[User]_tgross35', '[User]_LinuxJedi', '[User]_dlenski'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3075
+2024-02-20 07:30:42+00:00,[User]_tgross35,"{'[User]_vuvova', '[User]_tgross35', '[User]_dlenski'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3076
+2024-02-20 07:46:09+00:00,[User]_tgross35,"{'[User]_knielsen', '[User]_tgross35', '[User]_LinuxJedi', '[User]_dlenski'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3077
+2024-02-21 09:49:45+00:00,[User]_dr-m,"{'[User]_andrewparks', '[User]_mariadb-DebarunBanerjee', '[User]_CLAassistant', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3078
+2024-02-21 12:06:18+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3079
+2024-02-22 14:15:27+00:00,[User]_an3l,"{'[User]_bnestere', '[User]_knielsen', '[User]_an3l'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3080
+2024-02-22 18:16:29+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3081
+2024-02-23 14:30:13+00:00,[User]_Olernov,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3082
+2024-02-26 08:09:53+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3083
+2024-02-26 09:09:53+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3084
+2024-02-26 13:36:39+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3085
+2024-02-28 08:03:35+00:00,[User]_poempeng,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3087
+2024-02-28 15:05:12+00:00,[User]_dr-m,"{'[User]_mariadb-DebarunBanerjee', '[User]_CLAassistant', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3088
+2024-02-28 17:55:58+00:00,[User]_bnestere,{'[User]_knielsen'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3089
+2024-02-29 09:02:53+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3090
+2024-02-29 11:06:49+00:00,[User]_tgross35,"{'[User]_grooverdan', '[User]_tgross35', '[User]_LinuxJedi'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3092
+2024-02-29 18:13:00+00:00,[User]_StefanoPetrilli,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_dlenski', '[User]_StefanoPetrilli', '[User]_abarkov'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3093
+2024-03-01 23:20:54+00:00,[User]_HugoWenTD,"{'[User]_CLAassistant', '[User]_HugoWenTD'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3094
+2024-03-03 07:22:07+00:00,[User]_staabm,"{'[User]_grooverdan', '[User]_cvicentiu', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_staabm', '[User]_tonychen2001'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3095
+2024-03-03 19:28:41+00:00,[User]_mariadb-RexJohnston,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3096
+2024-03-04 13:21:41+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3097
+2024-03-04 16:30:02+00:00,[User]_dr-m,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3098
+2024-03-04 18:19:43+00:00,[User]_bnestere,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3099
+2024-03-04 23:20:59+00:00,[User]_robinnewhouse,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3100
+2024-03-05 03:52:27+00:00,[User]_grooverdan,{'[User]_LinuxJedi'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3101
+2024-03-05 06:44:42+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3102
+2024-03-06 02:22:18+00:00,[User]_grooverdan,"{'[User]_vuvova', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3103
+2024-03-06 03:16:05+00:00,[User]_grooverdan,{'[User]_grooverdan'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3104
+2024-03-06 04:16:15+00:00,[User]_grooverdan,{'[User]_grooverdan'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3105
+2024-03-06 05:01:37+00:00,[User]_grooverdan,{'[User]_bnestere'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3106
+2024-03-06 06:02:19+00:00,[User]_dr-m,"{'[User]_vaintroub', '[User]_CLAassistant', '[User]_lottaquestions'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3107
+2024-03-06 06:38:46+00:00,[User]_Thirunarayanan,{'[User]_dr-m'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3108
+2024-03-06 06:41:15+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3109
+2024-03-06 14:58:44+00:00,[User]_dr-m,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3110
+2024-03-06 15:17:39+00:00,[User]_denis-protivensky,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3111
+2024-03-07 14:48:51+00:00,[User]_sciascid,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3112
+2024-03-07 20:45:36+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_grooverdan', '[User]_DaveGosselin-MariaDB', '[User]_vuvova', '[User]_CLAassistant', '[User]_abarkov', '[User]_tonychen2001'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3113
+2024-03-07 23:00:25+00:00,[User]_lottaquestions,"{'[User]_grooverdan', '[User]_lottaquestions', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3114
+2024-03-08 00:33:55+00:00,[User]_PinkFreud,"{'[User]_LinuxJedi', '[User]_CLAassistant', '[User]_dlenski'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3115
+2024-03-08 05:56:26+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_ottok'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3116
+2024-03-08 09:58:33+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3117
+2024-03-08 10:01:09+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_FooBarrior', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3118
+2024-03-08 13:02:24+00:00,[User]_Thirunarayanan,{'[User]_dr-m'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3119
+2024-03-09 01:10:20+00:00,[User]_tonychen2001,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_tonychen2001'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3120
+2024-03-13 06:11:54+00:00,[User]_janlindstrom,{'[User]_janlindstrom'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3121
+2024-03-13 06:15:18+00:00,[User]_janlindstrom,"{'[User]_janlindstrom', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3122
+2024-03-13 08:56:03+00:00,[User]_spetrunia,"{'[User]_anson1014', '[User]_DaveGosselin-MariaDB', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3123
+2024-03-13 13:07:09+00:00,[User]_spetrunia,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3124
+2024-03-13 22:39:23+00:00,[User]_keeper,"{'[User]_grooverdan', '[User]_vaintroub', '[User]_keeper', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3125
+2024-03-14 08:51:49+00:00,[User]_janlindstrom,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3126
+2024-03-14 14:04:21+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3127
+2024-03-14 16:58:44+00:00,[User]_bnestere,"{'[User]_bnestere', '[User]_knielsen'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3128
+2024-03-15 22:33:51+00:00,[User]_kalyan02,"{'[User]_kalyan02', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3129
+2024-03-16 10:49:04+00:00,[User]_andremralves,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_andremralves', '[User]_tonychen2001'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3130
+2024-03-17 10:12:39+00:00,[User]_andremralves,"{'[User]_grooverdan', '[User]_andremralves'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3131
+2024-03-18 06:39:44+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_illuusio', '[User]_vuvova'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3132
+2024-03-18 11:41:27+00:00,[User]_plampio,{'[User]_plampio'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3133
+2024-03-18 16:05:16+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_DaveGosselin-MariaDB', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3134
+2024-03-18 16:30:33+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_grooverdan', '[User]_DaveGosselin-MariaDB', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3135
+2024-03-18 17:21:14+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_anson1014', '[User]_DaveGosselin-MariaDB', '[User]_vuvova'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3136
+2024-03-18 18:10:42+00:00,[User]_3abqreno,"{'[User]_grooverdan', '[User]_3abqreno', '[User]_an3l'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3137
+2024-03-18 19:57:55+00:00,[User]_ahmedmadbouly186,"{'[User]_grooverdan', '[User]_CLAassistant', '[User]_ahmedmadbouly186'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3138
+2024-03-19 06:01:34+00:00,[User]_ahmedmadbouly186,"{'[User]_ahmedmadbouly186', '[User]_grooverdan', '[User]_robinnewhouse'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3139
+2024-03-20 10:11:44+00:00,[User]_spetrunia,{'[User]_Olernov'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3140
+2024-03-20 17:17:30+00:00,[User]_anson1014,"{'[User]_anson1014', '[User]_grooverdan', '[User]_vuvova', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3141
+2024-03-20 22:02:15+00:00,[User]_HugoWenTD,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_HugoWenTD'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3142
+2024-03-21 00:04:48+00:00,[User]_StefanoPetrilli,"{'[User]_grooverdan', '[User]_StefanoPetrilli', '[User]_abarkov'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3143
+2024-03-21 03:53:53+00:00,[User]_grooverdan,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3144
+2024-03-21 12:52:58+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3145
+2024-03-22 07:46:17+00:00,[User]_illuusio,"{'[User]_grooverdan', '[User]_illuusio', '[User]_fauust', '[User]_tonychen2001'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3146
+2024-03-22 08:35:14+00:00,[User]_illuusio,"{'[User]_illuusio', '[User]_tonychen2001'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3147
+2024-03-22 10:30:46+00:00,[User]_dr-m,"{'[User]_vaintroub', '[User]_CLAassistant', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3148
+2024-03-22 13:38:38+00:00,[User]_sciascid,"{'[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3149
+2024-03-23 00:29:13+00:00,[User]_robinnewhouse,"{'[User]_grooverdan', '[User]_CLAassistant', '[User]_ottok'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3150
+2024-03-25 00:15:33+00:00,[User]_andremralves,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_andremralves'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3151
+2024-03-25 17:01:55+00:00,[User]_andremralves,"{'[User]_grooverdan', '[User]_andremralves', '[User]_LinuxJedi', '[User]_dlenski'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3153
+2024-03-25 21:09:58+00:00,[User]_DarrenZhang01,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_fauust', '[User]_ottok', '[User]_DarrenZhang01'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3154
+2024-03-26 10:01:57+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3155
+2024-03-27 00:37:17+00:00,[User]_HugoWenTD,"{'[User]_CLAassistant', '[User]_HugoWenTD'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3156
+2024-03-27 01:19:17+00:00,[User]_grooverdan,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3157
+2024-03-27 11:50:48+00:00,[User]_dr-m,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3158
+2024-03-28 02:13:17+00:00,[User]_grooverdan,"{'[User]_grooverdan', '[User]_lottaquestions', '[User]_vuvova'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3159
+2024-03-28 02:59:36+00:00,[User]_grooverdan,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3160
+2024-03-28 09:47:18+00:00,[User]_denis-protivensky,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3161
+2024-03-28 11:37:42+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_tonychen2001'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3163
+2024-03-28 12:12:33+00:00,[User]_sjaakola,{'[User]_sysprg'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3164
+2024-03-28 16:18:50+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_DaveGosselin-MariaDB', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3165
+2024-04-01 06:35:01+00:00,[User]_jmcarcell,"{'[User]_grooverdan', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3166
+2024-04-01 07:59:39+00:00,[User]_Olernov,{'[User]_anson1014'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3167
+2024-04-02 02:05:47+00:00,[User]_joshhn,"{'[User]_grooverdan', '[User]_CLAassistant', '[User]_joshhn'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3170
+2024-04-02 06:59:30+00:00,[User]_dr-m,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3171
+2024-04-02 11:56:26+00:00,[User]_dr-m,"{'[User]_vaintroub', '[User]_CLAassistant', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3172
+2024-04-02 11:59:06+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_dlenski'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3173
+2024-04-02 23:03:38+00:00,[User]_andremralves,"{'[User]_andremralves', '[User]_LinuxJedi', '[User]_HugoWenTD'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3174
+2024-04-03 00:05:19+00:00,[User]_Chupsy,"{'[User]_grooverdan', '[User]_vuvova', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_Chupsy'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3175
+2024-04-03 20:34:34+00:00,[User]_DaveGosselin-MariaDB,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3176
+2024-04-04 04:34:35+00:00,[User]_janlindstrom,{'[User]_anson1014'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3177
+2024-04-04 13:52:21+00:00,[User]_vlad-lesin,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3178
+2024-04-04 21:42:03+00:00,[User]_tonychen2001,{'[User]_ottok'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3179
+2024-04-05 05:06:28+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3180
+2024-04-05 09:06:03+00:00,[User]_dr-m,"{'[User]_CLAassistant', '[User]_vlad-lesin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3181
+2024-04-05 15:22:37+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_vuvova', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3182
+2024-04-06 02:56:51+00:00,[User]_xtexChooser,"{'[User]_CLAassistant', '[User]_xtexChooser'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3183
+2024-04-08 08:28:10+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3184
+2024-04-08 14:30:24+00:00,[User]_dr-m,"{'[User]_mariadb-DebarunBanerjee', '[User]_lottaquestions', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3185
+2024-04-08 21:15:56+00:00,[User]_iangilfillan,"{'[User]_anson1014', '[User]_LinuxJedi'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3186
+2024-04-09 10:30:21+00:00,[User]_vlad-lesin,"{'[User]_dr-m', '[User]_vlad-lesin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3187
+2024-04-09 15:36:49+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3188
+2024-04-10 06:54:42+00:00,[User]_dr-m,"{'[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3190
+2024-04-10 20:40:39+00:00,[User]_bnestere,"{'[User]_bnestere', '[User]_andrelkin'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3191
+2024-04-11 07:41:02+00:00,[User]_janlindstrom,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3192
+2024-04-11 14:18:44+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3193
+2024-04-12 06:59:20+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_mariadb-DebarunBanerjee', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3194
+2024-04-12 15:30:06+00:00,[User]_dr-m,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3195
+2024-04-12 18:00:50+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_DaveGosselin-MariaDB', '[User]_vuvova', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3196
+2024-04-12 23:06:22+00:00,[User]_HugoWenTD,"{'[User]_cvicentiu', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_HugoWenTD'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3197
+2024-04-13 23:58:18+00:00,[User]_xnox,"{'[User]_grooverdan', '[User]_vuvova', '[User]_LinuxJedi', '[User]_CLAassistant', '[User]_xnox', '[User]_vaintroub'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3198
+2024-04-14 06:51:10+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3199
+2024-04-15 04:52:17+00:00,[User]_janlindstrom,"{'[User]_dr-m', '[User]_sysprg'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3200
+2024-04-15 05:10:01+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3201
+2024-04-15 05:14:38+00:00,[User]_janlindstrom,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3202
+2024-04-15 05:34:08+00:00,[User]_janlindstrom,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3203
+2024-04-15 10:10:48+00:00,[User]_sudo-Tiz,"{'[User]_grooverdan', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3204
+2024-04-15 10:16:16+00:00,[User]_janlindstrom,"{'[User]_janlindstrom', '[User]_robinnewhouse'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3205
+2024-04-15 15:41:18+00:00,[User]_DaveGosselin-MariaDB,"{'[User]_DaveGosselin-MariaDB', '[User]_vuvova', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3206
+2024-04-15 16:20:55+00:00,[User]_DaveGosselin-MariaDB,{'[User]_abarkov'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3207
+2024-04-15 21:52:01+00:00,[User]_DarrenZhang01,"{'[User]_LinuxJedi', '[User]_ottok'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3208
+2024-04-16 07:53:16+00:00,[User]_illuusio,"{'[User]_anson1014', '[User]_illuusio'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3209
+2024-04-17 09:40:23+00:00,[User]_illuusio,"{'[User]_grooverdan', '[User]_illuusio'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3210
+2024-04-17 13:18:49+00:00,[User]_dr-m,"{'[User]_vaintroub', '[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3211
+2024-04-18 00:53:59+00:00,[User]_MoonE,"{'[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3212
+2024-04-18 08:04:24+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3213
+2024-04-18 13:01:59+00:00,[User]_janlindstrom,{'[User]_sysprg'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3214
+2024-04-18 18:26:06+00:00,[User]_bnestere,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3215
+2024-04-22 08:13:01+00:00,[User]_mscdex,"{'[User]_grooverdan', '[User]_mscdex', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3216
+2024-04-23 09:32:05+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3217
+2024-04-23 10:58:17+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3218
+2024-04-24 12:55:04+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3220
+2024-04-24 14:32:10+00:00,[User]_mariadb-DebarunBanerjee,"{'[User]_vaintroub', '[User]_dr-m'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3221
+2024-04-25 09:12:38+00:00,[User]_Thirunarayanan,"{'[User]_dr-m', '[User]_CLAassistant', '[User]_Thirunarayanan'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3222
+2024-04-25 10:50:35+00:00,[User]_dr-m,{'[User]_Thirunarayanan'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3223
+2024-04-25 20:58:32+00:00,[User]_dlenski,"{'[User]_LinuxJedi', '[User]_CLAassistant', '[User]_dlenski', '[User]_ottok'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3224
+2024-04-26 00:37:03+00:00,[User]_keeper,"{'[User]_vuvova', '[User]_LinuxJedi', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3225
+2024-04-26 02:32:14+00:00,[User]_HugoWenTD,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3226
+2024-04-26 07:46:33+00:00,[User]_sciascid,"{'[User]_sysprg', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3227
+2024-04-26 21:18:38+00:00,[User]_anson1014,"{'[User]_anson1014', '[User]_vuvova', '[User]_CLAassistant', '[User]_tonychen2001'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3228
+2024-04-28 00:15:16+00:00,[User]_FooBarrior,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3229
+2024-04-28 16:51:39+00:00,[User]_Sp1l,"{'[User]_grooverdan', '[User]_Sp1l', '[User]_CLAassistant'}",MariaDB/server,2024,https://github.com/MariaDB/server/pull/3230
+2024-04-29 23:00:44+00:00,[User]_dlenski,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3231
+2024-04-30 05:08:49+00:00,[User]_janlindstrom,set(),MariaDB/server,2024,https://github.com/MariaDB/server/pull/3232
+2024-04-30 08:50:54+00:00,[User]_Thirunarayanan,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3233
+2024-04-30 11:39:11+00:00,[User]_mariadb-DebarunBanerjee,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3234
+2024-04-30 15:13:26+00:00,[User]_Thirunarayanan,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3235
+2024-04-30 20:26:38+00:00,[User]_DaveGosselin-MariaDB,{'[User]_CLAassistant'},MariaDB/server,2024,https://github.com/MariaDB/server/pull/3236

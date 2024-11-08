@@ -1,0 +1,453 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 01:31:16+00:00,[User]_scovetta,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1457
+2023-05-03 11:13:03+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1458
+2023-05-04 17:10:30+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1461
+2023-05-04 18:58:07+00:00,[User]_Chealer,"{'[User]_rgoers', '[User]_vy', '[User]_Chealer', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1462
+2023-05-05 13:36:38+00:00,[User]_breun,"{'[User]_breun', '[User]_Chealer'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1466
+2023-05-05 16:24:43+00:00,[User]_mernst,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1467
+2023-05-05 19:13:39+00:00,[User]_Chealer,"{'[User]_rgoers', '[User]_grobmeier'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1469
+2023-05-08 20:40:13+00:00,[User]_vy,"{'[User]_rgoers', '[User]_vy'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1471
+2023-05-09 05:37:41+00:00,[User]_rgoers,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1472
+2023-05-09 05:51:29+00:00,[User]_rgoers,"{'[User]_rgoers', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1473
+2023-05-09 17:07:16+00:00,[User]_Chealer,"{'[User]_rgoers', '[User]_vy', '[User]_Chealer'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1474
+2023-05-09 22:55:40+00:00,[User]_Chealer,"{'[User]_rgoers', '[User]_Chealer', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1475
+2023-05-11 09:22:58+00:00,[User]_gtoison,{'[User]_gtoison'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1477
+2023-05-15 21:53:39+00:00,[User]_AmmarYasser97,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1478
+2023-05-16 09:05:12+00:00,[User]_robert-gdv,{'[User]_robert-gdv'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1480
+2023-05-19 16:48:00+00:00,[User]_aawad6,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1482
+2023-05-19 16:53:55+00:00,[User]_aawad6,"{'[User]_vy', '[User]_garydgregory', '[User]_ppkarwasz', '[User]_aawad6'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1483
+2023-05-23 20:21:01+00:00,[User]_vy,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1485
+2023-05-25 01:04:26+00:00,[User]_0xETHengineer,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1486
+2023-05-25 18:54:21+00:00,[User]_smarkwal,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1490
+2023-05-25 20:15:47+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1491
+2023-05-30 12:38:20+00:00,[User]_askoog,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1494
+2023-05-30 17:50:28+00:00,[User]_NA-Dev,"{'[User]_vy', '[User]_NA-Dev', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1495
+2023-06-02 19:19:59+00:00,[User]_designatevoid,"{'[User]_rgoers', '[User]_ppkarwasz', '[User]_lukaszspyra'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1501
+2023-06-05 20:13:50+00:00,[User]_vy,"{'[User]_vy', '[User]_garydgregory', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1503
+2023-06-07 06:55:48+00:00,[User]_mkoncek,"{'[User]_ppkarwasz', '[User]_mkoncek'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1504
+2023-06-07 10:48:25+00:00,[User]_glatuske,{'[User]_glatuske'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1505
+2023-06-08 00:42:48+00:00,[User]_haksunlinm,"{'[User]_ppkarwasz', '[User]_haksunlinm'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1506
+2023-06-08 23:13:09+00:00,[User]_sschulze,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1507
+2023-06-09 16:46:40+00:00,[User]_anuragagarwal561994,"{'[User]_rgoers', '[User]_garydgregory', '[User]_anuragagarwal561994', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1508
+2023-06-14 06:16:27+00:00,[User]_lenoch7,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1513
+2023-06-14 09:58:07+00:00,[User]_anuragagarwal561994,"{'[User]_anuragagarwal561994', '[User]_vy'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1514
+2023-06-16 18:29:01+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1519
+2023-06-19 06:43:41+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1520
+2023-06-21 18:41:41+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1524
+2023-06-21 18:56:27+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1525
+2023-06-21 19:24:00+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1526
+2023-06-21 19:37:43+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1528
+2023-06-22 07:55:35+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1529
+2023-06-23 22:37:55+00:00,[User]_harryssuperman,"{'[User]_harryssuperman', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1530
+2023-06-27 20:04:52+00:00,[User]_kelemen,"{'[User]_vy', '[User]_kelemen', '[User]_agentgt', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1532
+2023-07-03 18:44:57+00:00,[User]_oshai,"{'[User]_ppkarwasz', '[User]_oshai'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1533
+2023-07-03 19:20:01+00:00,[User]_oshai,"{'[User]_ppkarwasz', '[User]_oshai'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1534
+2023-07-04 19:36:25+00:00,[User]_pbodnar,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1537
+2023-07-04 20:10:28+00:00,[User]_pbodnar,"{'[User]_pbodnar', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1538
+2023-07-08 13:55:42+00:00,[User]_zartc,"{'[User]_vy', '[User]_ppkarwasz', '[User]_aawad6'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1545
+2023-07-08 20:04:18+00:00,[User]_lukaszspyra,"{'[User]_ppkarwasz', '[User]_lukaszspyra'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1546
+2023-07-11 08:42:23+00:00,[User]_ddamw,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1547
+2023-07-11 13:50:09+00:00,[User]_umgsai,{'[User]_lukaszspyra'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1548
+2023-07-11 18:03:47+00:00,[User]_thisdudeiknew,"{'[User]_vy', '[User]_thisdudeiknew', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1549
+2023-07-12 09:04:19+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1550
+2023-07-12 09:45:15+00:00,[User]_pgomulka,"{'[User]_pgomulka', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1551
+2023-07-14 12:29:57+00:00,[User]_umgsai,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1554
+2023-07-17 09:22:59+00:00,[User]_saraitcheikh,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1556
+2023-07-18 16:55:21+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1568
+2023-07-19 05:25:00+00:00,[User]_bailan,{'[User]_rgoers'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1569
+2023-07-20 23:28:48+00:00,[User]_magicwerk,"{'[User]_ppkarwasz', '[User]_magicwerk'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1580
+2023-07-21 06:46:35+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1581
+2023-07-21 15:39:08+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1589
+2023-07-21 17:32:52+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1590
+2023-07-21 19:53:46+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1591
+2023-07-24 07:49:46+00:00,[User]_lukaszspyra,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz', '[User]_lukaszspyra'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1592
+2023-07-25 15:45:44+00:00,[User]_danishmarif,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1620
+2023-07-27 03:26:46+00:00,[User]_hucsmn,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1626
+2023-07-30 07:32:56+00:00,[User]_aawad6,"{'[User]_vy', '[User]_garydgregory', '[User]_ppkarwasz', '[User]_aawad6'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1637
+2023-07-30 17:21:57+00:00,[User]_aawad6,{'[User]_grobmeier'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1638
+2023-07-30 20:45:29+00:00,[User]_vy,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1639
+2023-07-31 06:39:59+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1640
+2023-07-31 09:17:19+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1641
+2023-08-01 08:48:14+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1646
+2023-08-01 09:47:38+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1647
+2023-08-01 10:55:16+00:00,[User]_ppkarwasz,"{'[User]_krzyk', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1650
+2023-08-01 17:15:18+00:00,[User]_SebHeuze,"{'[User]_SebHeuze', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1652
+2023-08-01 19:20:08+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1653
+2023-08-02 19:37:39+00:00,[User]_vertex-github,"{'[User]_vertex-github', '[User]_vy'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1658
+2023-08-04 18:19:28+00:00,[User]_ldcsaa,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1666
+2023-08-06 08:39:14+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1667
+2023-08-09 10:22:46+00:00,[User]_Karthi1711,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1683
+2023-08-09 20:52:24+00:00,[User]_aaron-613,{'[User]_aaron-613'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1687
+2023-08-11 19:32:03+00:00,[User]_jalynxing,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1692
+2023-08-16 08:24:55+00:00,[User]_grobmeier,{'[User]_grobmeier'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1703
+2023-08-16 08:25:47+00:00,[User]_grobmeier,{'[User]_grobmeier'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1704
+2023-08-16 08:26:32+00:00,[User]_grobmeier,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1705
+2023-08-16 08:27:09+00:00,[User]_grobmeier,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1706
+2023-08-16 08:28:19+00:00,[User]_grobmeier,"{'[User]_grobmeier', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1707
+2023-08-19 18:51:52+00:00,[User]_nateinindy,"{'[User]_rgoers', '[User]_nateinindy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1714
+2023-08-21 12:38:51+00:00,[User]_krzyk,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1721
+2023-08-22 08:42:32+00:00,[User]_Guohaonan1,"{'[User]_rgoers', '[User]_ppkarwasz', '[User]_Guohaonan1'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1722
+2023-08-24 13:27:38+00:00,[User]_jschmied,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1729
+2023-08-25 18:46:11+00:00,[User]_liutikas,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1734
+2023-08-27 17:24:21+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1736
+2023-08-28 13:48:40+00:00,[User]_Roarca,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1740
+2023-08-29 08:14:04+00:00,[User]_MLausberg,"{'[User]_HannesWell', '[User]_ppkarwasz', '[User]_MLausberg'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1741
+2023-09-01 14:44:20+00:00,[User]_jfontsaballs,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1750
+2023-09-01 15:24:24+00:00,[User]_jfontsaballs,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1751
+2023-09-01 23:19:59+00:00,[User]_jvz,"{'[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1752
+2023-09-02 14:01:48+00:00,[User]_lukaszspyra,"{'[User]_vy', '[User]_lukaszspyra'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1753
+2023-09-04 13:47:52+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1754
+2023-09-05 08:06:30+00:00,[User]_zhuyou1234,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1755
+2023-09-05 09:02:14+00:00,[User]_zhuyou1234,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1756
+2023-09-05 12:55:37+00:00,[User]_ppkarwasz,"{'[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1759
+2023-09-06 08:19:06+00:00,[User]_Flowdalic,"{'[User]_Flowdalic', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1760
+2023-09-06 08:22:58+00:00,[User]_Flowdalic,"{'[User]_Flowdalic', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1761
+2023-09-07 12:44:52+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1771
+2023-09-08 09:30:08+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1772
+2023-09-08 09:55:06+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1773
+2023-09-08 10:12:56+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1774
+2023-09-08 10:26:49+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1775
+2023-09-08 10:42:07+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1776
+2023-09-08 11:04:46+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1777
+2023-09-08 11:22:23+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1778
+2023-09-08 11:29:41+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1779
+2023-09-08 11:37:46+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1780
+2023-09-08 13:31:54+00:00,[User]_cseewald,"{'[User]_cseewald', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1782
+2023-09-10 16:58:17+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1783
+2023-09-11 11:21:33+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1784
+2023-09-11 20:51:00+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1785
+2023-09-13 11:13:35+00:00,[User]_ppkarwasz,"{'[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1786
+2023-09-13 11:38:29+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1787
+2023-09-15 13:11:52+00:00,[User]_JamesChambers-E11074,"{'[User]_JamesChambers-E11074', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1795
+2023-09-18 21:47:47+00:00,[User]_rgoers,{'[User]_rgoers'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1799
+2023-09-19 10:46:59+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1800
+2023-09-19 18:33:10+00:00,[User]_JohnLussmyer,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1804
+2023-09-19 19:15:11+00:00,[User]_srangara123,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1805
+2023-09-21 15:06:52+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1811
+2023-09-22 23:42:38+00:00,[User]_rgoers,"{'[User]_rgoers', '[User]_ppkarwasz', '[User]_yvasyliev'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1813
+2023-09-25 09:05:17+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1815
+2023-09-25 21:02:08+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1818
+2023-09-26 13:29:39+00:00,[User]_ppkarwasz,"{'[User]_HannesWell', '[User]_grgrzybek', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1820
+2023-09-26 13:51:00+00:00,[User]_ppkarwasz,{'[User]_jvz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1821
+2023-09-28 12:23:02+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1825
+2023-09-29 11:06:57+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1827
+2023-09-29 19:14:59+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1828
+2023-09-30 10:48:48+00:00,[User]_ashr123,"{'[User]_jvz', '[User]_jkvargas', '[User]_ashr123', '[User]_tcmot', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1829
+2023-10-03 08:03:13+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1830
+2023-10-03 13:22:24+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1832
+2023-10-05 13:25:34+00:00,[User]_Flowdalic,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1833
+2023-10-05 13:26:27+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1834
+2023-10-06 08:11:08+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1836
+2023-10-06 11:05:00+00:00,[User]_RafaelGB,"{'[User]_vy', '[User]_jvz', '[User]_ppkarwasz', '[User]_luisrm1012'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1841
+2023-10-08 05:54:49+00:00,[User]_ppkarwasz,"{'[User]_HannesWell', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1843
+2023-10-09 13:33:33+00:00,[User]_tristantarrant,"{'[User]_vy', '[User]_tristantarrant'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1848
+2023-10-10 07:09:37+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1849
+2023-10-10 07:21:48+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1850
+2023-10-10 08:58:12+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1851
+2023-10-10 11:46:51+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1855
+2023-10-11 02:10:52+00:00,[User]_Dreeam-qwq,"{'[User]_ppkarwasz', '[User]_Dreeam-qwq'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1856
+2023-10-15 23:06:54+00:00,[User]_jvz,"{'[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1863
+2023-10-18 05:56:33+00:00,[User]_rbri,"{'[User]_rbri', '[User]_ppkarwasz', '[User]_LumnitzF'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1865
+2023-10-18 07:44:40+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1866
+2023-10-18 10:20:43+00:00,[User]_ppkarwasz,"{'[User]_garydgregory', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1867
+2023-10-18 18:16:28+00:00,[User]_JohnLussmyer,"{'[User]_JohnLussmyer', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1870
+2023-10-20 07:56:57+00:00,[User]_LumnitzF,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1876
+2023-10-20 14:28:10+00:00,[User]_ppkarwasz,"{'[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1882
+2023-10-21 09:03:23+00:00,[User]_jearton,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1883
+2023-10-22 10:13:59+00:00,[User]_makkimesser,"{'[User]_jvz', '[User]_makkimesser', '[User]_vy', '[User]_ppkarwasz', '[User]_renoth'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1884
+2023-10-23 10:24:34+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1885
+2023-10-23 18:20:16+00:00,[User]_iManageDave,"{'[User]_iManageDave', '[User]_vy', '[User]_rickardoberg', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1895
+2023-10-23 23:41:24+00:00,[User]_CodeDead,"{'[User]_vy', '[User]_CodeDead', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1896
+2023-10-24 13:13:18+00:00,[User]_ppkarwasz,{'[User]_jvz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1906
+2023-10-25 14:13:16+00:00,[User]_Edhilion,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1908
+2023-10-25 19:48:12+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1909
+2023-10-25 19:54:56+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1910
+2023-10-28 08:42:55+00:00,[User]_IWareQ,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1912
+2023-10-30 06:54:49+00:00,[User]_ppkarwasz,{'[User]_grgrzybek'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1913
+2023-10-30 08:15:26+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1914
+2023-10-30 08:29:41+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1915
+2023-10-30 08:56:22+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1916
+2023-10-30 10:11:38+00:00,[User]_ppkarwasz,"{'[User]_grobmeier', '[User]_Chealer', '[User]_rm5248', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1918
+2023-10-30 10:28:28+00:00,[User]_ppkarwasz,{'[User]_rgoers'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1920
+2023-10-30 10:34:49+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1921
+2023-10-30 17:11:10+00:00,[User]_simontankersley,"{'[User]_vy', '[User]_linhartJ', '[User]_simontankersley', '[User]_class101'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1922
+2023-10-30 17:25:26+00:00,[User]_pantdeepak,"{'[User]_pantdeepak', '[User]_vy'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1923
+2023-10-30 18:47:11+00:00,[User]_jonasrutishauser,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1925
+2023-10-30 18:55:13+00:00,[User]_MoonLord-LM,"{'[User]_MoonLord-LM', '[User]_vy'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1926
+2023-10-30 22:56:26+00:00,[User]_adamthom-amzn,"{'[User]_vy', '[User]_adamthom-amzn'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1927
+2023-11-01 09:56:54+00:00,[User]_tomerarazy,"{'[User]_jvz', '[User]_tcmot', '[User]_tomerarazy', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1937
+2023-11-02 13:31:36+00:00,[User]_takanuva15,"{'[User]_takanuva15', '[User]_vy', '[User]_abhijit911turbo'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1941
+2023-11-03 15:37:47+00:00,[User]_vdzhuvinov,"{'[User]_ppkarwasz', '[User]_vdzhuvinov'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1942
+2023-11-03 22:12:17+00:00,[User]_jvz,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1943
+2023-11-06 11:06:52+00:00,[User]_class101,"{'[User]_vy', '[User]_class101'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1946
+2023-11-06 20:14:16+00:00,[User]_vy,"{'[User]_vy', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1948
+2023-11-08 08:12:55+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1949
+2023-11-08 09:02:46+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1950
+2023-11-08 09:03:54+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1951
+2023-11-08 09:04:55+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1952
+2023-11-08 14:29:03+00:00,[User]_grobmeier,"{'[User]_grobmeier', '[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1954
+2023-11-08 17:16:29+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1955
+2023-11-08 17:44:21+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1956
+2023-11-09 15:15:10+00:00,[User]_castriottaa,"{'[User]_castriottaa', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1958
+2023-11-09 23:01:11+00:00,[User]_rainerjung,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1959
+2023-11-10 15:20:36+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1961
+2023-11-10 22:35:37+00:00,[User]_jkvargas,"{'[User]_ppkarwasz', '[User]_jvz', '[User]_jkvargas'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1962
+2023-11-11 17:40:09+00:00,[User]_RapidTransit,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1963
+2023-11-12 00:33:22+00:00,[User]_jvz,"{'[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1964
+2023-11-13 11:30:46+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1966
+2023-11-14 07:59:49+00:00,[User]_ppkarwasz,"{'[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1967
+2023-11-14 12:09:10+00:00,[User]_vy,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1969
+2023-11-14 12:52:01+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1970
+2023-11-17 17:53:49+00:00,[User]_jvz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1977
+2023-11-20 17:32:05+00:00,[User]_mernst,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1980
+2023-11-20 19:39:35+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1981
+2023-11-20 20:19:21+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1982
+2023-11-22 12:28:30+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/1985
+2023-11-22 17:38:18+00:00,[User]_ppkarwasz,{'[User]_jvz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1990
+2023-11-22 20:54:16+00:00,[User]_thejas-stripe,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/1997
+2023-11-26 17:02:03+00:00,[User]_isaac-s,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2006
+2023-11-27 17:50:03+00:00,[User]_snaralasetty,"{'[User]_snaralasetty', '[User]_ppkarwasz', '[User]_vy'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2010
+2023-11-28 08:56:31+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2014
+2023-11-28 20:43:27+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2015
+2023-11-28 20:51:12+00:00,[User]_vy,"{'[User]_grobmeier', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2016
+2023-11-29 14:08:55+00:00,[User]_vy,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2018
+2023-11-30 15:59:03+00:00,[User]_Xfel,{'[User]_Xfel'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2020
+2023-11-30 21:21:35+00:00,[User]_jvz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2022
+2023-12-01 10:02:41+00:00,[User]_tversic,"{'[User]_tcmot', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2023
+2023-12-01 17:43:46+00:00,[User]_jvz,"{'[User]_tcmot', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2025
+2023-12-01 23:00:40+00:00,[User]_jvz,"{'[User]_jack-berg', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2027
+2023-12-04 08:31:05+00:00,[User]_ppkarwasz,"{'[User]_jack-berg', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2033
+2023-12-05 03:52:16+00:00,[User]_rgoers,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2062
+2023-12-05 09:49:46+00:00,[User]_vy,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2063
+2023-12-06 00:27:40+00:00,[User]_bpholt,"{'[User]_vy', '[User]_pjfanning', '[User]_ppkarwasz', '[User]_bpholt'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2065
+2023-12-06 04:18:20+00:00,[User]_ldcsaa,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2066
+2023-12-06 10:34:33+00:00,[User]_mariusnicoli,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2070
+2023-12-06 11:19:13+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2071
+2023-12-06 13:53:37+00:00,[User]_vy,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2072
+2023-12-07 10:19:45+00:00,[User]_rpysz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2073
+2023-12-07 11:04:33+00:00,[User]_marinesky,"{'[User]_marinesky', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2074
+2023-12-08 14:40:36+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2080
+2023-12-15 11:50:21+00:00,[User]_slinkydeveloper,"{'[User]_ppkarwasz', '[User]_slinkydeveloper'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2098
+2023-12-15 14:23:08+00:00,[User]_slinkydeveloper,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2099
+2023-12-15 20:59:10+00:00,[User]_ppkarwasz,"{'[User]_grobmeier', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2100
+2023-12-15 22:43:20+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2101
+2023-12-18 11:08:28+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2104
+2023-12-18 19:55:13+00:00,[User]_vy,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2105
+2023-12-18 20:02:58+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2106
+2023-12-19 14:44:06+00:00,[User]_brr53,"{'[User]_grobmeier', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2111
+2023-12-19 22:25:17+00:00,[User]_ppkarwasz,"{'[User]_Alanoudj', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2112
+2023-12-20 08:38:27+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2113
+2023-12-20 09:38:04+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2114
+2023-12-20 20:25:35+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2115
+2023-12-21 07:43:42+00:00,[User]_onlineeeeee,"{'[User]_onlineeeeee', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2116
+2023-12-21 10:47:18+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2117
+2023-12-21 12:53:59+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2120
+2023-12-22 02:46:27+00:00,[User]_QiuSoft,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2121
+2023-12-27 11:06:41+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2131
+2023-12-28 01:23:31+00:00,[User]_scwlkq,{'[User]_scwlkq'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2132
+2023-12-29 11:30:43+00:00,[User]_Desoroxxx,{'[User]_vy'},apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2137
+2023-12-29 20:56:36+00:00,[User]_jvz,"{'[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2138
+2023-12-30 19:29:42+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/pull/2142
+2023-12-31 19:13:13+00:00,[User]_chrisribble,"{'[User]_vy', '[User]_chrisribble', '[User]_ppkarwasz'}",apache/logging-log4j2,2023,https://github.com/apache/logging-log4j2/issues/2144
+2024-01-01 20:08:04+00:00,[User]_jvz,{'[User]_jvz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2147
+2024-01-02 05:34:28+00:00,[User]_jvz,"{'[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2148
+2024-01-02 14:19:35+00:00,[User]_ghueller,"{'[User]_Gospel-c', '[User]_ppkarwasz', '[User]_temple69'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2149
+2024-01-02 14:58:36+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2150
+2024-01-03 06:13:46+00:00,[User]_Amya28,"{'[User]_Amya28', '[User]_ppkarwasz', '[User]_vy'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2151
+2024-01-03 11:58:25+00:00,[User]_ppkarwasz,"{'[User]_mikaelstaldal', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2154
+2024-01-03 13:48:20+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2155
+2024-01-03 14:06:08+00:00,[User]_ppkarwasz,"{'[User]_PascalSchumacher', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2156
+2024-01-03 14:16:47+00:00,[User]_raffig,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2157
+2024-01-03 14:34:40+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2158
+2024-01-03 16:41:18+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2159
+2024-01-04 10:25:38+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2160
+2024-01-04 10:40:34+00:00,[User]_sanova,"{'[User]_sanova', '[User]_ppkarwasz', '[User]_vy'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2162
+2024-01-04 11:29:16+00:00,[User]_ppkarwasz,"{'[User]_grobmeier', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2163
+2024-01-04 12:19:40+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2164
+2024-01-05 08:29:12+00:00,[User]_AnushaGHerale,"{'[User]_vy', '[User]_AnushaGHerale', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2167
+2024-01-05 08:41:19+00:00,[User]_Gospel-c,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2168
+2024-01-07 14:49:26+00:00,[User]_shloim,"{'[User]_vy', '[User]_ppkarwasz', '[User]_shloim'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2169
+2024-01-08 12:28:42+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2170
+2024-01-08 19:52:23+00:00,[User]_vy,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2171
+2024-01-08 20:30:20+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2172
+2024-01-10 09:58:59+00:00,[User]_vy,"{'[User]_rgoers', '[User]_garydgregory', '[User]_jvz', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2175
+2024-01-10 15:04:41+00:00,[User]_riwarek,"{'[User]_ppkarwasz', '[User]_riwarek'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2179
+2024-01-11 12:10:43+00:00,[User]_Goooler,"{'[User]_vy', '[User]_Goooler'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2182
+2024-01-11 15:26:25+00:00,[User]_RocMarshal,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2183
+2024-01-12 12:28:54+00:00,[User]_AmanDaharwal,"{'[User]_AmanDaharwal', '[User]_vy'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2185
+2024-01-12 14:27:16+00:00,[User]_vy,"{'[User]_ppkarwasz', '[User]_Samsung72'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2187
+2024-01-12 16:13:23+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2188
+2024-01-16 08:34:34+00:00,[User]_vy,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2198
+2024-01-16 15:00:04+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2203
+2024-01-16 23:20:23+00:00,[User]_jvz,"{'[User]_rgoers', '[User]_vy', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2204
+2024-01-17 14:39:28+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2208
+2024-01-17 15:02:41+00:00,[User]_vy,"{'[User]_rgoers', '[User]_vy'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2209
+2024-01-18 11:26:35+00:00,[User]_kertzi,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2213
+2024-01-18 15:07:41+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2215
+2024-01-19 19:49:51+00:00,[User]_jvz,"{'[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2219
+2024-01-19 22:09:17+00:00,[User]_jvz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2221
+2024-01-22 12:19:32+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2226
+2024-01-22 14:50:38+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2227
+2024-01-22 22:19:16+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2228
+2024-01-23 09:46:50+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2229
+2024-01-23 22:54:13+00:00,[User]_big-andy-coates,"{'[User]_big-andy-coates', '[User]_vy'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2232
+2024-01-24 08:50:40+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2234
+2024-01-24 10:11:18+00:00,[User]_ppkarwasz,"{'[User]_jdgenerix', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2238
+2024-01-24 10:11:59+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2239
+2024-01-24 20:04:32+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2241
+2024-01-25 13:36:41+00:00,[User]_uhoefel,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2247
+2024-01-25 17:44:00+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2248
+2024-01-25 21:33:21+00:00,[User]_vy,"{'[User]_rgoers', '[User]_jvz', '[User]_carterkozak', '[User]_lauredogit', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2249
+2024-01-26 13:16:25+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2250
+2024-01-28 21:48:40+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2251
+2024-01-29 07:34:42+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2252
+2024-01-29 11:55:08+00:00,[User]_testpradnya,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2254
+2024-01-29 19:01:08+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2256
+2024-01-29 19:33:47+00:00,[User]_vy,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2257
+2024-02-01 03:20:55+00:00,[User]_baldpate,"{'[User]_baldpate', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2258
+2024-02-02 13:05:11+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2259
+2024-02-06 21:16:52+00:00,[User]_vy,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2266
+2024-02-07 16:10:29+00:00,[User]_hpcnx,"{'[User]_ppkarwasz', '[User]_hpcnx'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2272
+2024-02-08 12:57:57+00:00,[User]_vy,{'[User]_grobmeier'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2273
+2024-02-08 18:59:16+00:00,[User]_paulonicolau-rj,"{'[User]_RapidTransit', '[User]_ppkarwasz', '[User]_paulonicolau-rj'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2274
+2024-02-09 09:49:03+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2275
+2024-02-09 21:54:10+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2278
+2024-02-10 20:53:38+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2280
+2024-02-12 13:05:02+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_garydgregory', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2281
+2024-02-13 04:09:33+00:00,[User]_garydgregory,"{'[User]_garydgregory', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2282
+2024-02-14 13:16:04+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2288
+2024-02-15 14:05:27+00:00,[User]_garydgregory,"{'[User]_garydgregory', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2289
+2024-02-15 14:54:44+00:00,[User]_ppkarwasz,{'[User]_grobmeier'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2290
+2024-02-15 16:03:29+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_garydgregory', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2291
+2024-02-15 16:50:24+00:00,[User]_jengebr,"{'[User]_vy', '[User]_ppkarwasz', '[User]_jengebr'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2292
+2024-02-16 15:12:28+00:00,[User]_jengebr,"{'[User]_vy', '[User]_ppkarwasz', '[User]_jengebr'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2296
+2024-02-18 10:14:34+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2297
+2024-02-21 12:14:33+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2307
+2024-02-21 14:11:22+00:00,[User]_Nifargo,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2308
+2024-02-22 02:37:45+00:00,[User]_bright-k,"{'[User]_ppkarwasz', '[User]_bright-k'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2309
+2024-02-22 08:00:57+00:00,[User]_grobmeier,{'[User]_grobmeier'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2310
+2024-02-22 11:49:20+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_vy'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2313
+2024-02-22 12:43:07+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2314
+2024-02-23 15:51:28+00:00,[User]_sysmat,"{'[User]_rgoers', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2318
+2024-02-23 15:55:58+00:00,[User]_jengebr,{'[User]_jengebr'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2319
+2024-02-23 15:59:37+00:00,[User]_vecna-the-eternal,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2320
+2024-02-23 16:03:36+00:00,[User]_jengebr,"{'[User]_jvz', '[User]_ppkarwasz', '[User]_jengebr'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2321
+2024-02-23 21:23:10+00:00,[User]_vy,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2322
+2024-02-26 20:50:03+00:00,[User]_hpcnx,"{'[User]_vy', '[User]_ppkarwasz', '[User]_hpcnx'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2323
+2024-02-27 09:27:16+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2325
+2024-02-29 14:41:49+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2329
+2024-02-29 16:16:15+00:00,[User]_jengebr,"{'[User]_vy', '[User]_ppkarwasz', '[User]_jengebr'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2330
+2024-03-01 08:43:46+00:00,[User]_lukasalexanderweber,"{'[User]_rgoers', '[User]_lukasalexanderweber', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2331
+2024-03-01 11:12:12+00:00,[User]_panbingkun,"{'[User]_vy', '[User]_panbingkun', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2337
+2024-03-01 13:06:04+00:00,[User]_vy,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2338
+2024-03-02 03:42:59+00:00,[User]_panbingkun,"{'[User]_vy', '[User]_panbingkun', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2340
+2024-03-04 10:24:31+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2343
+2024-03-04 17:45:21+00:00,[User]_brandonburchett,"{'[User]_ppkarwasz', '[User]_brandonburchett'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2346
+2024-03-05 09:40:23+00:00,[User]_jmpalomar,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2347
+2024-03-05 12:43:06+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2350
+2024-03-05 14:35:31+00:00,[User]_apimentasoto,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2351
+2024-03-05 17:53:15+00:00,[User]_tglaeser,"{'[User]_ppkarwasz', '[User]_tglaeser'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2352
+2024-03-05 18:54:05+00:00,[User]_abpicoli1,"{'[User]_abpicoli1', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2353
+2024-03-05 21:04:27+00:00,[User]_vy,"{'[User]_vy', '[User]_carterkozak'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2354
+2024-03-07 07:29:34+00:00,[User]_panbingkun,"{'[User]_vy', '[User]_panbingkun', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2355
+2024-03-07 18:14:58+00:00,[User]_grobmeier,"{'[User]_grobmeier', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2356
+2024-03-11 12:22:25+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2362
+2024-03-11 13:14:48+00:00,[User]_SeasonPanPan,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz', '[User]_SeasonPanPan'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2363
+2024-03-11 16:04:49+00:00,[User]_grobmeier,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2365
+2024-03-11 21:17:42+00:00,[User]_ppkarwasz,"{'[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2366
+2024-03-12 14:16:03+00:00,[User]_SeasonPanPan,"{'[User]_ppkarwasz', '[User]_SeasonPanPan'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2368
+2024-03-13 13:50:53+00:00,[User]_FelixStuebner,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2373
+2024-03-13 14:30:06+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2374
+2024-03-14 11:01:02+00:00,[User]_ppkarwasz,{'[User]_deepblueli'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2379
+2024-03-14 11:05:11+00:00,[User]_ppkarwasz,"{'[User]_ppkarwasz', '[User]_SeasonPanPan'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2380
+2024-03-15 12:11:11+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2383
+2024-03-15 16:06:35+00:00,[User]_JyotiSathe,"{'[User]_9you', '[User]_JyotiSathe', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2384
+2024-03-17 01:01:44+00:00,[User]_rgoers,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2385
+2024-03-19 08:15:55+00:00,[User]_tonycody,"{'[User]_vy', '[User]_ppkarwasz', '[User]_tonycody'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2389
+2024-03-19 10:41:04+00:00,[User]_tonycody,"{'[User]_vy', '[User]_garydgregory', '[User]_ppkarwasz', '[User]_tonycody'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2391
+2024-03-19 13:19:49+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2392
+2024-03-19 15:16:12+00:00,[User]_SeasonPanPan,"{'[User]_SeasonPanPan', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2393
+2024-03-20 11:57:28+00:00,[User]_leaner1000,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2395
+2024-03-21 21:49:29+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2396
+2024-03-25 09:52:33+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2401
+2024-03-25 10:40:44+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2404
+2024-03-25 12:03:57+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2406
+2024-03-25 12:16:47+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2407
+2024-03-25 12:23:15+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2408
+2024-03-26 05:03:30+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2410
+2024-03-26 05:16:55+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2411
+2024-03-26 09:58:22+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2412
+2024-03-26 10:44:12+00:00,[User]_jolly28,"{'[User]_vy', '[User]_jolly28', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2414
+2024-03-27 08:25:43+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2417
+2024-03-27 21:49:59+00:00,[User]_rgoers,"{'[User]_rgoers', '[User]_jvz', '[User]_vy', '[User]_rocketraman', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2419
+2024-03-28 12:43:58+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2424
+2024-03-28 14:06:37+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2425
+2024-03-28 15:55:16+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2426
+2024-03-28 16:24:10+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2427
+2024-04-01 02:48:37+00:00,[User]_zeimao77,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2434
+2024-04-01 12:52:25+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2435
+2024-04-03 09:45:27+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2436
+2024-04-03 16:22:25+00:00,[User]_rgoers,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2438
+2024-04-04 10:42:17+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_jvz', '[User]_vy', '[User]_ppkarwasz', '[User]_remkop'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2442
+2024-04-04 13:06:24+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2443
+2024-04-04 18:53:11+00:00,[User]_sullis,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2444
+2024-04-04 21:57:45+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2445
+2024-04-05 10:32:12+00:00,[User]_bharathchandrathakkallapally-cpi,"{'[User]_bharathchandrathakkallapally-cpi', '[User]_tcmot', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2447
+2024-04-08 08:59:11+00:00,[User]_ppkarwasz,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2450
+2024-04-09 03:50:01+00:00,[User]_mpv945,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2453
+2024-04-09 12:12:54+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2460
+2024-04-09 12:52:01+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2461
+2024-04-09 17:47:59+00:00,[User]_sdavids,"{'[User]_sdavids', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2462
+2024-04-10 05:30:36+00:00,[User]_rocketraman,"{'[User]_vy', '[User]_rocketraman'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2463
+2024-04-11 22:12:11+00:00,[User]_tmmlsBE,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2466
+2024-04-12 09:44:33+00:00,[User]_sdavids,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2467
+2024-04-12 17:05:15+00:00,[User]_sdavids,"{'[User]_vy', '[User]_sdavids', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2468
+2024-04-12 18:11:51+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_vy', '[User]_adamthom-amzn', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2469
+2024-04-16 08:01:39+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2476
+2024-04-17 14:37:52+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2480
+2024-04-17 20:06:47+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2481
+2024-04-18 14:15:00+00:00,[User]_garydgregory,"{'[User]_garydgregory', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2486
+2024-04-18 15:53:38+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2487
+2024-04-19 14:47:14+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2491
+2024-04-21 11:52:50+00:00,[User]_minkyu97,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2492
+2024-04-21 12:40:35+00:00,[User]_garydgregory,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2493
+2024-04-22 00:28:41+00:00,[User]_rgoers,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2494
+2024-04-22 09:51:57+00:00,[User]_der-eismann,"{'[User]_ppkarwasz', '[User]_der-eismann'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2496
+2024-04-22 15:46:19+00:00,[User]_aabmass,"{'[User]_vy', '[User]_aabmass', '[User]_jsuereth'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2498
+2024-04-23 09:53:30+00:00,[User]_ppkarwasz,"{'[User]_rgoers', '[User]_vy', '[User]_ppkarwasz', '[User]_jvz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2499
+2024-04-23 11:28:45+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2500
+2024-04-24 11:21:05+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2505
+2024-04-24 14:24:20+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2506
+2024-04-24 14:28:25+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2507
+2024-04-24 14:31:44+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2508
+2024-04-24 14:38:47+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2509
+2024-04-24 14:46:04+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2511
+2024-04-24 14:49:14+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2512
+2024-04-24 14:57:12+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2514
+2024-04-24 21:03:40+00:00,[User]_michaelbraun,"{'[User]_michaelbraun', '[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2515
+2024-04-25 11:58:54+00:00,[User]_ppkarwasz,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2517
+2024-04-25 14:57:00+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2520
+2024-04-25 15:07:37+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2521
+2024-04-25 16:51:27+00:00,[User]_jvz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2522
+2024-04-25 18:57:29+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2523
+2024-04-26 09:06:27+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2524
+2024-04-26 12:22:58+00:00,[User]_vy,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2525
+2024-04-26 12:24:22+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2526
+2024-04-26 12:30:38+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2527
+2024-04-26 12:32:43+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2528
+2024-04-26 12:36:01+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2530
+2024-04-26 12:40:30+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2532
+2024-04-26 12:59:08+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2533
+2024-04-26 13:06:19+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2534
+2024-04-26 13:37:31+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2535
+2024-04-29 06:41:36+00:00,[User]_ppkarwasz,{'[User]_vy'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2537
+2024-04-29 07:33:04+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2538
+2024-04-29 07:48:06+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2539
+2024-04-29 07:51:37+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2540
+2024-04-29 07:55:07+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2541
+2024-04-29 07:57:17+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2542
+2024-04-29 12:03:16+00:00,[User]_vy,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/issues/2547
+2024-04-30 08:36:17+00:00,[User]_vy,"{'[User]_vy', '[User]_ppkarwasz'}",apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2549
+2024-04-30 09:56:12+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2550
+2024-04-30 13:28:06+00:00,[User]_vy,{'[User]_ppkarwasz'},apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2551
+2024-04-30 17:41:52+00:00,[User]_ppkarwasz,set(),apache/logging-log4j2,2024,https://github.com/apache/logging-log4j2/pull/2552

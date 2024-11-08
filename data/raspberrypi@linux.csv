@@ -1,0 +1,629 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 19:21:25+00:00,[User]_jim2101024,{'[User]_CyrilBrulebois'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5455
+2023-05-05 10:53:01+00:00,[User]_pelwell,"{'[User]_marcarla', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5457
+2023-05-05 12:37:08+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5458
+2023-05-09 09:19:46+00:00,[User]_agners,"{'[User]_popcornmix', '[User]_agners', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5460
+2023-05-10 13:59:45+00:00,[User]_jayaddison,"{'[User]_mripard', '[User]_6by9', '[User]_jayaddison', '[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5462
+2023-05-10 15:14:17+00:00,[User]_6by9,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5464
+2023-05-11 09:49:34+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5465
+2023-05-11 15:43:16+00:00,[User]_pelwell,"{'[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5466
+2023-05-11 16:13:31+00:00,[User]_6by9,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5467
+2023-05-11 16:52:51+00:00,[User]_classabbyamp,"{'[User]_tsjk', '[User]_classabbyamp'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5468
+2023-05-16 12:09:18+00:00,[User]_juergh,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5469
+2023-05-16 12:19:34+00:00,[User]_baslking,"{'[User]_akuropka', '[User]_baslking', '[User]_graysky2', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5470
+2023-05-17 19:15:40+00:00,[User]_cbxbiker61,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5472
+2023-05-18 13:21:08+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5473
+2023-05-18 13:57:22+00:00,[User]_KenVanHoeylandt,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5474
+2023-05-19 08:28:24+00:00,[User]_qtmrcdmc,"{'[User]_popcornmix', '[User]_qtmrcdmc', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5475
+2023-05-19 17:21:01+00:00,[User]_6by9,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5476
+2023-05-21 11:32:06+00:00,[User]_janvlug,{'[User]_janvlug'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5477
+2023-05-22 14:10:23+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5478
+2023-05-23 10:45:18+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5479
+2023-05-23 17:52:00+00:00,[User]_nicheosala,"{'[User]_nicheosala', '[User]_graysky2', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5480
+2023-05-24 13:16:37+00:00,[User]_arnofkd,"{'[User]_popcornmix', '[User]_arnofkd'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5481
+2023-05-25 16:30:39+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5482
+2023-05-25 18:34:35+00:00,[User]_Elrondo46,"{'[User]_Elrondo46', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5483
+2023-05-26 19:25:19+00:00,[User]_jackoalan,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5484
+2023-05-28 15:48:38+00:00,[User]_iKn0wH0w,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5485
+2023-05-31 15:01:42+00:00,[User]_naushir,"{'[User]_6by9', '[User]_naushir'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5486
+2023-06-01 16:32:35+00:00,[User]_matttbe,"{'[User]_matttbe', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5487
+2023-06-01 18:51:48+00:00,[User]_luizsdf,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5488
+2023-06-02 17:31:32+00:00,[User]_6by9,"{'[User]_luigi311', '[User]_Which7pyallice11'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5489
+2023-06-04 00:11:24+00:00,[User]_JN19aban,{'[User]_JN19aban'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5490
+2023-06-08 05:17:43+00:00,[User]_dmanlfc,"{'[User]_dmanlfc', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5492
+2023-06-08 14:27:07+00:00,[User]_vvarma,"{'[User]_6by9', '[User]_vvarma'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5493
+2023-06-08 18:51:44+00:00,[User]_nightBulb,"{'[User]_graysky2', '[User]_nightBulb'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5494
+2023-06-09 17:30:01+00:00,[User]_Kappers,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5495
+2023-06-09 18:47:43+00:00,[User]_SylvainGarrigues,"{'[User]_SylvainGarrigues', '[User]_alsldlflglhljlk', '[User]_poizan42'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5496
+2023-06-11 03:28:51+00:00,[User]_JN19aban,"{'[User]_JN19aban', '[User]_ddivins', '[User]_cleverca22', '[User]_efriel94', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5497
+2023-06-11 16:14:07+00:00,[User]_vvarma,"{'[User]_6by9', '[User]_vvarma'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5498
+2023-06-12 15:02:27+00:00,[User]_pelwell,"{'[User]_nbuchwitz', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5499
+2023-06-12 22:09:31+00:00,[User]_pipsen,"{'[User]_P33M', '[User]_pipsen', '[User]_Bulwagga'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5500
+2023-06-12 23:07:26+00:00,[User]_mtnbarn,"{'[User]_mtnbarn', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5501
+2023-06-13 15:16:22+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5502
+2023-06-13 16:24:16+00:00,[User]_pelwell,"{'[User]_beren12', '[User]_ragazenta', '[User]_tianfeng-yang', '[User]_VoidVolker', '[User]_epigramx', '[User]_TestODTestOD', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5503
+2023-06-14 12:58:17+00:00,[User]_6by9,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5504
+2023-06-14 14:21:33+00:00,[User]_MichaIng,"{'[User]_moodeaudio', '[User]_MichaIng', '[User]_UvidusNox', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5505
+2023-06-14 19:09:56+00:00,[User]_mtnbarn,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5506
+2023-06-16 15:27:53+00:00,[User]_naushir,"{'[User]_6by9', '[User]_naushir'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5507
+2023-06-19 13:50:47+00:00,[User]_6by9,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5508
+2023-06-19 21:21:59+00:00,[User]_nerdyparody,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5509
+2023-06-20 09:39:22+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5510
+2023-06-20 12:38:34+00:00,[User]_moodeaudio,"{'[User]_moodeaudio', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5511
+2023-06-21 03:44:54+00:00,[User]_haiph-dev,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5512
+2023-06-21 07:47:07+00:00,[User]_naushir,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5513
+2023-06-22 06:51:55+00:00,[User]_minecraft2048,{'[User]_minecraft2048'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5514
+2023-06-22 22:19:22+00:00,[User]_nerdyparody,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5515
+2023-06-23 08:22:44+00:00,[User]_FDelporte,"{'[User]_FDelporte', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5516
+2023-06-25 11:35:34+00:00,[User]_HiassofT,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5518
+2023-06-25 22:05:21+00:00,[User]_Aravindkrishna00000,"{'[User]_Aravindkrishna00000', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5519
+2023-06-26 05:57:52+00:00,[User]_folkertvanheusden,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5520
+2023-06-26 12:50:50+00:00,[User]_mgrouch,"{'[User]_mgrouch', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5521
+2023-06-26 13:32:39+00:00,[User]_mgrouch,"{'[User]_mgrouch', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5522
+2023-06-27 02:56:52+00:00,[User]_ArduCAM,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5523
+2023-06-28 03:23:55+00:00,[User]_vanfanel,"{'[User]_vanfanel', '[User]_detiam', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5524
+2023-06-28 14:37:36+00:00,[User]_physkets,"{'[User]_HiassofT', '[User]_physkets', '[User]_macmpi', '[User]_popcornmix', '[User]_archerindigo'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5525
+2023-07-01 07:43:49+00:00,[User]_l1k,{'[User]_l1k'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5526
+2023-07-03 19:43:44+00:00,[User]_dereference23,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5527
+2023-07-04 20:59:30+00:00,[User]_twelho,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5529
+2023-07-05 14:26:26+00:00,[User]_JamesH65,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5530
+2023-07-07 15:51:15+00:00,[User]_nicolasb565,"{'[User]_EDIflyer', '[User]_JeremyBCD', '[User]_notro'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5532
+2023-07-10 08:11:01+00:00,[User]_elhennig,"{'[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5533
+2023-07-11 16:25:06+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5534
+2023-07-12 09:20:45+00:00,[User]_nbuchwitz,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5535
+2023-07-12 09:38:19+00:00,[User]_nbuchwitz,"{'[User]_nbuchwitz', '[User]_pelwell', '[User]_l1k'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5536
+2023-07-12 12:34:01+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5537
+2023-07-12 14:48:34+00:00,[User]_treasure4paddy,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5538
+2023-07-12 19:31:25+00:00,[User]_sfatula,"{'[User]_popcornmix', '[User]_sfatula', '[User]_szmarczak', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5539
+2023-07-13 14:29:11+00:00,[User]_P33M,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5540
+2023-07-14 02:04:06+00:00,[User]_mgrouch,"{'[User]_P33M', '[User]_mgrouch', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5541
+2023-07-14 09:42:12+00:00,[User]_pelwell,"{'[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5542
+2023-07-18 18:58:08+00:00,[User]_gregory-whaley,"{'[User]_P33M', '[User]_gregory-whaley', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5544
+2023-07-19 16:34:41+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5545
+2023-07-22 20:57:06+00:00,[User]_Npi4,"{'[User]_popcornmix', '[User]_Npi4', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5546
+2023-07-24 16:16:37+00:00,[User]_beta-tester,"{'[User]_6by9', '[User]_beta-tester', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5547
+2023-07-24 16:20:51+00:00,[User]_octopus-russell,"{'[User]_6by9', '[User]_octopus-russell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5548
+2023-07-25 08:37:56+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5549
+2023-07-25 15:16:27+00:00,[User]_beletruz,"{'[User]_6by9', '[User]_ilarrain', '[User]_beletruz'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5550
+2023-07-27 06:05:10+00:00,[User]_Oliv1a,{'[User]_whitslack'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5551
+2023-07-27 06:07:22+00:00,[User]_knro,"{'[User]_knro', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5552
+2023-07-27 16:47:10+00:00,[User]_Dark-Sky,"{'[User]_Dark-Sky', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5553
+2023-07-28 07:10:10+00:00,[User]_AndreasFuchsTPM,"{'[User]_AndreasFuchsTPM', '[User]_vfazio', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5554
+2023-07-28 11:07:37+00:00,[User]_naushir,"{'[User]_6by9', '[User]_naushir'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5555
+2023-07-29 04:20:31+00:00,[User]_qrp73,"{'[User]_popcornmix', '[User]_qrp73'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5556
+2023-07-29 07:55:31+00:00,[User]_6by9,"{'[User]_tlalexander', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5557
+2023-07-29 09:26:03+00:00,[User]_RussellSenior,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5558
+2023-08-01 09:04:28+00:00,[User]_bebon901,"{'[User]_6by9', '[User]_naushir', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5560
+2023-08-02 09:48:53+00:00,[User]_6by9,"{'[User]_wtschueller', '[User]_cdalvaro', '[User]_6by9', '[User]_Simi4'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5561
+2023-08-04 14:17:34+00:00,[User]_thecalle,"{'[User]_thecalle', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5562
+2023-08-04 14:55:12+00:00,[User]_Ninoh-FOX,"{'[User]_Ninoh-FOX', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5563
+2023-08-04 16:10:46+00:00,[User]_qrp73,"{'[User]_popcornmix', '[User]_qrp73', '[User]_vanfanel'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5564
+2023-08-05 20:00:38+00:00,[User]_ilarrain,"{'[User]_6by9', '[User]_ilarrain', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5565
+2023-08-07 01:05:49+00:00,[User]_JinShil,"{'[User]_JinShil', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5566
+2023-08-07 13:25:05+00:00,[User]_vijayanuthalapatii,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5567
+2023-08-08 09:39:07+00:00,[User]_yu-re-ka,"{'[User]_yu-re-ka', '[User]_sulix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5568
+2023-08-09 20:15:19+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5569
+2023-08-09 22:50:48+00:00,[User]_DougieLawson,"{'[User]_DougieLawson', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5570
+2023-08-10 20:06:47+00:00,[User]_6by9,"{'[User]_6by9', '[User]_theofficialgman', '[User]_lategoodbye'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5571
+2023-08-13 01:29:37+00:00,[User]_fossham,"{'[User]_popcornmix', '[User]_fossham', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5572
+2023-08-14 22:21:03+00:00,[User]_ccdffddfddfdsfedeee,"{'[User]_licaon-kter', '[User]_lategoodbye', '[User]_ascendbeing', '[User]_popcornmix', '[User]_ccdffddfddfdsfedeee'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5573
+2023-08-15 12:26:10+00:00,[User]_sakittelsen,"{'[User]_sakittelsen', '[User]_spl237', '[User]_XECDesign'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5575
+2023-08-15 23:51:32+00:00,[User]_miklosakos,"{'[User]_bou6', '[User]_6by9', '[User]_miklosakos'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5576
+2023-08-18 17:47:51+00:00,[User]_angiglesias,{'[User]_angiglesias'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5577
+2023-08-18 18:41:28+00:00,[User]_theoar,"{'[User]_nbuchwitz', '[User]_linosanfilippo-kunbus', '[User]_l1k', '[User]_6by9', '[User]_theoar', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5578
+2023-08-22 02:56:16+00:00,[User]_Oliv1a,"{'[User]_popcornmix', '[User]_qrp73', '[User]_Oliv1a'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5579
+2023-08-23 17:58:26+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5580
+2023-08-24 23:39:35+00:00,[User]_mhalizadeh90,"{'[User]_bou6', '[User]_qrp73'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5581
+2023-08-25 19:35:48+00:00,[User]_qrp73,"{'[User]_6by9', '[User]_qrp73'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5582
+2023-08-28 14:41:17+00:00,[User]_HumphreyHCB,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5583
+2023-08-29 09:47:24+00:00,[User]_HumphreyHCB,"{'[User]_HumphreyHCB', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5585
+2023-08-30 09:08:40+00:00,[User]_raveslave,"{'[User]_P33M', '[User]_raveslave'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5586
+2023-08-30 12:42:10+00:00,[User]_qrp73,"{'[User]_popcornmix', '[User]_qrp73'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5587
+2023-08-30 17:15:47+00:00,[User]_6by9,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5588
+2023-08-31 16:25:25+00:00,[User]_pelwell,"{'[User]_popcornmix', '[User]_P33M'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5589
+2023-09-02 11:16:35+00:00,[User]_jpiwek,"{'[User]_6by9', '[User]_jpiwek', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5590
+2023-09-03 19:17:43+00:00,[User]_Quantamm,"{'[User]_whitslack', '[User]_Quantamm'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5591
+2023-09-03 21:32:40+00:00,[User]_JimZipCode,"{'[User]_HiassofT', '[User]_JimZipCode'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5592
+2023-09-06 16:53:22+00:00,[User]_BubuOT,"{'[User]_BubuOT', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5594
+2023-09-07 16:36:44+00:00,[User]_aelmicro,"{'[User]_aelmicro', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5595
+2023-09-08 09:40:49+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5596
+2023-09-08 17:20:57+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_6by9', '[User]_HiassofT', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5597
+2023-09-09 01:18:02+00:00,[User]_whitslack,"{'[User]_whitslack', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5598
+2023-09-09 08:43:55+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5599
+2023-09-10 15:17:23+00:00,[User]_spezi4,{'[User]_XECDesign'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5600
+2023-09-11 02:44:53+00:00,[User]_LukeLR,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5601
+2023-09-13 18:33:07+00:00,[User]_by,"{'[User]_popcornmix', '[User]_by'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5602
+2023-09-15 16:22:58+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5603
+2023-09-15 16:28:45+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_6by9', '[User]_macmpi', '[User]_mripard'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5604
+2023-09-18 05:22:13+00:00,[User]_ejko36,{'[User]_ejko36'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5605
+2023-09-18 13:52:11+00:00,[User]_tinyreminder,"{'[User]_tinyreminder', '[User]_hemixs', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5606
+2023-09-19 06:33:50+00:00,[User]_vvarma,"{'[User]_6by9', '[User]_vvarma'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5607
+2023-09-19 11:13:18+00:00,[User]_mdiewa,"{'[User]_popcornmix', '[User]_mdiewa', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5608
+2023-09-20 12:16:54+00:00,[User]_P33M,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5609
+2023-09-21 17:12:05+00:00,[User]_pelwell,"{'[User]_popcornmix', '[User]_hifiberry', '[User]_j-schambacher', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5610
+2023-09-22 20:52:49+00:00,[User]_Amitatreya,"{'[User]_popcornmix', '[User]_Amitatreya', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5611
+2023-09-22 23:14:55+00:00,[User]_kevin-hall-kollmorgen,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5612
+2023-09-25 10:34:01+00:00,[User]_6by9,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5613
+2023-09-25 14:36:31+00:00,[User]_Ben-Rosenfeld-VPS,"{'[User]_Ben-Rosenfeld-VPS', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5614
+2023-09-26 12:51:33+00:00,[User]_aBUGSworstnightmare-rpi,"{'[User]_aBUGSworstnightmare-rpi', '[User]_6by9'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5615
+2023-09-27 14:10:49+00:00,[User]_mikegapinski,"{'[User]_mikegapinski', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5616
+2023-09-28 10:54:40+00:00,[User]_pelwell,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5617
+2023-09-28 13:52:43+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5618
+2023-09-28 17:16:46+00:00,[User]_rafael2k,"{'[User]_barajaam', '[User]_hydazz', '[User]_xXhoobaXx', '[User]_rafael2k', '[User]_PinkFreud', '[User]_MartinHajda', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5619
+2023-09-29 05:26:27+00:00,[User]_Everytab,{'[User]_Everytab'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5620
+2023-09-29 07:32:35+00:00,[User]_karadevnet,"{'[User]_karadevnet', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5621
+2023-09-29 15:57:43+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5622
+2023-09-30 10:58:54+00:00,[User]_df8oe,"{'[User]_yi-yunseok', '[User]_1caue', '[User]_henkv1', '[User]_popcornmix', '[User]_p-v-a', '[User]_df8oe'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5623
+2023-09-30 19:02:08+00:00,[User]_GazzaC,"{'[User]_spockfish', '[User]_graysky2', '[User]_GazzaC', '[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5624
+2023-10-02 00:14:50+00:00,[User]_bulletmark,"{'[User]_6by9', '[User]_pelwell', '[User]_bulletmark'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5625
+2023-10-02 07:54:35+00:00,[User]_cz172638,"{'[User]_ohault', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5626
+2023-10-02 15:40:56+00:00,[User]_HiassofT,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5628
+2023-10-02 16:38:54+00:00,[User]_6by9,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5629
+2023-10-04 08:48:52+00:00,[User]_naushir,{'[User]_tomba'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5630
+2023-10-04 10:12:06+00:00,[User]_naushir,"{'[User]_6by9', '[User]_naushir', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5631
+2023-10-04 12:12:37+00:00,[User]_tomba,"{'[User]_naushir', '[User]_tomba'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5632
+2023-10-04 15:08:00+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5633
+2023-10-05 14:05:34+00:00,[User]_krishnablueed,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5634
+2023-10-05 16:31:47+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5635
+2023-10-06 09:57:20+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5636
+2023-10-06 13:48:35+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5637
+2023-10-06 16:02:37+00:00,[User]_pelwell,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5638
+2023-10-06 20:59:28+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5639
+2023-10-07 00:26:59+00:00,[User]_timonsku,"{'[User]_arturo182', '[User]_pelwell', '[User]_timonsku', '[User]_6by9', '[User]_aBUGSworstnightmare-rpi', '[User]_ladyada'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5640
+2023-10-10 11:46:49+00:00,[User]_naushir,"{'[User]_naushir', '[User]_tomba', '[User]_njhollinghurst'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5641
+2023-10-10 13:52:18+00:00,[User]_pelwell,"{'[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5642
+2023-10-11 08:01:06+00:00,[User]_delijati,"{'[User]_neverkid', '[User]_XECDesign', '[User]_delijati'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5643
+2023-10-11 10:19:26+00:00,[User]_6by9,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5644
+2023-10-11 14:25:55+00:00,[User]_njhollinghurst,"{'[User]_6by9', '[User]_njhollinghurst', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5645
+2023-10-11 14:51:04+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5646
+2023-10-12 08:45:32+00:00,[User]_mats-nk,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5647
+2023-10-13 12:06:09+00:00,[User]_popcornmix,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5648
+2023-10-13 12:16:04+00:00,[User]_michael1413,"{'[User]_spockfish', '[User]_michael1413', '[User]_6by9', '[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5649
+2023-10-15 13:42:17+00:00,[User]_janisstreib,"{'[User]_janisstreib', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5650
+2023-10-15 19:44:55+00:00,[User]_pelwell,"{'[User]_popcornmix', '[User]_timg236', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5651
+2023-10-15 22:16:21+00:00,[User]_digitalLumberjack,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5652
+2023-10-16 08:12:42+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5653
+2023-10-16 11:51:12+00:00,[User]_6by9,"{'[User]_popcornmix', '[User]_6by9'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5654
+2023-10-16 12:15:12+00:00,[User]_AndreasFuchsTPM,"{'[User]_AndreasFuchsTPM', '[User]_l1k', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5655
+2023-10-16 17:12:31+00:00,[User]_mishka81,"{'[User]_popcornmix', '[User]_mishka81'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5656
+2023-10-17 08:38:43+00:00,[User]_naushir,"{'[User]_davidplowman', '[User]_kbingham', '[User]_naushir'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5657
+2023-10-17 20:38:48+00:00,[User]_pelwell,"{'[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5658
+2023-10-18 15:26:32+00:00,[User]_6by9,"{'[User]_6by9', '[User]_hailfinger', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5660
+2023-10-19 08:22:20+00:00,[User]_pelwell,"{'[User]_popcornmix', '[User]_6by9', '[User]_pelwell', '[User]_timg236'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5661
+2023-10-19 09:48:20+00:00,[User]_6by9,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5662
+2023-10-19 13:17:24+00:00,[User]_lurch,{'[User]_6by9'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5663
+2023-10-19 22:20:24+00:00,[User]_dwrobel,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5665
+2023-10-20 00:02:46+00:00,[User]_clopez,"{'[User]_clopez', '[User]_pelwell', '[User]_timg236'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5666
+2023-10-20 06:45:14+00:00,[User]_stefanb2,"{'[User]_stefanb2', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5667
+2023-10-20 08:48:28+00:00,[User]_df8oe,"{'[User]_Gadgetoid', '[User]_6by9', '[User]_seamusdemora', '[User]_df8oe', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5668
+2023-10-20 16:15:52+00:00,[User]_6by9,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5669
+2023-10-22 06:54:24+00:00,[User]_spyesx,"{'[User]_spyesx', '[User]_6by9', '[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5670
+2023-10-23 02:40:20+00:00,[User]_sadhanpawar,"{'[User]_sadhanpawar', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5671
+2023-10-23 09:06:23+00:00,[User]_naushir,"{'[User]_davidplowman', '[User]_naushir'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5672
+2023-10-23 12:17:38+00:00,[User]_wenqingj,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5673
+2023-10-23 13:44:18+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5675
+2023-10-23 14:16:59+00:00,[User]_trejan,"{'[User]_popcornmix', '[User]_trejan'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5676
+2023-10-24 02:59:16+00:00,[User]_hftsai256,"{'[User]_hftsai256', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5677
+2023-10-24 09:15:29+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5678
+2023-10-24 15:22:03+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5679
+2023-10-24 15:45:10+00:00,[User]_pelwell,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5680
+2023-10-24 18:59:42+00:00,[User]_julienrobin28,"{'[User]_6by9', '[User]_julienrobin28', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5681
+2023-10-26 05:55:24+00:00,[User]_Zahrun,"{'[User]_kralo', '[User]_Zahrun'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5683
+2023-10-26 17:33:54+00:00,[User]_6by9,{'[User]_6by9'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5684
+2023-10-27 13:08:15+00:00,[User]_davidplowman,"{'[User]_davidplowman', '[User]_naushir'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5685
+2023-10-27 13:20:54+00:00,[User]_Coimbra1984,"{'[User]_Coimbra1984', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5686
+2023-10-30 08:12:48+00:00,[User]_piterbuchcic1990,"{'[User]_piterbuchcic1990', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5687
+2023-10-30 20:56:33+00:00,[User]_nerdyparody,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5688
+2023-10-31 15:35:00+00:00,[User]_alphamike-1612,"{'[User]_popcornmix', '[User]_alphamike-1612', '[User]_Barry-IA', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5689
+2023-10-31 16:36:55+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5690
+2023-11-01 13:30:44+00:00,[User]_naushir,"{'[User]_6by9', '[User]_naushir', '[User]_njhollinghurst'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5691
+2023-11-02 05:04:37+00:00,[User]_yipholamjrcs,"{'[User]_yipholamjrcs', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5692
+2023-11-02 11:22:48+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5693
+2023-11-03 05:38:44+00:00,[User]_DRAgon734465502,"{'[User]_6by9', '[User]_DRAgon734465502'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5694
+2023-11-03 13:43:46+00:00,[User]_yutayu,{'[User]_yutayu'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5695
+2023-11-03 16:39:21+00:00,[User]_Gadgetoid,"{'[User]_Gadgetoid', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5696
+2023-11-07 05:59:25+00:00,[User]_flatmax,"{'[User]_flatmax', '[User]_LaiArturs', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5697
+2023-11-07 15:00:04+00:00,[User]_uajain,"{'[User]_lategoodbye', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5698
+2023-11-07 15:14:03+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5699
+2023-11-07 17:33:48+00:00,[User]_samskiter,"{'[User]_popcornmix', '[User]_samskiter'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5700
+2023-11-08 11:43:08+00:00,[User]_njhollinghurst,"{'[User]_6by9', '[User]_naushir', '[User]_njhollinghurst', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5701
+2023-11-08 12:20:50+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5702
+2023-11-08 16:36:37+00:00,[User]_6by9,"{'[User]_6by9', '[User]_lurch'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5703
+2023-11-08 16:42:27+00:00,[User]_P33M,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5704
+2023-11-08 19:21:16+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5705
+2023-11-08 20:26:11+00:00,[User]_oniongarlic,"{'[User]_tduszynski', '[User]_oniongarlic', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5706
+2023-11-09 14:55:06+00:00,[User]_linke131,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5707
+2023-11-10 12:51:11+00:00,[User]_jmondi,"{'[User]_jmondi', '[User]_kbingham', '[User]_ArduCAM', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5708
+2023-11-10 21:26:30+00:00,[User]_rmens,"{'[User]_dcabri', '[User]_rmens', '[User]_bluethumb', '[User]_nodemand', '[User]_moodeaudio', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5709
+2023-11-13 18:25:59+00:00,[User]_andi34,"{'[User]_andi34', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5710
+2023-11-14 18:40:14+00:00,[User]_6by9,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5711
+2023-11-15 12:18:00+00:00,[User]_SoUtHeaST41,"{'[User]_SoUtHeaST41', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5712
+2023-11-16 00:58:48+00:00,[User]_ArduCAM,"{'[User]_ArduCAM', '[User]_6by9', '[User]_naushir'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5713
+2023-11-16 14:37:09+00:00,[User]_naushir,"{'[User]_JamesH65', '[User]_6by9', '[User]_naushir'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5714
+2023-11-16 17:15:58+00:00,[User]_srcshelton,"{'[User]_srcshelton', '[User]_6by9'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5715
+2023-11-17 16:52:04+00:00,[User]_6by9,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5716
+2023-11-17 19:42:48+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5717
+2023-11-18 05:53:11+00:00,[User]_altimeter-130ft,"{'[User]_altimeter-130ft', '[User]_iucoen'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5718
+2023-11-18 18:53:49+00:00,[User]_andrewluebke,"{'[User]_andrewluebke', '[User]_XECDesign', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5719
+2023-11-19 11:09:37+00:00,[User]_strobo5,"{'[User]_6by9', '[User]_strobo5'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5720
+2023-11-19 14:31:02+00:00,[User]_szakalit,"{'[User]_szakalit', '[User]_6by9'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5721
+2023-11-20 06:26:11+00:00,[User]_ArduCAM,"{'[User]_ArduCAM', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5722
+2023-11-20 10:20:43+00:00,[User]_pelwell,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5723
+2023-11-20 11:37:18+00:00,[User]_KonstaT,"{'[User]_Rene-Belso', '[User]_KonstaT', '[User]_MMaciocia', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5724
+2023-11-20 15:24:27+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5725
+2023-11-20 20:34:55+00:00,[User]_jkreileder,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5726
+2023-11-21 02:05:31+00:00,[User]_rmader,"{'[User]_rmader', '[User]_6by9'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5727
+2023-11-21 11:56:47+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5729
+2023-11-22 02:27:37+00:00,[User]_JinShil,{'[User]_JinShil'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5731
+2023-11-22 18:19:45+00:00,[User]_pcollinson,"{'[User]_popcornmix', '[User]_pcollinson'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5732
+2023-11-22 18:49:48+00:00,[User]_6by9,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5733
+2023-11-22 19:24:48+00:00,[User]_6by9,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5734
+2023-11-22 20:31:44+00:00,[User]_Brunnis,{'[User]_Brunnis'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5735
+2023-11-22 21:38:26+00:00,[User]_jkreileder,"{'[User]_jkreileder', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5736
+2023-11-22 23:51:32+00:00,[User]_Nahuel92,"{'[User]_verxion', '[User]_XECDesign', '[User]_Nahuel92', '[User]_aanuroop', '[User]_cmitu', '[User]_ThomasKaiser', '[User]_garytorgersen', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5737
+2023-11-23 00:35:51+00:00,[User]_aSmig,"{'[User]_aSmig', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5738
+2023-11-23 05:14:06+00:00,[User]_lightswitch05,"{'[User]_lightswitch05', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5739
+2023-11-24 13:16:47+00:00,[User]_gtrainavicius,"{'[User]_gtrainavicius', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5741
+2023-11-24 14:08:28+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5742
+2023-11-24 14:14:03+00:00,[User]_pelwell,"{'[User]_j-schambacher', '[User]_clone206', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5743
+2023-11-24 14:34:27+00:00,[User]_6by9,"{'[User]_6by9', '[User]_naushir', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5744
+2023-11-24 16:53:52+00:00,[User]_6by9,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5745
+2023-11-25 11:07:27+00:00,[User]_by,"{'[User]_by', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5746
+2023-11-25 23:47:06+00:00,[User]_nodemand,"{'[User]_gtrainavicius', '[User]_nodemand', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5747
+2023-11-26 15:42:52+00:00,[User]_antonellocaroli,"{'[User]_antonellocaroli', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5748
+2023-11-26 23:53:45+00:00,[User]_Hkrbreak230,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5749
+2023-11-27 03:02:52+00:00,[User]_JinShil,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5750
+2023-11-27 12:19:15+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5751
+2023-11-27 14:59:15+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5752
+2023-11-27 15:16:24+00:00,[User]_P33M,"{'[User]_PowerWiesel', '[User]_HakanKoseoglu', '[User]_ajinasokan', '[User]_madMAx43v3r', '[User]_cra2710', '[User]_pjft', '[User]_dkersh', '[User]_UgaBugaOfdeSpeer', '[User]_thmcon', '[User]_ddscentral', '[User]_acavalin', '[User]_P33M', '[User]_balupton', '[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5753
+2023-11-28 00:52:33+00:00,[User]_XenuIsWatching,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5754
+2023-11-28 08:09:32+00:00,[User]_JinShil,"{'[User]_JinShil', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5755
+2023-11-28 10:20:57+00:00,[User]_agners,"{'[User]_agners', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5756
+2023-11-28 12:18:39+00:00,[User]_pelwell,"{'[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5757
+2023-11-29 14:32:48+00:00,[User]_chmertes,"{'[User]_P33M', '[User]_chmertes'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5759
+2023-11-30 00:44:34+00:00,[User]_Zorono,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5760
+2023-11-30 14:59:32+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5762
+2023-12-01 00:40:14+00:00,[User]_tuyaliang,"{'[User]_6by9', '[User]_tuyaliang', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5764
+2023-12-01 17:42:27+00:00,[User]_xianrecords2015,"{'[User]_xianrecords2015', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5765
+2023-12-02 12:53:43+00:00,[User]_samsamfire,"{'[User]_samsamwatt', '[User]_samsamfire', '[User]_pelwell', '[User]_lategoodbye'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5766
+2023-12-03 00:24:39+00:00,[User]_arekm,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5767
+2023-12-03 13:05:22+00:00,[User]_semool,"{'[User]_martin2day2', '[User]_padlefot', '[User]_semool', '[User]_haryseldon2', '[User]_DanaGoyette', '[User]_P33M', '[User]_m01', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5768
+2023-12-04 02:36:16+00:00,[User]_davesliu,"{'[User]_P33M', '[User]_6by9', '[User]_pelwell', '[User]_davesliu'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5769
+2023-12-05 04:19:00+00:00,[User]_llllllllqq,"{'[User]_llllllllqq', '[User]_nbuchwitz', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5770
+2023-12-05 10:53:22+00:00,[User]_pelwell,{'[User]_lategoodbye'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5771
+2023-12-05 17:05:24+00:00,[User]_P33M,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5772
+2023-12-05 18:35:31+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5773
+2023-12-06 15:03:56+00:00,[User]_njhollinghurst,"{'[User]_6by9', '[User]_njhollinghurst'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5774
+2023-12-07 17:37:25+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_P33M'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5775
+2023-12-07 19:08:31+00:00,[User]_timonsku,"{'[User]_timonsku', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5776
+2023-12-09 19:34:01+00:00,[User]_zoroxide,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5779
+2023-12-10 19:40:05+00:00,[User]_pizdjuk,"{'[User]_bramoosterhuis', '[User]_rzr', '[User]_XECDesign', '[User]_mfraser', '[User]_KingZambo', '[User]_6by9', '[User]_melissawen', '[User]_RapidEdwin08'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5780
+2023-12-11 06:12:48+00:00,[User]_waveshare,{'[User]_6by9'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5781
+2023-12-11 09:08:31+00:00,[User]_llllllllqq,{'[User]_llllllllqq'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5782
+2023-12-11 15:13:44+00:00,[User]_ValGretchev,"{'[User]_ValGretchev', '[User]_6by9'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5783
+2023-12-11 15:19:46+00:00,[User]_Gadgetoid,"{'[User]_mozcelikors', '[User]_JamesH65', '[User]_Gadgetoid', '[User]_timg236', '[User]_6by9', '[User]_vhelmer', '[User]_JinShil', '[User]_neuralassembly', '[User]_steveiliop56', '[User]_talksik', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5784
+2023-12-11 17:10:11+00:00,[User]_pelwell,{'[User]_timg236'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5785
+2023-12-12 11:55:49+00:00,[User]_billauer,"{'[User]_billauer', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5786
+2023-12-12 12:12:08+00:00,[User]_leon-anavi,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5787
+2023-12-13 14:42:28+00:00,[User]_P33M,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5788
+2023-12-13 17:18:42+00:00,[User]_BubuOT,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5789
+2023-12-14 02:57:38+00:00,[User]_timonsku,"{'[User]_6by9', '[User]_timonsku', '[User]_ladyada'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5791
+2023-12-14 09:17:04+00:00,[User]_JinShil,"{'[User]_JinShil', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5792
+2023-12-15 10:37:44+00:00,[User]_by,"{'[User]_popcornmix', '[User]_by', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5793
+2023-12-15 16:27:59+00:00,[User]_ITachiLab,"{'[User]_ITachiLab', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5794
+2023-12-17 02:23:22+00:00,[User]_hackerb9,"{'[User]_hackerb9', '[User]_j-schambacher', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5795
+2023-12-18 02:29:57+00:00,[User]_davesliu,{'[User]_davesliu'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5796
+2023-12-18 04:43:49+00:00,[User]_nioroso-x3,{'[User]_pelwell'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5797
+2023-12-18 15:09:22+00:00,[User]_cyyself,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5799
+2023-12-18 15:34:03+00:00,[User]_cyyself,"{'[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5800
+2023-12-18 16:06:24+00:00,[User]_lurch,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5801
+2023-12-19 11:33:19+00:00,[User]_pelwell,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5802
+2023-12-19 14:57:59+00:00,[User]_pelwell,"{'[User]_popcornmix', '[User]_timg236'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5803
+2023-12-19 18:03:42+00:00,[User]_MAVRICK-1,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5804
+2023-12-21 16:01:07+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5805
+2023-12-21 19:16:50+00:00,[User]_6by9,"{'[User]_6by9', '[User]_naushir'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5806
+2023-12-23 06:44:47+00:00,[User]_vvarma,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5807
+2023-12-23 11:24:23+00:00,[User]_nulucidity,"{'[User]_6by9', '[User]_nulucidity'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5808
+2023-12-24 00:33:23+00:00,[User]_berndbenner,"{'[User]_nbuchwitz', '[User]_berndbenner', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5809
+2023-12-25 08:44:30+00:00,[User]_vvarma,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5810
+2023-12-27 19:59:04+00:00,[User]_6by9,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/pull/5811
+2023-12-29 03:51:13+00:00,[User]_mgrouch,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5812
+2023-12-30 13:32:01+00:00,[User]_donmahallem,"{'[User]_6by9', '[User]_Vizzyy'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5813
+2023-12-30 13:55:13+00:00,[User]_HiassofT,set(),raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5814
+2023-12-31 12:16:55+00:00,[User]_GYKgamer,{'[User]_GYKgamer'},raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5815
+2023-12-31 20:00:46+00:00,[User]_rosecitytransit,"{'[User]_6by9', '[User]_rosecitytransit', '[User]_pelwell'}",raspberrypi/linux,2023,https://github.com/raspberrypi/linux/issues/5816
+2024-01-02 19:02:33+00:00,[User]_rafael2k,"{'[User]_rafael2k', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5817
+2024-01-03 03:55:19+00:00,[User]_waveshare,"{'[User]_Darmur', '[User]_waveshare', '[User]_6by9', '[User]_samdowrickstr', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5818
+2024-01-03 14:51:12+00:00,[User]_pelwell,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5819
+2024-01-04 10:06:16+00:00,[User]_by,"{'[User]_by', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5820
+2024-01-04 10:48:17+00:00,[User]_njhollinghurst,"{'[User]_6by9', '[User]_naushir', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5821
+2024-01-04 11:55:17+00:00,[User]_acavalin,"{'[User]_acavalin', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5825
+2024-01-04 12:21:23+00:00,[User]_pelwell,{'[User]_timg236'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5822
+2024-01-04 12:32:32+00:00,[User]_6by9,"{'[User]_popcornmix', '[User]_6by9', '[User]_JinShil'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5824
+2024-01-04 14:08:44+00:00,[User]_pelwell,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5826
+2024-01-04 15:14:03+00:00,[User]_6by9,"{'[User]_popcornmix', '[User]_6by9', '[User]_bluestang2006', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5827
+2024-01-04 16:20:45+00:00,[User]_bluestang2006,"{'[User]_6by9', '[User]_bluestang2006'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5828
+2024-01-05 02:59:04+00:00,[User]_davesliu,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5829
+2024-01-05 03:05:08+00:00,[User]_davesliu,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5830
+2024-01-05 09:55:34+00:00,[User]_Romain-Donze,"{'[User]_6by9', '[User]_Romain-Donze', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5831
+2024-01-05 18:14:46+00:00,[User]_mairacanal,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5832
+2024-01-05 18:48:27+00:00,[User]_6by9,"{'[User]_6by9', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5833
+2024-01-06 23:46:08+00:00,[User]_steinhelten,"{'[User]_XECDesign', '[User]_lurch', '[User]_steinhelten', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5844
+2024-01-07 08:31:51+00:00,[User]_klslz,{'[User]_klslz'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5834
+2024-01-08 05:15:13+00:00,[User]_jp-bennett,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5835
+2024-01-08 10:08:50+00:00,[User]_klslz,"{'[User]_JamesH65', '[User]_etyrnal', '[User]_trejan', '[User]_klslz', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5836
+2024-01-08 11:53:55+00:00,[User]_pelwell,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5837
+2024-01-08 14:12:40+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_lategoodbye'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5838
+2024-01-09 15:55:00+00:00,[User]_lkthomas,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5839
+2024-01-09 19:12:00+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5840
+2024-01-10 05:04:19+00:00,[User]_ArduCAM,"{'[User]_ArduCAM', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5841
+2024-01-10 10:47:18+00:00,[User]_P33M,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5842
+2024-01-11 09:08:22+00:00,[User]_klslz,"{'[User]_klslz', '[User]_bendik', '[User]_paul-1', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5843
+2024-01-11 15:19:28+00:00,[User]_njhollinghurst,"{'[User]_Renalds-B', '[User]_6by9', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5845
+2024-01-11 16:51:46+00:00,[User]_P33M,"{'[User]_JamesH65', '[User]_P33M', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5846
+2024-01-12 14:28:17+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5847
+2024-01-13 12:57:11+00:00,[User]_martinezjavier,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5848
+2024-01-14 17:17:52+00:00,[User]_Romain-Donze,"{'[User]_popcornmix', '[User]_Romain-Donze', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5849
+2024-01-15 12:38:50+00:00,[User]_pelwell,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5850
+2024-01-15 13:56:07+00:00,[User]_solsticedhiver,{'[User]_solsticedhiver'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5851
+2024-01-15 17:50:18+00:00,[User]_ardera,"{'[User]_6by9', '[User]_ardera'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5852
+2024-01-16 16:30:06+00:00,[User]_pelwell,"{'[User]_JinShil', '[User]_dgedgedge', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5853
+2024-01-16 17:03:29+00:00,[User]_pelwell,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5854
+2024-01-16 17:34:09+00:00,[User]_pelwell,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5855
+2024-01-17 00:04:04+00:00,[User]_qrp73,{'[User]_qrp73'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5857
+2024-01-17 11:33:15+00:00,[User]_thisisgregm,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5856
+2024-01-17 17:07:57+00:00,[User]_6by9,"{'[User]_popcornmix', '[User]_6by9'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5860
+2024-01-17 17:08:44+00:00,[User]_6by9,"{'[User]_popcornmix', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5861
+2024-01-17 21:34:29+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5862
+2024-01-18 11:13:46+00:00,[User]_pelwell,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5863
+2024-01-18 11:40:45+00:00,[User]_njhollinghurst,"{'[User]_6by9', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5864
+2024-01-18 12:39:47+00:00,[User]_6by9,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5866
+2024-01-18 15:07:27+00:00,[User]_njhollinghurst,{'[User]_njhollinghurst'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5867
+2024-01-18 15:20:55+00:00,[User]_P33M,"{'[User]_P33M', '[User]_nbuchwitz'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5868
+2024-01-18 15:53:16+00:00,[User]_pelwell,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5869
+2024-01-18 21:50:48+00:00,[User]_nbuchwitz,"{'[User]_P33M', '[User]_nbuchwitz', '[User]_lategoodbye', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5870
+2024-01-19 11:10:35+00:00,[User]_the-colonel-dev,"{'[User]_popcornmix', '[User]_6by9', '[User]_the-colonel-dev'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5871
+2024-01-19 17:22:50+00:00,[User]_gtrainavicius,"{'[User]_gtrainavicius', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5872
+2024-01-20 08:24:23+00:00,[User]_teoteo,"{'[User]_JamesH65', '[User]_graysky2', '[User]_P33M', '[User]_popcornmix', '[User]_seamusdemora', '[User]_teoteo', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5873
+2024-01-20 17:43:49+00:00,[User]_giuliomoro,"{'[User]_giuliomoro', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5874
+2024-01-20 18:54:38+00:00,[User]_giuliomoro,"{'[User]_popcornmix', '[User]_giuliomoro', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5876
+2024-01-21 10:00:37+00:00,[User]_mojyack,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5877
+2024-01-21 18:08:20+00:00,[User]_baslking,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5878
+2024-01-21 20:07:35+00:00,[User]_aspymid,{'[User]_aspymid'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5879
+2024-01-22 11:31:46+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5880
+2024-01-22 16:52:06+00:00,[User]_P33M,"{'[User]_P33M', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5882
+2024-01-23 03:46:41+00:00,[User]_GageHoweTamu,"{'[User]_Master-Koy', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5883
+2024-01-23 09:47:27+00:00,[User]_tiagofreire-pt,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5884
+2024-01-23 18:59:42+00:00,[User]_njhollinghurst,"{'[User]_6by9', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5885
+2024-01-24 10:03:39+00:00,[User]_tiagofreire-pt,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5886
+2024-01-24 11:55:32+00:00,[User]_Dark-Sky,"{'[User]_Master-Koy', '[User]_6by9', '[User]_popcornmix', '[User]_Dark-Sky', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5887
+2024-01-24 12:29:11+00:00,[User]_jmondi,"{'[User]_davidplowman', '[User]_jmondi', '[User]_6by9', '[User]_naushir'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5888
+2024-01-24 14:20:54+00:00,[User]_P33M,"{'[User]_P33M', '[User]_timg236'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5889
+2024-01-24 15:38:05+00:00,[User]_callistix,{'[User]_Smyl3'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5890
+2024-01-24 16:40:25+00:00,[User]_6by9,{'[User]_6by9'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5891
+2024-01-24 16:43:58+00:00,[User]_P33M,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5892
+2024-01-25 15:01:04+00:00,[User]_qrp73,"{'[User]_popcornmix', '[User]_qrp73'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5893
+2024-01-25 15:19:30+00:00,[User]_6by9,{'[User]_6by9'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5894
+2024-01-25 15:35:48+00:00,[User]_tartanpion,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5895
+2024-01-25 16:52:57+00:00,[User]_RodrigoRosmaninho,"{'[User]_RodrigoRosmaninho', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5896
+2024-01-25 16:53:16+00:00,[User]_RodrigoRosmaninho,"{'[User]_P33M', '[User]_RodrigoRosmaninho', '[User]_schuschu', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5897
+2024-01-25 18:05:34+00:00,[User]_6by9,"{'[User]_HiassofT', '[User]_6by9', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5898
+2024-01-26 08:52:28+00:00,[User]_jmondi,"{'[User]_popcornmix', '[User]_jmondi', '[User]_naushir', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5899
+2024-01-26 14:10:25+00:00,[User]_peat-psuwit,"{'[User]_6by9', '[User]_peat-psuwit'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5900
+2024-01-26 16:26:08+00:00,[User]_njhollinghurst,{'[User]_njhollinghurst'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5901
+2024-01-26 17:26:23+00:00,[User]_pelwell,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5902
+2024-01-26 22:51:02+00:00,[User]_makermelissa,"{'[User]_6by9', '[User]_makermelissa', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5903
+2024-01-27 07:34:58+00:00,[User]_dsseng,"{'[User]_davidv1992', '[User]_dsseng', '[User]_scottstanfield', '[User]_lmfses', '[User]_P33M', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5904
+2024-01-28 09:05:02+00:00,[User]_seamusdemora,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5905
+2024-01-28 15:17:54+00:00,[User]_Aegeontis,"{'[User]_popcornmix', '[User]_Aegeontis'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5906
+2024-01-28 15:39:53+00:00,[User]_nat3Github,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5907
+2024-01-29 09:08:52+00:00,[User]_naushir,"{'[User]_jmondi', '[User]_naushir'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5908
+2024-01-29 10:56:19+00:00,[User]_aboulfad,"{'[User]_aboulfad', '[User]_bit-bash', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5909
+2024-01-30 08:26:08+00:00,[User]_peat-psuwit,"{'[User]_njhollinghurst', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5910
+2024-01-30 12:24:04+00:00,[User]_arekm,"{'[User]_arekm', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5911
+2024-01-30 12:48:33+00:00,[User]_dividuum,"{'[User]_popcornmix', '[User]_dividuum'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5912
+2024-01-30 17:01:43+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5913
+2024-01-31 10:06:12+00:00,[User]_pelwell,"{'[User]_dgedgedge', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5914
+2024-01-31 17:41:44+00:00,[User]_sandyol55,{'[User]_naushir'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5915
+2024-01-31 17:53:37+00:00,[User]_pelwell,"{'[User]_JinShil', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5916
+2024-02-01 16:42:07+00:00,[User]_j-schambacher,{'[User]_j-schambacher'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5917
+2024-02-01 17:57:07+00:00,[User]_j-schambacher,{'[User]_j-schambacher'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5918
+2024-02-02 07:57:46+00:00,[User]_j-schambacher,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5919
+2024-02-04 20:48:53+00:00,[User]_mrwizardwizard,"{'[User]_mrwizardwizard', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5920
+2024-02-05 10:09:59+00:00,[User]_aBUGSworstnightmare-rpi,"{'[User]_aBUGSworstnightmare-rpi', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5921
+2024-02-05 11:27:40+00:00,[User]_6by9,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5922
+2024-02-05 12:23:56+00:00,[User]_naushir,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5923
+2024-02-05 15:53:58+00:00,[User]_P33M,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5924
+2024-02-05 18:17:45+00:00,[User]_njhollinghurst,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5925
+2024-02-05 18:37:57+00:00,[User]_qrp73,"{'[User]_6by9', '[User]_qrp73', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5926
+2024-02-06 13:52:17+00:00,[User]_rafael2k,"{'[User]_rafael2k', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5927
+2024-02-06 15:11:50+00:00,[User]_pelwell,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5928
+2024-02-06 18:03:46+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5929
+2024-02-06 20:01:59+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_6by9', '[User]_lurch'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5930
+2024-02-07 08:50:50+00:00,[User]_klslz,"{'[User]_klslz', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5931
+2024-02-07 11:54:23+00:00,[User]_johanehnberg,"{'[User]_popcornmix', '[User]_6by9', '[User]_jc-kynesim', '[User]_johanehnberg'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5932
+2024-02-07 17:33:45+00:00,[User]_Borillion,"{'[User]_mrsauravsahu', '[User]_Borillion', '[User]_zhengyi13', '[User]_lukfd'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5933
+2024-02-07 22:43:36+00:00,[User]_fableman73,"{'[User]_fableman73', '[User]_pelwell', '[User]_AnMakc'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5934
+2024-02-08 19:04:10+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5935
+2024-02-09 11:18:22+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5936
+2024-02-09 14:05:59+00:00,[User]_P33M,"{'[User]_P33M', '[User]_geerlingguy', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5937
+2024-02-09 18:14:47+00:00,[User]_Dark-Sky,"{'[User]_Dark-Sky', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5939
+2024-02-09 18:21:02+00:00,[User]_6by9,"{'[User]_jc-kynesim', '[User]_6by9', '[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5940
+2024-02-09 18:56:39+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5941
+2024-02-10 14:03:42+00:00,[User]_flicfloc,{'[User]_flicfloc'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5942
+2024-02-10 19:08:14+00:00,[User]_muggins,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5943
+2024-02-12 09:27:27+00:00,[User]_naushir,"{'[User]_6by9', '[User]_naushir', '[User]_tomba'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5944
+2024-02-12 16:47:35+00:00,[User]_pelwell,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5945
+2024-02-12 18:00:44+00:00,[User]_cibomahto,"{'[User]_popcornmix', '[User]_cibomahto'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5946
+2024-02-12 18:08:31+00:00,[User]_claudiu2patru,{'[User]_claudiu2patru'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5947
+2024-02-12 21:32:09+00:00,[User]_ArtemKorr,"{'[User]_6by9', '[User]_ArtemKorr'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5948
+2024-02-13 01:12:25+00:00,[User]_Yash-BlueRockSoft,"{'[User]_Yash-BlueRockSoft', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5949
+2024-02-13 05:42:14+00:00,[User]_mghadam,"{'[User]_popcornmix', '[User]_mghadam', '[User]_qrp73', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5950
+2024-02-13 05:50:11+00:00,[User]_mghadam,"{'[User]_popcornmix', '[User]_apassu', '[User]_pelwell', '[User]_mghadam'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5951
+2024-02-13 05:55:25+00:00,[User]_mghadam,"{'[User]_6by9', '[User]_bou6'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5952
+2024-02-13 15:36:44+00:00,[User]_6by9,{'[User]_6by9'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5954
+2024-02-13 18:01:56+00:00,[User]_njhollinghurst,{'[User]_njhollinghurst'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5955
+2024-02-13 20:33:24+00:00,[User]_addohm,"{'[User]_addohm', '[User]_peterharperuk'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5956
+2024-02-13 22:49:41+00:00,[User]_recon-Mike,"{'[User]_recon-Mike', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5957
+2024-02-14 19:01:49+00:00,[User]_mairacanal,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5958
+2024-02-15 06:31:59+00:00,[User]_qrp73,"{'[User]_Dark-Sky', '[User]_qrp73', '[User]_dangelovich', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5959
+2024-02-15 13:44:07+00:00,[User]_davidplowman,"{'[User]_davidplowman', '[User]_vanlayag', '[User]_6by9', '[User]_popcornmix', '[User]_naushir'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5960
+2024-02-15 14:45:49+00:00,[User]_njhollinghurst,"{'[User]_6by9', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5961
+2024-02-16 15:51:03+00:00,[User]_6by9,"{'[User]_popcornmix', '[User]_6by9', '[User]_njhollinghurst', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5962
+2024-02-16 15:58:48+00:00,[User]_popcornmix,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5963
+2024-02-17 05:01:56+00:00,[User]_iucoen,"{'[User]_lategoodbye', '[User]_iucoen', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5964
+2024-02-17 13:03:59+00:00,[User]_javiercarrascocruz,"{'[User]_javiercarrascocruz', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5965
+2024-02-18 16:00:21+00:00,[User]_pelwell,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5966
+2024-02-18 19:07:40+00:00,[User]_TPMoyer,"{'[User]_6by9', '[User]_XECDesign', '[User]_TPMoyer'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5967
+2024-02-19 12:03:59+00:00,[User]_0xF6,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5968
+2024-02-20 01:29:48+00:00,[User]_iucoen,"{'[User]_iucoen', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5969
+2024-02-20 14:42:38+00:00,[User]_gugolple,"{'[User]_ctmarinas', '[User]_popcornmix', '[User]_gugolple', '[User]_seamusdemora', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5975
+2024-02-20 15:23:02+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5971
+2024-02-20 17:55:56+00:00,[User]_lurch,"{'[User]_lurch', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5972
+2024-02-20 17:58:32+00:00,[User]_iucoen,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5973
+2024-02-20 18:19:26+00:00,[User]_iucoen,"{'[User]_iucoen', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5974
+2024-02-21 15:09:34+00:00,[User]_matihuf,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5976
+2024-02-21 18:34:05+00:00,[User]_njhollinghurst,"{'[User]_6by9', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5977
+2024-02-22 15:24:49+00:00,[User]_mghadam,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5978
+2024-02-22 17:33:15+00:00,[User]_RaulTrombin,"{'[User]_6by9', '[User]_RaulTrombin', '[User]_popcornmix', '[User]_seamusdemora', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5979
+2024-02-22 19:16:31+00:00,[User]_qrp73,"{'[User]_JamesH65', '[User]_6by9', '[User]_P33M', '[User]_qrp73', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5980
+2024-02-22 19:19:15+00:00,[User]_RaulTrombin,"{'[User]_qrp73', '[User]_RaulTrombin', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5981
+2024-02-23 09:56:28+00:00,[User]_j-schambacher,{'[User]_j-schambacher'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5982
+2024-02-23 10:53:11+00:00,[User]_j-schambacher,"{'[User]_j-schambacher', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5983
+2024-02-24 03:26:38+00:00,[User]_marty45714,{'[User]_marty45714'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5984
+2024-02-24 11:28:29+00:00,[User]_ch-f,"{'[User]_ch-f', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5985
+2024-02-25 20:26:47+00:00,[User]_TheMarrt,"{'[User]_popcornmix', '[User]_6by9', '[User]_TheMarrt'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5986
+2024-02-25 22:38:48+00:00,[User]_mhyllander,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5987
+2024-02-26 11:28:35+00:00,[User]_6by9,{'[User]_Silent-Hunter'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5989
+2024-02-26 18:04:41+00:00,[User]_6by9,"{'[User]_popcornmix', '[User]_6by9'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5990
+2024-02-27 09:07:54+00:00,[User]_naushir,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5991
+2024-02-27 22:13:19+00:00,[User]_03stevensmi,"{'[User]_popcornmix', '[User]_03stevensmi', '[User]_6by9', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5992
+2024-02-28 10:42:56+00:00,[User]_j-schambacher,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5993
+2024-02-28 11:13:03+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5994
+2024-02-29 07:14:30+00:00,[User]_ArduCAM,"{'[User]_jmondi', '[User]_ArduCAM'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/5996
+2024-02-29 09:37:13+00:00,[User]_jmondi,{'[User]_jmondi'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5998
+2024-02-29 12:13:34+00:00,[User]_pelwell,"{'[User]_P33M', '[User]_j-schambacher', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/5999
+2024-03-01 15:22:13+00:00,[User]_MarcelaSantosTech,"{'[User]_popcornmix', '[User]_MarcelaSantosTech'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6000
+2024-03-02 00:11:15+00:00,[User]_Xanaeth,{'[User]_6by9'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6001
+2024-03-02 00:31:13+00:00,[User]_qrp73,"{'[User]_qrp73', '[User]_XECDesign'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6002
+2024-03-02 11:54:46+00:00,[User]_bw-86,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6003
+2024-03-03 09:00:36+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6004
+2024-03-03 11:51:55+00:00,[User]_pelwell,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6005
+2024-03-03 16:30:42+00:00,[User]_wscheicher,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6006
+2024-03-03 16:52:23+00:00,[User]_raphaelscholle,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6007
+2024-03-04 12:20:12+00:00,[User]_cillian64,"{'[User]_6by9', '[User]_cillian64', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6008
+2024-03-04 14:27:34+00:00,[User]_Kronsed0,"{'[User]_Kronsed0', '[User]_P33M'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6009
+2024-03-05 00:17:18+00:00,[User]_mousethief,"{'[User]_mousethief', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6011
+2024-03-05 12:41:19+00:00,[User]_dividuum,"{'[User]_popcornmix', '[User]_dividuum'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6012
+2024-03-05 15:17:59+00:00,[User]_P33M,"{'[User]_P33M', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6013
+2024-03-05 20:31:16+00:00,[User]_moodeaudio,"{'[User]_popcornmix', '[User]_moodeaudio', '[User]_6by9'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6015
+2024-03-07 10:25:55+00:00,[User]_Kronsed0,"{'[User]_popcornmix', '[User]_Kronsed0', '[User]_P33M', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6016
+2024-03-07 12:18:29+00:00,[User]_waveshare,"{'[User]_Darmur', '[User]_6by9', '[User]_pelwell', '[User]_waveshare'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6017
+2024-03-08 11:51:19+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6018
+2024-03-08 15:16:48+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6019
+2024-03-08 18:20:32+00:00,[User]_makermelissa,"{'[User]_makermelissa', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6020
+2024-03-10 11:10:05+00:00,[User]_Bucking-Horn,"{'[User]_6by9', '[User]_Bucking-Horn', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6021
+2024-03-10 21:16:43+00:00,[User]_BohdanBuinich,"{'[User]_BohdanBuinich', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6022
+2024-03-11 12:30:01+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6023
+2024-03-11 15:08:24+00:00,[User]_j-schambacher,"{'[User]_j-schambacher', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6024
+2024-03-11 15:21:00+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6025
+2024-03-12 10:25:26+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6026
+2024-03-12 16:08:20+00:00,[User]_j-schambacher,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6028
+2024-03-12 16:41:53+00:00,[User]_6by9,{'[User]_6by9'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6029
+2024-03-12 19:49:49+00:00,[User]_mdevaev,"{'[User]_6by9', '[User]_mdevaev', '[User]_alexandrebelloni', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6030
+2024-03-13 02:22:31+00:00,[User]_a67878813,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6031
+2024-03-13 09:44:45+00:00,[User]_j-schambacher,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6032
+2024-03-13 09:47:13+00:00,[User]_j-schambacher,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6033
+2024-03-13 12:17:03+00:00,[User]_dividuum,"{'[User]_popcornmix', '[User]_dividuum'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6034
+2024-03-13 17:06:40+00:00,[User]_macromorgan,"{'[User]_macromorgan', '[User]_PinkFreud', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6035
+2024-03-13 17:08:17+00:00,[User]_ozapft,"{'[User]_kungeplay', '[User]_shawenyao', '[User]_theneosloth', '[User]_LastColin', '[User]_amraz39', '[User]_popcornmix', '[User]_ozapft', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6036
+2024-03-13 17:38:01+00:00,[User]_Blackbox-git,"{'[User]_septatrix', '[User]_XECDesign', '[User]_ziddey', '[User]_DimuthuDKA', '[User]_litinoveweedle', '[User]_lurch', '[User]_TimW55', '[User]_6by9', '[User]_aallan', '[User]_andi34', '[User]_geekworm-com', '[User]_Longrunner262', '[User]_Blackbox-git', '[User]_skaringa', '[User]_waveform80', '[User]_Trilife', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6037
+2024-03-14 10:16:33+00:00,[User]_pelwell,"{'[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6038
+2024-03-14 14:00:38+00:00,[User]_Trilife,"{'[User]_popcornmix', '[User]_6by9', '[User]_Trilife', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6039
+2024-03-14 15:32:56+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6040
+2024-03-14 20:08:52+00:00,[User]_renewedbullet,"{'[User]_XECDesign', '[User]_delgh1', '[User]_andrum993', '[User]_renewedbullet', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6041
+2024-03-14 21:10:02+00:00,[User]_SpiderUnderUrBed,"{'[User]_alessandromrc', '[User]_lasselj'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6042
+2024-03-15 05:19:56+00:00,[User]_JinShil,"{'[User]_P33M', '[User]_JinShil', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6043
+2024-03-15 09:54:48+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6044
+2024-03-15 10:49:48+00:00,[User]_mdevaev,"{'[User]_popcornmix', '[User]_6by9', '[User]_mdevaev'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6045
+2024-03-15 14:44:27+00:00,[User]_P33M,"{'[User]_popcornmix', '[User]_P33M', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6046
+2024-03-16 16:07:54+00:00,[User]_mgrouch,"{'[User]_mgrouch', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6047
+2024-03-16 21:43:00+00:00,[User]_gqcao,"{'[User]_popcornmix', '[User]_gqcao'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6048
+2024-03-17 16:21:36+00:00,[User]_starsareintherose,"{'[User]_bobrippling', '[User]_delgh1', '[User]_starsareintherose', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6049
+2024-03-18 12:18:58+00:00,[User]_pelwell,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6050
+2024-03-18 15:09:07+00:00,[User]_pelwell,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6051
+2024-03-18 15:47:22+00:00,[User]_pelwell,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6052
+2024-03-19 10:02:58+00:00,[User]_pelwell,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6054
+2024-03-20 15:28:56+00:00,[User]_RolandFelnhofer,"{'[User]_ThomasKaiser', '[User]_matthias480'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6055
+2024-03-21 14:10:31+00:00,[User]_neuralassembly,"{'[User]_neuralassembly', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6056
+2024-03-22 05:52:32+00:00,[User]_fary99,{'[User]_6by9'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6058
+2024-03-22 12:29:04+00:00,[User]_srcshelton,"{'[User]_srcshelton', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6059
+2024-03-22 14:30:00+00:00,[User]_P33M,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6060
+2024-03-22 15:07:56+00:00,[User]_popcornmix,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6061
+2024-03-22 15:55:21+00:00,[User]_iluminat23,"{'[User]_iluminat23', '[User]_dirkdimehead', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6062
+2024-03-23 21:34:20+00:00,[User]_peat-psuwit,"{'[User]_XECDesign', '[User]_HinTak', '[User]_febus982', '[User]_iluminat23', '[User]_popcornmix'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6063
+2024-03-24 00:21:44+00:00,[User]_alessandromrc,"{'[User]_popcornmix', '[User]_alessandromrc', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6064
+2024-03-24 20:04:55+00:00,[User]_b4dpxl,"{'[User]_b4dpxl', '[User]_alessandromrc', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6065
+2024-03-25 17:25:33+00:00,[User]_hadrava,"{'[User]_6by9', '[User]_EmEiBee', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6067
+2024-03-25 19:18:35+00:00,[User]_mdevaev,"{'[User]_6by9', '[User]_mdevaev'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6068
+2024-03-26 13:44:03+00:00,[User]_giampiero7,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6069
+2024-03-26 16:00:57+00:00,[User]_giampiero7,"{'[User]_giampiero7', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6070
+2024-03-26 16:16:03+00:00,[User]_pelwell,"{'[User]_JinShil', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6071
+2024-03-26 17:36:30+00:00,[User]_timg236,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6073
+2024-03-26 19:07:38+00:00,[User]_alessandromrc,"{'[User]_alessandromrc', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6074
+2024-03-27 09:38:37+00:00,[User]_timg236,"{'[User]_timg236', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6075
+2024-03-27 10:53:22+00:00,[User]_P33M,"{'[User]_P33M', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6076
+2024-03-27 15:27:11+00:00,[User]_P33M,"{'[User]_P33M', '[User]_Noltari', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6077
+2024-03-27 15:30:18+00:00,[User]_jstirzaker,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6078
+2024-03-27 18:01:46+00:00,[User]_s-dinda,"{'[User]_Winor', '[User]_6by9', '[User]_x130844', '[User]_s-dinda', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6079
+2024-03-29 12:37:02+00:00,[User]_iam-TJ,"{'[User]_iam-TJ', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6080
+2024-03-30 18:41:41+00:00,[User]_boh-wyp,"{'[User]_6by9', '[User]_boh-wyp'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6081
+2024-04-02 07:42:04+00:00,[User]_berndporr,"{'[User]_berndporr', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6084
+2024-04-02 19:21:12+00:00,[User]_spockfish,"{'[User]_spockfish', '[User]_6by9', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6085
+2024-04-03 09:32:07+00:00,[User]_seamusdemora,{'[User]_seamusdemora'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6086
+2024-04-03 10:33:42+00:00,[User]_cavonlee,"{'[User]_popcornmix', '[User]_cavonlee', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6087
+2024-04-03 15:14:36+00:00,[User]_6by9,"{'[User]_6by9', '[User]_naushir', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6088
+2024-04-03 16:46:17+00:00,[User]_timg236,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6089
+2024-04-03 22:19:16+00:00,[User]_pelwell,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6090
+2024-04-04 16:59:55+00:00,[User]_pelwell,"{'[User]_JinShil', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6091
+2024-04-05 07:26:45+00:00,[User]_CarlFK,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6092
+2024-04-05 12:34:45+00:00,[User]_javiercarrascocruz,"{'[User]_javiercarrascocruz', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6093
+2024-04-05 17:23:08+00:00,[User]_6by9,"{'[User]_6by9', '[User]_lurch'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6094
+2024-04-05 18:42:55+00:00,[User]_w23,"{'[User]_w23', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6095
+2024-04-07 11:37:41+00:00,[User]_Tiger0215,"{'[User]_Tiger0215', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6096
+2024-04-08 04:20:21+00:00,[User]_seamusdemora,"{'[User]_JamesH65', '[User]_seamusdemora'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6097
+2024-04-10 13:53:10+00:00,[User]_popcornmix,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6099
+2024-04-10 16:03:40+00:00,[User]_ipoupaille,{'[User]_b3nn0'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6100
+2024-04-11 14:38:32+00:00,[User]_llevet,"{'[User]_popcornmix', '[User]_llevet'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6101
+2024-04-15 04:26:38+00:00,[User]_delgh1,"{'[User]_popcornmix', '[User]_delgh1', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6102
+2024-04-15 21:14:43+00:00,[User]_pelwell,{'[User]_timg236'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6103
+2024-04-16 17:15:39+00:00,[User]_HiassofT,"{'[User]_j-schambacher', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6104
+2024-04-16 17:16:07+00:00,[User]_njhollinghurst,"{'[User]_6by9', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6105
+2024-04-17 10:07:25+00:00,[User]_iiicht,"{'[User]_iiicht', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6106
+2024-04-17 10:46:23+00:00,[User]_P33M,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6107
+2024-04-17 14:50:22+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6108
+2024-04-17 16:11:48+00:00,[User]_P33M,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6109
+2024-04-17 16:28:03+00:00,[User]_pelwell,{'[User]_HiassofT'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6110
+2024-04-18 10:33:52+00:00,[User]_pelwell,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6111
+2024-04-18 14:00:44+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6112
+2024-04-18 14:44:21+00:00,[User]_6by9,"{'[User]_popcornmix', '[User]_6by9'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6113
+2024-04-18 16:23:29+00:00,[User]_pelwell,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6114
+2024-04-19 07:11:55+00:00,[User]_steveiliop56,"{'[User]_6by9', '[User]_steveiliop56'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6115
+2024-04-19 14:15:59+00:00,[User]_pelwell,"{'[User]_6by9', '[User]_lategoodbye'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6117
+2024-04-19 18:29:46+00:00,[User]_popcornmix,"{'[User]_popcornmix', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6118
+2024-04-20 15:53:37+00:00,[User]_delgh1,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6119
+2024-04-22 17:51:47+00:00,[User]_kleinweby,"{'[User]_6by9', '[User]_kleinweby', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6121
+2024-04-23 11:52:17+00:00,[User]_naushir,{'[User]_6by9'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6122
+2024-04-23 16:50:12+00:00,[User]_popcornmix,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6123
+2024-04-23 17:57:51+00:00,[User]_6by9,"{'[User]_6by9', '[User]_lurch'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6124
+2024-04-24 14:20:21+00:00,[User]_njhollinghurst,{'[User]_njhollinghurst'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6125
+2024-04-24 17:06:02+00:00,[User]_mikegapinski,"{'[User]_popcornmix', '[User]_6by9', '[User]_mikegapinski', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6126
+2024-04-26 05:01:15+00:00,[User]_Chrome-GitHub,{'[User]_pelwell'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6127
+2024-04-26 08:00:47+00:00,[User]_ose-support-ros,{'[User]_popcornmix'},raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6128
+2024-04-26 12:31:08+00:00,[User]_by,"{'[User]_by', '[User]_pelwell'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6129
+2024-04-29 13:26:21+00:00,[User]_spockfish,"{'[User]_spockfish', '[User]_pelwell', '[User]_peterharperuk'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6130
+2024-04-29 13:54:58+00:00,[User]_P33M,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6131
+2024-04-29 14:07:03+00:00,[User]_njhollinghurst,"{'[User]_6by9', '[User]_njhollinghurst'}",raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6132
+2024-04-29 17:44:25+00:00,[User]_6by9,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/pull/6133
+2024-04-29 21:11:23+00:00,[User]_lasselj,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6134
+2024-04-29 22:50:58+00:00,[User]_bmilde,set(),raspberrypi/linux,2024,https://github.com/raspberrypi/linux/issues/6135

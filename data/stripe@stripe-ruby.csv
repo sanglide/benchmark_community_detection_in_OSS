@@ -1,0 +1,66 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-05 15:13:01+00:00,[User]_bikbukim,{'[User]_CLAassistant'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1218
+2023-05-12 11:50:08+00:00,[User]_pastramahodu,set(),stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1221
+2023-05-23 17:25:35+00:00,[User]_pakrym-stripe,set(),stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1224
+2023-05-23 17:46:31+00:00,[User]_pakrym-stripe,{'[User]_anniel-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1225
+2023-05-31 20:19:18+00:00,[User]_richardm-stripe,"{'[User]_richardm-stripe', '[User]_pakrym-stripe', '[User]_anniel-stripe'}",stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1228
+2023-06-17 09:20:12+00:00,[User]_loqimean,"{'[User]_anniel-stripe', '[User]_loqimean', '[User]_CLAassistant'}",stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1235
+2023-06-23 14:04:00+00:00,[User]_anniel-stripe,{'[User]_pakrym-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1238
+2023-07-07 20:27:49+00:00,[User]_richardm-stripe,{'[User]_pakrym-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1242
+2023-07-21 15:55:12+00:00,[User]_pakrym-stripe,{'[User]_anniel-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1250
+2023-07-28 21:13:53+00:00,[User]_pakrym-stripe,{'[User]_anniel-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1252
+2023-08-01 21:33:25+00:00,[User]_richardm-stripe,{'[User]_anniel-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1253
+2023-08-04 18:12:41+00:00,[User]_anniel-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1255
+2023-08-11 02:45:27+00:00,[User]_darkisa,"{'[User]_darkisa', '[User]_remi-stripe'}",stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/issues/1258
+2023-08-14 19:54:32+00:00,[User]_richardm-stripe,"{'[User]_anniel-stripe', '[User]_richardm-stripe'}",stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1261
+2023-08-17 00:14:50+00:00,[User]_magni-,"{'[User]_anniel-stripe', '[User]_CLAassistant', '[User]_magni-'}",stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1262
+2023-08-17 10:38:52+00:00,[User]_zachfeldman,"{'[User]_richardm-stripe', '[User]_zachfeldman'}",stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/issues/1263
+2023-10-02 22:56:43+00:00,[User]_kirylrb,{'[User]_remi-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/issues/1279
+2023-11-28 00:23:31+00:00,[User]_richardm-stripe,{'[User]_pakrym-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1294
+2023-11-28 00:54:24+00:00,[User]_richardm-stripe,{'[User]_anniel-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1295
+2023-11-30 18:23:27+00:00,[User]_anniel-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1297
+2023-12-06 01:22:22+00:00,[User]_richardm-stripe,{'[User]_anniel-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1299
+2023-12-21 19:14:54+00:00,[User]_pakrym-stripe,{'[User]_anniel-stripe'},stripe/stripe-ruby,2023,https://github.com/stripe/stripe-ruby/pull/1304
+2024-01-10 18:00:02+00:00,[User]_richardm-stripe,{'[User]_helenye-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1307
+2024-01-10 18:08:28+00:00,[User]_helenye-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1308
+2024-01-18 17:40:34+00:00,[User]_helenye-stripe,"{'[User]_anniel-stripe', '[User]_helenye-stripe'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1311
+2024-01-30 22:12:13+00:00,[User]_helenye-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1317
+2024-02-02 11:20:15+00:00,[User]_valscion,set(),stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/issues/1319
+2024-02-05 18:11:33+00:00,[User]_anniel-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1320
+2024-02-06 07:37:07+00:00,[User]_helenye-stripe,"{'[User]_anniel-stripe', '[User]_helenye-stripe'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1323
+2024-02-06 18:48:55+00:00,[User]_helenye-stripe,"{'[User]_richardm-stripe', '[User]_ramya-stripe', '[User]_bslobodin', '[User]_helenye-stripe'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1324
+2024-02-08 07:49:02+00:00,[User]_K0H205,"{'[User]_anniel-stripe', '[User]_K0H205'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/issues/1325
+2024-02-08 11:17:06+00:00,[User]_K0H205,{'[User]_CLAassistant'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1326
+2024-02-09 01:29:19+00:00,[User]_helenye-stripe,"{'[User]_richardm-stripe', '[User]_helenye-stripe'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1327
+2024-02-10 00:25:21+00:00,[User]_Slsadler14,{'[User]_CLAassistant'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1330
+2024-02-10 00:57:51+00:00,[User]_Slsadler14,set(),stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1331
+2024-02-15 12:31:11+00:00,[User]_tmoore95,"{'[User]_tmoore95', '[User]_helenye-stripe'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/issues/1333
+2024-02-15 20:05:22+00:00,[User]_anniel-stripe,"{'[User]_richardm-stripe', '[User]_pakrym-stripe'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1334
+2024-02-19 09:40:05+00:00,[User]_Slsadler14,{'[User]_pakrym-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1337
+2024-02-21 20:33:11+00:00,[User]_pakrym-stripe,{'[User]_helenye-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1339
+2024-02-27 19:18:52+00:00,[User]_helenye-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1343
+2024-02-27 21:23:43+00:00,[User]_nudnikz,{'[User]_CLAassistant'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1344
+2024-02-27 22:55:35+00:00,[User]_helenye-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1345
+2024-02-29 17:46:16+00:00,[User]_helenye-stripe,{'[User]_anniel-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1347
+2024-02-29 19:21:30+00:00,[User]_helenye-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1348
+2024-02-29 22:56:39+00:00,[User]_anniel-stripe,{'[User]_helenye-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1351
+2024-03-01 19:58:42+00:00,[User]_anniel-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1355
+2024-03-05 17:10:26+00:00,[User]_ali-alakbar,"{'[User]_ali-alakbar', '[User]_richardm-stripe', '[User]_CLAassistant', '[User]_helenye-stripe'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1356
+2024-03-05 18:33:21+00:00,[User]_ali-alakbar,{'[User]_helenye-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1357
+2024-03-08 06:57:52+00:00,[User]_datpmt,{'[User]_remi-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/issues/1358
+2024-03-12 23:50:26+00:00,[User]_helenye-stripe,"{'[User]_anniel-stripe', '[User]_remi-stripe', '[User]_helenye-stripe'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1361
+2024-03-15 16:45:18+00:00,[User]_helenye-stripe,"{'[User]_pakrym-stripe', '[User]_paracycle', '[User]_helenye-stripe'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1362
+2024-03-18 21:45:20+00:00,[User]_ramya-stripe,{'[User]_anniel-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1364
+2024-03-19 14:12:17+00:00,[User]_paracycle,"{'[User]_paracycle', '[User]_CLAassistant', '[User]_helenye-stripe'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1366
+2024-03-21 04:33:05+00:00,[User]_ramya-stripe,"{'[User]_richardm-stripe', '[User]_ramya-stripe'}",stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1368
+2024-03-26 21:43:18+00:00,[User]_ramya-stripe,set(),stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1371
+2024-03-30 23:33:49+00:00,[User]_ramya-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1374
+2024-04-05 17:57:58+00:00,[User]_helenye-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1375
+2024-04-09 17:42:35+00:00,[User]_helenye-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1377
+2024-04-09 20:29:42+00:00,[User]_ramya-stripe,set(),stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1378
+2024-04-09 23:43:58+00:00,[User]_helenye-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1380
+2024-04-10 21:27:50+00:00,[User]_helenye-stripe,{'[User]_richardm-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1381
+2024-04-11 22:48:20+00:00,[User]_helenye-stripe,{'[User]_ramya-stripe'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1382
+2024-04-16 16:00:50+00:00,[User]_ramya-stripe,set(),stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1384
+2024-04-29 16:48:41+00:00,[User]_prathmesh-stripe,set(),stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1390
+2024-04-30 01:07:14+00:00,[User]_shabbyrobe,{'[User]_CLAassistant'},stripe/stripe-ruby,2024,https://github.com/stripe/stripe-ruby/pull/1391

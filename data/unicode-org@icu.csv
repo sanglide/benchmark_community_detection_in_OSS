@@ -1,0 +1,233 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-02 16:23:51+00:00,[User]_sffc,{'[User]_robertbastian'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2447
+2023-05-02 23:04:38+00:00,[User]_mihnita,"{'[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2449
+2023-05-05 17:35:28+00:00,[User]_pedberg-icu,"{'[User]_aheninger', '[User]_macchiati'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2452
+2023-05-08 04:05:37+00:00,[User]_gnrunge,"{'[User]_gnrunge', '[User]_FrankYFTang', '[User]_roubert'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2454
+2023-05-09 17:23:28+00:00,[User]_roubert,"{'[User]_robertbastian', '[User]_echeran', '[User]_roubert'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2456
+2023-05-12 15:05:38+00:00,[User]_gvictor,"{'[User]_gvictor', '[User]_markusicu', '[User]_macchiati'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2459
+2023-05-12 17:50:56+00:00,[User]_pedberg-icu,"{'[User]_markusicu', '[User]_macchiati'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2460
+2023-05-19 18:26:25+00:00,[User]_yumaoka,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2466
+2023-05-20 16:25:10+00:00,[User]_evanmiller,"{'[User]_CLAassistant', '[User]_srl295'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2467
+2023-05-24 22:26:33+00:00,[User]_sffc,"{'[User]_sffc', '[User]_markusicu', '[User]_pedberg-icu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2469
+2023-05-25 23:28:35+00:00,[User]_richgillam,{'[User]_pedberg-icu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2472
+2023-05-26 01:56:34+00:00,[User]_sffc,"{'[User]_sffc', '[User]_markusicu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2473
+2023-05-26 02:02:06+00:00,[User]_sffc,{'[User]_FrankYFTang'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2474
+2023-05-26 07:09:16+00:00,[User]_pedberg-icu,"{'[User]_caobaokang419', '[User]_gvictor', '[User]_pedberg-icu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2478
+2023-05-26 23:40:07+00:00,[User]_Manishearth,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2481
+2023-05-26 23:41:28+00:00,[User]_Manishearth,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2482
+2023-05-27 00:19:35+00:00,[User]_sffc,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2484
+2023-06-01 17:06:24+00:00,[User]_mihnita,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2486
+2023-06-07 16:25:51+00:00,[User]_pedberg-icu,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2493
+2023-06-07 21:43:36+00:00,[User]_FrankYFTang,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2494
+2023-06-07 22:48:05+00:00,[User]_pedberg-icu,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2495
+2023-06-08 17:26:43+00:00,[User]_yumaoka,{'[User]_pedberg-icu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2496
+2023-06-08 17:35:23+00:00,[User]_FrankYFTang,"{'[User]_sffc', '[User]_FrankYFTang'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2497
+2023-06-12 20:04:53+00:00,[User]_pnacht,"{'[User]_markusicu', '[User]_echeran'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2499
+2023-06-14 03:28:46+00:00,[User]_FrankYFTang,{'[User]_macchiati'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2501
+2023-06-15 22:06:46+00:00,[User]_FrankYFTang,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2504
+2023-06-22 12:54:51+00:00,[User]_jalaj-microsoft,{'[User]_rp9-next'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2509
+2023-06-22 17:46:17+00:00,[User]_FrankYFTang,{'[User]_mihnita'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2511
+2023-06-23 19:21:51+00:00,[User]_FrankYFTang,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2512
+2023-06-23 19:29:03+00:00,[User]_FrankYFTang,{'[User]_FrankYFTang'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2513
+2023-06-26 13:19:42+00:00,[User]_JakeWharton,{'[User]_FrankYFTang'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2514
+2023-06-27 20:21:08+00:00,[User]_FrankYFTang,"{'[User]_sven-oly', '[User]_FrankYFTang', '[User]_VoltrexKeyva'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2517
+2023-06-29 21:57:03+00:00,[User]_FrankYFTang,{'[User]_richgillam'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2519
+2023-07-07 07:16:26+00:00,[User]_pedberg-icu,"{'[User]_markusicu', '[User]_pedberg-icu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2524
+2023-07-10 23:05:18+00:00,[User]_FrankYFTang,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2525
+2023-07-19 01:45:14+00:00,[User]_richgillam,"{'[User]_richgillam', '[User]_FrankYFTang', '[User]_pedberg-icu', '[User]_macchiati'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2528
+2023-07-19 18:09:59+00:00,[User]_pnacht,{'[User]_srl295'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2529
+2023-07-27 00:06:20+00:00,[User]_FrankYFTang,"{'[User]_FrankYFTang', '[User]_echeran'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2533
+2023-07-27 17:52:15+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2534
+2023-07-28 00:04:11+00:00,[User]_FrankYFTang,{'[User]_sffc'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2535
+2023-08-11 01:29:31+00:00,[User]_richgillam,{'[User]_pedberg-icu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2550
+2023-08-18 13:45:42+00:00,[User]_roubert,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2556
+2023-08-29 19:39:48+00:00,[User]_mihnita,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2568
+2023-08-30 23:41:39+00:00,[User]_richgillam,"{'[User]_sffc', '[User]_richgillam', '[User]_younies', '[User]_macchiati'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2572
+2023-08-31 23:52:10+00:00,[User]_mihnita,"{'[User]_FrankYFTang', '[User]_mihnita'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2575
+2023-09-02 07:12:47+00:00,[User]_catamorphism,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2578
+2023-09-05 18:35:22+00:00,[User]_FrankYFTang,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2582
+2023-09-07 16:15:06+00:00,[User]_pedberg-icu,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2585
+2023-09-07 22:23:00+00:00,[User]_richgillam,"{'[User]_richgillam', '[User]_pedberg-icu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2586
+2023-09-08 10:07:28+00:00,[User]_arorasarvesh,{'[User]_CLAassistant'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2587
+2023-09-08 10:40:46+00:00,[User]_arorasarvesh,"{'[User]_erik0686', '[User]_jefgen', '[User]_CLAassistant'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2588
+2023-09-09 01:24:36+00:00,[User]_richgillam,"{'[User]_richgillam', '[User]_FrankYFTang', '[User]_pedberg-icu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2591
+2023-09-12 01:25:46+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang', '[User]_markusicu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2594
+2023-09-14 07:50:09+00:00,[User]_FrankYFTang,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2598
+2023-09-15 23:20:19+00:00,[User]_FrankYFTang,{'[User]_richgillam'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2602
+2023-09-19 03:22:55+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang', '[User]_markusicu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2610
+2023-09-20 00:12:08+00:00,[User]_richgillam,"{'[User]_richgillam', '[User]_markusicu', '[User]_pedberg-icu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2611
+2023-09-21 16:19:30+00:00,[User]_roubert,"{'[User]_FrankYFTang', '[User]_markusicu', '[User]_roubert'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2617
+2023-09-21 21:09:57+00:00,[User]_FrankYFTang,{'[User]_richgillam'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2618
+2023-09-21 21:30:52+00:00,[User]_FrankYFTang,{'[User]_richgillam'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2619
+2023-09-21 23:20:15+00:00,[User]_sffc,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2621
+2023-09-22 00:15:55+00:00,[User]_sven-oly,"{'[User]_sven-oly', '[User]_echeran'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2623
+2023-09-25 21:26:38+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_markusicu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2627
+2023-09-26 11:36:37+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2630
+2023-09-27 00:52:08+00:00,[User]_mihnita,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2634
+2023-09-27 22:12:44+00:00,[User]_mihnita,"{'[User]_markusicu', '[User]_echeran', '[User]_mihnita'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2638
+2023-09-28 16:06:16+00:00,[User]_yumaoka,"{'[User]_yumaoka', '[User]_markusicu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2641
+2023-10-03 00:55:18+00:00,[User]_sven-oly,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2648
+2023-10-03 05:17:18+00:00,[User]_pedberg-icu,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2649
+2023-10-03 14:14:54+00:00,[User]_yumaoka,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2650
+2023-10-03 16:33:20+00:00,[User]_mihnita,"{'[User]_markusicu', '[User]_echeran'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2651
+2023-10-03 19:46:42+00:00,[User]_yumaoka,"{'[User]_yumaoka', '[User]_markusicu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2654
+2023-10-04 17:39:58+00:00,[User]_echeran,"{'[User]_yumaoka', '[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2657
+2023-10-04 22:20:33+00:00,[User]_echeran,"{'[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2660
+2023-10-10 11:21:27+00:00,[User]_hugovdm,"{'[User]_hugovdm', '[User]_echeran'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2666
+2023-10-11 22:19:51+00:00,[User]_FrankYFTang,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2668
+2023-10-12 20:39:41+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang', '[User]_younies', '[User]_macchiati'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2671
+2023-10-19 18:08:03+00:00,[User]_sven-oly,"{'[User]_markusicu', '[User]_srl295'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2675
+2023-10-23 17:40:25+00:00,[User]_srl295,{'[User]_FrankYFTang'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2676
+2023-10-24 22:41:23+00:00,[User]_mihnita,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2678
+2023-10-25 03:50:04+00:00,[User]_pedberg-icu,"{'[User]_markusicu', '[User]_DraganBesevic'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2679
+2023-10-25 12:57:15+00:00,[User]_MrJithil,{'[User]_DavidDudson'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2681
+2023-10-26 00:56:42+00:00,[User]_pedberg-icu,"{'[User]_srl295', '[User]_pedberg-icu', '[User]_richgillam', '[User]_markusicu', '[User]_DraganBesevic'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2682
+2023-10-27 18:36:31+00:00,[User]_sffc,"{'[User]_sffc', '[User]_markusicu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2689
+2023-10-27 22:08:01+00:00,[User]_markusicu,"{'[User]_eggrobin', '[User]_echeran', '[User]_srl295', '[User]_richgillam'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2691
+2023-10-28 06:54:03+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2692
+2023-10-30 21:26:03+00:00,[User]_yumaoka,"{'[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2693
+2023-10-31 15:56:44+00:00,[User]_Gonzalo1987,"{'[User]_yumaoka', '[User]_CLAassistant'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2694
+2023-11-06 20:44:29+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2696
+2023-11-09 01:53:05+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2697
+2023-11-09 23:13:09+00:00,[User]_mihnita,"{'[User]_markusicu', '[User]_echeran', '[User]_mihnita'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2698
+2023-11-18 03:06:39+00:00,[User]_richgillam,"{'[User]_richgillam', '[User]_FrankYFTang', '[User]_pedberg-icu', '[User]_macchiati'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2707
+2023-11-21 01:59:29+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2709
+2023-11-30 19:09:00+00:00,[User]_roubert,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2715
+2023-12-01 19:49:40+00:00,[User]_yumaoka,"{'[User]_yumaoka', '[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2716
+2023-12-04 21:14:39+00:00,[User]_richgillam,"{'[User]_richgillam', '[User]_macchiati'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2717
+2023-12-04 21:29:37+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_markusicu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2718
+2023-12-04 23:00:16+00:00,[User]_richgillam,"{'[User]_richgillam', '[User]_pedberg-icu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2719
+2023-12-04 23:07:03+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2720
+2023-12-04 23:07:30+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2721
+2023-12-04 23:08:00+00:00,[User]_roubert,"{'[User]_jefgen', '[User]_roubert'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2722
+2023-12-05 00:47:56+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_markusicu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2723
+2023-12-05 23:38:10+00:00,[User]_FrankYFTang,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2725
+2023-12-07 14:19:53+00:00,[User]_rp9-next,"{'[User]_echeran', '[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2728
+2023-12-07 17:59:49+00:00,[User]_yumaoka,"{'[User]_yumaoka', '[User]_markusicu'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2729
+2023-12-07 18:43:47+00:00,[User]_yumaoka,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2730
+2023-12-08 05:03:24+00:00,[User]_aheninger,{'[User]_FrankYFTang'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2732
+2023-12-08 23:29:43+00:00,[User]_mihnita,set(),unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2733
+2023-12-11 20:19:28+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_aheninger'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2738
+2023-12-12 20:11:48+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_aheninger'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2739
+2023-12-14 02:06:37+00:00,[User]_FrankYFTang,{'[User]_richgillam'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2742
+2023-12-14 20:40:01+00:00,[User]_roubert,"{'[User]_FrankYFTang', '[User]_roubert'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2744
+2023-12-14 22:06:54+00:00,[User]_roubert,{'[User]_FrankYFTang'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2745
+2023-12-14 23:24:33+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2746
+2023-12-15 19:28:02+00:00,[User]_FrankYFTang,{'[User]_richgillam'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2748
+2023-12-16 01:52:05+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2751
+2023-12-19 07:34:48+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2754
+2023-12-20 11:35:28+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2755
+2023-12-20 23:36:40+00:00,[User]_FrankYFTang,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2756
+2023-12-21 12:06:36+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2758
+2023-12-27 09:44:44+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2023,https://github.com/unicode-org/icu/pull/2761
+2024-01-03 03:38:57+00:00,[User]_roubert,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2768
+2024-01-03 13:11:18+00:00,[User]_roubert,{'[User]_FrankYFTang'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2769
+2024-01-03 22:14:28+00:00,[User]_cjchapman,"{'[User]_FrankYFTang', '[User]_CLAassistant', '[User]_poulsbo', '[User]_richgillam', '[User]_cjchapman', '[User]_markusicu'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2771
+2024-01-04 23:21:05+00:00,[User]_FrankYFTang,{'[User]_richgillam'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2772
+2024-01-04 23:47:38+00:00,[User]_FrankYFTang,{'[User]_richgillam'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2773
+2024-01-08 17:58:27+00:00,[User]_yumaoka,"{'[User]_FrankYFTang', '[User]_yumaoka', '[User]_markusicu', '[User]_pedberg-icu'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2777
+2024-01-09 00:36:12+00:00,[User]_FrankYFTang,"{'[User]_FrankYFTang', '[User]_roubert'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2778
+2024-01-09 02:53:58+00:00,[User]_FrankYFTang,"{'[User]_FrankYFTang', '[User]_markusicu'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2779
+2024-01-09 11:59:12+00:00,[User]_roubert,"{'[User]_FrankYFTang', '[User]_markusicu', '[User]_roubert'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2780
+2024-01-10 09:03:53+00:00,[User]_mihnita,"{'[User]_eggrobin', '[User]_mihnita'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2781
+2024-01-11 06:31:48+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2783
+2024-01-11 14:30:02+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2784
+2024-01-17 07:43:56+00:00,[User]_roubert,{'[User]_echeran'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2789
+2024-01-18 09:51:06+00:00,[User]_roubert,"{'[User]_eggrobin', '[User]_roubert'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2797
+2024-01-18 23:31:59+00:00,[User]_roubert,{'[User]_eggrobin'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2798
+2024-01-19 09:05:21+00:00,[User]_roubert,{'[User]_eggrobin'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2799
+2024-01-22 04:58:40+00:00,[User]_roubert,{'[User]_FrankYFTang'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2801
+2024-01-22 14:04:25+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2802
+2024-01-22 20:58:16+00:00,[User]_FrankYFTang,{'[User]_sffc'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2803
+2024-01-23 00:26:41+00:00,[User]_Phenix66,"{'[User]_CLAassistant', '[User]_srl295', '[User]_Phenix66', '[User]_thesamesam', '[User]_markusicu'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2804
+2024-01-25 00:07:49+00:00,[User]_FrankYFTang,{'[User]_richgillam'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2807
+2024-02-06 19:05:49+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2814
+2024-02-06 19:57:28+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2815
+2024-02-07 13:48:56+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2816
+2024-02-07 22:15:00+00:00,[User]_roubert,"{'[User]_markusicu', '[User]_roubert'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2817
+2024-02-08 02:37:12+00:00,[User]_pedberg-icu,{'[User]_DraganBesevic'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2818
+2024-02-08 03:43:26+00:00,[User]_yumaoka,"{'[User]_filmil', '[User]_markusicu'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2819
+2024-02-09 17:52:22+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2822
+2024-02-12 13:15:58+00:00,[User]_roubert,"{'[User]_markusicu', '[User]_roubert'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2823
+2024-02-14 01:04:39+00:00,[User]_markusicu,"{'[User]_markusicu', '[User]_echeran'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2826
+2024-02-16 11:11:41+00:00,[User]_rp9-next,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2830
+2024-02-16 11:13:05+00:00,[User]_rp9-next,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2831
+2024-02-16 14:55:22+00:00,[User]_roubert,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2832
+2024-02-19 07:06:22+00:00,[User]_tushuhei,"{'[User]_FrankYFTang', '[User]_tushuhei'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2833
+2024-02-21 17:26:46+00:00,[User]_echeran,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2838
+2024-02-24 07:45:00+00:00,[User]_mihnita,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2841
+2024-02-26 11:21:10+00:00,[User]_rp9-next,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2842
+2024-02-26 15:55:10+00:00,[User]_srl295,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2843
+2024-02-27 00:55:51+00:00,[User]_echeran,"{'[User]_markusicu', '[User]_roubert'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2845
+2024-02-27 00:59:31+00:00,[User]_echeran,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2846
+2024-02-27 21:22:33+00:00,[User]_markusicu,{'[User]_richgillam'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2849
+2024-02-27 23:44:37+00:00,[User]_DraganBesevic,"{'[User]_markusicu', '[User]_DraganBesevic'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2850
+2024-02-28 00:32:27+00:00,[User]_sven-oly,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2851
+2024-02-28 01:59:57+00:00,[User]_FrankYFTang,"{'[User]_FrankYFTang', '[User]_echeran'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2854
+2024-02-28 20:43:46+00:00,[User]_sven-oly,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2857
+2024-02-29 03:35:19+00:00,[User]_FrankYFTang,{'[User]_richgillam'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2858
+2024-02-29 23:42:35+00:00,[User]_FrankYFTang,{'[User]_richgillam'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2859
+2024-03-03 23:40:58+00:00,[User]_tushuhei,"{'[User]_FrankYFTang', '[User]_tushuhei'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2861
+2024-03-04 11:34:44+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2862
+2024-03-05 19:20:53+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2866
+2024-03-05 22:50:58+00:00,[User]_roubert,"{'[User]_markusicu', '[User]_roubert'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2867
+2024-03-06 21:50:05+00:00,[User]_richgillam,"{'[User]_richgillam', '[User]_markusicu', '[User]_pedberg-icu', '[User]_roubert'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2868
+2024-03-07 18:48:00+00:00,[User]_sven-oly,{'[User]_richgillam'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2870
+2024-03-07 20:55:33+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2871
+2024-03-07 22:53:35+00:00,[User]_pedberg-icu,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2872
+2024-03-08 10:30:57+00:00,[User]_rp9-next,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2873
+2024-03-08 10:35:32+00:00,[User]_rp9-next,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2874
+2024-03-11 04:19:48+00:00,[User]_earlchew,{'[User]_CLAassistant'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2878
+2024-03-12 22:36:02+00:00,[User]_richgillam,"{'[User]_FrankYFTang', '[User]_markusicu'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2882
+2024-03-13 01:08:38+00:00,[User]_richgillam,"{'[User]_richgillam', '[User]_markusicu'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2883
+2024-03-14 00:08:05+00:00,[User]_richgillam,{'[User]_macchiati'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2890
+2024-03-14 22:47:07+00:00,[User]_echeran,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2893
+2024-03-15 01:39:47+00:00,[User]_richgillam,"{'[User]_richgillam', '[User]_aheninger', '[User]_markusicu', '[User]_roubert'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2895
+2024-03-15 07:50:30+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2896
+2024-03-15 14:17:13+00:00,[User]_roubert,{'[User]_eggrobin'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2897
+2024-03-18 11:51:39+00:00,[User]_younies,"{'[User]_sffc', '[User]_macchiati'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2901
+2024-03-18 17:07:18+00:00,[User]_roubert,{'[User]_eggrobin'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2902
+2024-03-18 23:31:07+00:00,[User]_markusicu,{'[User]_richgillam'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2903
+2024-03-20 07:30:11+00:00,[User]_rp9-next,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2910
+2024-03-20 20:33:18+00:00,[User]_markusicu,{'[User]_echeran'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2912
+2024-03-20 23:51:29+00:00,[User]_roubert,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2914
+2024-03-25 16:32:43+00:00,[User]_yumaoka,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2922
+2024-03-25 17:22:03+00:00,[User]_yumaoka,"{'[User]_yumaoka', '[User]_markusicu'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2923
+2024-03-25 19:39:24+00:00,[User]_yumaoka,"{'[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2924
+2024-03-26 05:29:01+00:00,[User]_rp9-next,"{'[User]_markusicu', '[User]_echeran'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2925
+2024-03-26 21:35:12+00:00,[User]_markusicu,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2926
+2024-03-26 22:10:36+00:00,[User]_FrankYFTang,"{'[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2928
+2024-03-26 23:24:02+00:00,[User]_richgillam,"{'[User]_richgillam', '[User]_FrankYFTang', '[User]_markusicu'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2929
+2024-03-28 18:48:17+00:00,[User]_FrankYFTang,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2934
+2024-03-28 19:03:46+00:00,[User]_catamorphism,"{'[User]_sven-oly', '[User]_markusicu', '[User]_catamorphism'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2935
+2024-03-28 22:57:47+00:00,[User]_sven-oly,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2937
+2024-03-28 23:28:39+00:00,[User]_sven-oly,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2938
+2024-03-29 17:08:12+00:00,[User]_alexgubanow,{'[User]_CLAassistant'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2939
+2024-04-03 10:21:23+00:00,[User]_hsivonen,{'[User]_hsivonen'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2945
+2024-04-04 16:04:42+00:00,[User]_yumaoka,"{'[User]_markusicu', '[User]_rp9-next'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2947
+2024-04-04 21:57:33+00:00,[User]_earlchew-aws,"{'[User]_echeran', '[User]_CLAassistant'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2949
+2024-04-04 23:07:40+00:00,[User]_garywade,{'[User]_richgillam'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2950
+2024-04-05 01:31:51+00:00,[User]_echeran,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2951
+2024-04-09 01:13:41+00:00,[User]_catamorphism,"{'[User]_markusicu', '[User]_echeran'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2954
+2024-04-10 07:56:18+00:00,[User]_wkeese,"{'[User]_markusicu', '[User]_echeran', '[User]_CLAassistant', '[User]_wkeese'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2955
+2024-04-11 16:26:18+00:00,[User]_echeran,"{'[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2957
+2024-04-12 05:53:58+00:00,[User]_rp9-next,"{'[User]_pedberg-icu', '[User]_mihnita', '[User]_markusicu', '[User]_catamorphism', '[User]_rp9-next'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2959
+2024-04-12 06:59:56+00:00,[User]_rp9-next,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2960
+2024-04-12 15:45:17+00:00,[User]_roubert,"{'[User]_srl295', '[User]_roubert', '[User]_richgillam', '[User]_markusicu', '[User]_macchiati'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2961
+2024-04-14 23:18:41+00:00,[User]_mihnita,"{'[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2964
+2024-04-15 07:14:11+00:00,[User]_rp9-next,"{'[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2965
+2024-04-15 21:45:05+00:00,[User]_markusicu,{'[User]_richgillam'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2967
+2024-04-18 21:16:19+00:00,[User]_sffc,{'[User]_mihnita'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2972
+2024-04-18 22:44:02+00:00,[User]_catamorphism,"{'[User]_aphillips', '[User]_mihnita', '[User]_catamorphism'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2973
+2024-04-18 22:55:47+00:00,[User]_mihnita,"{'[User]_sffc', '[User]_mihnita'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2974
+2024-04-19 16:03:08+00:00,[User]_roubert,{'[User]_markusicu'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2975
+2024-04-19 16:33:45+00:00,[User]_roubert,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2976
+2024-04-19 23:04:49+00:00,[User]_FrankYFTang,"{'[User]_richgillam', '[User]_FrankYFTang'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2978
+2024-04-22 19:50:37+00:00,[User]_catamorphism,"{'[User]_srl295', '[User]_catamorphism'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2980
+2024-04-23 12:50:53+00:00,[User]_roubert,{'[User]_eggrobin'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2981
+2024-04-24 20:39:11+00:00,[User]_roubert,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2982
+2024-04-25 22:08:46+00:00,[User]_catamorphism,"{'[User]_catamorphism', '[User]_roubert'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2983
+2024-04-29 17:44:12+00:00,[User]_roubert,set(),unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2985
+2024-04-29 17:46:00+00:00,[User]_roubert,{'[User]_FrankYFTang'},unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2986
+2024-04-30 20:42:25+00:00,[User]_mihnita,"{'[User]_markusicu', '[User]_mihnita'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2987
+2024-04-30 21:09:36+00:00,[User]_sffc,"{'[User]_Manishearth', '[User]_markusicu'}",unicode-org/icu,2024,https://github.com/unicode-org/icu/pull/2988

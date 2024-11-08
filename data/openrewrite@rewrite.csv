@@ -1,0 +1,864 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-03 00:55:00+00:00,[User]_shanman190,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3190
+2023-05-03 01:08:42+00:00,[User]_tylervangorder-8451,"{'[User]_tylervangorder-8451', '[User]_knutwannheden'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3191
+2023-05-03 16:05:01+00:00,[User]_JLLeitschuh,"{'[User]_JLLeitschuh', '[User]_sambsnyd', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3192
+2023-05-03 19:09:24+00:00,[User]_kunli2,"{'[User]_sambsnyd', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3193
+2023-05-04 08:31:57+00:00,[User]_timtebeek,"{'[User]_timtebeek', '[User]_rpau'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3194
+2023-05-04 08:41:32+00:00,[User]_fpoyer,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3195
+2023-05-04 23:41:11+00:00,[User]_JLLeitschuh,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3196
+2023-05-05 01:44:45+00:00,[User]_JLLeitschuh,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3197
+2023-05-05 11:04:29+00:00,[User]_mduerig,"{'[User]_mduerig', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3198
+2023-05-05 15:05:29+00:00,[User]_apupier,"{'[User]_apupier', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3200
+2023-05-06 05:10:44+00:00,[User]_jbessels,"{'[User]_knutwannheden', '[User]_jbessels', '[User]_rpau'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3201
+2023-05-07 07:34:32+00:00,[User]_pramud,"{'[User]_kunli2', '[User]_timtebeek', '[User]_rpau'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3202
+2023-05-07 15:19:38+00:00,[User]_timtebeek,{'[User]_rpau'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3204
+2023-05-07 15:43:44+00:00,[User]_apupier,"{'[User]_apupier', '[User]_nitschSB'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3205
+2023-05-07 17:02:56+00:00,[User]_jsoref,"{'[User]_kunli2', '[User]_jsoref', '[User]_rpau', '[User]_timtebeek', '[User]_kmccarp'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3206
+2023-05-07 18:27:30+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_timtebeek', '[User]_rpau'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3207
+2023-05-07 19:37:40+00:00,[User]_nicolasb29,{'[User]_nicolasb29'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3208
+2023-05-07 19:43:51+00:00,[User]_nicolasb29,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3209
+2023-05-07 21:02:14+00:00,[User]_nicolasb29,"{'[User]_nicolasb29', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3210
+2023-05-08 01:15:58+00:00,[User]_yeikel,"{'[User]_yeikel', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3211
+2023-05-08 01:43:12+00:00,[User]_yeikel,"{'[User]_yeikel', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3212
+2023-05-08 07:25:21+00:00,[User]_mduerig,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3213
+2023-05-08 08:44:59+00:00,[User]_timtebeek,"{'[User]_timtebeek', '[User]_rpau'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3214
+2023-05-08 08:45:49+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3215
+2023-05-08 11:03:54+00:00,[User]_JoseLora,{'[User]_rpau'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3216
+2023-05-08 16:25:34+00:00,[User]_rpau,"{'[User]_jbessels', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3219
+2023-05-08 19:25:20+00:00,[User]_mike-solomon,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3220
+2023-05-08 20:11:56+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3221
+2023-05-09 04:46:34+00:00,[User]_Col-E,"{'[User]_timtebeek', '[User]_Col-E'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3222
+2023-05-09 13:56:53+00:00,[User]_rpau,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3223
+2023-05-09 16:08:05+00:00,[User]_kunli2,{'[User]_rpau'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3224
+2023-05-10 09:39:39+00:00,[User]_rpau,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3225
+2023-05-10 12:22:58+00:00,[User]_ge0ffrey,"{'[User]_ge0ffrey', '[User]_timtebeek', '[User]_rpau'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3226
+2023-05-10 15:30:33+00:00,[User]_ge0ffrey,"{'[User]_ge0ffrey', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3228
+2023-05-10 17:27:03+00:00,[User]_rpau,"{'[User]_JLLeitschuh', '[User]_knutwannheden', '[User]_rpau'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3229
+2023-05-10 18:53:30+00:00,[User]_kunli2,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3230
+2023-05-10 20:18:49+00:00,[User]_nmck257,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3231
+2023-05-11 02:00:11+00:00,[User]_shanman190,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3232
+2023-05-11 16:40:33+00:00,[User]_kunli2,"{'[User]_kunli2', '[User]_jsoref', '[User]_knutwannheden', '[User]_timtebeek', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3234
+2023-05-11 19:10:50+00:00,[User]_sambsnyd,"{'[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3235
+2023-05-12 07:40:59+00:00,[User]_sambsnyd,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3236
+2023-05-12 18:25:59+00:00,[User]_shanman190,"{'[User]_shanman190', '[User]_timtebeek', '[User]_rpau'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3238
+2023-05-12 18:53:29+00:00,[User]_nicolasb29,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3239
+2023-05-12 18:57:27+00:00,[User]_nicolasb29,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3240
+2023-05-13 01:55:30+00:00,[User]_kunli2,{'[User]_jsoref'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3241
+2023-05-13 19:21:09+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3242
+2023-05-14 15:19:03+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3243
+2023-05-14 17:26:47+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3244
+2023-05-15 17:19:55+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3245
+2023-05-15 19:49:00+00:00,[User]_shanman190,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3246
+2023-05-16 06:47:38+00:00,[User]_mduerig,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3247
+2023-05-16 07:58:58+00:00,[User]_peter-janssen,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3248
+2023-05-16 08:58:57+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3249
+2023-05-16 09:14:58+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3250
+2023-05-16 09:44:13+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3251
+2023-05-17 17:54:35+00:00,[User]_kunli2,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3253
+2023-05-17 18:06:19+00:00,[User]_wendigo,{'[User]_wendigo'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3254
+2023-05-18 04:59:00+00:00,[User]_jeremyg484,"{'[User]_jeremyg484', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3255
+2023-05-18 05:07:44+00:00,[User]_jeremyg484,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3256
+2023-05-18 21:05:05+00:00,[User]_uhoefel,"{'[User]_xshen053', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3257
+2023-05-18 21:32:38+00:00,[User]_jeremyg484,{'[User]_shanman190'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3258
+2023-05-19 03:21:29+00:00,[User]_iparadiso,"{'[User]_iparadiso', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3259
+2023-05-20 16:52:24+00:00,[User]_starksm64,"{'[User]_starksm64', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3260
+2023-05-20 22:27:39+00:00,[User]_uhoefel,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3261
+2023-05-22 08:26:19+00:00,[User]_PetrSklenicka,"{'[User]_knutwannheden', '[User]_PetrSklenicka'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3262
+2023-05-22 19:28:33+00:00,[User]_shanman190,"{'[User]_shanman190', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3263
+2023-05-22 19:49:53+00:00,[User]_kunli2,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3264
+2023-05-22 20:12:40+00:00,[User]_kzwang,"{'[User]_kzwang', '[User]_shanman190', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3265
+2023-05-22 22:02:07+00:00,[User]_sambsnyd,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3266
+2023-05-23 16:01:41+00:00,[User]_nmck257,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3268
+2023-05-24 09:49:39+00:00,[User]_m-brophy,"{'[User]_knutwannheden', '[User]_m-brophy', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3269
+2023-05-25 11:00:39+00:00,[User]_JoseLora,"{'[User]_knutwannheden', '[User]_RossZhang-cpu', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3270
+2023-05-25 17:08:01+00:00,[User]_xshen053,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3271
+2023-05-27 01:04:09+00:00,[User]_shanman190,"{'[User]_shanman190', '[User]_jkschneider'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3272
+2023-05-27 02:46:21+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3273
+2023-05-27 14:25:52+00:00,[User]_nbruno,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3274
+2023-05-27 18:34:50+00:00,[User]_pzygielo,"{'[User]_pzygielo', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3275
+2023-05-29 11:27:01+00:00,[User]_coiouhkc,"{'[User]_knutwannheden', '[User]_timtebeek', '[User]_coiouhkc', '[User]_shanman190', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3276
+2023-05-29 18:50:42+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_sambsnyd', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3277
+2023-05-30 12:25:19+00:00,[User]_gsmet,"{'[User]_joanvr', '[User]_rpau'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3278
+2023-05-30 17:51:17+00:00,[User]_m-brophy,"{'[User]_m-brophy', '[User]_timtebeek', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3279
+2023-05-30 21:45:30+00:00,[User]_jeremyg484,"{'[User]_jeremyg484', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3281
+2023-05-30 23:22:21+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3282
+2023-05-31 18:05:54+00:00,[User]_iparadiso,"{'[User]_timtebeek', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3283
+2023-05-31 20:19:25+00:00,[User]_BoykoAlex,"{'[User]_BoykoAlex', '[User]_joanvr', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3284
+2023-05-31 23:01:14+00:00,[User]_jkschneider,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3285
+2023-06-01 18:34:57+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3286
+2023-06-02 03:45:48+00:00,[User]_sambsnyd,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3287
+2023-06-02 12:04:09+00:00,[User]_MBoegers,"{'[User]_tarunsamanta2k20', '[User]_knutwannheden', '[User]_timtebeek', '[User]_AlexanderSkrock'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3289
+2023-06-02 16:31:55+00:00,[User]_jkschneider,"{'[User]_knutwannheden', '[User]_jkschneider'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3288
+2023-06-03 00:29:49+00:00,[User]_sambsnyd,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3290
+2023-06-03 00:32:03+00:00,[User]_sambsnyd,{'[User]_wakingrufus'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3291
+2023-06-03 16:15:11+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3292
+2023-06-03 22:08:00+00:00,[User]_sghill,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3293
+2023-06-05 23:10:52+00:00,[User]_sambsnyd,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3296
+2023-06-06 15:02:30+00:00,[User]_jdelobel,"{'[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3297
+2023-06-07 17:53:08+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3299
+2023-06-07 18:23:30+00:00,[User]_Bananeweizen,"{'[User]_Bananeweizen', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3300
+2023-06-08 08:39:35+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3301
+2023-06-08 12:51:30+00:00,[User]_algomaster99,"{'[User]_algomaster99', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3302
+2023-06-08 19:21:40+00:00,[User]_knutwannheden,"{'[User]_JLLeitschuh', '[User]_knutwannheden', '[User]_jkschneider'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3304
+2023-06-09 13:27:49+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3305
+2023-06-11 09:21:46+00:00,[User]_coiouhkc,"{'[User]_JLLeitschuh', '[User]_coiouhkc', '[User]_timtebeek', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3306
+2023-06-11 09:51:10+00:00,[User]_sebastiankonieczek,"{'[User]_JLLeitschuh', '[User]_knutwannheden', '[User]_timtebeek', '[User]_sebastiankonieczek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3307
+2023-06-11 10:26:47+00:00,[User]_MoritzCSchmidt,"{'[User]_JLLeitschuh', '[User]_marynasavchenko', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3308
+2023-06-11 18:10:19+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3309
+2023-06-12 10:23:10+00:00,[User]_wabrit,"{'[User]_wabrit', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3310
+2023-06-13 05:50:58+00:00,[User]_sambsnyd,"{'[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3311
+2023-06-13 07:05:11+00:00,[User]_thomaszub,"{'[User]_thomaszub', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3312
+2023-06-13 07:26:35+00:00,[User]_thomaszub,"{'[User]_thomaszub', '[User]_knutwannheden'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3313
+2023-06-13 12:27:24+00:00,[User]_jprinet,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3314
+2023-06-13 12:34:40+00:00,[User]_Laurens-W,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3315
+2023-06-13 14:20:35+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3316
+2023-06-13 22:59:00+00:00,[User]_kmccarp,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3317
+2023-06-14 08:54:37+00:00,[User]_kunli2,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3319
+2023-06-14 12:36:00+00:00,[User]_ia3andy,"{'[User]_ia3andy', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3320
+2023-06-14 19:44:52+00:00,[User]_nmck257,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3321
+2023-06-15 07:20:30+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3322
+2023-06-15 14:44:43+00:00,[User]_JLLeitschuh,"{'[User]_knutwannheden', '[User]_aaronist'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3323
+2023-06-15 17:38:43+00:00,[User]_JLLeitschuh,{'[User]_JLLeitschuh'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3324
+2023-06-15 18:15:29+00:00,[User]_JLLeitschuh,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3325
+2023-06-15 21:25:03+00:00,[User]_JLLeitschuh,{'[User]_JLLeitschuh'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3326
+2023-06-15 23:14:15+00:00,[User]_JLLeitschuh,{'[User]_JLLeitschuh'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3327
+2023-06-16 07:51:07+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3328
+2023-06-16 15:28:09+00:00,[User]_joanvr,{'[User]_kunli2'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3329
+2023-06-16 16:45:40+00:00,[User]_timtebeek,"{'[User]_sambsnyd', '[User]_timtebeek', '[User]_rpau'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3331
+2023-06-17 17:38:23+00:00,[User]_okundzich,{'[User]_okundzich'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3332
+2023-06-18 11:37:05+00:00,[User]_koppor,"{'[User]_seonwoo960000', '[User]_koppor'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3333
+2023-06-18 15:32:32+00:00,[User]_okundzich,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3334
+2023-06-18 16:10:47+00:00,[User]_gdupontf,"{'[User]_gdupontf', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3335
+2023-06-19 13:28:06+00:00,[User]_m-brophy,"{'[User]_knutwannheden', '[User]_m-brophy', '[User]_timtebeek', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3337
+2023-06-19 13:43:58+00:00,[User]_m-brophy,{'[User]_m-brophy'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3338
+2023-06-19 22:28:36+00:00,[User]_shanman190,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3339
+2023-06-19 22:52:34+00:00,[User]_shanman190,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3340
+2023-06-20 14:51:41+00:00,[User]_joanvr,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3341
+2023-06-20 15:53:19+00:00,[User]_JLLeitschuh,"{'[User]_JLLeitschuh', '[User]_koppor', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3342
+2023-06-20 16:31:39+00:00,[User]_JLLeitschuh,"{'[User]_JLLeitschuh', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3343
+2023-06-20 18:27:11+00:00,[User]_sambsnyd,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3344
+2023-06-20 19:48:35+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3345
+2023-06-21 02:39:25+00:00,[User]_kunli2,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3346
+2023-06-21 02:46:39+00:00,[User]_kunli2,"{'[User]_traceyyoshima', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3347
+2023-06-21 11:14:39+00:00,[User]_rpau,{'[User]_JLLeitschuh'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3348
+2023-06-21 11:18:10+00:00,[User]_rpau,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3349
+2023-06-21 21:32:34+00:00,[User]_jkschneider,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3351
+2023-06-23 13:56:33+00:00,[User]_jdelobel,"{'[User]_jdelobel', '[User]_timtebeek', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3352
+2023-06-23 14:23:25+00:00,[User]_JLLeitschuh,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3353
+2023-06-23 22:24:36+00:00,[User]_JLLeitschuh,{'[User]_joanvr'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3354
+2023-06-25 21:18:30+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3355
+2023-06-26 14:58:35+00:00,[User]_jdelobel,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3360
+2023-06-26 16:28:00+00:00,[User]_jdelobel,"{'[User]_jdelobel', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3361
+2023-06-26 20:04:12+00:00,[User]_BigBeaule,"{'[User]_BigBeaule', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3362
+2023-06-26 21:54:02+00:00,[User]_tclayton-newr,{'[User]_jkschneider'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3363
+2023-06-27 02:49:34+00:00,[User]_shanman190,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3364
+2023-06-27 04:42:13+00:00,[User]_maxxedev,"{'[User]_maxxedev', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3365
+2023-06-27 13:28:03+00:00,[User]_jdelobel,"{'[User]_jdelobel', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3366
+2023-06-27 13:45:42+00:00,[User]_ia3andy,"{'[User]_mike-solomon', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3367
+2023-06-27 14:02:24+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3368
+2023-06-27 23:13:35+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3369
+2023-06-28 07:18:32+00:00,[User]_sarajend,{'[User]_Wallman'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3370
+2023-06-28 08:50:33+00:00,[User]_timtebeek,"{'[User]_timtebeek', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3371
+2023-06-28 15:18:51+00:00,[User]_JLLeitschuh,"{'[User]_JLLeitschuh', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3372
+2023-06-29 06:25:11+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3373
+2023-06-29 16:50:16+00:00,[User]_k12dbrantley,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3374
+2023-06-29 20:33:43+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3375
+2023-06-29 20:43:05+00:00,[User]_fastCapybara,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3376
+2023-06-30 00:45:50+00:00,[User]_jdelobel,"{'[User]_jdelobel', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3377
+2023-06-30 07:45:49+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3379
+2023-06-30 08:50:28+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3380
+2023-06-30 11:17:35+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3381
+2023-06-30 12:29:30+00:00,[User]_pstreef,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3382
+2023-06-30 13:29:12+00:00,[User]_knutwannheden,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3383
+2023-06-30 14:09:32+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_jkschneider', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3384
+2023-06-30 14:30:05+00:00,[User]_matf,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3385
+2023-06-30 16:56:51+00:00,[User]_timtebeek,"{'[User]_matf', '[User]_knutwannheden', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3386
+2023-06-30 17:22:14+00:00,[User]_timtebeek,"{'[User]_philippe-granet', '[User]_joanvr', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3387
+2023-06-30 18:43:57+00:00,[User]_mike-solomon,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3388
+2023-06-30 22:31:22+00:00,[User]_sambsnyd,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3389
+2023-06-30 23:10:51+00:00,[User]_shanman190,{'[User]_shanman190'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3390
+2023-07-01 00:03:11+00:00,[User]_jkschneider,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3391
+2023-07-02 22:58:20+00:00,[User]_shanman190,"{'[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3392
+2023-07-03 09:15:40+00:00,[User]_jdelobel,{'[User]_jdelobel'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3393
+2023-07-03 15:27:17+00:00,[User]_sarajend,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3394
+2023-07-04 11:02:01+00:00,[User]_joanvr,"{'[User]_mike-solomon', '[User]_knutwannheden', '[User]_rpau'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3395
+2023-07-05 16:37:27+00:00,[User]_tclayton-newr,"{'[User]_tclayton-newr', '[User]_joanvr', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3397
+2023-07-06 19:57:48+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3398
+2023-07-07 07:37:52+00:00,[User]_knutwannheden,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3399
+2023-07-07 12:49:07+00:00,[User]_jdelobel,"{'[User]_jdelobel', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3400
+2023-07-07 18:43:45+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3401
+2023-07-07 19:27:26+00:00,[User]_nmck257,"{'[User]_nmck257', '[User]_knutwannheden'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3402
+2023-07-07 19:36:15+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3403
+2023-07-07 22:21:21+00:00,[User]_alexkir28,"{'[User]_sjungling', '[User]_alexkir28', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3404
+2023-07-07 22:34:40+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3405
+2023-07-10 13:48:55+00:00,[User]_blackdrag,"{'[User]_joanvr', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3406
+2023-07-10 17:39:01+00:00,[User]_nmck257,"{'[User]_nmck257', '[User]_jkschneider'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3407
+2023-07-11 08:00:36+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3408
+2023-07-12 00:02:44+00:00,[User]_fabapp2,"{'[User]_joanvr', '[User]_fabapp2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3409
+2023-07-12 07:05:28+00:00,[User]_shawware,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3410
+2023-07-12 19:30:34+00:00,[User]_mike-solomon,"{'[User]_mike-solomon', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3412
+2023-07-13 10:56:51+00:00,[User]_alextu,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3413
+2023-07-14 18:44:25+00:00,[User]_nmck257,"{'[User]_nmck257', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3414
+2023-07-14 20:04:47+00:00,[User]_alexkir28,"{'[User]_kmccarp', '[User]_sambsnyd', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3415
+2023-07-14 21:06:08+00:00,[User]_iuliiasobolevska,"{'[User]_iuliiasobolevska', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3416
+2023-07-14 21:31:24+00:00,[User]_kmccarp,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3417
+2023-07-14 22:15:11+00:00,[User]_JLLeitschuh,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3418
+2023-07-15 10:23:26+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3419
+2023-07-17 15:09:32+00:00,[User]_joanvr,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3420
+2023-07-17 18:05:47+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3421
+2023-07-17 20:54:04+00:00,[User]_kmccarp,{'[User]_alexkir28'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3422
+2023-07-18 14:59:42+00:00,[User]_natedanner,"{'[User]_kmccarp', '[User]_natedanner', '[User]_shanman190', '[User]_jkschneider'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3423
+2023-07-18 15:06:03+00:00,[User]_mike-solomon,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3424
+2023-07-19 16:19:14+00:00,[User]_MBoegers,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3425
+2023-07-19 17:09:40+00:00,[User]_wabrit,"{'[User]_wabrit', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3426
+2023-07-20 14:08:40+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3427
+2023-07-20 21:40:11+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3428
+2023-07-21 00:21:47+00:00,[User]_shanman190,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3429
+2023-07-21 15:56:27+00:00,[User]_kunli2,"{'[User]_sambsnyd', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3430
+2023-07-21 22:19:13+00:00,[User]_bhavyasripenumarthi,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3432
+2023-07-22 11:33:10+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3433
+2023-07-22 14:27:12+00:00,[User]_haumacher,"{'[User]_haumacher', '[User]_traceyyoshima', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3434
+2023-07-23 03:25:58+00:00,[User]_sjungling,"{'[User]_sjungling', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3435
+2023-07-23 14:37:00+00:00,[User]_timtebeek,{'[User]_rpau'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3436
+2023-07-24 17:22:44+00:00,[User]_kunli2,"{'[User]_sambsnyd', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3437
+2023-07-25 08:24:37+00:00,[User]_joanvr,"{'[User]_joanvr', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3438
+2023-07-25 13:34:39+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3439
+2023-07-25 23:17:30+00:00,[User]_sfc-gh-dtran,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3440
+2023-07-26 09:11:56+00:00,[User]_timtebeek,{'[User]_joanvr'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3441
+2023-07-27 13:01:09+00:00,[User]_BoykoAlex,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3443
+2023-07-27 21:35:53+00:00,[User]_bohdi2,"{'[User]_bohdi2', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3444
+2023-07-28 16:07:39+00:00,[User]_rpau,{'[User]_joanvr'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3445
+2023-07-28 20:52:02+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3446
+2023-07-29 13:25:51+00:00,[User]_haumacher,"{'[User]_haumacher', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3447
+2023-08-01 19:44:53+00:00,[User]_mike-solomon,{'[User]_mike-solomon'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3449
+2023-08-03 12:58:41+00:00,[User]_joanvr,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3451
+2023-08-03 13:18:26+00:00,[User]_joanvr,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3452
+2023-08-03 17:57:07+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_traceyyoshima'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3453
+2023-08-04 06:52:37+00:00,[User]_BigMichi1,"{'[User]_BigMichi1', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3454
+2023-08-04 12:40:10+00:00,[User]_joanvr,"{'[User]_joanvr', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3455
+2023-08-04 15:50:28+00:00,[User]_JLLeitschuh,"{'[User]_JLLeitschuh', '[User]_jkschneider'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3456
+2023-08-04 20:06:38+00:00,[User]_nmck257,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3458
+2023-08-04 22:06:22+00:00,[User]_jkschneider,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3459
+2023-08-04 22:17:23+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3460
+2023-08-05 20:05:31+00:00,[User]_FabianUntermoser,"{'[User]_FabianUntermoser', '[User]_zieka'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3461
+2023-08-07 04:08:11+00:00,[User]_ammachado,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3462
+2023-08-07 05:53:56+00:00,[User]_i059917,"{'[User]_timtebeek', '[User]_joanvr', '[User]_i059917'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3463
+2023-08-07 06:36:03+00:00,[User]_sfc-gh-dtran,"{'[User]_kunli2', '[User]_sfc-gh-dtran', '[User]_traceyyoshima', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3464
+2023-08-07 19:55:54+00:00,[User]_cjobinabo,"{'[User]_ammachado', '[User]_izozapzazp', '[User]_joanvr', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3465
+2023-08-09 21:50:22+00:00,[User]_knutwannheden,{'[User]_jkschneider'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3466
+2023-08-10 03:10:38+00:00,[User]_kunli2,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3467
+2023-08-10 10:15:28+00:00,[User]_joanvr,"{'[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3468
+2023-08-10 16:27:47+00:00,[User]_joanvr,"{'[User]_nmck257', '[User]_timtebeek', '[User]_shanman190', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3470
+2023-08-10 19:20:31+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3472
+2023-08-11 16:03:38+00:00,[User]_jeremyg484,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3473
+2023-08-13 19:05:35+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3474
+2023-08-14 07:33:19+00:00,[User]_knutwannheden,"{'[User]_jkschneider', '[User]_traceyyoshima', '[User]_JLLeitschuh', '[User]_knutwannheden', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3475
+2023-08-15 15:04:53+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3476
+2023-08-15 17:29:18+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3477
+2023-08-15 21:30:11+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3478
+2023-08-16 06:16:19+00:00,[User]_Shiva2199,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3479
+2023-08-16 11:45:27+00:00,[User]_amirmv2006,"{'[User]_timtebeek', '[User]_amirmv2006'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3480
+2023-08-16 14:00:29+00:00,[User]_timtebeek,"{'[User]_joanvr', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3481
+2023-08-16 17:24:44+00:00,[User]_kunli2,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3482
+2023-08-16 19:57:21+00:00,[User]_sambsnyd,"{'[User]_knutwannheden', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3483
+2023-08-17 18:12:57+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_traceyyoshima'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3484
+2023-08-17 20:14:21+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3485
+2023-08-18 11:48:18+00:00,[User]_joanvr,"{'[User]_knutwannheden', '[User]_timtebeek', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3486
+2023-08-18 11:57:10+00:00,[User]_alextu,{'[User]_joanvr'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3487
+2023-08-18 13:20:52+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3488
+2023-08-19 12:17:45+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3489
+2023-08-19 20:42:14+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3490
+2023-08-21 02:49:00+00:00,[User]_sghill,"{'[User]_sghill', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3491
+2023-08-21 15:17:44+00:00,[User]_mlvandijk,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3494
+2023-08-21 17:54:01+00:00,[User]_kmccarp,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3495
+2023-08-21 20:36:28+00:00,[User]_yeikel,"{'[User]_yeikel', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3496
+2023-08-23 10:06:48+00:00,[User]_alextu,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3497
+2023-08-24 07:38:24+00:00,[User]_joanvr,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3498
+2023-08-24 09:27:17+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3499
+2023-08-25 08:16:11+00:00,[User]_i059917,"{'[User]_knutwannheden', '[User]_i059917'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3500
+2023-08-25 19:08:54+00:00,[User]_knutwannheden,{'[User]_jkschneider'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3501
+2023-08-25 20:38:22+00:00,[User]_AlexanderSkrock,"{'[User]_traceyyoshima', '[User]_timtebeek', '[User]_AlexanderSkrock'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3502
+2023-08-26 09:39:58+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3503
+2023-08-26 20:39:01+00:00,[User]_kmclarnon,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3504
+2023-08-27 09:00:49+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3505
+2023-08-28 15:57:24+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3507
+2023-08-28 16:05:22+00:00,[User]_nmck257,"{'[User]_nmck257', '[User]_knutwannheden'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3508
+2023-08-28 20:51:29+00:00,[User]_yeikel,"{'[User]_yeikel', '[User]_knutwannheden'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3509
+2023-08-28 21:36:32+00:00,[User]_AlexanderSkrock,"{'[User]_knutwannheden', '[User]_AlexanderSkrock'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3511
+2023-08-29 08:43:53+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3512
+2023-08-29 18:25:02+00:00,[User]_JLLeitschuh,"{'[User]_JLLeitschuh', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3514
+2023-08-30 09:48:43+00:00,[User]_joanvr,"{'[User]_joanvr', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3515
+2023-08-30 14:26:19+00:00,[User]_nmck257,{'[User]_nmck257'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3517
+2023-08-31 05:46:54+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3518
+2023-08-31 05:59:38+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3519
+2023-08-31 12:11:50+00:00,[User]_thomaszub,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3520
+2023-08-31 12:15:56+00:00,[User]_thomaszub,"{'[User]_thomaszub', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3521
+2023-08-31 15:55:54+00:00,[User]_yeikel,"{'[User]_yeikel', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3522
+2023-08-31 16:22:49+00:00,[User]_yeikel,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3523
+2023-08-31 20:36:02+00:00,[User]_nmck257,"{'[User]_nmck257', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3524
+2023-09-01 11:11:31+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3525
+2023-09-01 12:33:39+00:00,[User]_Evodam,"{'[User]_Evodam', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3526
+2023-09-05 15:42:48+00:00,[User]_tclayton-newr,{'[User]_SDNFKJSDK'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3527
+2023-09-06 08:32:23+00:00,[User]_jdelobel,"{'[User]_jdelobel', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3528
+2023-09-07 02:16:08+00:00,[User]_yeikel,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3529
+2023-09-08 08:37:59+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3530
+2023-09-08 09:31:03+00:00,[User]_AlejandroBertolo,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3531
+2023-09-08 11:24:51+00:00,[User]_mduerig,"{'[User]_mduerig', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3532
+2023-09-08 15:21:50+00:00,[User]_jdelobel,"{'[User]_jdelobel', '[User]_knutwannheden'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3533
+2023-09-09 19:04:33+00:00,[User]_SimonVerhoeven,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3535
+2023-09-10 05:15:47+00:00,[User]_jonesbusy,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3536
+2023-09-10 07:24:08+00:00,[User]_jonesbusy,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3537
+2023-09-11 13:28:22+00:00,[User]_Wallman,"{'[User]_timtebeek', '[User]_Wallman'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3538
+2023-09-12 11:52:47+00:00,[User]_luisrov,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3539
+2023-09-12 11:58:52+00:00,[User]_kmccarp,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3540
+2023-09-13 13:03:31+00:00,[User]_timtebeek,"{'[User]_timtebeek', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3541
+2023-09-13 15:33:34+00:00,[User]_pstreef,"{'[User]_kmccarp', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3542
+2023-09-13 20:53:14+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3543
+2023-09-14 06:03:56+00:00,[User]_jonesbusy,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3544
+2023-09-14 07:14:28+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3545
+2023-09-14 13:49:05+00:00,[User]_ia3andy,"{'[User]_ia3andy', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3546
+2023-09-14 14:56:01+00:00,[User]_yeikel,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3547
+2023-09-15 06:12:10+00:00,[User]_StWitte,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3548
+2023-09-15 06:40:22+00:00,[User]_StWitte,"{'[User]_StWitte', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3549
+2023-09-15 09:18:55+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3550
+2023-09-15 09:57:51+00:00,[User]_jdelobel,"{'[User]_jdelobel', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3551
+2023-09-15 10:17:40+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3552
+2023-09-20 11:47:38+00:00,[User]_jdelobel,"{'[User]_jdelobel', '[User]_clec0', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3553
+2023-09-20 15:39:58+00:00,[User]_alextu,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3554
+2023-09-21 13:54:12+00:00,[User]_thomaszub,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3555
+2023-09-21 17:36:45+00:00,[User]_timtebeek,"{'[User]_sambsnyd', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3557
+2023-09-21 20:42:12+00:00,[User]_kunli2,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3558
+2023-09-22 14:57:18+00:00,[User]_safetytrick,"{'[User]_shanman190', '[User]_timtebeek', '[User]_safetytrick'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3559
+2023-09-22 20:09:49+00:00,[User]_kunli2,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3560
+2023-09-25 11:32:25+00:00,[User]_pstreef,{'[User]_kmccarp'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3561
+2023-09-25 17:28:56+00:00,[User]_jbessels,"{'[User]_jbessels', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3562
+2023-09-25 17:36:41+00:00,[User]_safetytrick,"{'[User]_timtebeek', '[User]_shanman190', '[User]_safetytrick'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3563
+2023-09-26 19:36:10+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3565
+2023-09-27 02:11:03+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3566
+2023-09-27 19:46:20+00:00,[User]_nmck257,"{'[User]_nmck257', '[User]_knutwannheden'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3568
+2023-09-28 19:59:57+00:00,[User]_BoykoAlex,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3571
+2023-09-28 20:04:21+00:00,[User]_BoykoAlex,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3572
+2023-09-28 21:39:38+00:00,[User]_BoykoAlex,"{'[User]_knutwannheden', '[User]_BoykoAlex'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3573
+2023-09-28 21:41:29+00:00,[User]_BoykoAlex,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3574
+2023-09-29 05:42:29+00:00,[User]_vcolin7,"{'[User]_vcolin7', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3575
+2023-09-29 10:53:08+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3577
+2023-09-29 17:39:42+00:00,[User]_kmccarp,"{'[User]_traceyyoshima', '[User]_zieka', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3578
+2023-09-29 18:13:30+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3579
+2023-09-29 19:21:46+00:00,[User]_Bananeweizen,"{'[User]_Bananeweizen', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3580
+2023-09-29 20:40:29+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3581
+2023-09-29 23:23:45+00:00,[User]_kunli2,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3582
+2023-09-29 23:26:07+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3583
+2023-09-30 06:54:20+00:00,[User]_Bananeweizen,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3584
+2023-09-30 10:37:20+00:00,[User]_Bananeweizen,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3585
+2023-09-30 10:41:33+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3586
+2023-09-30 15:46:55+00:00,[User]_Bananeweizen,{'[User]_SumanohariR'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3587
+2023-09-30 16:03:44+00:00,[User]_Bananeweizen,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3588
+2023-09-30 17:01:49+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3589
+2023-09-30 22:14:07+00:00,[User]_timtebeek,{'[User]_yeikel'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3591
+2023-09-30 23:22:29+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_pstreef', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3592
+2023-10-01 16:43:01+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3593
+2023-10-02 04:10:54+00:00,[User]_nagkumar,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3594
+2023-10-02 09:58:15+00:00,[User]_jdelobel,{'[User]_jdelobel'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3595
+2023-10-02 21:23:11+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3596
+2023-10-03 08:21:31+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3597
+2023-10-03 09:54:45+00:00,[User]_joanvr,"{'[User]_knutwannheden', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3598
+2023-10-03 10:28:57+00:00,[User]_AlejandroBertolo,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3599
+2023-10-03 12:36:12+00:00,[User]_nagkumar,"{'[User]_nagkumar', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3601
+2023-10-04 10:50:14+00:00,[User]_joteri,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3603
+2023-10-05 08:55:57+00:00,[User]_knutwannheden,"{'[User]_nmck257', '[User]_knutwannheden', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3604
+2023-10-05 14:43:01+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3605
+2023-10-07 00:42:43+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_jkschneider', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3606
+2023-10-08 06:26:24+00:00,[User]_pzygielo,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3607
+2023-10-09 12:49:03+00:00,[User]_joteri,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3608
+2023-10-09 17:59:59+00:00,[User]_nmck257,"{'[User]_nmck257', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3609
+2023-10-09 23:41:43+00:00,[User]_traceyyoshima,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3610
+2023-10-11 20:46:06+00:00,[User]_Murtuza24,{'[User]_Murtuza24'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3611
+2023-10-12 09:30:58+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3612
+2023-10-12 18:56:33+00:00,[User]_TheMarvelFan,"{'[User]_TheMarvelFan', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3613
+2023-10-13 07:23:31+00:00,[User]_alextu,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3614
+2023-10-13 16:02:11+00:00,[User]_dawngerpony,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3615
+2023-10-14 08:43:07+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3616
+2023-10-14 11:00:08+00:00,[User]_SimonVerhoeven,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3617
+2023-10-14 14:45:08+00:00,[User]_SimonVerhoeven,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3618
+2023-10-15 12:07:41+00:00,[User]_SimonVerhoeven,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3619
+2023-10-16 09:28:46+00:00,[User]_dawngerpony,"{'[User]_sambsnyd', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3621
+2023-10-16 10:11:41+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3622
+2023-10-16 15:17:05+00:00,[User]_MBoegers,"{'[User]_MBoegers', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3623
+2023-10-17 04:06:53+00:00,[User]_salvianreynaldi,"{'[User]_salvianreynaldi', '[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3624
+2023-10-17 22:02:26+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_shanman190', '[User]_timtebeek', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3625
+2023-10-18 02:01:38+00:00,[User]_edudar,"{'[User]_knutwannheden', '[User]_edudar'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3626
+2023-10-18 07:14:31+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3627
+2023-10-18 08:53:10+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3628
+2023-10-18 13:53:59+00:00,[User]_timtebeek,"{'[User]_joanvr', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3629
+2023-10-18 16:02:45+00:00,[User]_suravshresth,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3630
+2023-10-18 17:49:44+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3632
+2023-10-18 18:09:13+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3633
+2023-10-19 08:37:56+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_sambsnyd', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3635
+2023-10-19 11:42:41+00:00,[User]_pstreef,"{'[User]_knutwannheden', '[User]_pstreef', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3636
+2023-10-19 22:21:18+00:00,[User]_ammachado,"{'[User]_knutwannheden', '[User]_sambsnyd'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3638
+2023-10-20 11:36:33+00:00,[User]_n-semikin,"{'[User]_n-semikin', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3639
+2023-10-20 14:39:39+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3640
+2023-10-23 17:39:46+00:00,[User]_BoykoAlex,"{'[User]_knutwannheden', '[User]_BoykoAlex'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3641
+2023-10-23 17:42:41+00:00,[User]_BoykoAlex,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3642
+2023-10-23 23:18:50+00:00,[User]_sambsnyd,"{'[User]_nmck257', '[User]_knutwannheden', '[User]_sambsnyd', '[User]_ia3andy'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3643
+2023-10-24 15:35:10+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3644
+2023-10-25 20:57:07+00:00,[User]_n-semikin,"{'[User]_ammachado', '[User]_n-semikin', '[User]_knutwannheden', '[User]_TomChatt2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3645
+2023-10-26 11:45:28+00:00,[User]_joanvr,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3646
+2023-10-28 10:22:48+00:00,[User]_alexandrenavarro,"{'[User]_alexandrenavarro', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3647
+2023-10-28 19:41:53+00:00,[User]_philippe-granet,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3648
+2023-10-30 00:25:13+00:00,[User]_liblit-at-amazon,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3649
+2023-10-30 11:18:01+00:00,[User]_bnaudts,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3650
+2023-10-31 10:09:52+00:00,[User]_knutwannheden,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3651
+2023-11-01 15:54:27+00:00,[User]_runningcode,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3653
+2023-11-01 19:02:55+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3654
+2023-11-02 13:26:39+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3655
+2023-11-02 14:36:45+00:00,[User]_motu55,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3656
+2023-11-02 15:25:16+00:00,[User]_Wallman,{'[User]_shanman190'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3657
+2023-11-02 15:31:26+00:00,[User]_Wallman,"{'[User]_shanman190', '[User]_Wallman'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3658
+2023-11-03 00:47:52+00:00,[User]_Philzen,"{'[User]_Philzen', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3659
+2023-11-03 14:51:41+00:00,[User]_joanvr,"{'[User]_knutwannheden', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3660
+2023-11-04 16:51:13+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3661
+2023-11-04 19:07:40+00:00,[User]_Bananeweizen,"{'[User]_Bananeweizen', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3662
+2023-11-05 11:20:15+00:00,[User]_Bananeweizen,"{'[User]_Bananeweizen', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3663
+2023-11-05 19:27:43+00:00,[User]_Bananeweizen,"{'[User]_Bananeweizen', '[User]_mike-solomon', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3664
+2023-11-06 11:51:05+00:00,[User]_timtebeek,"{'[User]_ajohnsonz', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3665
+2023-11-07 06:40:58+00:00,[User]_vlsi,"{'[User]_knutwannheden', '[User]_vlsi', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3666
+2023-11-07 08:16:42+00:00,[User]_vlsi,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3667
+2023-11-07 12:53:20+00:00,[User]_vlsi,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3668
+2023-11-07 13:03:01+00:00,[User]_joanvr,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3669
+2023-11-07 15:46:30+00:00,[User]_kunli2,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3670
+2023-11-07 17:43:49+00:00,[User]_fabapp2,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3671
+2023-11-07 20:04:25+00:00,[User]_kunli2,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3672
+2023-11-08 08:39:29+00:00,[User]_vlsi,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3673
+2023-11-08 09:18:42+00:00,[User]_vlsi,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3674
+2023-11-08 12:04:09+00:00,[User]_vlsi,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3675
+2023-11-08 13:14:41+00:00,[User]_fabapp2,"{'[User]_knutwannheden', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3676
+2023-11-08 19:10:30+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3677
+2023-11-09 09:59:16+00:00,[User]_knutwannheden,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3678
+2023-11-09 16:03:16+00:00,[User]_joanvr,"{'[User]_knutwannheden', '[User]_shanman190', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3679
+2023-11-10 11:37:29+00:00,[User]_knutwannheden,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3680
+2023-11-10 14:27:44+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3681
+2023-11-12 21:27:13+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_sambsnyd', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3682
+2023-11-13 18:02:26+00:00,[User]_BoykoAlex,"{'[User]_traceyyoshima', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3683
+2023-11-13 18:05:00+00:00,[User]_BoykoAlex,"{'[User]_traceyyoshima', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3684
+2023-11-13 21:39:06+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3685
+2023-11-14 08:05:55+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3686
+2023-11-14 13:15:18+00:00,[User]_knutwannheden,{'[User]_sambsnyd'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3687
+2023-11-15 00:06:08+00:00,[User]_kunli2,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3688
+2023-11-15 10:51:20+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3689
+2023-11-15 13:58:07+00:00,[User]_pstreef,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3690
+2023-11-15 14:49:58+00:00,[User]_joanvr,"{'[User]_joanvr', '[User]_pstreef', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3691
+2023-11-15 16:20:12+00:00,[User]_shanman190,"{'[User]_mike-solomon', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3692
+2023-11-15 20:46:05+00:00,[User]_yeikel,"{'[User]_yeikel', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3693
+2023-11-16 09:52:48+00:00,[User]_vlsi,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3694
+2023-11-16 11:47:40+00:00,[User]_kevin0x90,{'[User]_seonwoo960000'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3744
+2023-11-16 13:22:08+00:00,[User]_vlsi,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3695
+2023-11-16 16:26:13+00:00,[User]_joanvr,"{'[User]_kmccarp', '[User]_knutwannheden', '[User]_joanvr'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3696
+2023-11-16 16:50:20+00:00,[User]_mike-solomon,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3697
+2023-11-16 22:23:36+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_sambsnyd', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3698
+2023-11-17 00:40:25+00:00,[User]_api-from-the-ion,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3699
+2023-11-17 02:36:00+00:00,[User]_api-from-the-ion,"{'[User]_api-from-the-ion', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3701
+2023-11-17 12:28:25+00:00,[User]_paulbarr,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3702
+2023-11-17 14:31:42+00:00,[User]_jdelobel,"{'[User]_Bananeweizen', '[User]_jdelobel', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3703
+2023-11-18 21:22:34+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3704
+2023-11-18 22:06:09+00:00,[User]_Bananeweizen,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3705
+2023-11-19 10:36:57+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3706
+2023-11-19 21:05:41+00:00,[User]_ammachado,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3707
+2023-11-19 21:07:41+00:00,[User]_ammachado,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3708
+2023-11-20 14:47:44+00:00,[User]_undament,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3709
+2023-11-20 15:16:30+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3710
+2023-11-20 16:22:05+00:00,[User]_rogerpeckham-toast,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3711
+2023-11-20 16:44:28+00:00,[User]_joanvr,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3713
+2023-11-20 18:45:55+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3714
+2023-11-20 21:38:10+00:00,[User]_timtebeek,"{'[User]_pstreef', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3715
+2023-11-20 23:22:14+00:00,[User]_api-from-the-ion,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3716
+2023-11-21 00:10:14+00:00,[User]_api-from-the-ion,"{'[User]_api-from-the-ion', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3717
+2023-11-21 01:16:26+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3718
+2023-11-21 03:32:46+00:00,[User]_JLLeitschuh,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3719
+2023-11-21 11:21:43+00:00,[User]_timtebeek,"{'[User]_joanvr', '[User]_pstreef', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3720
+2023-11-21 14:15:27+00:00,[User]_joanvr,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3721
+2023-11-21 14:30:22+00:00,[User]_JLLeitschuh,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3722
+2023-11-21 16:27:37+00:00,[User]_JLLeitschuh,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3723
+2023-11-22 02:58:13+00:00,[User]_shanman190,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3724
+2023-11-22 10:12:17+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3725
+2023-11-22 10:35:59+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3726
+2023-11-22 12:00:27+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3727
+2023-11-22 15:25:41+00:00,[User]_api-from-the-ion,"{'[User]_jwedel', '[User]_api-from-the-ion', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3728
+2023-11-22 18:33:11+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3729
+2023-11-22 18:59:43+00:00,[User]_SimonVerhoeven,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3730
+2023-11-23 07:08:26+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3731
+2023-11-23 07:10:47+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3732
+2023-11-23 09:38:10+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3733
+2023-11-24 17:04:37+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3734
+2023-11-25 23:20:13+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3735
+2023-11-26 10:45:51+00:00,[User]_Bananeweizen,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3736
+2023-11-28 10:25:09+00:00,[User]_JStronkhorst,"{'[User]_JStronkhorst', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3737
+2023-11-28 14:44:06+00:00,[User]_okundzich,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3738
+2023-11-28 19:50:56+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3739
+2023-11-29 02:12:29+00:00,[User]_traceyyoshima,{'[User]_joanvr'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3740
+2023-11-29 13:53:04+00:00,[User]_jdelobel,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3741
+2023-11-29 20:19:30+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3742
+2023-11-29 20:28:19+00:00,[User]_traceyyoshima,"{'[User]_knutwannheden', '[User]_traceyyoshima'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3743
+2023-11-30 00:08:41+00:00,[User]_api-from-the-ion,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3745
+2023-11-30 20:55:07+00:00,[User]_justine-gehring,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3747
+2023-12-01 00:23:43+00:00,[User]_traceyyoshima,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3748
+2023-12-01 20:10:00+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3751
+2023-12-02 02:11:24+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3753
+2023-12-02 16:56:54+00:00,[User]_timtebeek,"{'[User]_timtebeek', '[User]_Mgonzalez-droid'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3754
+2023-12-02 17:40:45+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3755
+2023-12-02 19:45:50+00:00,[User]_timtebeek,"{'[User]_TheMarvelFan', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3757
+2023-12-03 10:35:14+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3758
+2023-12-03 11:31:06+00:00,[User]_reallyinsane,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3760
+2023-12-04 20:06:22+00:00,[User]_JLLeitschuh,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3763
+2023-12-05 00:21:14+00:00,[User]_JLLeitschuh,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3765
+2023-12-05 01:19:51+00:00,[User]_RossZhang-cpu,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3766
+2023-12-05 15:32:10+00:00,[User]_joanvr,"{'[User]_kmccarp', '[User]_joanvr', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3768
+2023-12-05 16:19:39+00:00,[User]_ammachado,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3769
+2023-12-05 19:00:44+00:00,[User]_traceyyoshima,"{'[User]_tylervangorder-8451', '[User]_knutwannheden'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3770
+2023-12-05 19:50:12+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3771
+2023-12-05 20:03:35+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3772
+2023-12-05 20:08:12+00:00,[User]_traceyyoshima,"{'[User]_traceyyoshima', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3773
+2023-12-06 02:28:52+00:00,[User]_api-from-the-ion,"{'[User]_api-from-the-ion', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3775
+2023-12-06 07:49:49+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3776
+2023-12-06 12:31:31+00:00,[User]_Laurens-W,"{'[User]_Laurens-W', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3777
+2023-12-06 18:13:10+00:00,[User]_kmccarp,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3778
+2023-12-06 19:14:32+00:00,[User]_sjungling,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3779
+2023-12-06 22:31:13+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3780
+2023-12-07 01:08:20+00:00,[User]_traceyyoshima,{'[User]_traceyyoshima'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3781
+2023-12-07 10:00:11+00:00,[User]_TheMarvelFan,"{'[User]_TheMarvelFan', '[User]_traceyyoshima', '[User]_timtebeek', '[User]_knutwannheden'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3784
+2023-12-07 14:28:18+00:00,[User]_ritika03494,"{'[User]_ritika03494', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3785
+2023-12-07 18:05:39+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3787
+2023-12-07 20:11:44+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3789
+2023-12-07 21:13:27+00:00,[User]_knutwannheden,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3790
+2023-12-07 22:56:40+00:00,[User]_kunli2,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3792
+2023-12-08 02:37:34+00:00,[User]_ammachado,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3793
+2023-12-08 14:44:58+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3795
+2023-12-08 18:27:15+00:00,[User]_yeikel,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3797
+2023-12-08 19:12:14+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3798
+2023-12-08 20:24:07+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3799
+2023-12-08 23:09:30+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3800
+2023-12-09 21:15:03+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3801
+2023-12-11 11:31:19+00:00,[User]_timtebeek,{'[User]_joanvr'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3802
+2023-12-11 15:43:38+00:00,[User]_Laurens-W,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3804
+2023-12-11 16:05:39+00:00,[User]_JLLeitschuh,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3805
+2023-12-11 16:09:47+00:00,[User]_JLLeitschuh,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3806
+2023-12-11 16:20:14+00:00,[User]_nmck257,"{'[User]_nmck257', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3807
+2023-12-11 18:12:56+00:00,[User]_traceyyoshima,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3808
+2023-12-12 00:01:32+00:00,[User]_traceyyoshima,{'[User]_traceyyoshima'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3809
+2023-12-12 17:31:11+00:00,[User]_smurf667,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3811
+2023-12-12 19:28:04+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_traceyyoshima', '[User]_kunli2'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3812
+2023-12-13 05:58:31+00:00,[User]_joanvr,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3814
+2023-12-13 09:47:08+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3815
+2023-12-13 20:22:37+00:00,[User]_knutwannheden,"{'[User]_JLLeitschuh', '[User]_knutwannheden'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3817
+2023-12-14 01:17:44+00:00,[User]_traceyyoshima,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3818
+2023-12-14 14:35:01+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3819
+2023-12-14 15:42:42+00:00,[User]_yogurtearl,"{'[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3820
+2023-12-14 18:55:23+00:00,[User]_ylemoigne,"{'[User]_ylemoigne', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3821
+2023-12-14 20:41:41+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3822
+2023-12-14 21:09:09+00:00,[User]_nmck257,"{'[User]_nmck257', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3823
+2023-12-14 21:10:14+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3824
+2023-12-15 12:32:06+00:00,[User]_sbenzal,"{'[User]_natedanner', '[User]_timtebeek', '[User]_sbenzal'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3825
+2023-12-15 21:47:50+00:00,[User]_timtebeek,"{'[User]_dev-praveen', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3826
+2023-12-16 00:30:35+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3827
+2023-12-16 03:48:11+00:00,[User]_JLLeitschuh,"{'[User]_JLLeitschuh', '[User]_knutwannheden'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3828
+2023-12-16 04:44:45+00:00,[User]_JLLeitschuh,"{'[User]_JLLeitschuh', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3829
+2023-12-16 13:33:58+00:00,[User]_melloware,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3830
+2023-12-16 18:20:35+00:00,[User]_timtebeek,"{'[User]_melloware', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3831
+2023-12-16 19:17:41+00:00,[User]_philippe-granet,"{'[User]_philippe-granet', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3832
+2023-12-18 11:34:26+00:00,[User]_TheMarvelFan,"{'[User]_TheMarvelFan', '[User]_traceyyoshima', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3833
+2023-12-19 03:44:08+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3834
+2023-12-19 21:52:50+00:00,[User]_traceyyoshima,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3835
+2023-12-19 22:31:08+00:00,[User]_justine-gehring,"{'[User]_knutwannheden', '[User]_justine-gehring'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3836
+2023-12-19 22:37:28+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_timtebeek', '[User]_traceyyoshima'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3837
+2023-12-20 08:16:01+00:00,[User]_MartinAhrer,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3838
+2023-12-20 08:56:24+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3839
+2023-12-20 10:08:00+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3840
+2023-12-20 13:48:55+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3841
+2023-12-20 17:24:09+00:00,[User]_gsmet,"{'[User]_gsmet', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3842
+2023-12-21 04:15:03+00:00,[User]_jkschneider,"{'[User]_k-seth', '[User]_nmck257', '[User]_zieka'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3843
+2023-12-21 14:46:36+00:00,[User]_pstreef,"{'[User]_pstreef', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3844
+2023-12-21 19:08:59+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3845
+2023-12-21 19:13:50+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3846
+2023-12-22 18:07:37+00:00,[User]_shanman190,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3847
+2023-12-22 22:08:08+00:00,[User]_traceyyoshima,"{'[User]_knutwannheden', '[User]_traceyyoshima', '[User]_jkschneider'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3848
+2023-12-24 18:35:35+00:00,[User]_SaptarshiSarkar12,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3849
+2023-12-25 08:22:59+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3850
+2023-12-27 13:47:50+00:00,[User]_jeonyeonbin,"{'[User]_seonwoo960000', '[User]_jeonyeonbin', '[User]_koppor'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3851
+2023-12-27 17:58:54+00:00,[User]_natedanner,{'[User]_timtebeek'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3852
+2023-12-27 19:15:28+00:00,[User]_traceyyoshima,{'[User]_traceyyoshima'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3853
+2023-12-27 20:26:23+00:00,[User]_traceyyoshima,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3854
+2023-12-28 01:21:56+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3855
+2023-12-28 10:05:09+00:00,[User]_vijay-chavakula,"{'[User]_knutwannheden', '[User]_timtebeek', '[User]_vijay-chavakula'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3856
+2023-12-28 18:44:07+00:00,[User]_traceyyoshima,{'[User]_knutwannheden'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3857
+2023-12-28 19:14:34+00:00,[User]_traceyyoshima,{'[User]_kunli2'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3858
+2023-12-28 21:50:32+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3859
+2023-12-29 02:12:41+00:00,[User]_traceyyoshima,"{'[User]_knutwannheden', '[User]_traceyyoshima'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3860
+2023-12-29 02:54:54+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3861
+2023-12-29 08:24:15+00:00,[User]_kunli2,"{'[User]_knutwannheden', '[User]_kunli2', '[User]_traceyyoshima'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3862
+2023-12-29 10:57:26+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3863
+2023-12-29 16:35:06+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3864
+2023-12-29 17:37:26+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3865
+2023-12-29 19:04:53+00:00,[User]_vijay-chavakula,"{'[User]_timtebeek', '[User]_vijay-chavakula'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3866
+2023-12-29 22:57:46+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3867
+2023-12-29 23:49:14+00:00,[User]_tobli,"{'[User]_tobli', '[User]_knutwannheden', '[User]_traceyyoshima', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3868
+2023-12-30 10:59:13+00:00,[User]_vlsi,{'[User]_vlsi'},openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3869
+2023-12-30 11:33:29+00:00,[User]_vlsi,"{'[User]_knutwannheden', '[User]_vlsi', '[User]_traceyyoshima'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/issues/3870
+2023-12-31 06:49:11+00:00,[User]_seonwoo960000,"{'[User]_seonwoo960000', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2023,https://github.com/openrewrite/rewrite/pull/3871
+2024-01-01 03:32:19+00:00,[User]_seonwoo960000,"{'[User]_seonwoo960000', '[User]_knutwannheden', '[User]_timtebeek', '[User]_traceyyoshima'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3872
+2024-01-01 18:40:58+00:00,[User]_vlsi,{'[User]_traceyyoshima'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3877
+2024-01-01 19:02:18+00:00,[User]_vlsi,"{'[User]_knutwannheden', '[User]_vlsi', '[User]_traceyyoshima'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3873
+2024-01-02 10:27:00+00:00,[User]_vlsi,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3874
+2024-01-02 16:49:39+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3875
+2024-01-02 17:07:52+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3876
+2024-01-02 20:50:37+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3878
+2024-01-02 22:11:49+00:00,[User]_traceyyoshima,{'[User]_traceyyoshima'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3879
+2024-01-03 07:56:14+00:00,[User]_vlsi,"{'[User]_vlsi', '[User]_knutwannheden'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3880
+2024-01-03 13:21:38+00:00,[User]_Bananeweizen,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3881
+2024-01-03 21:24:24+00:00,[User]_traceyyoshima,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3882
+2024-01-04 09:08:11+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3883
+2024-01-04 14:03:16+00:00,[User]_vijay-chavakula,"{'[User]_sambsnyd', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3884
+2024-01-05 03:54:46+00:00,[User]_leveretconey,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3885
+2024-01-05 10:00:48+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3886
+2024-01-05 10:21:02+00:00,[User]_tobli,"{'[User]_tobli', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3887
+2024-01-05 11:21:12+00:00,[User]_koppor,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4054
+2024-01-05 11:24:12+00:00,[User]_tobli,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3888
+2024-01-06 20:55:31+00:00,[User]_ammachado,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3890
+2024-01-07 14:49:57+00:00,[User]_vlsi,"{'[User]_vlsi', '[User]_koppor', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3891
+2024-01-07 15:52:31+00:00,[User]_jpraet,"{'[User]_jpraet', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3892
+2024-01-08 00:57:42+00:00,[User]_abetaev-equinix,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3893
+2024-01-08 09:16:28+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3894
+2024-01-08 11:25:39+00:00,[User]_jpraet,"{'[User]_sambsnyd', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3895
+2024-01-08 11:54:04+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3896
+2024-01-09 07:15:43+00:00,[User]_Evodam,"{'[User]_Evodam', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3897
+2024-01-09 22:08:33+00:00,[User]_MBoegers,"{'[User]_JLLeitschuh', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3898
+2024-01-10 07:26:43+00:00,[User]_vlsi,"{'[User]_vlsi', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3899
+2024-01-10 10:06:21+00:00,[User]_lnnery,"{'[User]_timtebeek', '[User]_lnnery'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3900
+2024-01-10 17:14:17+00:00,[User]_ajohnsonz,"{'[User]_shanman190', '[User]_ajohnsonz', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3901
+2024-01-11 10:56:00+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3902
+2024-01-11 17:56:52+00:00,[User]_vlsi,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3904
+2024-01-11 20:57:57+00:00,[User]_knutwannheden,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3905
+2024-01-12 10:53:26+00:00,[User]_koppor,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3907
+2024-01-13 01:20:34+00:00,[User]_sambsnyd,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3908
+2024-01-13 14:36:24+00:00,[User]_philippe-granet,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3909
+2024-01-13 15:27:35+00:00,[User]_pstreef,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3910
+2024-01-14 11:57:17+00:00,[User]_koppor,"{'[User]_koppor', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3913
+2024-01-14 12:11:25+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3912
+2024-01-15 09:04:53+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3914
+2024-01-15 13:31:50+00:00,[User]_koppor,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3915
+2024-01-15 13:52:42+00:00,[User]_koppor,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3916
+2024-01-15 14:49:02+00:00,[User]_timtebeek,"{'[User]_MBoegers', '[User]_koppor', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3917
+2024-01-15 15:16:32+00:00,[User]_timtebeek,"{'[User]_koppor', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3918
+2024-01-16 00:05:04+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3919
+2024-01-16 01:07:23+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3920
+2024-01-16 06:30:31+00:00,[User]_sambsnyd,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3921
+2024-01-16 13:39:27+00:00,[User]_knutwannheden,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3923
+2024-01-16 13:54:47+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3924
+2024-01-17 08:58:36+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3926
+2024-01-17 10:16:07+00:00,[User]_rahulpatil-dev,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3927
+2024-01-17 13:26:03+00:00,[User]_zacscoding,"{'[User]_zacscoding', '[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3929
+2024-01-17 15:52:44+00:00,[User]_shanman190,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3930
+2024-01-17 16:29:23+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3931
+2024-01-17 16:45:27+00:00,[User]_nmck257,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3932
+2024-01-18 16:04:45+00:00,[User]_ajohnsonz,"{'[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3933
+2024-01-18 16:43:56+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3934
+2024-01-18 19:37:09+00:00,[User]_ammachado,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3935
+2024-01-18 20:49:36+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3936
+2024-01-19 09:01:33+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3937
+2024-01-20 23:00:37+00:00,[User]_aholland,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3938
+2024-01-21 12:13:21+00:00,[User]_timtebeek,"{'[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3939
+2024-01-21 13:43:36+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3940
+2024-01-22 10:44:35+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3942
+2024-01-22 23:16:05+00:00,[User]_Mgonzalez-droid,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3944
+2024-01-23 16:30:46+00:00,[User]_justine-gehring,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3946
+2024-01-23 16:45:36+00:00,[User]_ajohnsonz,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3947
+2024-01-24 14:58:36+00:00,[User]_gsmet,"{'[User]_gsmet', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3948
+2024-01-25 14:18:22+00:00,[User]_pstreef,{'[User]_pstreef'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3949
+2024-01-26 17:46:44+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3950
+2024-01-27 04:31:05+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3951
+2024-01-28 09:20:20+00:00,[User]_pstreef,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3952
+2024-01-28 20:43:24+00:00,[User]_pstreef,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3953
+2024-01-29 01:36:59+00:00,[User]_JLLeitschuh,"{'[User]_JLLeitschuh', '[User]_jkschneider'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3954
+2024-01-29 14:09:38+00:00,[User]_ajohnsonz,{'[User]_shanman190'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3955
+2024-01-29 14:43:57+00:00,[User]_pstreef,{'[User]_kmccarp'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3956
+2024-01-30 16:24:35+00:00,[User]_pstreef,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3957
+2024-01-30 17:03:43+00:00,[User]_pstreef,{'[User]_kmccarp'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3958
+2024-01-31 10:45:56+00:00,[User]_Jenson3210,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3960
+2024-02-01 03:52:29+00:00,[User]_jkschneider,{'[User]_sambsnyd'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3961
+2024-02-01 13:04:34+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3962
+2024-02-01 15:37:12+00:00,[User]_jkschneider,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3963
+2024-02-02 10:58:13+00:00,[User]_Jenson3210,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3964
+2024-02-02 11:03:27+00:00,[User]_Jenson3210,"{'[User]_Jenson3210', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3965
+2024-02-02 11:53:38+00:00,[User]_dpozinen,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3966
+2024-02-02 14:39:01+00:00,[User]_dpozinen,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3967
+2024-02-02 20:53:03+00:00,[User]_ammachado,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3968
+2024-02-02 22:59:37+00:00,[User]_kisssadam,"{'[User]_kisssadam', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3969
+2024-02-03 08:12:14+00:00,[User]_ammachado,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3970
+2024-02-03 14:46:36+00:00,[User]_timtebeek,"{'[User]_natedanner', '[User]_sjungling', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3971
+2024-02-03 18:10:05+00:00,[User]_ammachado,"{'[User]_nmck257', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3972
+2024-02-05 09:19:10+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3974
+2024-02-05 22:01:28+00:00,[User]_krlittle,"{'[User]_krlittle', '[User]_shanman190'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3975
+2024-02-06 11:28:50+00:00,[User]_pstreef,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3976
+2024-02-06 11:41:51+00:00,[User]_pstreef,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3977
+2024-02-06 14:10:02+00:00,[User]_JohannesRabauer,"{'[User]_JohannesRabauer', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3978
+2024-02-06 14:42:43+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3979
+2024-02-06 17:36:30+00:00,[User]_Glanfaloth,"{'[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3980
+2024-02-07 09:45:41+00:00,[User]_JohannesRabauer,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3981
+2024-02-07 15:23:19+00:00,[User]_gsmet,"{'[User]_gsmet', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/3982
+2024-02-07 16:04:37+00:00,[User]_krlittle,{'[User]_shanman190'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3983
+2024-02-07 17:02:36+00:00,[User]_jkschneider,"{'[User]_knutwannheden', '[User]_jkschneider', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3984
+2024-02-08 02:29:52+00:00,[User]_JLLeitschuh,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3985
+2024-02-08 13:04:48+00:00,[User]_der-eismann,"{'[User]_timtebeek', '[User]_der-eismann'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3987
+2024-02-08 14:04:30+00:00,[User]_gsmet,"{'[User]_gsmet', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3989
+2024-02-09 13:02:39+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3990
+2024-02-09 15:19:01+00:00,[User]_knutwannheden,{'[User]_pstreef'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3991
+2024-02-11 09:01:53+00:00,[User]_ammachado,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3992
+2024-02-12 03:24:54+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_knutwannheden', '[User]_sambsnyd'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3993
+2024-02-12 20:41:25+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3994
+2024-02-13 11:47:42+00:00,[User]_pstreef,"{'[User]_knutwannheden', '[User]_pstreef'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3995
+2024-02-13 14:06:02+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3996
+2024-02-13 19:23:45+00:00,[User]_nmck257,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3998
+2024-02-14 08:49:20+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/3999
+2024-02-14 15:22:11+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4000
+2024-02-14 18:28:36+00:00,[User]_nmck257,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4001
+2024-02-14 20:05:45+00:00,[User]_nmck257,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4003
+2024-02-14 20:29:21+00:00,[User]_knutwannheden,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4004
+2024-02-14 20:38:13+00:00,[User]_nmck257,"{'[User]_dpozinen', '[User]_nmck257', '[User]_knutwannheden'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4005
+2024-02-15 14:46:02+00:00,[User]_ilozano2,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4008
+2024-02-16 03:20:52+00:00,[User]_shanman190,{'[User]_shanman190'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4009
+2024-02-16 16:08:10+00:00,[User]_nicolasb29,"{'[User]_nicolasb29', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4010
+2024-02-16 16:11:05+00:00,[User]_nicolasb29,"{'[User]_nicolasb29', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4011
+2024-02-16 16:13:28+00:00,[User]_nicolasb29,"{'[User]_nicolasb29', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4012
+2024-02-16 18:39:12+00:00,[User]_kislam01,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4013
+2024-02-16 19:34:03+00:00,[User]_nmck257,"{'[User]_nmck257', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4014
+2024-02-17 02:30:04+00:00,[User]_JLLeitschuh,{'[User]_JLLeitschuh'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4015
+2024-02-17 03:02:30+00:00,[User]_JLLeitschuh,"{'[User]_JLLeitschuh', '[User]_knutwannheden'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4016
+2024-02-17 12:15:48+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4017
+2024-02-17 15:25:23+00:00,[User]_piomar123,"{'[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4018
+2024-02-17 20:34:10+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4019
+2024-02-18 22:51:12+00:00,[User]_yeikel,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4020
+2024-02-19 07:58:38+00:00,[User]_knutwannheden,"{'[User]_knutwannheden', '[User]_jkschneider', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4021
+2024-02-19 13:48:09+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4022
+2024-02-19 17:59:51+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4023
+2024-02-20 04:21:39+00:00,[User]_jkschneider,{'[User]_jkschneider'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4024
+2024-02-20 22:10:18+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4026
+2024-02-21 03:35:49+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4027
+2024-02-21 10:09:29+00:00,[User]_rickie,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4029
+2024-02-21 23:54:11+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4030
+2024-02-22 07:57:28+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4031
+2024-02-22 14:35:27+00:00,[User]_dpozinen,"{'[User]_ammachado', '[User]_mankoffs', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4032
+2024-02-22 14:57:32+00:00,[User]_travisboettcher,"{'[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4033
+2024-02-23 08:58:01+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4034
+2024-02-23 09:18:02+00:00,[User]_pstreef,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4035
+2024-02-23 11:05:56+00:00,[User]_minisu,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4036
+2024-02-23 12:50:27+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4037
+2024-02-23 13:50:47+00:00,[User]_pstreef,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4038
+2024-02-23 15:07:30+00:00,[User]_ammachado,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4039
+2024-02-23 15:16:13+00:00,[User]_ammachado,"{'[User]_ammachado', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4040
+2024-02-23 16:35:27+00:00,[User]_pstreef,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4041
+2024-02-23 16:47:18+00:00,[User]_pstreef,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4042
+2024-02-23 17:37:05+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4043
+2024-02-23 20:25:01+00:00,[User]_tylerbertrand,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4044
+2024-02-24 13:05:16+00:00,[User]_thewolt,"{'[User]_jkschneider', '[User]_thewolt', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4045
+2024-02-24 15:38:52+00:00,[User]_ammachado,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4046
+2024-02-24 21:28:29+00:00,[User]_pstreef,"{'[User]_knutwannheden', '[User]_pstreef', '[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4047
+2024-02-25 09:57:16+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4048
+2024-02-25 10:25:34+00:00,[User]_Bananeweizen,"{'[User]_Bananeweizen', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4049
+2024-02-25 11:29:34+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4050
+2024-02-26 08:20:04+00:00,[User]_Bananeweizen,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4051
+2024-02-26 17:30:42+00:00,[User]_yluom,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4052
+2024-02-27 08:28:33+00:00,[User]_pstreef,"{'[User]_pstreef', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4053
+2024-02-27 13:24:47+00:00,[User]_jBesic,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4055
+2024-02-27 18:59:09+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4056
+2024-02-28 11:50:19+00:00,[User]_timtebeek,"{'[User]_kmccarp', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4057
+2024-02-29 02:06:22+00:00,[User]_shanman190,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4058
+2024-02-29 12:40:39+00:00,[User]_renegrob,"{'[User]_timtebeek', '[User]_renegrob'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4059
+2024-02-29 21:41:16+00:00,[User]_shanman190,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4060
+2024-02-29 22:41:44+00:00,[User]_blipper,"{'[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4061
+2024-03-01 17:55:39+00:00,[User]_Jnb1234,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4063
+2024-03-01 22:22:31+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4064
+2024-03-02 07:22:43+00:00,[User]_Bananeweizen,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4065
+2024-03-03 11:36:54+00:00,[User]_timtebeek,"{'[User]_knutwannheden', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4066
+2024-03-03 17:21:08+00:00,[User]_timtebeek,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4067
+2024-03-04 14:50:03+00:00,[User]_Jnb1234,"{'[User]_Jnb1234', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4068
+2024-03-04 16:11:06+00:00,[User]_ammachado,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4069
+2024-03-04 20:05:38+00:00,[User]_blipper,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4071
+2024-03-04 21:20:52+00:00,[User]_Jnb1234,"{'[User]_Jnb1234', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4072
+2024-03-05 10:54:39+00:00,[User]_motu55,"{'[User]_motu55', '[User]_sambsnyd', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4074
+2024-03-05 17:40:10+00:00,[User]_jkschneider,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4075
+2024-03-05 22:06:30+00:00,[User]_blipper,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4076
+2024-03-05 22:48:18+00:00,[User]_blipper,"{'[User]_blipper', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4077
+2024-03-05 23:15:52+00:00,[User]_blipper,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4078
+2024-03-06 14:33:52+00:00,[User]_ndoe049,{'[User]_sjungling'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4079
+2024-03-06 17:34:30+00:00,[User]_nmck257,"{'[User]_nmck257', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4081
+2024-03-07 07:32:27+00:00,[User]_renegrob,"{'[User]_timtebeek', '[User]_renegrob'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4082
+2024-03-08 08:23:06+00:00,[User]_mahender7090,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4083
+2024-03-08 14:10:30+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4084
+2024-03-08 19:29:33+00:00,[User]_timtebeek,{'[User]_natedanner'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4085
+2024-03-08 19:34:08+00:00,[User]_cjobinabo,"{'[User]_cjobinabo', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4086
+2024-03-08 19:46:10+00:00,[User]_ryan-hudson,{'[User]_sambsnyd'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4087
+2024-03-09 02:37:12+00:00,[User]_ammachado,"{'[User]_sambsnyd', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4088
+2024-03-09 11:50:44+00:00,[User]_timo-abele,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4089
+2024-03-12 20:03:07+00:00,[User]_knutwannheden,{'[User]_shanman190'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4090
+2024-03-13 05:30:34+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4091
+2024-03-14 13:26:42+00:00,[User]_ZhyliaievD,{'[User]_ZhyliaievD'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4093
+2024-03-14 20:21:10+00:00,[User]_Jenson3210,"{'[User]_shanman190', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4095
+2024-03-14 21:33:11+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4096
+2024-03-15 10:33:09+00:00,[User]_maxime-michel,{'[User]_mike-solomon'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4097
+2024-03-15 12:17:10+00:00,[User]_PhilKes,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4098
+2024-03-16 11:34:32+00:00,[User]_ravi-2422,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4099
+2024-03-22 12:33:07+00:00,[User]_pstreef,{'[User]_kmccarp'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4100
+2024-03-22 12:50:41+00:00,[User]_gsmet,"{'[User]_javanegmond', '[User]_jkschneider', '[User]_raman777', '[User]_iksaif', '[User]_gsmet', '[User]_delanym', '[User]_Dzeri96', '[User]_timtebeek', '[User]_sambsnyd', '[User]_shanman190'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4101
+2024-03-22 19:10:33+00:00,[User]_shanman190,"{'[User]_knutwannheden', '[User]_sambsnyd'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4102
+2024-03-23 05:17:19+00:00,[User]_sambsnyd,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4103
+2024-03-25 23:43:23+00:00,[User]_Jenson3210,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4104
+2024-03-26 20:52:29+00:00,[User]_kmccarp,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4105
+2024-03-27 16:31:56+00:00,[User]_kmccarp,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4106
+2024-03-27 17:25:38+00:00,[User]_Jenson3210,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4107
+2024-03-27 19:59:47+00:00,[User]_kmccarp,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4108
+2024-03-28 09:00:02+00:00,[User]_pstreef,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4109
+2024-03-28 14:11:26+00:00,[User]_kmccarp,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4110
+2024-03-28 15:26:41+00:00,[User]_kmccarp,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4111
+2024-03-28 16:19:47+00:00,[User]_pstreef,"{'[User]_knutwannheden', '[User]_shanman190'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4112
+2024-03-28 17:26:28+00:00,[User]_kmccarp,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4113
+2024-03-28 18:55:25+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4114
+2024-03-29 15:27:39+00:00,[User]_holgpar,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4115
+2024-03-30 15:13:06+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4117
+2024-04-04 06:06:52+00:00,[User]_SilasSchaprian,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4120
+2024-04-04 07:08:18+00:00,[User]_delanym,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4121
+2024-04-04 11:18:31+00:00,[User]_tjayling,"{'[User]_PeteFreeGithub', '[User]_tjayling'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4122
+2024-04-07 07:41:45+00:00,[User]_ckcd,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4123
+2024-04-07 07:45:12+00:00,[User]_ckcd,"{'[User]_ckcd', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4124
+2024-04-08 20:34:05+00:00,[User]_matthew-js-porter,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4126
+2024-04-09 16:51:58+00:00,[User]_smurf667,"{'[User]_smurf667', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4127
+2024-04-10 19:35:05+00:00,[User]_knutwannheden,{'[User]_sambsnyd'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4128
+2024-04-10 20:28:12+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4129
+2024-04-11 12:42:05+00:00,[User]_burghduffkc,"{'[User]_burghduffkc', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4130
+2024-04-13 20:39:23+00:00,[User]_motlin,"{'[User]_shanman190', '[User]_motlin'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4131
+2024-04-15 06:34:36+00:00,[User]_SilasSchaprian,"{'[User]_SilasSchaprian', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4132
+2024-04-15 06:42:59+00:00,[User]_SilasSchaprian,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4133
+2024-04-15 09:23:23+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4134
+2024-04-15 09:24:47+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4135
+2024-04-15 09:54:32+00:00,[User]_pstreef,{'[User]_knutwannheden'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4136
+2024-04-16 06:11:21+00:00,[User]_smurf667,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4137
+2024-04-16 13:22:34+00:00,[User]_nmck257,{'[User]_nmck257'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4138
+2024-04-16 18:31:51+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4139
+2024-04-19 01:36:56+00:00,[User]_sambsnyd,"{'[User]_jkschneider', '[User]_sambsnyd'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4140
+2024-04-19 08:01:30+00:00,[User]_motu55,{'[User]_motu55'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4141
+2024-04-19 19:03:45+00:00,[User]_nmck257,{'[User]_sambsnyd'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4143
+2024-04-22 06:35:15+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4144
+2024-04-22 09:44:24+00:00,[User]_caesar-ralf,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4145
+2024-04-22 15:23:40+00:00,[User]_caesar-ralf,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4146
+2024-04-23 07:17:47+00:00,[User]_knutwannheden,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4147
+2024-04-23 19:14:58+00:00,[User]_nmck257,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4148
+2024-04-24 15:23:23+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4149
+2024-04-24 16:29:11+00:00,[User]_timtebeek,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4150
+2024-04-25 18:24:14+00:00,[User]_nmck257,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4152
+2024-04-27 19:03:28+00:00,[User]_Bananeweizen,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4153
+2024-04-28 01:32:29+00:00,[User]_ckcd,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4154
+2024-04-28 06:27:43+00:00,[User]_ckcd,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4155
+2024-04-29 10:26:21+00:00,[User]_dawngerpony,"{'[User]_caesar-ralf', '[User]_dawngerpony', '[User]_timtebeek', '[User]_knutwannheden'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4156
+2024-04-29 15:10:06+00:00,[User]_timtebeek,{'[User]_timtebeek'},openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4157
+2024-04-29 19:40:26+00:00,[User]_sambsnyd,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4158
+2024-04-30 14:04:13+00:00,[User]_knutwannheden,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4160
+2024-04-30 14:14:37+00:00,[User]_jow290764,"{'[User]_jow290764', '[User]_timtebeek'}",openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/issues/4161
+2024-04-30 15:38:01+00:00,[User]_shanman190,set(),openrewrite/rewrite,2024,https://github.com/openrewrite/rewrite/pull/4162

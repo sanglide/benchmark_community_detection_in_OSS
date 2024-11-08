@@ -1,0 +1,518 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 18:07:48+00:00,[User]_mattfarina,{'[User]_joejulian'},helm/helm,2023,https://github.com/helm/helm/pull/12036
+2023-05-02 08:42:32+00:00,[User]_va-devops-boosters,set(),helm/helm,2023,https://github.com/helm/helm/issues/12044
+2023-05-02 17:30:14+00:00,[User]_joejulian,"{'[User]_gjenkins8', '[User]_mattfarina', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12045
+2023-05-02 20:13:54+00:00,[User]_kloudzip,{'[User]_kloudzip'},helm/helm,2023,https://github.com/helm/helm/issues/12046
+2023-05-04 02:10:39+00:00,[User]_92ppl,"{'[User]_gjenkins8', '[User]_92ppl'}",helm/helm,2023,https://github.com/helm/helm/issues/12051
+2023-05-04 06:46:13+00:00,[User]_niruntao,"{'[User]_gjenkins8', '[User]_niruntao', '[User]_joejulian'}",helm/helm,2023,https://github.com/helm/helm/issues/12052
+2023-05-05 05:52:06+00:00,[User]_kupnu4x,"{'[User]_gjenkins8', '[User]_mattfarina', '[User]_joejulian'}",helm/helm,2023,https://github.com/helm/helm/pull/12056
+2023-05-05 17:37:07+00:00,[User]_joejulian,{'[User]_mattfarina'},helm/helm,2023,https://github.com/helm/helm/pull/12059
+2023-05-05 20:53:54+00:00,[User]_jmrnilsson,"{'[User]_z4ce', '[User]_jmrnilsson'}",helm/helm,2023,https://github.com/helm/helm/issues/12060
+2023-05-07 09:31:59+00:00,[User]_antinova,"{'[User]_prune998', '[User]_xyfleet', '[User]_antinova'}",helm/helm,2023,https://github.com/helm/helm/issues/12062
+2023-05-07 20:21:19+00:00,[User]_jgsheppa,"{'[User]_gjenkins8', '[User]_jgsheppa'}",helm/helm,2023,https://github.com/helm/helm/pull/12063
+2023-05-08 06:35:13+00:00,[User]_kjetillilleby,"{'[User]_gjenkins8', '[User]_joejulian'}",helm/helm,2023,https://github.com/helm/helm/issues/12064
+2023-05-09 23:04:21+00:00,[User]_joejulian,{'[User]_mattfarina'},helm/helm,2023,https://github.com/helm/helm/pull/12067
+2023-05-10 09:36:16+00:00,[User]_longquan0104,set(),helm/helm,2023,https://github.com/helm/helm/pull/12069
+2023-05-10 10:24:40+00:00,[User]_longquan0104,"{'[User]_joejulian', '[User]_yxxhero', '[User]_longquan0104'}",helm/helm,2023,https://github.com/helm/helm/pull/12070
+2023-05-10 21:31:43+00:00,[User]_vikaskoppineedi,"{'[User]_vikaskoppineedi', '[User]_dlq84', '[User]_joejulian', '[User]_Mdumala', '[User]_lucj', '[User]_gaby', '[User]_MaxWinterstein', '[User]_cglacet', '[User]_mattfarina', '[User]_ceefour'}",helm/helm,2023,https://github.com/helm/helm/issues/12071
+2023-05-11 01:59:44+00:00,[User]_momomobinx,"{'[User]_momomobinx', '[User]_joejulian', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12072
+2023-05-14 23:14:28+00:00,[User]_ajaykanse,"{'[User]_joejulian', '[User]_ajaykanse'}",helm/helm,2023,https://github.com/helm/helm/issues/12076
+2023-05-15 02:02:09+00:00,[User]_frankywen,"{'[User]_gjenkins8', '[User]_wans1234'}",helm/helm,2023,https://github.com/helm/helm/issues/12075
+2023-05-15 13:21:16+00:00,[User]_ajaykanse,{'[User]_joejulian'},helm/helm,2023,https://github.com/helm/helm/issues/12078
+2023-05-17 03:23:52+00:00,[User]_longquan0104,"{'[User]_joejulian', '[User]_longquan0104'}",helm/helm,2023,https://github.com/helm/helm/issues/12082
+2023-05-18 15:34:48+00:00,[User]_bebosudo,{'[User]_yxxhero'},helm/helm,2023,https://github.com/helm/helm/issues/12087
+2023-05-18 15:36:15+00:00,[User]_mslapek,"{'[User]_mslapek', '[User]_hiddeco', '[User]_joejulian', '[User]_gjenkins8', '[User]_scottrigby', '[User]_mattfarina', '[User]_tsuna'}",helm/helm,2023,https://github.com/helm/helm/pull/12088
+2023-05-19 06:06:23+00:00,[User]_lakshminarayanankp,"{'[User]_joejulian', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12089
+2023-05-19 15:43:30+00:00,[User]_mslapek,"{'[User]_mslapek', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12091
+2023-05-20 14:00:17+00:00,[User]_zhekazuev,set(),helm/helm,2023,https://github.com/helm/helm/pull/12093
+2023-05-20 14:35:20+00:00,[User]_zhekazuev,set(),helm/helm,2023,https://github.com/helm/helm/pull/12094
+2023-05-22 11:48:13+00:00,[User]_LittleHoopoe,"{'[User]_timvandruenen', '[User]_joejulian', '[User]_Aaron-ML', '[User]_LittleHoopoe', '[User]_mmadoo'}",helm/helm,2023,https://github.com/helm/helm/issues/12095
+2023-05-22 23:47:56+00:00,[User]_joejulian,"{'[User]_Aaron-ML', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12096
+2023-05-23 18:59:23+00:00,[User]_ImIOImI,"{'[User]_joejulian', '[User]_ImIOImI'}",helm/helm,2023,https://github.com/helm/helm/issues/12098
+2023-05-25 16:40:26+00:00,[User]_joejulian,set(),helm/helm,2023,https://github.com/helm/helm/pull/12104
+2023-05-25 22:17:57+00:00,[User]_thomaschaaf,"{'[User]_thomaschaaf', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12105
+2023-05-29 15:48:26+00:00,[User]_CrossStratos,"{'[User]_CrossStratos', '[User]_anr-tonic', '[User]_EronWright'}",helm/helm,2023,https://github.com/helm/helm/pull/12109
+2023-05-30 18:27:50+00:00,[User]_zorlack,set(),helm/helm,2023,https://github.com/helm/helm/issues/12111
+2023-05-31 03:27:51+00:00,[User]_josiahp,"{'[User]_jouve', '[User]_josiahp', '[User]_joejulian', '[User]_Ergaac', '[User]_jokuniew'}",helm/helm,2023,https://github.com/helm/helm/pull/12113
+2023-05-31 10:55:42+00:00,[User]_caibirdme,"{'[User]_DarrenBishop', '[User]_yxxhero', '[User]_JuryA', '[User]_joejulian', '[User]_caibirdme', '[User]_gjenkins8'}",helm/helm,2023,https://github.com/helm/helm/issues/12115
+2023-06-02 12:44:11+00:00,[User]_BlazeF35,"{'[User]_BlazeF35', '[User]_felipecrs', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12118
+2023-06-03 02:27:42+00:00,[User]_josegonzalez,{'[User]_joejulian'},helm/helm,2023,https://github.com/helm/helm/pull/12119
+2023-06-07 12:02:31+00:00,[User]_krzysztofdrys,"{'[User]_krzysztofdrys', '[User]_gjenkins8'}",helm/helm,2023,https://github.com/helm/helm/issues/12123
+2023-06-08 00:46:22+00:00,[User]_alex-hunt-materialize,"{'[User]_CalvinKrist', '[User]_joejulian'}",helm/helm,2023,https://github.com/helm/helm/pull/12126
+2023-06-08 10:59:52+00:00,[User]_aryan9600,"{'[User]_sabre1041', '[User]_scottrigby', '[User]_lindhe', '[User]_rstribrn', '[User]_aryan9600'}",helm/helm,2023,https://github.com/helm/helm/pull/12128
+2023-06-09 08:05:28+00:00,[User]_luksa,"{'[User]_jwendell', '[User]_luksa', '[User]_amannijhawan'}",helm/helm,2023,https://github.com/helm/helm/pull/12129
+2023-06-10 06:45:04+00:00,[User]_zirain,{'[User]_zirain'},helm/helm,2023,https://github.com/helm/helm/pull/12132
+2023-06-11 10:16:21+00:00,[User]_alexwo,set(),helm/helm,2023,https://github.com/helm/helm/pull/12133
+2023-06-11 10:22:41+00:00,[User]_alexwo,set(),helm/helm,2023,https://github.com/helm/helm/pull/12134
+2023-06-11 10:39:24+00:00,[User]_alexwo,"{'[User]_bennesp', '[User]_MikaelElkiaer'}",helm/helm,2023,https://github.com/helm/helm/pull/12135
+2023-06-12 07:06:00+00:00,[User]_mythi,"{'[User]_HelenaSeidel', '[User]_gjenkins8', '[User]_mythi'}",helm/helm,2023,https://github.com/helm/helm/issues/12137
+2023-06-13 03:18:34+00:00,[User]_Onkar-Kulkarni-6143,{'[User]_gjenkins8'},helm/helm,2023,https://github.com/helm/helm/issues/12141
+2023-06-13 12:40:14+00:00,[User]_v1ferrarij,"{'[User]_gjenkins8', '[User]_jouve'}",helm/helm,2023,https://github.com/helm/helm/issues/12142
+2023-06-14 20:38:52+00:00,[User]_TahjidAshfaque,"{'[User]_TahjidAshfaque', '[User]_jouve'}",helm/helm,2023,https://github.com/helm/helm/issues/12147
+2023-06-16 12:33:57+00:00,[User]_smmhatami,"{'[User]_hiddeco', '[User]_gausk', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12151
+2023-06-16 16:04:00+00:00,[User]_lzecca78,"{'[User]_gjenkins8', '[User]_lzecca78'}",helm/helm,2023,https://github.com/helm/helm/issues/12152
+2023-06-16 16:04:30+00:00,[User]_alsastre,"{'[User]_gjenkins8', '[User]_alsastre'}",helm/helm,2023,https://github.com/helm/helm/issues/12153
+2023-06-16 23:41:13+00:00,[User]_yxxhero,set(),helm/helm,2023,https://github.com/helm/helm/pull/12155
+2023-06-19 12:42:17+00:00,[User]_fenech,set(),helm/helm,2023,https://github.com/helm/helm/pull/12156
+2023-06-21 10:13:17+00:00,[User]_deschmih,"{'[User]_gjenkins8', '[User]_pauxus'}",helm/helm,2023,https://github.com/helm/helm/issues/12159
+2023-06-22 07:27:00+00:00,[User]_bennsimon,{'[User]_bennsimon'},helm/helm,2023,https://github.com/helm/helm/pull/12160
+2023-06-22 15:08:11+00:00,[User]_visit1985,"{'[User]_joejulian', '[User]_visit1985'}",helm/helm,2023,https://github.com/helm/helm/pull/12161
+2023-06-22 18:33:34+00:00,[User]_mattfarina,"{'[User]_jamoflaw', '[User]_Laurens-W', '[User]_yxxhero', '[User]_sabre1041', '[User]_benjaminjb', '[User]_alice-sawatzky', '[User]_gjenkins8', '[User]_zegerius', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12162
+2023-06-25 20:05:48+00:00,[User]_yardenshoham,{'[User]_mattfarina'},helm/helm,2023,https://github.com/helm/helm/pull/12166
+2023-06-25 20:23:36+00:00,[User]_yardenshoham,"{'[User]_stavros-k', '[User]_joejulian', '[User]_sabre1041', '[User]_yardenshoham', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12167
+2023-06-26 04:19:35+00:00,[User]_davhdavh,"{'[User]_gjenkins8', '[User]_davhdavh'}",helm/helm,2023,https://github.com/helm/helm/issues/12168
+2023-06-26 09:05:50+00:00,[User]_viktor1298-dev,{'[User]_wujunwei'},helm/helm,2023,https://github.com/helm/helm/issues/12169
+2023-06-30 03:04:36+00:00,[User]_wujunwei,"{'[User]_gjenkins8', '[User]_joejulian', '[User]_harsimranmaan', '[User]_wujunwei'}",helm/helm,2023,https://github.com/helm/helm/pull/12172
+2023-07-01 03:38:57+00:00,[User]_ntnguyencse,{'[User]_ntnguyencse'},helm/helm,2023,https://github.com/helm/helm/pull/12174
+2023-07-01 03:39:57+00:00,[User]_ntnguyencse,{'[User]_ntnguyencse'},helm/helm,2023,https://github.com/helm/helm/pull/12175
+2023-07-02 12:49:09+00:00,[User]_sabre1041,"{'[User]_sabre1041', '[User]_mattfarina', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12177
+2023-07-04 07:26:59+00:00,[User]_fstaudt,"{'[User]_fstaudt', '[User]_gjenkins8', '[User]_richardwhiuk', '[User]_csjiang-oscar', '[User]_aseychell'}",helm/helm,2023,https://github.com/helm/helm/issues/12181
+2023-07-04 14:22:43+00:00,[User]_daniel-hutao,"{'[User]_daniel-hutao', '[User]_biwwy0', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12183
+2023-07-05 11:15:51+00:00,[User]_Kartikey-star,"{'[User]_Kartikey-star', '[User]_wujunwei'}",helm/helm,2023,https://github.com/helm/helm/issues/12184
+2023-07-05 21:37:24+00:00,[User]_gjenkins8,"{'[User]_joejulian', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12186
+2023-07-11 07:23:05+00:00,[User]_Kartikey-star,"{'[User]_gjenkins8', '[User]_Kartikey-star'}",helm/helm,2023,https://github.com/helm/helm/issues/12192
+2023-07-12 12:23:47+00:00,[User]_ankesh1705,{'[User]_gjenkins8'},helm/helm,2023,https://github.com/helm/helm/issues/12196
+2023-07-13 08:10:39+00:00,[User]_wujunwei,set(),helm/helm,2023,https://github.com/helm/helm/pull/12201
+2023-07-13 08:29:51+00:00,[User]_Abirdcfly,"{'[User]_joejulian', '[User]_mattfarina', '[User]_Abirdcfly'}",helm/helm,2023,https://github.com/helm/helm/pull/12202
+2023-07-13 09:04:40+00:00,[User]_0xff-dev,"{'[User]_joejulian', '[User]_0xff-dev'}",helm/helm,2023,https://github.com/helm/helm/pull/12203
+2023-07-13 09:07:47+00:00,[User]_chazapis,"{'[User]_joejulian', '[User]_mattfarina', '[User]_chazapis', '[User]_sabre1041'}",helm/helm,2023,https://github.com/helm/helm/pull/12204
+2023-07-13 09:11:21+00:00,[User]_coding4food,"{'[User]_coding4food', '[User]_yxxhero', '[User]_JuryA'}",helm/helm,2023,https://github.com/helm/helm/issues/12205
+2023-07-13 17:47:06+00:00,[User]_joejulian,{'[User]_mattfarina'},helm/helm,2023,https://github.com/helm/helm/pull/12215
+2023-07-17 07:38:08+00:00,[User]_KostLinux,"{'[User]_KostLinux', '[User]_JuryA'}",helm/helm,2023,https://github.com/helm/helm/issues/12226
+2023-07-17 14:36:58+00:00,[User]_Nirusu,"{'[User]_gjenkins8', '[User]_Nirusu'}",helm/helm,2023,https://github.com/helm/helm/issues/12229
+2023-07-17 20:24:07+00:00,[User]_porscheme,set(),helm/helm,2023,https://github.com/helm/helm/issues/12230
+2023-07-17 21:47:17+00:00,[User]_Magic-Mayo,set(),helm/helm,2023,https://github.com/helm/helm/pull/12231
+2023-07-18 01:26:40+00:00,[User]_jbj616,"{'[User]_jbj616', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12232
+2023-07-18 03:15:44+00:00,[User]_jbj616,set(),helm/helm,2023,https://github.com/helm/helm/pull/12233
+2023-07-18 08:53:43+00:00,[User]_ankit21990,"{'[User]_ankit21990', '[User]_gjenkins8'}",helm/helm,2023,https://github.com/helm/helm/issues/12235
+2023-07-18 12:26:02+00:00,[User]_markusheiden,"{'[User]_gjenkins8', '[User]_MichaelMorrisEst', '[User]_markusheiden'}",helm/helm,2023,https://github.com/helm/helm/issues/12236
+2023-07-19 15:01:36+00:00,[User]_pascalp2,{'[User]_pascalp2'},helm/helm,2023,https://github.com/helm/helm/issues/12239
+2023-07-20 04:56:17+00:00,[User]_0xff-dev,"{'[User]_joejulian', '[User]_0xff-dev'}",helm/helm,2023,https://github.com/helm/helm/pull/12241
+2023-07-20 16:23:38+00:00,[User]_patrikbeno,{'[User]_yxxhero'},helm/helm,2023,https://github.com/helm/helm/issues/12242
+2023-07-20 18:28:58+00:00,[User]_mattfarina,{'[User]_joejulian'},helm/helm,2023,https://github.com/helm/helm/pull/12243
+2023-07-20 21:53:44+00:00,[User]_anoora17,"{'[User]_wawaberry', '[User]_yxxhero', '[User]_joejulian', '[User]_rmontag-ap', '[User]_gjenkins8', '[User]_Bjyothi2023', '[User]_fowlerp-qlik'}",helm/helm,2023,https://github.com/helm/helm/issues/12244
+2023-07-20 22:42:31+00:00,[User]_hiddeco,"{'[User]_pjbgf', '[User]_hiddeco', '[User]_joejulian', '[User]_thernstig', '[User]_sabre1041', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12245
+2023-07-21 14:34:35+00:00,[User]_HarshRithalia,"{'[User]_gjenkins8', '[User]_HarshRithalia'}",helm/helm,2023,https://github.com/helm/helm/issues/12246
+2023-07-25 19:34:14+00:00,[User]_saireddyb,"{'[User]_gjenkins8', '[User]_joejulian', '[User]_saireddyb', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12251
+2023-07-26 12:17:55+00:00,[User]_jackwilsdon,"{'[User]_gjenkins8', '[User]_joejulian', '[User]_jackwilsdon'}",helm/helm,2023,https://github.com/helm/helm/pull/12252
+2023-07-27 03:35:46+00:00,[User]_BBBmau,"{'[User]_BBBmau', '[User]_MichaelMorrisEst'}",helm/helm,2023,https://github.com/helm/helm/issues/12254
+2023-07-29 07:00:30+00:00,[User]_heijian123,"{'[User]_heijian123', '[User]_gjenkins8'}",helm/helm,2023,https://github.com/helm/helm/issues/12261
+2023-08-01 19:31:30+00:00,[User]_evankanderson,"{'[User]_joejulian', '[User]_evankanderson'}",helm/helm,2023,https://github.com/helm/helm/pull/12265
+2023-08-03 01:21:08+00:00,[User]_czchen,"{'[User]_gjenkins8', '[User]_czchen'}",helm/helm,2023,https://github.com/helm/helm/issues/12268
+2023-08-03 11:23:41+00:00,[User]_LaCodon,"{'[User]_gjenkins8', '[User]_LaCodon'}",helm/helm,2023,https://github.com/helm/helm/issues/12270
+2023-08-03 18:42:36+00:00,[User]_joejulian,{'[User]_scottrigby'},helm/helm,2023,https://github.com/helm/helm/pull/12272
+2023-08-04 01:46:56+00:00,[User]_heijian123,set(),helm/helm,2023,https://github.com/helm/helm/pull/12273
+2023-08-04 04:49:56+00:00,[User]_mih-kopylov,"{'[User]_mih-kopylov', '[User]_joejulian', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12274
+2023-08-04 13:02:57+00:00,[User]_mispon,"{'[User]_mispon', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12275
+2023-08-05 04:16:47+00:00,[User]_maxnorth,"{'[User]_maxnorth', '[User]_csjiang-oscar'}",helm/helm,2023,https://github.com/helm/helm/pull/12276
+2023-08-06 09:23:11+00:00,[User]_ralfv,"{'[User]_sciornei-dox', '[User]_liorkesos', '[User]_schaefec', '[User]_ralfv'}",helm/helm,2023,https://github.com/helm/helm/pull/12277
+2023-08-07 01:55:39+00:00,[User]_heijian123,"{'[User]_heijian123', '[User]_gjenkins8', '[User]_jouve', '[User]_joejulian'}",helm/helm,2023,https://github.com/helm/helm/pull/12278
+2023-08-07 09:36:45+00:00,[User]_mispon,"{'[User]_gjenkins8', '[User]_mispon'}",helm/helm,2023,https://github.com/helm/helm/pull/12280
+2023-08-09 13:38:19+00:00,[User]_DaruZero,"{'[User]_DaruZero', '[User]_gjenkins8', '[User]_Ithrael'}",helm/helm,2023,https://github.com/helm/helm/issues/12287
+2023-08-09 16:27:40+00:00,[User]_Ithrael,"{'[User]_gjenkins8', '[User]_Ithrael', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12288
+2023-08-10 01:36:23+00:00,[User]_Ithrael,set(),helm/helm,2023,https://github.com/helm/helm/pull/12289
+2023-08-10 02:23:57+00:00,[User]_Ithrael,"{'[User]_joejulian', '[User]_Ithrael'}",helm/helm,2023,https://github.com/helm/helm/pull/12290
+2023-08-10 03:56:56+00:00,[User]_johnnyjeannatasha,{'[User]_gjenkins8'},helm/helm,2023,https://github.com/helm/helm/issues/12291
+2023-08-10 04:04:30+00:00,[User]_johnnyjeannatasha,{'[User]_gjenkins8'},helm/helm,2023,https://github.com/helm/helm/issues/12292
+2023-08-10 16:45:25+00:00,[User]_johnnyjeannatasha,{'[User]_gjenkins8'},helm/helm,2023,https://github.com/helm/helm/issues/12295
+2023-08-10 17:25:41+00:00,[User]_balmeida-nokia,{'[User]_balmeida-nokia'},helm/helm,2023,https://github.com/helm/helm/issues/12296
+2023-08-12 14:33:04+00:00,[User]_dayeguilaiye,"{'[User]_joejulian', '[User]_dayeguilaiye'}",helm/helm,2023,https://github.com/helm/helm/pull/12299
+2023-08-13 19:34:28+00:00,[User]_BenHesketh21,"{'[User]_gjenkins8', '[User]_dyrone', '[User]_BenHesketh21'}",helm/helm,2023,https://github.com/helm/helm/pull/12300
+2023-08-15 01:29:30+00:00,[User]_dayeguilaiye,"{'[User]_gjenkins8', '[User]_dayeguilaiye'}",helm/helm,2023,https://github.com/helm/helm/issues/12304
+2023-08-15 09:59:46+00:00,[User]_xinsir88,"{'[User]_Ithrael', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12305
+2023-08-15 17:15:43+00:00,[User]_z4ce,{'[User]_joejulian'},helm/helm,2023,https://github.com/helm/helm/pull/12306
+2023-08-16 11:55:22+00:00,[User]_tenkinogawa,"{'[User]_tenkinogawa', '[User]_Ithrael'}",helm/helm,2023,https://github.com/helm/helm/issues/12308
+2023-08-16 14:11:18+00:00,[User]_Loveen01,"{'[User]_Loveen01', '[User]_Ithrael'}",helm/helm,2023,https://github.com/helm/helm/issues/12309
+2023-08-16 16:11:23+00:00,[User]_zregvart,"{'[User]_Wwwsylvia', '[User]_iangudger', '[User]_chrisgacsal', '[User]_jimmidyson', '[User]_zregvart', '[User]_sabre1041', '[User]_scottrigby', '[User]_shizhMSFT', '[User]_filintod', '[User]_gjenkins8', '[User]_antgamdia', '[User]_zevisert', '[User]_banjoh', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12310
+2023-08-18 06:52:45+00:00,[User]_fungiboletus,"{'[User]_joejulian', '[User]_johanot'}",helm/helm,2023,https://github.com/helm/helm/pull/12316
+2023-08-22 08:53:12+00:00,[User]_LuBingtan,{'[User]_LuBingtan'},helm/helm,2023,https://github.com/helm/helm/issues/12320
+2023-08-22 08:55:36+00:00,[User]_LuBingtan,{'[User]_joejulian'},helm/helm,2023,https://github.com/helm/helm/pull/12321
+2023-08-23 00:28:58+00:00,[User]_JossWhittle,"{'[User]_jouve', '[User]_katzda', '[User]_gjenkins8', '[User]_StarlessNights', '[User]_AntonioND', '[User]_dominykas'}",helm/helm,2023,https://github.com/helm/helm/issues/12323
+2023-08-23 14:46:13+00:00,[User]_xrow,"{'[User]_JossWhittle', '[User]_gjenkins8', '[User]_xrow'}",helm/helm,2023,https://github.com/helm/helm/issues/12324
+2023-08-23 18:59:53+00:00,[User]_sjafari2,"{'[User]_sjafari2', '[User]_yxxhero', '[User]_ChanStacker', '[User]_PrajwalSD', '[User]_pyildargit', '[User]_abrekhov', '[User]_traksel', '[User]_kishanmaino', '[User]_NiikhilMohanG', '[User]_Amin-Siddique'}",helm/helm,2023,https://github.com/helm/helm/issues/12325
+2023-08-24 08:37:12+00:00,[User]_NavyaEV,"{'[User]_JossWhittle', '[User]_NavyaEV', '[User]_Ithrael'}",helm/helm,2023,https://github.com/helm/helm/issues/12326
+2023-08-25 17:57:30+00:00,[User]_johnnyjeannatasha,set(),helm/helm,2023,https://github.com/helm/helm/issues/12334
+2023-08-27 02:55:40+00:00,[User]_y-yagi,"{'[User]_mattfarina', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12337
+2023-08-28 13:56:12+00:00,[User]_Ithrael,"{'[User]_gjenkins8', '[User]_Ithrael'}",helm/helm,2023,https://github.com/helm/helm/issues/12338
+2023-08-28 14:03:18+00:00,[User]_Ithrael,set(),helm/helm,2023,https://github.com/helm/helm/pull/12339
+2023-08-28 14:18:22+00:00,[User]_Ithrael,{'[User]_joejulian'},helm/helm,2023,https://github.com/helm/helm/pull/12340
+2023-08-28 16:47:33+00:00,[User]_fiscafusca,"{'[User]_joejulian', '[User]_fiscafusca'}",helm/helm,2023,https://github.com/helm/helm/pull/12341
+2023-08-28 21:09:38+00:00,[User]_red8888,"{'[User]_z4ce', '[User]_joejulian', '[User]_red8888'}",helm/helm,2023,https://github.com/helm/helm/issues/12342
+2023-08-29 05:25:19+00:00,[User]_Uotas,"{'[User]_wujunwei', '[User]_Ithrael', '[User]_scottrigby', '[User]_Uotas', '[User]_gogowaiting'}",helm/helm,2023,https://github.com/helm/helm/issues/12344
+2023-08-29 10:32:32+00:00,[User]_zemzelett,"{'[User]_zemzelett', '[User]_dinushchathurya'}",helm/helm,2023,https://github.com/helm/helm/issues/12345
+2023-08-29 14:35:59+00:00,[User]_mdsystems,"{'[User]_z4ce', '[User]_mdsystems'}",helm/helm,2023,https://github.com/helm/helm/issues/12346
+2023-08-30 23:25:39+00:00,[User]_joejulian,"{'[User]_joejulian', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12348
+2023-08-31 12:49:02+00:00,[User]_iamasmith,"{'[User]_z4ce', '[User]_joejulian', '[User]_sabre1041', '[User]_iamasmith', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12350
+2023-08-31 19:13:21+00:00,[User]_joejulian,{'[User]_mattfarina'},helm/helm,2023,https://github.com/helm/helm/pull/12356
+2023-09-01 20:54:19+00:00,[User]_bewing,"{'[User]_bewing', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12358
+2023-09-04 09:35:21+00:00,[User]_xiaofhe,"{'[User]_gjenkins8', '[User]_xiaofhe'}",helm/helm,2023,https://github.com/helm/helm/issues/12361
+2023-09-04 11:12:06+00:00,[User]_richardwhiuk,"{'[User]_AntoineJac', '[User]_richardwhiuk', '[User]_jouve'}",helm/helm,2023,https://github.com/helm/helm/pull/12362
+2023-09-04 12:38:15+00:00,[User]_anitha-stephen,"{'[User]_anitha-stephen', '[User]_Ithrael', '[User]_jlloyd-widen', '[User]_gjenkins8', '[User]_MichaelMorrisEst'}",helm/helm,2023,https://github.com/helm/helm/issues/12363
+2023-09-05 04:18:41+00:00,[User]_farrjere,set(),helm/helm,2023,https://github.com/helm/helm/pull/12367
+2023-09-05 06:34:12+00:00,[User]_sik-asn,"{'[User]_z4ce', '[User]_sik-asn', '[User]_Ithrael'}",helm/helm,2023,https://github.com/helm/helm/issues/12368
+2023-09-05 16:18:41+00:00,[User]_guanzhongliu,set(),helm/helm,2023,https://github.com/helm/helm/issues/12369
+2023-09-05 19:10:00+00:00,[User]_loic-simon,{'[User]_z4ce'},helm/helm,2023,https://github.com/helm/helm/pull/12370
+2023-09-06 03:11:05+00:00,[User]_farrjere,set(),helm/helm,2023,https://github.com/helm/helm/pull/12372
+2023-09-07 09:09:56+00:00,[User]_rtarasov,"{'[User]_gjenkins8', '[User]_rtarasov', '[User]_joejulian'}",helm/helm,2023,https://github.com/helm/helm/issues/12374
+2023-09-08 07:10:09+00:00,[User]_dayeguilaiye,"{'[User]_dayeguilaiye', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12376
+2023-09-08 13:56:32+00:00,[User]_andreas-kupries,{'[User]_andreas-kupries'},helm/helm,2023,https://github.com/helm/helm/issues/12377
+2023-09-08 14:53:46+00:00,[User]_gfelbing,{'[User]_gfelbing'},helm/helm,2023,https://github.com/helm/helm/pull/12378
+2023-09-10 10:54:30+00:00,[User]_sjmshsh,set(),helm/helm,2023,https://github.com/helm/helm/issues/12379
+2023-09-11 18:46:16+00:00,[User]_jouve,{'[User]_gjenkins8'},helm/helm,2023,https://github.com/helm/helm/pull/12380
+2023-09-12 09:06:21+00:00,[User]_ed-dot-miller,"{'[User]_gjenkins8', '[User]_ed-dot-miller', '[User]_Brightside56'}",helm/helm,2023,https://github.com/helm/helm/pull/12382
+2023-09-14 14:01:32+00:00,[User]_mattfarina,{'[User]_sabre1041'},helm/helm,2023,https://github.com/helm/helm/pull/12390
+2023-09-15 05:49:36+00:00,[User]_abrarcv170,{'[User]_mattfarina'},helm/helm,2023,https://github.com/helm/helm/pull/12394
+2023-09-15 15:42:19+00:00,[User]_z4ce,"{'[User]_z4ce', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12396
+2023-09-15 20:20:19+00:00,[User]_z4ce,{'[User]_z4ce'},helm/helm,2023,https://github.com/helm/helm/pull/12397
+2023-09-18 06:16:35+00:00,[User]_tonyaw,"{'[User]_leftjs', '[User]_Ithrael', '[User]_tonyaw'}",helm/helm,2023,https://github.com/helm/helm/issues/12401
+2023-09-18 20:02:20+00:00,[User]_mattfarina,{'[User]_joejulian'},helm/helm,2023,https://github.com/helm/helm/pull/12405
+2023-09-20 02:02:38+00:00,[User]_cynthia277,"{'[User]_NeerajNagure', '[User]_Ithrael', '[User]_gjenkins8', '[User]_shipra101', '[User]_xiangpingjiang', '[User]_cynthia277'}",helm/helm,2023,https://github.com/helm/helm/issues/12412
+2023-09-20 13:51:53+00:00,[User]_lamdaiphong,"{'[User]_gjenkins8', '[User]_lamdaiphong'}",helm/helm,2023,https://github.com/helm/helm/issues/12413
+2023-09-21 03:25:19+00:00,[User]_lynshi,"{'[User]_lynshi', '[User]_Ithrael', '[User]_blaargh', '[User]_gjenkins8', '[User]_hellocommit', '[User]_pkalantri-ebsco'}",helm/helm,2023,https://github.com/helm/helm/issues/12414
+2023-09-22 03:23:36+00:00,[User]_tsvenkat,{'[User]_yxxhero'},helm/helm,2023,https://github.com/helm/helm/issues/12416
+2023-09-27 20:46:34+00:00,[User]_mattfarina,"{'[User]_joejulian', '[User]_hiddeco', '[User]_thernstig', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/issues/12422
+2023-09-28 01:10:42+00:00,[User]_SoujanyaMangipudi,"{'[User]_jmclong', '[User]_zevisert', '[User]_dalvarezquiroga', '[User]_har-singh', '[User]_jshill103', '[User]_kodxxl', '[User]_wortner', '[User]_imdurgadas', '[User]_yujunz', '[User]_MattJeanes', '[User]_berry2012', '[User]_vvanouytsel', '[User]_gusandrioli', '[User]_pennytextures', '[User]_mattfarina', '[User]_Nils98Ar', '[User]_hiddeco', '[User]_chipzoller', '[User]_gjenkins8', '[User]_dvarrazzo'}",helm/helm,2023,https://github.com/helm/helm/issues/12423
+2023-09-28 08:32:18+00:00,[User]_hiddeco,"{'[User]_glasser', '[User]_hiddeco', '[User]_joejulian', '[User]_gjenkins8', '[User]_nikolaigut', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12424
+2023-09-28 17:17:25+00:00,[User]_z4ce,{'[User]_mattfarina'},helm/helm,2023,https://github.com/helm/helm/pull/12425
+2023-09-28 19:12:57+00:00,[User]_matt-carr,"{'[User]_mattfarina', '[User]_matt-carr'}",helm/helm,2023,https://github.com/helm/helm/pull/12428
+2023-09-28 20:59:05+00:00,[User]_hiddeco,"{'[User]_mattfarina', '[User]_sabre1041'}",helm/helm,2023,https://github.com/helm/helm/pull/12429
+2023-09-29 02:59:20+00:00,[User]_amanibhavam,{'[User]_amanibhavam'},helm/helm,2023,https://github.com/helm/helm/issues/12430
+2023-09-29 10:46:23+00:00,[User]_nonsocode,{'[User]_hiddeco'},helm/helm,2023,https://github.com/helm/helm/issues/12431
+2023-09-29 11:08:06+00:00,[User]_larszi,"{'[User]_gjenkins8', '[User]_devfbe'}",helm/helm,2023,https://github.com/helm/helm/issues/12432
+2023-09-29 11:14:34+00:00,[User]_larszi,"{'[User]_mattfarina', '[User]_sabre1041', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12433
+2023-09-29 11:36:50+00:00,[User]_yxxhero,set(),helm/helm,2023,https://github.com/helm/helm/pull/12434
+2023-09-29 15:28:38+00:00,[User]_meggerUC,{'[User]_hiddeco'},helm/helm,2023,https://github.com/helm/helm/issues/12435
+2023-09-29 16:01:59+00:00,[User]_z4ce,"{'[User]_z4ce', '[User]_FrenchBen', '[User]_mattfarina', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12437
+2023-09-29 22:19:05+00:00,[User]_ridomin,"{'[User]_gjenkins8', '[User]_hiddeco', '[User]_jeroenlandheer'}",helm/helm,2023,https://github.com/helm/helm/issues/12439
+2023-10-01 09:50:36+00:00,[User]_sergelogvinov,{'[User]_joejulian'},helm/helm,2023,https://github.com/helm/helm/pull/12440
+2023-10-02 08:24:25+00:00,[User]_JordanGoasdoue,"{'[User]_gjenkins8', '[User]_JordanGoasdoue', '[User]_ReneWerner87'}",helm/helm,2023,https://github.com/helm/helm/issues/12441
+2023-10-02 11:28:47+00:00,[User]_mshahomar,"{'[User]_gjenkins8', '[User]_hiddeco'}",helm/helm,2023,https://github.com/helm/helm/issues/12442
+2023-10-02 14:44:56+00:00,[User]_tanguynicolas,set(),helm/helm,2023,https://github.com/helm/helm/issues/12443
+2023-10-02 16:09:12+00:00,[User]_bkochendorfer,"{'[User]_hiddeco', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12444
+2023-10-03 00:17:24+00:00,[User]_dm3ch,"{'[User]_dm3ch', '[User]_joejulian', '[User]_z4ce', '[User]_FrenchBen', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12447
+2023-10-03 09:22:32+00:00,[User]_gscheibel,"{'[User]_gjenkins8', '[User]_anrios-goodrx'}",helm/helm,2023,https://github.com/helm/helm/issues/12449
+2023-10-03 14:35:52+00:00,[User]_sfroment,{'[User]_gjenkins8'},helm/helm,2023,https://github.com/helm/helm/issues/12451
+2023-10-04 12:18:49+00:00,[User]_lherman-vd,{'[User]_lherman-vd'},helm/helm,2023,https://github.com/helm/helm/issues/12454
+2023-10-04 12:55:16+00:00,[User]_ChristianGottinger,"{'[User]_jouve', '[User]_MattJeanes', '[User]_gjenkins8', '[User]_sagi-chronom', '[User]_manslaughter03'}",helm/helm,2023,https://github.com/helm/helm/issues/12455
+2023-10-04 13:31:25+00:00,[User]_ricardomaraschini,"{'[User]_jouve', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12456
+2023-10-04 15:55:19+00:00,[User]_genofire,"{'[User]_FrenchBen', '[User]_mattfarina', '[User]_sabre1041'}",helm/helm,2023,https://github.com/helm/helm/pull/12457
+2023-10-05 21:06:25+00:00,[User]_zevisert,"{'[User]_scottrigby', '[User]_kingdonb', '[User]_hedayat', '[User]_zevisert', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/issues/12460
+2023-10-06 13:12:18+00:00,[User]_errm,"{'[User]_gjenkins8', '[User]_dntosas'}",helm/helm,2023,https://github.com/helm/helm/issues/12463
+2023-10-06 17:06:47+00:00,[User]_ba-work,"{'[User]_gjenkins8', '[User]_ba-work'}",helm/helm,2023,https://github.com/helm/helm/issues/12464
+2023-10-06 20:06:12+00:00,[User]_eddie-knight,"{'[User]_eddie-knight', '[User]_jaydee029'}",helm/helm,2023,https://github.com/helm/helm/issues/12465
+2023-10-06 21:04:13+00:00,[User]_howardjohn,"{'[User]_howardjohn', '[User]_jacob-delgado', '[User]_gjenkins8'}",helm/helm,2023,https://github.com/helm/helm/issues/12466
+2023-10-07 02:02:08+00:00,[User]_acesir,{'[User]_acesir'},helm/helm,2023,https://github.com/helm/helm/issues/12468
+2023-10-10 23:42:26+00:00,[User]_carun,set(),helm/helm,2023,https://github.com/helm/helm/issues/12475
+2023-10-11 01:45:46+00:00,[User]_giggio,"{'[User]_giggio', '[User]_gjenkins8'}",helm/helm,2023,https://github.com/helm/helm/issues/12476
+2023-10-11 18:59:46+00:00,[User]_mattfarina,"{'[User]_gjenkins8', '[User]_intetinte', '[User]_zegerius', '[User]_joejulian'}",helm/helm,2023,https://github.com/helm/helm/pull/12480
+2023-10-13 08:35:59+00:00,[User]_Diliz,"{'[User]_gjenkins8', '[User]_ramalhais-sky', '[User]_mattfarina', '[User]_Diliz'}",helm/helm,2023,https://github.com/helm/helm/issues/12489
+2023-10-13 09:58:27+00:00,[User]_aabouzaid,"{'[User]_aabouzaid', '[User]_rptaylor'}",helm/helm,2023,https://github.com/helm/helm/issues/12490
+2023-10-13 12:31:53+00:00,[User]_vmercierfr,"{'[User]_hiddeco', '[User]_sabre1041', '[User]_gjenkins8', '[User]_zevisert', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/issues/12491
+2023-10-13 12:50:50+00:00,[User]_matheuscscp,set(),helm/helm,2023,https://github.com/helm/helm/pull/12492
+2023-10-14 06:14:13+00:00,[User]_lynshi,{'[User]_lynshi'},helm/helm,2023,https://github.com/helm/helm/pull/12495
+2023-10-15 10:39:00+00:00,[User]_Bhargav-InfraCloud,{'[User]_Bhargav-InfraCloud'},helm/helm,2023,https://github.com/helm/helm/pull/12496
+2023-10-17 12:16:23+00:00,[User]_tiffanny29631,{'[User]_yxxhero'},helm/helm,2023,https://github.com/helm/helm/pull/12500
+2023-10-18 09:13:03+00:00,[User]_denouche,{'[User]_tanvp112'},helm/helm,2023,https://github.com/helm/helm/pull/12502
+2023-10-19 11:52:23+00:00,[User]_Radoslaw-Kutylowski,"{'[User]_z4ce', '[User]_Radoslaw-Kutylowski'}",helm/helm,2023,https://github.com/helm/helm/issues/12509
+2023-10-19 12:10:41+00:00,[User]_o4rz3l,"{'[User]_z4ce', '[User]_gjenkins8', '[User]_o4rz3l'}",helm/helm,2023,https://github.com/helm/helm/issues/12510
+2023-10-19 14:38:40+00:00,[User]_intetinte,"{'[User]_z4ce', '[User]_nrledo', '[User]_gjenkins8', '[User]_jonesbusy', '[User]_xkiranj', '[User]_intetinte'}",helm/helm,2023,https://github.com/helm/helm/issues/12511
+2023-10-20 12:58:13+00:00,[User]_vishalbalaji-v,{'[User]_z4ce'},helm/helm,2023,https://github.com/helm/helm/issues/12512
+2023-10-20 13:25:50+00:00,[User]_phoenix-bjoern,"{'[User]_z4ce', '[User]_phoenix-bjoern'}",helm/helm,2023,https://github.com/helm/helm/issues/12513
+2023-10-20 15:09:12+00:00,[User]_wrenix,{'[User]_z4ce'},helm/helm,2023,https://github.com/helm/helm/issues/12514
+2023-10-21 19:11:11+00:00,[User]_Danny-P,"{'[User]_z4ce', '[User]_Danny-P'}",helm/helm,2023,https://github.com/helm/helm/issues/12516
+2023-10-22 13:52:50+00:00,[User]_gakesson,"{'[User]_z4ce', '[User]_dm3ch', '[User]_mattfarina', '[User]_gakesson'}",helm/helm,2023,https://github.com/helm/helm/issues/12517
+2023-10-23 10:59:26+00:00,[User]_Vegoo89,"{'[User]_joejulian', '[User]_Vegoo89'}",helm/helm,2023,https://github.com/helm/helm/pull/12518
+2023-10-23 20:58:25+00:00,[User]_MarHum26,"{'[User]_joejulian', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12519
+2023-10-25 12:32:45+00:00,[User]_o4rz3l,"{'[User]_rptaylor', '[User]_bt909'}",helm/helm,2023,https://github.com/helm/helm/issues/12522
+2023-10-25 17:58:30+00:00,[User]_wrenix,"{'[User]_wrenix', '[User]_gjenkins8'}",helm/helm,2023,https://github.com/helm/helm/pull/12523
+2023-10-25 18:45:49+00:00,[User]_mattfarina,{'[User]_sabre1041'},helm/helm,2023,https://github.com/helm/helm/pull/12524
+2023-10-26 13:47:12+00:00,[User]_mattfarina,{'[User]_sabre1041'},helm/helm,2023,https://github.com/helm/helm/pull/12527
+2023-10-26 19:31:41+00:00,[User]_asahnovskiy,{'[User]_asahnovskiy'},helm/helm,2023,https://github.com/helm/helm/issues/12528
+2023-10-27 08:30:07+00:00,[User]_chojnack,"{'[User]_z4ce', '[User]_chojnack'}",helm/helm,2023,https://github.com/helm/helm/pull/12529
+2023-10-27 13:53:48+00:00,[User]_refl3ction,{'[User]_joejulian'},helm/helm,2023,https://github.com/helm/helm/pull/12530
+2023-10-30 08:52:33+00:00,[User]_vsabella,set(),helm/helm,2023,https://github.com/helm/helm/issues/12533
+2023-10-31 10:18:54+00:00,[User]_LuBingtan,"{'[User]_sabre1041', '[User]_LuBingtan'}",helm/helm,2023,https://github.com/helm/helm/pull/12536
+2023-11-03 21:16:28+00:00,[User]_crandles,{'[User]_crandles'},helm/helm,2023,https://github.com/helm/helm/pull/12540
+2023-11-03 22:03:54+00:00,[User]_crandles,"{'[User]_pipo02mix', '[User]_wolszakp', '[User]_crandles', '[User]_gustavosoarquivei', '[User]_KelvinVenancio', '[User]_pawellegowski89', '[User]_marcelo-arquivei', '[User]_joaoluchetti', '[User]_JasonXD-CS'}",helm/helm,2023,https://github.com/helm/helm/pull/12541
+2023-11-05 22:00:48+00:00,[User]_ste93cry,"{'[User]_mattfarina', '[User]_ste93cry'}",helm/helm,2023,https://github.com/helm/helm/pull/12543
+2023-11-05 22:50:31+00:00,[User]_hookenz,{'[User]_hookenz'},helm/helm,2023,https://github.com/helm/helm/issues/12544
+2023-11-06 11:08:09+00:00,[User]_SimonTheLeg,"{'[User]_SimonTheLeg', '[User]_wahabmk', '[User]_gjenkins8', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/pull/12545
+2023-11-06 16:46:48+00:00,[User]_srxmsft,"{'[User]_joejulian', '[User]_srxmsft', '[User]_gjenkins8', '[User]_mattfarina', '[User]_reitzig'}",helm/helm,2023,https://github.com/helm/helm/issues/12546
+2023-11-07 04:53:07+00:00,[User]_adevjoe,set(),helm/helm,2023,https://github.com/helm/helm/pull/12547
+2023-11-07 14:54:23+00:00,[User]_b-thiswatch,"{'[User]_gjenkins8', '[User]_b-thiswatch'}",helm/helm,2023,https://github.com/helm/helm/issues/12549
+2023-11-08 22:56:30+00:00,[User]_bossmc,"{'[User]_bossmc', '[User]_Ornias1993', '[User]_martincomputershare'}",helm/helm,2023,https://github.com/helm/helm/pull/12553
+2023-11-09 02:18:37+00:00,[User]_lixin963,{'[User]_mattfarina'},helm/helm,2023,https://github.com/helm/helm/pull/12554
+2023-11-10 11:42:31+00:00,[User]_SpecLad,"{'[User]_gjenkins8', '[User]_joejulian', '[User]_mattfarina', '[User]_SpecLad'}",helm/helm,2023,https://github.com/helm/helm/issues/12555
+2023-11-10 18:27:34+00:00,[User]_itaispiegel,"{'[User]_den-is', '[User]_itaispiegel'}",helm/helm,2023,https://github.com/helm/helm/pull/12557
+2023-11-11 02:10:08+00:00,[User]_zhangzhiqiangcs,set(),helm/helm,2023,https://github.com/helm/helm/pull/12558
+2023-11-11 08:52:32+00:00,[User]_thapabishwa-plerionaut,"{'[User]_gjenkins8', '[User]_vpolikarpov-akvelon', '[User]_jmclong', '[User]_surajyadav1108'}",helm/helm,2023,https://github.com/helm/helm/issues/12559
+2023-11-11 15:09:43+00:00,[User]_reneleonhardt,{'[User]_gjenkins8'},helm/helm,2023,https://github.com/helm/helm/pull/12560
+2023-11-12 07:55:02+00:00,[User]_irfanjs,"{'[User]_gjenkins8', '[User]_mattfarina', '[User]_irfanjs'}",helm/helm,2023,https://github.com/helm/helm/issues/12561
+2023-11-13 08:19:39+00:00,[User]_lindhe,"{'[User]_joejulian', '[User]_lindhe', '[User]_mattfarina'}",helm/helm,2023,https://github.com/helm/helm/issues/12562
+2023-11-13 20:37:15+00:00,[User]_hiddeco,set(),helm/helm,2023,https://github.com/helm/helm/pull/12564
+2023-11-13 20:53:37+00:00,[User]_howardjohn,{'[User]_howardjohn'},helm/helm,2023,https://github.com/helm/helm/pull/12565
+2023-11-14 01:58:06+00:00,[User]_rohit6261,{'[User]_hiddeco'},helm/helm,2023,https://github.com/helm/helm/issues/12566
+2023-11-15 01:41:42+00:00,[User]_opencmit2,"{'[User]_gjenkins8', '[User]_opencmit2', '[User]_joejulian'}",helm/helm,2023,https://github.com/helm/helm/pull/12570
+2023-11-20 09:13:31+00:00,[User]_warhunt,"{'[User]_gjenkins8', '[User]_MichaelMorrisEst'}",helm/helm,2023,https://github.com/helm/helm/issues/12578
+2023-11-20 17:29:49+00:00,[User]_madhugarimilla,"{'[User]_gjenkins8', '[User]_drivera-armedia', '[User]_mccoy1', '[User]_madhugarimilla'}",helm/helm,2023,https://github.com/helm/helm/issues/12580
+2023-11-20 17:34:05+00:00,[User]_MichaelMorrisEst,"{'[User]_jnonino', '[User]_gjenkins8', '[User]_MichaelMorrisEst'}",helm/helm,2023,https://github.com/helm/helm/pull/12581
+2023-11-20 21:47:39+00:00,[User]_fheinecke,"{'[User]_robertsirc', '[User]_fheinecke', '[User]_sabre1041', '[User]_markcheret', '[User]_gjenkins8', '[User]_jonathino2590'}",helm/helm,2023,https://github.com/helm/helm/pull/12583
+2023-11-21 21:02:08+00:00,[User]_rynowak,"{'[User]_rynowak', '[User]_sabre1041'}",helm/helm,2023,https://github.com/helm/helm/pull/12588
+2023-11-22 10:43:37+00:00,[User]_intetinte,{'[User]_intetinte'},helm/helm,2023,https://github.com/helm/helm/pull/12590
+2023-11-24 05:01:31+00:00,[User]_arunj78,"{'[User]_gjenkins8', '[User]_arunj78', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12592
+2023-11-24 08:02:54+00:00,[User]_yxxhero,"{'[User]_MichaelMorrisEst', '[User]_mattfarina', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12593
+2023-11-27 07:04:27+00:00,[User]_sora11023539,"{'[User]_yxxhero', '[User]_sora11023539'}",helm/helm,2023,https://github.com/helm/helm/issues/12597
+2023-12-01 09:44:39+00:00,[User]_ogarcia,"{'[User]_gjenkins8', '[User]_ogarcia', '[User]_Ithrael', '[User]_jszwedko'}",helm/helm,2023,https://github.com/helm/helm/issues/12606
+2023-12-05 11:48:36+00:00,[User]_haojingcn,"{'[User]_gjenkins8', '[User]_haojingcn'}",helm/helm,2023,https://github.com/helm/helm/issues/12610
+2023-12-06 06:44:29+00:00,[User]_brightzheng100,{'[User]_brightzheng100'},helm/helm,2023,https://github.com/helm/helm/issues/12612
+2023-12-06 19:57:22+00:00,[User]_sarathsprakash,{'[User]_gjenkins8'},helm/helm,2023,https://github.com/helm/helm/issues/12615
+2023-12-09 19:26:04+00:00,[User]_papdaniel,{'[User]_gjenkins8'},helm/helm,2023,https://github.com/helm/helm/issues/12623
+2023-12-09 20:17:56+00:00,[User]_papdaniel,"{'[User]_gjenkins8', '[User]_papdaniel'}",helm/helm,2023,https://github.com/helm/helm/pull/12624
+2023-12-10 20:31:35+00:00,[User]_startxfr,"{'[User]_gjenkins8', '[User]_startxfr', '[User]_MichaelMorrisEst', '[User]_Marty1703'}",helm/helm,2023,https://github.com/helm/helm/issues/12625
+2023-12-11 07:11:27+00:00,[User]_fakecore,{'[User]_fakecore'},helm/helm,2023,https://github.com/helm/helm/issues/12627
+2023-12-11 14:31:42+00:00,[User]_Ithrael,"{'[User]_gjenkins8', '[User]_jouve'}",helm/helm,2023,https://github.com/helm/helm/pull/12628
+2023-12-12 07:01:19+00:00,[User]_egoisz,"{'[User]_gjenkins8', '[User]_egoisz'}",helm/helm,2023,https://github.com/helm/helm/issues/12631
+2023-12-12 09:29:45+00:00,[User]_yonahd,"{'[User]_gjenkins8', '[User]_yonahd'}",helm/helm,2023,https://github.com/helm/helm/pull/12632
+2023-12-12 20:36:49+00:00,[User]_mattfarina,"{'[User]_scottrigby', '[User]_sabre1041'}",helm/helm,2023,https://github.com/helm/helm/pull/12633
+2023-12-13 04:02:23+00:00,[User]_jiangxiaobin96,"{'[User]_gjenkins8', '[User]_jiangxiaobin96', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12635
+2023-12-13 13:27:00+00:00,[User]_lemonshir,"{'[User]_lemonshir', '[User]_jouve', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/issues/12636
+2023-12-13 14:09:01+00:00,[User]_rodrigoechaide,"{'[User]_rptaylor', '[User]_Hoid', '[User]_atmask', '[User]_francostellari', '[User]_hamelg', '[User]_sabre1041', '[User]_zsolt-marta-bitrise', '[User]_Reamer', '[User]_pdettori'}",helm/helm,2023,https://github.com/helm/helm/issues/12637
+2023-12-14 23:39:38+00:00,[User]_jouve,set(),helm/helm,2023,https://github.com/helm/helm/pull/12644
+2023-12-15 12:30:22+00:00,[User]_Evesy,"{'[User]_gjenkins8', '[User]_david0', '[User]_Evesy', '[User]_sebthom'}",helm/helm,2023,https://github.com/helm/helm/issues/12645
+2023-12-18 02:01:00+00:00,[User]_ForcemCS,"{'[User]_mattfarina', '[User]_ForcemCS'}",helm/helm,2023,https://github.com/helm/helm/issues/12648
+2023-12-18 03:18:30+00:00,[User]_yyzxw,"{'[User]_joejulian', '[User]_sabre1041', '[User]_yyzxw'}",helm/helm,2023,https://github.com/helm/helm/pull/12649
+2023-12-18 16:33:50+00:00,[User]_wallrj,"{'[User]_stevehipwell', '[User]_wallrj', '[User]_mattfarina', '[User]_pierluigilenoci'}",helm/helm,2023,https://github.com/helm/helm/issues/12653
+2023-12-18 20:03:33+00:00,[User]_mattfarina,"{'[User]_scottrigby', '[User]_sabre1041'}",helm/helm,2023,https://github.com/helm/helm/pull/12654
+2023-12-21 18:16:36+00:00,[User]_richardwhiuk,set(),helm/helm,2023,https://github.com/helm/helm/pull/12661
+2023-12-22 07:11:44+00:00,[User]_ialidzhikov,"{'[User]_joejulian', '[User]_ialidzhikov'}",helm/helm,2023,https://github.com/helm/helm/pull/12662
+2023-12-22 21:16:52+00:00,[User]_rainest,{'[User]_rainest'},helm/helm,2023,https://github.com/helm/helm/pull/12663
+2023-12-24 09:43:16+00:00,[User]_yxxhero,set(),helm/helm,2023,https://github.com/helm/helm/issues/12666
+2023-12-26 07:53:07+00:00,[User]_olivercp3,{'[User]_olivercp3'},helm/helm,2023,https://github.com/helm/helm/issues/12667
+2023-12-27 07:57:55+00:00,[User]_dozer75,"{'[User]_dozer75', '[User]_gjenkins8'}",helm/helm,2023,https://github.com/helm/helm/issues/12669
+2023-12-27 22:10:43+00:00,[User]_gjenkins8,"{'[User]_z4ce', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12670
+2023-12-28 03:06:44+00:00,[User]_yyzxw,set(),helm/helm,2023,https://github.com/helm/helm/pull/12671
+2023-12-28 22:11:44+00:00,[User]_gjenkins8,"{'[User]_scottrigby', '[User]_mattfarina', '[User]_yxxhero'}",helm/helm,2023,https://github.com/helm/helm/pull/12672
+2023-12-31 10:22:41+00:00,[User]_atombrella,{'[User]_atombrella'},helm/helm,2023,https://github.com/helm/helm/pull/12673
+2023-12-31 15:13:54+00:00,[User]_cornfeedhobo,"{'[User]_gjenkins8', '[User]_cornfeedhobo'}",helm/helm,2023,https://github.com/helm/helm/issues/12675
+2024-01-03 04:26:45+00:00,[User]_sshuklao,"{'[User]_gjenkins8', '[User]_yxxhero'}",helm/helm,2024,https://github.com/helm/helm/issues/12679
+2024-01-03 08:58:22+00:00,[User]_fabl3ss,{'[User]_issssu'},helm/helm,2024,https://github.com/helm/helm/issues/12680
+2024-01-04 17:41:25+00:00,[User]_the4amfriend,{'[User]_banjoh'},helm/helm,2024,https://github.com/helm/helm/issues/12682
+2024-01-05 16:42:19+00:00,[User]_ekersale,"{'[User]_gjenkins8', '[User]_MichaelMorrisEst'}",helm/helm,2024,https://github.com/helm/helm/issues/12686
+2024-01-05 17:47:46+00:00,[User]_themightychris,{'[User]_themightychris'},helm/helm,2024,https://github.com/helm/helm/issues/12687
+2024-01-05 21:35:57+00:00,[User]_mattfarina,{'[User]_joejulian'},helm/helm,2024,https://github.com/helm/helm/pull/12688
+2024-01-05 21:39:59+00:00,[User]_mattfarina,{'[User]_joejulian'},helm/helm,2024,https://github.com/helm/helm/pull/12689
+2024-01-07 14:44:06+00:00,[User]_TerryHowe,{'[User]_sabre1041'},helm/helm,2024,https://github.com/helm/helm/pull/12690
+2024-01-08 01:59:48+00:00,[User]_opencmit2,"{'[User]_gjenkins8', '[User]_opencmit2'}",helm/helm,2024,https://github.com/helm/helm/pull/12691
+2024-01-09 03:43:37+00:00,[User]_mattfarina,"{'[User]_scottrigby', '[User]_mattfarina'}",helm/helm,2024,https://github.com/helm/helm/pull/12698
+2024-01-09 11:42:05+00:00,[User]_fgiloux,"{'[User]_gjenkins8', '[User]_mattfarina', '[User]_fgiloux'}",helm/helm,2024,https://github.com/helm/helm/issues/12699
+2024-01-09 16:01:31+00:00,[User]_MichaelMorrisEst,set(),helm/helm,2024,https://github.com/helm/helm/pull/12700
+2024-01-10 22:27:42+00:00,[User]_subhradeepnag,"{'[User]_subhradeepnag', '[User]_weidongkl'}",helm/helm,2024,https://github.com/helm/helm/issues/12703
+2024-01-11 03:02:12+00:00,[User]_weidongkl,{'[User]_mattfarina'},helm/helm,2024,https://github.com/helm/helm/pull/12704
+2024-01-11 07:39:53+00:00,[User]_jhanbo,"{'[User]_mattfarina', '[User]_jhanbo'}",helm/helm,2024,https://github.com/helm/helm/issues/12705
+2024-01-11 12:40:02+00:00,[User]_heijian123,"{'[User]_heijian123', '[User]_gjenkins8'}",helm/helm,2024,https://github.com/helm/helm/issues/12706
+2024-01-12 01:31:49+00:00,[User]_yzewei,{'[User]_yzewei'},helm/helm,2024,https://github.com/helm/helm/pull/12708
+2024-01-12 02:46:53+00:00,[User]_heijian123,set(),helm/helm,2024,https://github.com/helm/helm/pull/12709
+2024-01-12 11:19:17+00:00,[User]_Sebastian-Maier,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12710
+2024-01-12 20:34:01+00:00,[User]_andrewm-aero,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12711
+2024-01-15 03:49:59+00:00,[User]_cornfeedhobo,"{'[User]_gjenkins8', '[User]_cornfeedhobo', '[User]_samling'}",helm/helm,2024,https://github.com/helm/helm/issues/12714
+2024-01-16 03:34:17+00:00,[User]_thisisobate,set(),helm/helm,2024,https://github.com/helm/helm/pull/12716
+2024-01-16 12:17:05+00:00,[User]_gavk34,{'[User]_gavk34'},helm/helm,2024,https://github.com/helm/helm/issues/12717
+2024-01-17 04:40:06+00:00,[User]_acelinkio,set(),helm/helm,2024,https://github.com/helm/helm/pull/12719
+2024-01-17 11:18:08+00:00,[User]_VinayakRaoB,"{'[User]_dayeguilaiye', '[User]_Goutham4OS', '[User]_VinayakRaoB', '[User]_ashak369', '[User]_gjenkins8'}",helm/helm,2024,https://github.com/helm/helm/issues/12722
+2024-01-17 23:50:14+00:00,[User]_eddiezane,set(),helm/helm,2024,https://github.com/helm/helm/pull/12725
+2024-01-18 16:53:13+00:00,[User]_Ismail9028,set(),helm/helm,2024,https://github.com/helm/helm/issues/12727
+2024-01-19 12:11:07+00:00,[User]_hedayat,"{'[User]_hedayat', '[User]_intetinte'}",helm/helm,2024,https://github.com/helm/helm/issues/12730
+2024-01-20 01:01:54+00:00,[User]_dan-hoeger,"{'[User]_VijayganeshSubramaniam', '[User]_dan-hoeger', '[User]_mschuett', '[User]_gjenkins8'}",helm/helm,2024,https://github.com/helm/helm/issues/12735
+2024-01-20 15:50:51+00:00,[User]_cornfeedhobo,{'[User]_cornfeedhobo'},helm/helm,2024,https://github.com/helm/helm/issues/12736
+2024-01-21 22:27:03+00:00,[User]_Rashmi-K-A,"{'[User]_mattfarina', '[User]_Rashmi-K-A'}",helm/helm,2024,https://github.com/helm/helm/pull/12737
+2024-01-22 01:32:40+00:00,[User]_cornfeedhobo,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12738
+2024-01-23 09:13:52+00:00,[User]_Thorndike,"{'[User]_gjenkins8', '[User]_zsolt-marta-bitrise', '[User]_mbaldessari', '[User]_rptaylor'}",helm/helm,2024,https://github.com/helm/helm/issues/12741
+2024-01-23 09:47:02+00:00,[User]_ivaaaan,"{'[User]_gjenkins8', '[User]_ivaaaan'}",helm/helm,2024,https://github.com/helm/helm/issues/12742
+2024-01-23 15:45:06+00:00,[User]_anessi,"{'[User]_sabre1041', '[User]_joebowbeer', '[User]_onedr0p', '[User]_tleed5', '[User]_anessi'}",helm/helm,2024,https://github.com/helm/helm/pull/12743
+2024-01-24 07:04:50+00:00,[User]_ziqianggeoffreychen,"{'[User]_gjenkins8', '[User]_ziqianggeoffreychen', '[User]_dastrobu'}",helm/helm,2024,https://github.com/helm/helm/issues/12744
+2024-01-24 09:35:57+00:00,[User]_vladciobancai,"{'[User]_gjenkins8', '[User]_vladciobancai'}",helm/helm,2024,https://github.com/helm/helm/issues/12745
+2024-01-24 18:01:44+00:00,[User]_mattfarina,{'[User]_NickJosevski'},helm/helm,2024,https://github.com/helm/helm/pull/12746
+2024-01-25 10:28:28+00:00,[User]_dbluxo,"{'[User]_dastrobu', '[User]_dbluxo', '[User]_zisuu', '[User]_gjenkins8', '[User]_mschuett', '[User]_ts-mini', '[User]_ziqianggeoffreychen', '[User]_mandrean'}",helm/helm,2024,https://github.com/helm/helm/issues/12748
+2024-01-26 10:21:31+00:00,[User]_krichter722,{'[User]_banjoh'},helm/helm,2024,https://github.com/helm/helm/pull/12751
+2024-01-27 14:47:46+00:00,[User]_thereallukl,set(),helm/helm,2024,https://github.com/helm/helm/pull/12753
+2024-01-27 15:37:36+00:00,[User]_dunefro,"{'[User]_gjenkins8', '[User]_dunefro'}",helm/helm,2024,https://github.com/helm/helm/issues/12754
+2024-01-28 11:53:42+00:00,[User]_aqeelat,"{'[User]_z4ce', '[User]_aqeelat'}",helm/helm,2024,https://github.com/helm/helm/issues/12755
+2024-01-29 20:07:49+00:00,[User]_sultetveny,"{'[User]_z4ce', '[User]_sultetveny'}",helm/helm,2024,https://github.com/helm/helm/issues/12758
+2024-01-31 05:12:18+00:00,[User]_ziqianggeoffreychen,"{'[User]_gjenkins8', '[User]_sabre1041', '[User]_ziqianggeoffreychen'}",helm/helm,2024,https://github.com/helm/helm/pull/12760
+2024-01-31 11:58:03+00:00,[User]_ricardomaraschini,"{'[User]_z4ce', '[User]_ricardomaraschini', '[User]_mattfarina'}",helm/helm,2024,https://github.com/helm/helm/pull/12761
+2024-01-31 16:04:38+00:00,[User]_JPula,"{'[User]_z4ce', '[User]_mattfarina', '[User]_JPula', '[User]_Gin-sen'}",helm/helm,2024,https://github.com/helm/helm/pull/12762
+2024-01-31 16:54:01+00:00,[User]_subhankar-banerjee,"{'[User]_z4ce', '[User]_subhankar-banerjee'}",helm/helm,2024,https://github.com/helm/helm/issues/12763
+2024-01-31 22:15:51+00:00,[User]_thorbenbelow,{'[User]_thorbenbelow'},helm/helm,2024,https://github.com/helm/helm/issues/12766
+2024-02-01 12:21:07+00:00,[User]_94DanielBrown,"{'[User]_z4ce', '[User]_banjoh', '[User]_94DanielBrown'}",helm/helm,2024,https://github.com/helm/helm/issues/12768
+2024-02-01 16:26:27+00:00,[User]_banjoh,{'[User]_banjoh'},helm/helm,2024,https://github.com/helm/helm/pull/12769
+2024-02-01 23:34:24+00:00,[User]_franceschongg,"{'[User]_z4ce', '[User]_franceschongg', '[User]_abhishekrhyme'}",helm/helm,2024,https://github.com/helm/helm/issues/12771
+2024-02-02 17:18:21+00:00,[User]_juanluisvaladas,set(),helm/helm,2024,https://github.com/helm/helm/pull/12772
+2024-02-02 18:19:54+00:00,[User]_jaynis,{'[User]_jaynis'},helm/helm,2024,https://github.com/helm/helm/issues/12773
+2024-02-03 02:20:49+00:00,[User]_Michael0x2a,{'[User]_busser'},helm/helm,2024,https://github.com/helm/helm/pull/12775
+2024-02-05 10:07:08+00:00,[User]_ferhatguneri,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12776
+2024-02-06 06:05:14+00:00,[User]_Dwijad,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12777
+2024-02-06 08:38:36+00:00,[User]_abhishekrhyme,"{'[User]_z4ce', '[User]_abhishekrhyme'}",helm/helm,2024,https://github.com/helm/helm/issues/12778
+2024-02-06 08:48:43+00:00,[User]_interone-ms,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12779
+2024-02-06 13:23:43+00:00,[User]_balmeida-nokia,"{'[User]_gjenkins8', '[User]_balmeida-nokia'}",helm/helm,2024,https://github.com/helm/helm/issues/12781
+2024-02-07 09:22:17+00:00,[User]_shujun10086,"{'[User]_gjenkins8', '[User]_tleed5'}",helm/helm,2024,https://github.com/helm/helm/issues/12782
+2024-02-07 20:36:50+00:00,[User]_PaulBarrie,set(),helm/helm,2024,https://github.com/helm/helm/pull/12783
+2024-02-08 03:14:50+00:00,[User]_rajtupakula,"{'[User]_gjenkins8', '[User]_ganesh-karthick'}",helm/helm,2024,https://github.com/helm/helm/issues/12786
+2024-02-08 16:14:59+00:00,[User]_msaitz,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12787
+2024-02-08 17:11:22+00:00,[User]_gjenkins8,"{'[User]_erikgb', '[User]_sabre1041', '[User]_Pobek', '[User]_mattfarina', '[User]_fad3t'}",helm/helm,2024,https://github.com/helm/helm/pull/12789
+2024-02-09 17:57:33+00:00,[User]_idsulik,{'[User]_tleed5'},helm/helm,2024,https://github.com/helm/helm/pull/12791
+2024-02-11 10:04:34+00:00,[User]_ericrichtert,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12793
+2024-02-12 15:47:24+00:00,[User]_dheeraj-326,"{'[User]_gjenkins8', '[User]_dheeraj-326', '[User]_karuppiah7890'}",helm/helm,2024,https://github.com/helm/helm/issues/12794
+2024-02-13 08:31:16+00:00,[User]_codoc2b,set(),helm/helm,2024,https://github.com/helm/helm/pull/12795
+2024-02-13 16:55:39+00:00,[User]_kurekbharath,"{'[User]_gjenkins8', '[User]_LeviAckermanga', '[User]_kurekbharath'}",helm/helm,2024,https://github.com/helm/helm/issues/12796
+2024-02-14 19:19:36+00:00,[User]_xrow,"{'[User]_alan-copeland-keysight', '[User]_gjenkins8'}",helm/helm,2024,https://github.com/helm/helm/issues/12798
+2024-02-15 03:03:53+00:00,[User]_kupnu4x,"{'[User]_gjenkins8', '[User]_kupnu4x'}",helm/helm,2024,https://github.com/helm/helm/issues/12799
+2024-02-15 13:23:58+00:00,[User]_ctron,set(),helm/helm,2024,https://github.com/helm/helm/issues/12800
+2024-02-16 11:18:38+00:00,[User]_skitt,"{'[User]_skitt', '[User]_mmorel-35', '[User]_evanphx'}",helm/helm,2024,https://github.com/helm/helm/pull/12802
+2024-02-16 11:46:13+00:00,[User]_PulaNaresh,{'[User]_antoinedeschenes'},helm/helm,2024,https://github.com/helm/helm/issues/12803
+2024-02-19 09:31:25+00:00,[User]_nex1gen,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12804
+2024-02-19 11:39:28+00:00,[User]_jprecuch,"{'[User]_gjenkins8', '[User]_jprecuch'}",helm/helm,2024,https://github.com/helm/helm/issues/12805
+2024-02-20 08:20:01+00:00,[User]_tleed5,{'[User]_tleed5'},helm/helm,2024,https://github.com/helm/helm/pull/12806
+2024-02-20 19:43:47+00:00,[User]_drewwells,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12807
+2024-02-21 09:07:20+00:00,[User]_ForcemCS,set(),helm/helm,2024,https://github.com/helm/helm/issues/12809
+2024-02-21 09:47:28+00:00,[User]_wangchao732,"{'[User]_manlinux', '[User]_wangchao732'}",helm/helm,2024,https://github.com/helm/helm/issues/12810
+2024-02-21 12:19:46+00:00,[User]_dfo-alseth,set(),helm/helm,2024,https://github.com/helm/helm/issues/12811
+2024-02-22 02:10:04+00:00,[User]_jessesimpson36,"{'[User]_tleed5', '[User]_jessesimpson36'}",helm/helm,2024,https://github.com/helm/helm/pull/12812
+2024-02-22 15:11:59+00:00,[User]_dataops1948-2,"{'[User]_gjenkins8', '[User]_dataops1948-2'}",helm/helm,2024,https://github.com/helm/helm/issues/12813
+2024-02-23 15:29:47+00:00,[User]_jrfeenst,"{'[User]_gjenkins8', '[User]_jrfeenst'}",helm/helm,2024,https://github.com/helm/helm/issues/12815
+2024-02-24 04:28:02+00:00,[User]_jmcgrath207,"{'[User]_gjenkins8', '[User]_jmcgrath207'}",helm/helm,2024,https://github.com/helm/helm/issues/12817
+2024-02-24 13:26:58+00:00,[User]_mmorel-35,set(),helm/helm,2024,https://github.com/helm/helm/pull/12818
+2024-02-25 05:31:03+00:00,[User]_DrewDevereux,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12819
+2024-02-25 15:35:19+00:00,[User]_TheCorruptCat,"{'[User]_gjenkins8', '[User]_rptaylor'}",helm/helm,2024,https://github.com/helm/helm/issues/12820
+2024-02-26 14:28:35+00:00,[User]_Farooqay,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12821
+2024-02-26 17:51:43+00:00,[User]_mvhatch,"{'[User]_gjenkins8', '[User]_mvhatch'}",helm/helm,2024,https://github.com/helm/helm/issues/12823
+2024-02-27 02:54:50+00:00,[User]_Farhanec07,"{'[User]_gjenkins8', '[User]_ameypant13', '[User]_rptaylor'}",helm/helm,2024,https://github.com/helm/helm/issues/12825
+2024-02-27 09:49:30+00:00,[User]_sedflix,set(),helm/helm,2024,https://github.com/helm/helm/issues/12826
+2024-02-28 04:04:51+00:00,[User]_rudyares,"{'[User]_gjenkins8', '[User]_rudyares'}",helm/helm,2024,https://github.com/helm/helm/issues/12827
+2024-02-28 06:11:03+00:00,[User]_smallemployees,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12828
+2024-02-28 06:50:19+00:00,[User]_adevjoe,"{'[User]_gjenkins8', '[User]_adevjoe'}",helm/helm,2024,https://github.com/helm/helm/issues/12829
+2024-02-28 12:00:04+00:00,[User]_ibihim,"{'[User]_ibihim', '[User]_sabre1041'}",helm/helm,2024,https://github.com/helm/helm/pull/12830
+2024-02-29 13:06:22+00:00,[User]_mcbenjemaa,set(),helm/helm,2024,https://github.com/helm/helm/issues/12831
+2024-02-29 15:31:31+00:00,[User]_intetinte,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12832
+2024-03-01 20:19:29+00:00,[User]_robertsirc,{'[User]_mattfarina'},helm/helm,2024,https://github.com/helm/helm/pull/12834
+2024-03-01 23:51:27+00:00,[User]_eumel8,"{'[User]_gjenkins8', '[User]_eumel8'}",helm/helm,2024,https://github.com/helm/helm/issues/12835
+2024-03-03 18:02:59+00:00,[User]_xrow,"{'[User]_sabre1041', '[User]_xrow'}",helm/helm,2024,https://github.com/helm/helm/issues/12836
+2024-03-04 09:22:16+00:00,[User]_pedrocjdpereira,set(),helm/helm,2024,https://github.com/helm/helm/pull/12837
+2024-03-04 18:50:31+00:00,[User]_arches-richard,{'[User]_arches-richard'},helm/helm,2024,https://github.com/helm/helm/issues/12838
+2024-03-04 23:11:03+00:00,[User]_mchudinov,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12841
+2024-03-05 19:44:58+00:00,[User]_jmickey,set(),helm/helm,2024,https://github.com/helm/helm/issues/12842
+2024-03-06 00:41:12+00:00,[User]_robertsirc,{'[User]_mattfarina'},helm/helm,2024,https://github.com/helm/helm/pull/12843
+2024-03-06 05:35:39+00:00,[User]_peterwwillis,"{'[User]_gjenkins8', '[User]_P1ng-W1n', '[User]_peterwwillis'}",helm/helm,2024,https://github.com/helm/helm/issues/12844
+2024-03-06 13:41:52+00:00,[User]_megian,{'[User]_megian'},helm/helm,2024,https://github.com/helm/helm/pull/12845
+2024-03-06 20:21:03+00:00,[User]_olix0r,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12846
+2024-03-07 06:22:22+00:00,[User]_dayeguilaiye,"{'[User]_gjenkins8', '[User]_dayeguilaiye'}",helm/helm,2024,https://github.com/helm/helm/issues/12847
+2024-03-07 23:20:06+00:00,[User]_roy-work,"{'[User]_gjenkins8', '[User]_roy-work', '[User]_NeerajNagure'}",helm/helm,2024,https://github.com/helm/helm/issues/12848
+2024-03-08 03:03:58+00:00,[User]_efranco-technisys,set(),helm/helm,2024,https://github.com/helm/helm/pull/12849
+2024-03-08 09:03:44+00:00,[User]_godfried,{'[User]_robertsirc'},helm/helm,2024,https://github.com/helm/helm/issues/12850
+2024-03-08 10:46:28+00:00,[User]_ForcemCS,set(),helm/helm,2024,https://github.com/helm/helm/issues/12851
+2024-03-08 11:36:37+00:00,[User]_jprecuch,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12852
+2024-03-08 20:28:53+00:00,[User]_aauren,"{'[User]_gjenkins8', '[User]_aauren'}",helm/helm,2024,https://github.com/helm/helm/issues/12853
+2024-03-10 00:09:14+00:00,[User]_mattfarina,set(),helm/helm,2024,https://github.com/helm/helm/issues/12854
+2024-03-10 07:05:15+00:00,[User]_yxxhero,"{'[User]_gjenkins8', '[User]_yxxhero'}",helm/helm,2024,https://github.com/helm/helm/issues/12855
+2024-03-10 07:10:36+00:00,[User]_yxxhero,"{'[User]_gjenkins8', '[User]_mattfarina', '[User]_yxxhero'}",helm/helm,2024,https://github.com/helm/helm/pull/12856
+2024-03-10 14:05:39+00:00,[User]_robertsirc,"{'[User]_robertsirc', '[User]_mattfarina'}",helm/helm,2024,https://github.com/helm/helm/pull/12857
+2024-03-10 15:26:36+00:00,[User]_onionringois,{'[User]_itay1213141'},helm/helm,2024,https://github.com/helm/helm/issues/12858
+2024-03-10 18:07:14+00:00,[User]_mattfarina,"{'[User]_mattfarina', '[User]_sabre1041'}",helm/helm,2024,https://github.com/helm/helm/pull/12859
+2024-03-10 22:19:00+00:00,[User]_gjenkins8,"{'[User]_robertsirc', '[User]_mattfarina', '[User]_yxxhero'}",helm/helm,2024,https://github.com/helm/helm/pull/12860
+2024-03-11 03:34:11+00:00,[User]_xho22,"{'[User]_gjenkins8', '[User]_xho22'}",helm/helm,2024,https://github.com/helm/helm/issues/12862
+2024-03-11 08:50:33+00:00,[User]_balmeida-nokia,{'[User]_balmeida-nokia'},helm/helm,2024,https://github.com/helm/helm/issues/12863
+2024-03-11 13:04:13+00:00,[User]_balmeida-nokia,"{'[User]_gjenkins8', '[User]_balmeida-nokia'}",helm/helm,2024,https://github.com/helm/helm/pull/12864
+2024-03-11 21:14:44+00:00,[User]_robertsirc,"{'[User]_robertsirc', '[User]_gjenkins8', '[User]_mattfarina', '[User]_sabre1041'}",helm/helm,2024,https://github.com/helm/helm/pull/12866
+2024-03-12 00:52:17+00:00,[User]_aauren,"{'[User]_robertsirc', '[User]_aauren'}",helm/helm,2024,https://github.com/helm/helm/pull/12867
+2024-03-12 06:30:00+00:00,[User]_astraldawn,"{'[User]_z4ce', '[User]_astraldawn'}",helm/helm,2024,https://github.com/helm/helm/issues/12868
+2024-03-12 09:09:41+00:00,[User]_Gianluca755,set(),helm/helm,2024,https://github.com/helm/helm/issues/12869
+2024-03-12 11:00:20+00:00,[User]_rayalaka,{'[User]_BenHesketh21'},helm/helm,2024,https://github.com/helm/helm/issues/12870
+2024-03-12 18:19:49+00:00,[User]_mattfarina,"{'[User]_joejulian', '[User]_mattfarina', '[User]_peterwwillis'}",helm/helm,2024,https://github.com/helm/helm/pull/12871
+2024-03-12 20:52:42+00:00,[User]_cpboyd,"{'[User]_z4ce', '[User]_cpboyd'}",helm/helm,2024,https://github.com/helm/helm/issues/12872
+2024-03-13 12:22:34+00:00,[User]_Bhargav-InfraCloud,set(),helm/helm,2024,https://github.com/helm/helm/pull/12875
+2024-03-13 13:10:21+00:00,[User]_manno,set(),helm/helm,2024,https://github.com/helm/helm/pull/12876
+2024-03-13 18:29:11+00:00,[User]_rni-HMC,{'[User]_dayeguilaiye'},helm/helm,2024,https://github.com/helm/helm/issues/12877
+2024-03-14 03:48:56+00:00,[User]_ryanhockstad,{'[User]_messiahUA'},helm/helm,2024,https://github.com/helm/helm/pull/12879
+2024-03-14 04:54:47+00:00,[User]_bmwiedemann,{'[User]_bmwiedemann'},helm/helm,2024,https://github.com/helm/helm/issues/12880
+2024-03-14 10:21:31+00:00,[User]_tomplus,{'[User]_tomplus'},helm/helm,2024,https://github.com/helm/helm/issues/12881
+2024-03-14 19:24:10+00:00,[User]_zac-market,set(),helm/helm,2024,https://github.com/helm/helm/issues/12882
+2024-03-15 07:25:57+00:00,[User]_Gianluca755,set(),helm/helm,2024,https://github.com/helm/helm/issues/12883
+2024-03-15 07:46:37+00:00,[User]_patrikbeno,"{'[User]_z4ce', '[User]_sabre1041'}",helm/helm,2024,https://github.com/helm/helm/issues/12884
+2024-03-15 10:35:00+00:00,[User]_liwoove,set(),helm/helm,2024,https://github.com/helm/helm/issues/12885
+2024-03-15 11:25:09+00:00,[User]_rohitsharma382,{'[User]_rohitsharma382'},helm/helm,2024,https://github.com/helm/helm/issues/12886
+2024-03-15 12:25:01+00:00,[User]_MattiL,{'[User]_MattiL'},helm/helm,2024,https://github.com/helm/helm/issues/12887
+2024-03-15 12:48:58+00:00,[User]_haojingcn,set(),helm/helm,2024,https://github.com/helm/helm/pull/12888
+2024-03-15 22:25:31+00:00,[User]_patrykk21,set(),helm/helm,2024,https://github.com/helm/helm/issues/12889
+2024-03-16 14:48:45+00:00,[User]_JOkaru13,"{'[User]_mahmut-Abi', '[User]_JOkaru13'}",helm/helm,2024,https://github.com/helm/helm/issues/12890
+2024-03-18 09:48:09+00:00,[User]_rohitphatak,set(),helm/helm,2024,https://github.com/helm/helm/issues/12891
+2024-03-18 13:00:50+00:00,[User]_strainovic,set(),helm/helm,2024,https://github.com/helm/helm/issues/12893
+2024-03-18 13:21:31+00:00,[User]_NeerajNagure,{'[User]_Bhargav-InfraCloud'},helm/helm,2024,https://github.com/helm/helm/pull/12894
+2024-03-19 01:45:34+00:00,[User]_jmajoor,"{'[User]_z4ce', '[User]_jmajoor'}",helm/helm,2024,https://github.com/helm/helm/issues/12896
+2024-03-19 05:08:20+00:00,[User]_lu-jason,set(),helm/helm,2024,https://github.com/helm/helm/issues/12897
+2024-03-19 15:05:55+00:00,[User]_rahulsyal92,{'[User]_z4ce'},helm/helm,2024,https://github.com/helm/helm/issues/12898
+2024-03-21 03:50:56+00:00,[User]_adevjoe,{'[User]_adevjoe'},helm/helm,2024,https://github.com/helm/helm/pull/12900
+2024-03-21 10:17:24+00:00,[User]_chenxinlong,set(),helm/helm,2024,https://github.com/helm/helm/issues/12901
+2024-03-21 17:45:12+00:00,[User]_Mazorius,{'[User]_Mazorius'},helm/helm,2024,https://github.com/helm/helm/issues/12902
+2024-03-22 11:28:47+00:00,[User]_sabre1041,{'[User]_joejulian'},helm/helm,2024,https://github.com/helm/helm/pull/12903
+2024-03-24 09:46:36+00:00,[User]_NeerajNagure,{'[User]_NeerajNagure'},helm/helm,2024,https://github.com/helm/helm/pull/12906
+2024-03-24 13:45:12+00:00,[User]_khushgcp,"{'[User]_gjenkins8', '[User]_Tamizh-Thiru'}",helm/helm,2024,https://github.com/helm/helm/issues/12907
+2024-03-25 15:37:55+00:00,[User]_david0,set(),helm/helm,2024,https://github.com/helm/helm/pull/12908
+2024-03-25 17:29:58+00:00,[User]_bjosv,set(),helm/helm,2024,https://github.com/helm/helm/pull/12909
+2024-03-26 10:33:21+00:00,[User]_anirudh-hegde,{'[User]_anirudh-hegde'},helm/helm,2024,https://github.com/helm/helm/pull/12910
+2024-03-26 14:22:08+00:00,[User]_svanhart,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12911
+2024-03-26 18:29:56+00:00,[User]_hegerdes,"{'[User]_kfox1111', '[User]_gjenkins8'}",helm/helm,2024,https://github.com/helm/helm/pull/12912
+2024-03-28 05:13:30+00:00,[User]_mnavasop,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12913
+2024-03-28 21:27:38+00:00,[User]_thirumurthis,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12914
+2024-03-28 22:13:44+00:00,[User]_jmajoor,"{'[User]_jmajoor', '[User]_luxurine'}",helm/helm,2024,https://github.com/helm/helm/pull/12915
+2024-03-29 03:20:46+00:00,[User]_yangchnet,"{'[User]_gjenkins8', '[User]_yangchnet'}",helm/helm,2024,https://github.com/helm/helm/issues/12916
+2024-03-29 21:02:18+00:00,[User]_Danil-Grigorev,"{'[User]_robertsirc', '[User]_Danil-Grigorev'}",helm/helm,2024,https://github.com/helm/helm/pull/12917
+2024-03-31 06:26:03+00:00,[User]_alireza-mht,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12918
+2024-04-02 14:09:45+00:00,[User]_janario,set(),helm/helm,2024,https://github.com/helm/helm/issues/12920
+2024-04-03 17:51:33+00:00,[User]_antoinedeschenes,{'[User]_antoinedeschenes'},helm/helm,2024,https://github.com/helm/helm/issues/12921
+2024-04-04 09:20:32+00:00,[User]_porridge,"{'[User]_robertsirc', '[User]_porridge'}",helm/helm,2024,https://github.com/helm/helm/pull/12924
+2024-04-05 12:34:49+00:00,[User]_JanKoppe,set(),helm/helm,2024,https://github.com/helm/helm/issues/12926
+2024-04-08 00:03:10+00:00,[User]_thiagomata,"{'[User]_thiagomata', '[User]_JuryA'}",helm/helm,2024,https://github.com/helm/helm/issues/12928
+2024-04-08 06:58:02+00:00,[User]_suzaku,set(),helm/helm,2024,https://github.com/helm/helm/pull/12929
+2024-04-08 21:37:03+00:00,[User]_ehardy,set(),helm/helm,2024,https://github.com/helm/helm/pull/12930
+2024-04-09 06:47:58+00:00,[User]_a-devops-guy,{'[User]_a-devops-guy'},helm/helm,2024,https://github.com/helm/helm/issues/12931
+2024-04-10 04:21:24+00:00,[User]_watchfromms,"{'[User]_mattfarina', '[User]_watchfromms'}",helm/helm,2024,https://github.com/helm/helm/pull/12933
+2024-04-10 10:04:36+00:00,[User]_AndiDog,{'[User]_robertsirc'},helm/helm,2024,https://github.com/helm/helm/pull/12934
+2024-04-10 20:02:21+00:00,[User]_zmerlynn,"{'[User]_gjenkins8', '[User]_markmandel'}",helm/helm,2024,https://github.com/helm/helm/issues/12937
+2024-04-11 22:36:28+00:00,[User]_MilanMasek,set(),helm/helm,2024,https://github.com/helm/helm/issues/12941
+2024-04-12 04:53:11+00:00,[User]_nagarajuv-jfrog,"{'[User]_nagarajuv-jfrog', '[User]_gjenkins8', '[User]_yxxhero'}",helm/helm,2024,https://github.com/helm/helm/issues/12942
+2024-04-12 15:25:01+00:00,[User]_bh-tt,set(),helm/helm,2024,https://github.com/helm/helm/issues/12943
+2024-04-12 19:36:55+00:00,[User]_mathe-matician,{'[User]_mathe-matician'},helm/helm,2024,https://github.com/helm/helm/issues/12944
+2024-04-15 07:32:33+00:00,[User]_dudicoco,"{'[User]_gjenkins8', '[User]_dudicoco'}",helm/helm,2024,https://github.com/helm/helm/issues/12945
+2024-04-15 15:43:49+00:00,[User]_bademux,"{'[User]_gjenkins8', '[User]_bademux', '[User]_sabre1041'}",helm/helm,2024,https://github.com/helm/helm/issues/12946
+2024-04-16 07:38:02+00:00,[User]_kaanyalti,set(),helm/helm,2024,https://github.com/helm/helm/pull/12948
+2024-04-16 07:52:05+00:00,[User]_luomengY,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12949
+2024-04-16 10:34:16+00:00,[User]_navas-op,"{'[User]_navas-op', '[User]_mattfarina'}",helm/helm,2024,https://github.com/helm/helm/issues/12950
+2024-04-16 10:38:31+00:00,[User]_pombaer,set(),helm/helm,2024,https://github.com/helm/helm/issues/12951
+2024-04-16 13:05:48+00:00,[User]_jesuspv,set(),helm/helm,2024,https://github.com/helm/helm/issues/12952
+2024-04-16 17:01:44+00:00,[User]_ramalhais-sky,{'[User]_JoniJnm'},helm/helm,2024,https://github.com/helm/helm/issues/12955
+2024-04-17 16:04:30+00:00,[User]_Fenil-Patelll,"{'[User]_gjenkins8', '[User]_fyrnaga', '[User]_Fenil-Patelll'}",helm/helm,2024,https://github.com/helm/helm/issues/12957
+2024-04-17 23:40:50+00:00,[User]_shruti2522,set(),helm/helm,2024,https://github.com/helm/helm/pull/12960
+2024-04-18 08:52:00+00:00,[User]_haojingcn,set(),helm/helm,2024,https://github.com/helm/helm/issues/12961
+2024-04-18 17:21:39+00:00,[User]_stevehipwell,"{'[User]_stevehipwell', '[User]_sabre1041'}",helm/helm,2024,https://github.com/helm/helm/pull/12962
+2024-04-18 18:09:36+00:00,[User]_Venkatesh1505,"{'[User]_Venkatesh1505', '[User]_sabre1041'}",helm/helm,2024,https://github.com/helm/helm/issues/12963
+2024-04-19 08:08:24+00:00,[User]_nagraj321,"{'[User]_nagraj321', '[User]_sabre1041', '[User]_nchitimilla'}",helm/helm,2024,https://github.com/helm/helm/issues/12965
+2024-04-19 19:03:57+00:00,[User]_waqasabdul,"{'[User]_gjenkins8', '[User]_opencmit2'}",helm/helm,2024,https://github.com/helm/helm/issues/12967
+2024-04-19 19:42:24+00:00,[User]_sjeandeaux,set(),helm/helm,2024,https://github.com/helm/helm/pull/12968
+2024-04-20 18:34:06+00:00,[User]_sjeandeaux,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12970
+2024-04-21 10:57:57+00:00,[User]_dirkmueller,set(),helm/helm,2024,https://github.com/helm/helm/pull/12971
+2024-04-22 01:55:38+00:00,[User]_opencmit2,{'[User]_NickJosevski'},helm/helm,2024,https://github.com/helm/helm/pull/12972
+2024-04-22 10:32:55+00:00,[User]_stevehipwell,set(),helm/helm,2024,https://github.com/helm/helm/issues/12973
+2024-04-22 15:11:55+00:00,[User]_jhandguy,{'[User]_gjenkins8'},helm/helm,2024,https://github.com/helm/helm/issues/12974
+2024-04-23 16:20:33+00:00,[User]_rshade,set(),helm/helm,2024,https://github.com/helm/helm/pull/12976
+2024-04-23 16:47:21+00:00,[User]_JoniJnm,set(),helm/helm,2024,https://github.com/helm/helm/issues/12977
+2024-04-23 20:01:47+00:00,[User]_brucec5,set(),helm/helm,2024,https://github.com/helm/helm/pull/12978
+2024-04-24 03:27:28+00:00,[User]_CalvinKrist,{'[User]_NickJosevski'},helm/helm,2024,https://github.com/helm/helm/pull/12979
+2024-04-24 12:32:32+00:00,[User]_dgn,set(),helm/helm,2024,https://github.com/helm/helm/issues/12982
+2024-04-26 05:47:27+00:00,[User]_duj4,"{'[User]_duj4', '[User]_gjenkins8'}",helm/helm,2024,https://github.com/helm/helm/issues/12985
+2024-04-26 08:31:13+00:00,[User]_tamayika,{'[User]_sabre1041'},helm/helm,2024,https://github.com/helm/helm/issues/12986
+2024-04-26 12:41:58+00:00,[User]_dud225,set(),helm/helm,2024,https://github.com/helm/helm/issues/12987
+2024-04-26 15:23:24+00:00,[User]_sstarcher,set(),helm/helm,2024,https://github.com/helm/helm/issues/12988
+2024-04-29 06:45:19+00:00,[User]_SOF3,{'[User]_SOF3'},helm/helm,2024,https://github.com/helm/helm/issues/12990
+2024-04-29 13:32:04+00:00,[User]_zsolt-marta-bitrise,set(),helm/helm,2024,https://github.com/helm/helm/issues/12991
+2024-04-29 20:51:09+00:00,[User]_djjudas21,set(),helm/helm,2024,https://github.com/helm/helm/issues/12992
+2024-04-30 14:03:59+00:00,[User]_michael-todorovic,{'[User]_banjoh'},helm/helm,2024,https://github.com/helm/helm/issues/12994
+2024-04-30 15:04:58+00:00,[User]_Shobhit29,set(),helm/helm,2024,https://github.com/helm/helm/issues/12995

@@ -1,0 +1,202 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-03 10:43:02+00:00,[User]_priyamsahoo,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/871
+2023-05-03 11:35:25+00:00,[User]_ssbarnea,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/872
+2023-05-05 04:37:22+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/874
+2023-05-05 04:48:19+00:00,[User]_ganeshrn,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/875
+2023-05-05 09:50:25+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/876
+2023-05-05 13:18:47+00:00,[User]_cidrblock,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/878
+2023-05-05 14:57:37+00:00,[User]_ganeshrn,{'[User]_huyz'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/879
+2023-05-09 14:05:57+00:00,[User]_jonbackhaus-mt,"{'[User]_JohnRDOrazio', '[User]_jonbackhaus-mt', '[User]_MallocArray'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/880
+2023-05-09 14:29:38+00:00,[User]_cidrblock,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/882
+2023-05-10 11:09:34+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/883
+2023-05-10 11:51:52+00:00,[User]_priyamsahoo,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/884
+2023-05-10 20:08:33+00:00,[User]_dhoogfr,"{'[User]_cidrblock', '[User]_robpomeroy', '[User]_ganeshrn', '[User]_dhoogfr'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/885
+2023-05-11 13:33:42+00:00,[User]_Mystic8b,"{'[User]_cidrblock', '[User]_ssbarnea'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/886
+2023-05-16 06:25:03+00:00,[User]_bluikko,{'[User]_cidrblock'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/889
+2023-05-16 13:21:54+00:00,[User]_ganeshrn,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/892
+2023-05-17 22:18:06+00:00,[User]_sebastianreloaded,{'[User]_ssbarnea'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/894
+2023-05-18 13:36:57+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/896
+2023-05-18 20:03:32+00:00,[User]_DeadNews,"{'[User]_pluto00987', '[User]_ja1den', '[User]_priyamsahoo', '[User]_antonc42', '[User]_cidrblock', '[User]_nandac', '[User]_netopsengineer', '[User]_naa0yama', '[User]_sebastianreloaded', '[User]_aradalvand'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/900
+2023-05-19 02:40:03+00:00,[User]_robinbobbitt,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/901
+2023-05-20 07:00:49+00:00,[User]_ganeshrn,"{'[User]_cidrblock', '[User]_ssbarnea'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/902
+2023-05-20 07:06:34+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/903
+2023-05-31 05:58:04+00:00,[User]_KB-perByte,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/907
+2023-06-01 05:39:58+00:00,[User]_priyamsahoo,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/908
+2023-06-02 04:24:54+00:00,[User]_bluikko,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/909
+2023-06-02 17:52:57+00:00,[User]_ssbarnea,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/910
+2023-06-05 12:04:17+00:00,[User]_ganeshrn,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/911
+2023-06-07 16:54:48+00:00,[User]_NikSudo,"{'[User]_ajinkyau', '[User]_NikSudo', '[User]_adeqecil'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/915
+2023-06-09 11:22:59+00:00,[User]_jamesholland-uk,"{'[User]_priyamsahoo', '[User]_jamesholland-uk', '[User]_ajinkyau'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/918
+2023-06-12 14:12:17+00:00,[User]_maroskukan,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/919
+2023-06-13 08:23:55+00:00,[User]_mrniranjan,"{'[User]_mrniranjan', '[User]_MarSik', '[User]_ptoal', '[User]_ajinkyau'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/922
+2023-06-20 06:10:55+00:00,[User]_priyamsahoo,"{'[User]_ssbarnea', '[User]_ganeshrn', '[User]_ajinkyau'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/925
+2023-06-21 11:26:36+00:00,[User]_ganeshrn,{'[User]_ajinkyau'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/926
+2023-06-22 06:04:41+00:00,[User]_pironev,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/930
+2023-06-22 13:20:12+00:00,[User]_pironev,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/931
+2023-06-22 19:00:17+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/932
+2023-06-28 06:15:28+00:00,[User]_felixfontein,"{'[User]_felixfontein', '[User]_ganeshrn'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/933
+2023-06-28 08:52:54+00:00,[User]_priyamsahoo,"{'[User]_ganeshrn', '[User]_ajinkyau'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/934
+2023-06-30 03:26:08+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/937
+2023-07-03 15:00:25+00:00,[User]_l0rd,"{'[User]_cedriccastagnede', '[User]_svor', '[User]_priyamsahoo', '[User]_debaser19', '[User]_debuglevel', '[User]_l0rd', '[User]_craig-br', '[User]_dmytro-ndp', '[User]_smseidl', '[User]_RomanNikitenko', '[User]_TamiTakamiya'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/938
+2023-07-10 06:39:28+00:00,[User]_ganeshrn,"{'[User]_priyamsahoo', '[User]_ajinkyau'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/940
+2023-07-12 07:48:05+00:00,[User]_Gaibhne,"{'[User]_priyamsahoo', '[User]_nikaro', '[User]_Gaibhne'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/941
+2023-07-17 16:59:47+00:00,[User]_priyamsahoo,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/944
+2023-07-20 03:45:03+00:00,[User]_priyamsahoo,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/945
+2023-07-21 09:04:54+00:00,[User]_ganeshrn,"{'[User]_priyamsahoo', '[User]_ganeshrn'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/946
+2023-07-21 10:20:50+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/948
+2023-07-26 06:20:24+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/949
+2023-07-28 04:59:13+00:00,[User]_priyamsahoo,{'[User]_shatakshiiii'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/950
+2023-07-30 08:46:04+00:00,[User]_kassi,"{'[User]_priyamsahoo', '[User]_kassi'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/953
+2023-08-01 05:43:45+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/954
+2023-08-01 11:58:00+00:00,[User]_priyamsahoo,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/955
+2023-08-07 14:00:07+00:00,[User]_max06,"{'[User]_priyamsahoo', '[User]_max06', '[User]_thelooter'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/958
+2023-08-09 00:32:36+00:00,[User]_ElijahLynn,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/959
+2023-08-16 05:12:43+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/960
+2023-08-16 06:16:50+00:00,[User]_priyamsahoo,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/961
+2023-08-17 12:57:46+00:00,[User]_priyamsahoo,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/962
+2023-08-18 11:25:45+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/964
+2023-09-05 20:10:06+00:00,[User]_seulsale,"{'[User]_priyamsahoo', '[User]_seulsale'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/969
+2023-09-11 15:50:22+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/970
+2023-09-13 06:44:20+00:00,[User]_ganeshrn,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/971
+2023-09-13 10:57:04+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/972
+2023-09-13 10:58:19+00:00,[User]_ganeshrn,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/973
+2023-09-15 09:04:30+00:00,[User]_jooola,"{'[User]_cidrblock', '[User]_ssbarnea'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/974
+2023-09-15 14:17:30+00:00,[User]_skwde,{'[User]_ssbarnea'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/975
+2023-09-16 22:04:53+00:00,[User]_soroshsabz,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/976
+2023-09-18 13:18:45+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/977
+2023-09-19 17:14:27+00:00,[User]_anshulbehl,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/978
+2023-09-20 12:42:51+00:00,[User]_ganeshrn,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/979
+2023-09-26 03:18:31+00:00,[User]_ganeshrn,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/981
+2023-09-26 10:25:31+00:00,[User]_ginolegigot,"{'[User]_ssbarnea', '[User]_ginolegigot'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/982
+2023-09-27 17:13:08+00:00,[User]_ganeshrn,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/983
+2023-09-28 15:49:59+00:00,[User]_cidrblock,{'[User]_cidrblock'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/985
+2023-09-29 09:38:23+00:00,[User]_skwde,{'[User]_ssbarnea'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/986
+2023-10-04 08:29:29+00:00,[User]_ganeshrn,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/988
+2023-10-04 17:40:51+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/990
+2023-10-12 13:17:49+00:00,[User]_David-Else,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1144
+2023-10-19 10:23:07+00:00,[User]_ganeshrn,"{'[User]_priyamsahoo', '[User]_ganeshrn'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/992
+2023-10-20 02:25:11+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/993
+2023-10-20 10:35:16+00:00,[User]_ganeshrn,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/994
+2023-10-20 14:43:24+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/995
+2023-10-20 15:24:38+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/997
+2023-10-26 16:10:50+00:00,[User]_priyamsahoo,"{'[User]_cidrblock', '[User]_ssbarnea', '[User]_ganeshrn'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1000
+2023-10-26 19:39:40+00:00,[User]_jonkyops,"{'[User]_jeefberkey', '[User]_zhiyuan-lin', '[User]_LarsParTec', '[User]_shaneholloman', '[User]_hackatoo', '[User]_MallocArray', '[User]_jonkyops'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/1001
+2023-10-30 13:47:32+00:00,[User]_priyamsahoo,{'[User]_ssbarnea'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1002
+2023-10-31 14:05:48+00:00,[User]_ganeshrn,{'[User]_priyamsahoo'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1004
+2023-11-03 11:43:45+00:00,[User]_manstis,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1005
+2023-11-08 06:25:03+00:00,[User]_priyamsahoo,"{'[User]_priyamsahoo', '[User]_NilashishC'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1009
+2023-11-09 14:11:03+00:00,[User]_ssbarnea,"{'[User]_ganeshrn', '[User]_ajinkyau'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1010
+2023-11-16 20:49:12+00:00,[User]_zero-pytagoras,{'[User]_ssbarnea'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/1013
+2023-11-22 06:46:51+00:00,[User]_ganeshrn,{'[User]_cristianonicolai'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1014
+2023-11-23 10:41:38+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1015
+2023-11-24 03:57:48+00:00,[User]_huangsijun17,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/1017
+2023-11-28 18:42:42+00:00,[User]_TamiTakamiya,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1019
+2023-12-02 02:37:00+00:00,[User]_ptoal,"{'[User]_Qalthos', '[User]_ssbarnea'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/1020
+2023-12-04 19:38:19+00:00,[User]_goneri,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1022
+2023-12-04 22:24:56+00:00,[User]_cidrblock,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/1023
+2023-12-05 19:26:13+00:00,[User]_goneri,"{'[User]_goneri', '[User]_ganeshrn', '[User]_ajinkyau'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1024
+2023-12-06 18:22:09+00:00,[User]_goneri,"{'[User]_goneri', '[User]_ssbarnea', '[User]_ganeshrn', '[User]_ajinkyau'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1026
+2023-12-07 04:41:44+00:00,[User]_piengeng,set(),ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/issues/1027
+2023-12-07 04:41:44+00:00,[User]_piengeng,"{'[User]_piengeng', '[User]_bendem'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1152
+2023-12-08 01:21:22+00:00,[User]_goneri,"{'[User]_goneri', '[User]_TamiTakamiya', '[User]_ganeshrn'}",ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1028
+2023-12-14 07:09:13+00:00,[User]_zalent,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1140
+2023-12-14 10:25:19+00:00,[User]_ajinkyau,{'[User]_ganeshrn'},ansible/vscode-ansible,2023,https://github.com/ansible/vscode-ansible/pull/1032
+2024-01-04 16:46:49+00:00,[User]_adworjan,"{'[User]_adworjan', '[User]_ssbarnea'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1036
+2024-01-05 17:39:45+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1038
+2024-01-12 05:26:01+00:00,[User]_jpmorris,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1042
+2024-01-12 18:35:53+00:00,[User]_goneri,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1044
+2024-01-17 08:14:54+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1047
+2024-01-22 21:29:56+00:00,[User]_goneri,"{'[User]_TamiTakamiya', '[User]_ganeshrn'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1059
+2024-01-23 17:35:10+00:00,[User]_Qalthos,{'[User]_Qalthos'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1061
+2024-01-25 03:01:30+00:00,[User]_TamiTakamiya,{'[User]_TamiTakamiya'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1063
+2024-01-25 19:43:43+00:00,[User]_Qalthos,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1139
+2024-01-27 15:24:40+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1066
+2024-01-29 17:44:29+00:00,[User]_ssbarnea,{'[User]_TamiTakamiya'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1068
+2024-01-31 16:15:05+00:00,[User]_ssbarnea,{'[User]_goneri'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1071
+2024-01-31 16:40:40+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1072
+2024-02-03 17:15:09+00:00,[User]_kjoyce77,{'[User]_ssbarnea'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1138
+2024-02-07 02:37:40+00:00,[User]_ganeshrn,{'[User]_cidrblock'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1083
+2024-02-07 02:42:11+00:00,[User]_ganeshrn,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1141
+2024-02-14 08:53:08+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1092
+2024-02-14 11:33:32+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1093
+2024-02-14 14:37:02+00:00,[User]_priyamsahoo,"{'[User]_audgirka', '[User]_ganeshrn'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1094
+2024-02-14 17:39:25+00:00,[User]_TamiTakamiya,{'[User]_priyamsahoo'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1095
+2024-02-17 06:26:25+00:00,[User]_tlourey,"{'[User]_tlourey', '[User]_ssbarnea'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1100
+2024-02-22 23:16:39+00:00,[User]_RHCEv3,"{'[User]_RHCEv3', '[User]_ssbarnea'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1102
+2024-02-26 21:19:10+00:00,[User]_TamiTakamiya,"{'[User]_goneri', '[User]_TamiTakamiya', '[User]_ganeshrn'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1105
+2024-02-28 07:07:08+00:00,[User]_binaryfire,"{'[User]_ssbarnea', '[User]_pschiffe', '[User]_slawo', '[User]_TamiTakamiya', '[User]_juanvalino'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1108
+2024-02-28 19:33:56+00:00,[User]_TamiTakamiya,{'[User]_ganeshrn'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1109
+2024-03-01 18:26:33+00:00,[User]_jamesharris-garmin,"{'[User]_priyamsahoo', '[User]_jamesharris-garmin'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1110
+2024-03-04 19:11:08+00:00,[User]_TamiTakamiya,"{'[User]_TamiTakamiya', '[User]_ganeshrn'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1115
+2024-03-06 06:37:54+00:00,[User]_priyamsahoo,{'[User]_shatakshiiii'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1118
+2024-03-06 14:29:20+00:00,[User]_ssbarnea,{'[User]_TamiTakamiya'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1120
+2024-03-11 15:34:15+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1124
+2024-03-11 20:57:55+00:00,[User]_TamiTakamiya,"{'[User]_TamiTakamiya', '[User]_ssbarnea'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1126
+2024-03-12 15:55:18+00:00,[User]_TamiTakamiya,{'[User]_TamiTakamiya'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1128
+2024-03-12 20:12:30+00:00,[User]_TamiTakamiya,{'[User]_ganeshrn'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1129
+2024-03-13 14:31:50+00:00,[User]_TamiTakamiya,{'[User]_TamiTakamiya'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1130
+2024-03-15 13:25:00+00:00,[User]_ssbarnea,"{'[User]_mehalter', '[User]_ssbarnea'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1134
+2024-03-15 18:29:41+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1160
+2024-03-26 12:01:59+00:00,[User]_manstis,"{'[User]_robinbobbitt', '[User]_manstis'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1166
+2024-03-27 14:38:10+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1169
+2024-03-29 15:32:09+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1173
+2024-03-29 17:07:16+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1177
+2024-03-29 18:40:59+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1178
+2024-03-29 20:54:26+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1181
+2024-03-30 14:09:37+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1182
+2024-03-30 16:10:48+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1183
+2024-04-02 16:48:28+00:00,[User]_TamiTakamiya,"{'[User]_TamiTakamiya', '[User]_ssbarnea', '[User]_ganeshrn'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1187
+2024-04-03 10:28:14+00:00,[User]_ssbarnea,{'[User]_TamiTakamiya'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1189
+2024-04-04 13:37:55+00:00,[User]_cidrblock,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1199
+2024-04-04 14:31:43+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1200
+2024-04-04 16:45:34+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1203
+2024-04-04 18:41:44+00:00,[User]_cidrblock,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1204
+2024-04-04 19:11:04+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1206
+2024-04-05 14:47:35+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1209
+2024-04-05 15:17:49+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1210
+2024-04-05 16:04:14+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1213
+2024-04-05 19:09:49+00:00,[User]_TamiTakamiya,{'[User]_TamiTakamiya'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1214
+2024-04-09 06:56:38+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1217
+2024-04-10 15:06:53+00:00,[User]_yasuki0707,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1218
+2024-04-11 15:29:01+00:00,[User]_rafi0101,{'[User]_audgirka'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1221
+2024-04-11 18:11:59+00:00,[User]_ssbarnea,"{'[User]_priyamsahoo', '[User]_TamiTakamiya', '[User]_ssbarnea'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1223
+2024-04-12 14:53:32+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1227
+2024-04-12 15:09:55+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1228
+2024-04-12 16:07:50+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1229
+2024-04-15 11:45:29+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1234
+2024-04-15 19:20:51+00:00,[User]_ssbarnea,{'[User]_priyamsahoo'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1238
+2024-04-15 19:50:17+00:00,[User]_TamiTakamiya,{'[User]_goneri'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1239
+2024-04-16 10:02:13+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1240
+2024-04-16 10:11:58+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1241
+2024-04-16 11:20:22+00:00,[User]_thorus90,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1242
+2024-04-16 16:36:39+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1245
+2024-04-17 13:16:16+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1249
+2024-04-17 14:59:27+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1250
+2024-04-18 11:41:30+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1251
+2024-04-18 12:21:53+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1252
+2024-04-18 16:30:25+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1253
+2024-04-18 17:27:52+00:00,[User]_TamiTakamiya,{'[User]_robinbobbitt'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1254
+2024-04-18 18:13:53+00:00,[User]_goneri,{'[User]_TamiTakamiya'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1255
+2024-04-19 12:16:05+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1256
+2024-04-19 17:16:43+00:00,[User]_TamiTakamiya,{'[User]_goneri'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1257
+2024-04-20 13:22:55+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1260
+2024-04-22 08:56:08+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1261
+2024-04-22 11:13:18+00:00,[User]_vicmunoz,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1263
+2024-04-22 13:31:08+00:00,[User]_priyamsahoo,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1264
+2024-04-22 15:32:45+00:00,[User]_kartikvashistha,{'[User]_ssbarnea'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1266
+2024-04-23 07:41:16+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1267
+2024-04-23 12:35:45+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1268
+2024-04-23 15:18:05+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1270
+2024-04-24 13:49:21+00:00,[User]_cidrblock,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1271
+2024-04-24 14:47:37+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1272
+2024-04-24 15:53:34+00:00,[User]_ssbarnea,{'[User]_audgirka'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1274
+2024-04-24 16:19:24+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1275
+2024-04-25 03:57:52+00:00,[User]_TamiTakamiya,"{'[User]_priyamsahoo', '[User]_TamiTakamiya', '[User]_ssbarnea'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1277
+2024-04-25 13:44:38+00:00,[User]_ssbarnea,{'[User]_audgirka'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1278
+2024-04-25 14:24:00+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1279
+2024-04-26 12:57:37+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1280
+2024-04-26 15:55:20+00:00,[User]_TamiTakamiya,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1281
+2024-04-27 11:14:49+00:00,[User]_ssbarnea,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1283
+2024-04-29 10:59:35+00:00,[User]_ssbarnea,{'[User]_audgirka'},ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1284
+2024-04-29 13:03:41+00:00,[User]_priyamsahoo,"{'[User]_audgirka', '[User]_shatakshiiii'}",ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/pull/1285
+2024-04-29 22:47:07+00:00,[User]_cidrblock,set(),ansible/vscode-ansible,2024,https://github.com/ansible/vscode-ansible/issues/1287

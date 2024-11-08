@@ -1,0 +1,451 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-02 10:19:13+00:00,[User]_tom-dalton-fanduel,{'[User]_alexjurkiewicz'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33137
+2023-05-03 08:44:42+00:00,[User]_do87,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33140
+2023-05-04 16:30:37+00:00,[User]_tmccombs,"{'[User]_tmccombs', '[User]_crw', '[User]_timothyclarke'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33150
+2023-05-10 10:09:38+00:00,[User]_vasylenko,"{'[User]_vasylenko', '[User]_OJFord', '[User]_apparentlymart', '[User]_matt-FFFFFF', '[User]_andrewhertog'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33174
+2023-05-10 13:51:24+00:00,[User]_bshramin,"{'[User]_bshramin', '[User]_apparentlymart', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33176
+2023-05-10 13:52:36+00:00,[User]_bshramin,"{'[User]_hashicorp-cla', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33177
+2023-05-15 13:30:12+00:00,[User]_pcarles,"{'[User]_v1gnesh', '[User]_crw', '[User]_slingamn', '[User]_justincange'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33195
+2023-05-16 03:35:01+00:00,[User]_jgournet,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33200
+2023-05-16 21:54:23+00:00,[User]_sarahethompson,{'[User]_tbehling'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33202
+2023-05-16 21:54:25+00:00,[User]_sarahethompson,{'[User]_tbehling'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33203
+2023-05-16 21:54:25+00:00,[User]_sarahethompson,{'[User]_tbehling'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33204
+2023-05-16 21:54:32+00:00,[User]_sarahethompson,"{'[User]_lukaevet', '[User]_tbehling'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33205
+2023-05-16 23:05:07+00:00,[User]_tarfeef101,"{'[User]_apparentlymart', '[User]_tarfeef101'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33206
+2023-05-18 09:45:27+00:00,[User]_marco-lancini,"{'[User]_apparentlymart', '[User]_MeenuyD'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33214
+2023-05-19 00:29:06+00:00,[User]_geekofalltrades,"{'[User]_geekofalltrades', '[User]_mikebranstein', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33216
+2023-05-19 02:17:24+00:00,[User]_hashi825,"{'[User]_FlawaCLV', '[User]_crw', '[User]_jnielsendotnet', '[User]_naustra'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33217
+2023-05-19 20:48:03+00:00,[User]_teamterraform,{'[User]_kmoe'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33227
+2023-05-20 02:14:08+00:00,[User]_ben-z,"{'[User]_hashicorp-cla', '[User]_crw', '[User]_yfried'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33229
+2023-05-22 20:07:49+00:00,[User]_archoversight,"{'[User]_KrisShannon', '[User]_gleb-boushev-effem', '[User]_elasticdotventures', '[User]_crw', '[User]_archoversight', '[User]_jubr', '[User]_apparentlymart', '[User]_Quanalogy'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33236
+2023-05-23 12:18:40+00:00,[User]_lukaevet,"{'[User]_hashicorp-cla', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33243
+2023-05-23 19:35:57+00:00,[User]_tbehling,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33250
+2023-05-24 20:27:01+00:00,[User]_mforeman19,"{'[User]_kbcz1989', '[User]_jay-laitmatus', '[User]_crw', '[User]_inshaffff', '[User]_MihajloManojlovNV', '[User]_apparentlymart', '[User]_adamretter', '[User]_haskovec', '[User]_mforeman19'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33259
+2023-05-26 07:38:54+00:00,[User]_b1az,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33264
+2023-05-27 07:42:38+00:00,[User]_Exchizz,"{'[User]_maycon', '[User]_jasonwc', '[User]_crw', '[User]_Exchizz', '[User]_ckoliber', '[User]_birjj'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33272
+2023-05-29 09:47:23+00:00,[User]_minamijoyo,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33276
+2023-05-29 10:04:25+00:00,[User]_arLevi,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33277
+2023-05-30 10:50:30+00:00,[User]_Tazer,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33280
+2023-06-02 04:15:44+00:00,[User]_Nuru,"{'[User]_hp-andrewk', '[User]_Nuru', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33303
+2023-06-02 05:28:38+00:00,[User]_Nuru,"{'[User]_Nuru', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33304
+2023-06-02 11:46:25+00:00,[User]_slingamn,"{'[User]_hashicorp-cla', '[User]_crw', '[User]_slingamn'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33305
+2023-06-05 00:09:18+00:00,[User]_tony-kerz,{'[User]_bartier'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33310
+2023-06-05 11:10:53+00:00,[User]_FalcoSuessgott,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33312
+2023-06-06 16:28:45+00:00,[User]_Esity,"{'[User]_apparentlymart', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33320
+2023-06-07 09:29:46+00:00,[User]_maonat,"{'[User]_apparentlymart', '[User]_crw', '[User]_maonat', '[User]_nathaclmpaulino'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33321
+2023-06-08 18:48:51+00:00,[User]_teamterraform,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33334
+2023-06-10 00:45:33+00:00,[User]_conorevans,"{'[User]_conorevans', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33343
+2023-06-12 11:41:27+00:00,[User]_hashworks,"{'[User]_hashworks', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33347
+2023-06-12 19:06:22+00:00,[User]_ppabis,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33350
+2023-06-13 00:36:32+00:00,[User]_MaxHorstmann,{'[User]_bflad'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33355
+2023-06-14 02:53:28+00:00,[User]_rahulrj,"{'[User]_rahulrj', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33366
+2023-06-15 15:55:37+00:00,[User]_adhodgson1,"{'[User]_adhodgson1', '[User]_crw', '[User]_reed-hanger', '[User]_rohan472000'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33380
+2023-06-15 17:03:13+00:00,[User]_Mawajingga,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33381
+2023-06-16 09:35:37+00:00,[User]_makarov-roman,"{'[User]_apparentlymart', '[User]_jbardin', '[User]_makarov-roman'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33382
+2023-06-20 03:48:06+00:00,[User]_cuishuang,"{'[User]_crw', '[User]_cuishuang'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33395
+2023-06-20 05:40:15+00:00,[User]_coderjoe,"{'[User]_hashicorp-cla', '[User]_coderjoe', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33396
+2023-06-20 09:56:30+00:00,[User]_paololazzari,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33398
+2023-06-20 19:21:58+00:00,[User]_dharmab,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33401
+2023-06-21 15:58:17+00:00,[User]_qrkourier,"{'[User]_qrkourier', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33407
+2023-06-23 08:02:29+00:00,[User]_schwichti,"{'[User]_hashicorp-cla', '[User]_crw', '[User]_trujillo-adam'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33420
+2023-06-23 23:44:20+00:00,[User]_cspotcode,"{'[User]_svengreb', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33426
+2023-06-24 05:12:58+00:00,[User]_bt-macole,"{'[User]_ronaldmiranda', '[User]_crw', '[User]_bt-macole', '[User]_oded-e'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33427
+2023-06-26 14:58:58+00:00,[User]_RafaelClovr,"{'[User]_quincy-codametrix', '[User]_RafaelClovr', '[User]_gdavison'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33431
+2023-06-28 09:55:01+00:00,[User]_gtmtech,"{'[User]_apparentlymart', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33437
+2023-06-28 14:17:44+00:00,[User]_jbardin,"{'[User]_apparentlymart', '[User]_bt-macole'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33438
+2023-06-29 08:31:04+00:00,[User]_Klaas-,{'[User]_jpbuecken'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33442
+2023-06-29 19:04:10+00:00,[User]_jareware,"{'[User]_jareware', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33447
+2023-06-29 21:36:33+00:00,[User]_Yiranwu,"{'[User]_Yiranwu', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33449
+2023-06-29 22:11:49+00:00,[User]_dsiguero,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33450
+2023-06-30 05:32:16+00:00,[User]_jskirde,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33452
+2023-06-30 06:57:03+00:00,[User]_skeggse,"{'[User]_crw', '[User]_skeggse'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33453
+2023-06-30 18:59:31+00:00,[User]_varshneydevansh,{'[User]_hashicorp-cla'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33461
+2023-07-02 00:07:20+00:00,[User]_Froazin,"{'[User]_etaham', '[User]_apparentlymart', '[User]_kmoe', '[User]_Froazin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33465
+2023-07-03 22:52:24+00:00,[User]_tmccombs,{'[User]_kmoe'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33471
+2023-07-04 12:44:17+00:00,[User]_kmoe,"{'[User]_dylan-shipwell', '[User]_markwellis', '[User]_omarismail', '[User]_arnvid', '[User]_carloprone', '[User]_GeorgeGkinis', '[User]_h2oearth', '[User]_oliverwiegers', '[User]_nikolaifa', '[User]_TrueCyberAxe', '[User]_Shocktrooper', '[User]_AMEvers'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33474
+2023-07-06 09:49:48+00:00,[User]_mplzik,"{'[User]_hashicorp-cla', '[User]_joaocc', '[User]_expnch', '[User]_liamcervante', '[User]_crw', '[User]_mplzik', '[User]_brandon-fryslie'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33479
+2023-07-07 19:14:45+00:00,[User]_chrismarget,"{'[User]_bflad', '[User]_apparentlymart', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33491
+2023-07-10 10:20:25+00:00,[User]_vydrazde,"{'[User]_crw', '[User]_vydrazde'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33495
+2023-07-10 13:37:51+00:00,[User]_BrianTuduri,"{'[User]_fyqtian', '[User]_crw', '[User]_magodo'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33497
+2023-07-14 06:53:01+00:00,[User]_richardj-bsquare,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33523
+2023-07-15 02:01:29+00:00,[User]_thomasgouveia,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33530
+2023-07-17 15:58:06+00:00,[User]_gravitylow,"{'[User]_gravitylow', '[User]_kmoe'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33533
+2023-07-18 13:37:09+00:00,[User]_MrImpossibru,"{'[User]_apparentlymart', '[User]_MrImpossibru'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33541
+2023-07-18 21:36:56+00:00,[User]_kderck,"{'[User]_apparentlymart', '[User]_kmoe', '[User]_brental'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33544
+2023-07-19 18:36:53+00:00,[User]_hmlanigan,"{'[User]_liamcervante', '[User]_hmlanigan', '[User]_crw', '[User]_lbhattvida'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33550
+2023-07-20 12:52:40+00:00,[User]_zahornyak,"{'[User]_hashicorp-cla', '[User]_crw', '[User]_trujillo-adam'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33557
+2023-07-20 13:22:15+00:00,[User]_GOTAM672,"{'[User]_GOTAM672', '[User]_hashicorp-cla', '[User]_kmoe', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33558
+2023-07-24 22:27:41+00:00,[User]_asaba-hashi,"{'[User]_asaba-hashi', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33570
+2023-07-27 19:43:22+00:00,[User]_bflad,"{'[User]_bflad', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33598
+2023-07-27 23:18:38+00:00,[User]_sodul,"{'[User]_apparentlymart', '[User]_sodul', '[User]_radeksimko'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33599
+2023-07-31 10:23:30+00:00,[User]_DanielTeraSky,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33610
+2023-07-31 16:58:06+00:00,[User]_joe-a-t,"{'[User]_crw', '[User]_joe-a-t', '[User]_alex-shafer-1002'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33613
+2023-08-01 18:18:43+00:00,[User]_gui-don,"{'[User]_gui-don', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33620
+2023-08-03 17:04:10+00:00,[User]_zachsdd,"{'[User]_mootpt', '[User]_hashicorp-cla', '[User]_EnginnerDog'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33629
+2023-08-04 09:49:16+00:00,[User]_DJAlPee,"{'[User]_antoinedeschenes', '[User]_or-shachar', '[User]_DavidGamba', '[User]_eternalapprentice2000', '[User]_mlucic', '[User]_carloprone', '[User]_jbardin', '[User]_acdha', '[User]_kevinkuszyk', '[User]_DJAlPee', '[User]_AMEvers'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33633
+2023-08-05 07:02:56+00:00,[User]_baynezy,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33636
+2023-08-06 17:10:02+00:00,[User]_keivinonline,"{'[User]_apurvagandhi', '[User]_keivinonline', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33638
+2023-08-07 08:06:43+00:00,[User]_mejuhi,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33639
+2023-08-07 08:13:26+00:00,[User]_akumar-99,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33640
+2023-08-07 10:39:38+00:00,[User]_gsped-guarnaccia,"{'[User]_gsped-guarnaccia', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33641
+2023-08-08 22:41:54+00:00,[User]_garysassano,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33654
+2023-08-09 10:07:40+00:00,[User]_istairbn,"{'[User]_dankarmyy', '[User]_quails4Eva'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33651
+2023-08-10 03:02:30+00:00,[User]_seanturner026,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33655
+2023-08-10 07:55:54+00:00,[User]_msartor92,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33657
+2023-08-10 14:52:05+00:00,[User]_NYRangers30,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33660
+2023-08-11 04:28:08+00:00,[User]_JamesJJ,{'[User]_liamcervante'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33663
+2023-08-12 14:44:08+00:00,[User]_KenSpur,"{'[User]_KenSpur', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33671
+2023-08-14 20:39:56+00:00,[User]_grimm26,"{'[User]_grimm26', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33681
+2023-08-15 20:43:52+00:00,[User]_gdavison,"{'[User]_apparentlymart', '[User]_gdavison'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33686
+2023-08-15 21:04:36+00:00,[User]_gdavison,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33689
+2023-08-15 21:38:03+00:00,[User]_gdavison,{'[User]_gdavison'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33690
+2023-08-16 07:34:23+00:00,[User]_ascopes,"{'[User]_nnnvvvcv', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33694
+2023-08-17 12:16:01+00:00,[User]_matheusmgon,{'[User]_hashicorp-cla'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33704
+2023-08-21 16:27:14+00:00,[User]_kmezynski,"{'[User]_kmezynski', '[User]_apparentlymart', '[User]_ascopes'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33712
+2023-08-21 17:21:30+00:00,[User]_teamterraform,"{'[User]_hashicorp-cla', '[User]_kmoe'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33713
+2023-08-22 07:18:09+00:00,[User]_AdamCoulterOz,"{'[User]_AdamCoulterOz', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33719
+2023-08-22 08:10:45+00:00,[User]_liamcervante,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33720
+2023-08-23 14:09:34+00:00,[User]_aaronmell,"{'[User]_tekumara', '[User]_apparentlymart', '[User]_jbardin', '[User]_aaronmell'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33726
+2023-08-24 15:17:24+00:00,[User]_kmoe,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33737
+2023-08-30 21:46:52+00:00,[User]_cschar,"{'[User]_apparentlymart', '[User]_tzahari'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33772
+2023-09-01 15:57:28+00:00,[User]_DustinMoriarty,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33784
+2023-09-01 17:56:06+00:00,[User]_krlinus,"{'[User]_Yashrajput7232', '[User]_crw', '[User]_krlinus', '[User]_teelrabbit', '[User]_justinretzolk'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33785
+2023-09-01 19:13:59+00:00,[User]_lorengordon,"{'[User]_richardsonky', '[User]_omarismail', '[User]_liamcervante', '[User]_lorengordon', '[User]_albertorm95', '[User]_tomhaynes'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33786
+2023-09-01 20:20:17+00:00,[User]_radditude,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33788
+2023-09-04 10:56:14+00:00,[User]_MOZGIII,"{'[User]_ghazanhaider', '[User]_MOZGIII', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33793
+2023-09-04 14:49:22+00:00,[User]_freebased,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33795
+2023-09-05 12:31:36+00:00,[User]_paololazzari,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33799
+2023-09-05 17:51:26+00:00,[User]_jar-b,"{'[User]_marshallford', '[User]_crw', '[User]_manobi', '[User]_gdavison'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33803
+2023-09-06 15:14:20+00:00,[User]_mesrikanthreddy,"{'[User]_hashicorp-cla', '[User]_Yashrajput7232', '[User]_crw', '[User]_trujillo-adam', '[User]_Jagannathmaity110'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33816
+2023-09-06 18:35:00+00:00,[User]_gdavison,{'[User]_jar-b'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33822
+2023-09-06 20:05:51+00:00,[User]_delikvent,"{'[User]_kgibson-insight', '[User]_crw', '[User]_ybensoussan'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33826
+2023-09-10 05:44:59+00:00,[User]_wilber82,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33859
+2023-09-11 10:00:19+00:00,[User]_gabrielmccoll,"{'[User]_gabrielmccoll', '[User]_OneCricketeer', '[User]_rquadling'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33862
+2023-09-11 10:20:12+00:00,[User]_l-with,"{'[User]_omarismail', '[User]_l-with', '[User]_crw', '[User]_md2k'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33863
+2023-09-11 13:01:57+00:00,[User]_paololazzari,"{'[User]_apparentlymart', '[User]_jbardin', '[User]_paololazzari'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33866
+2023-09-12 04:36:17+00:00,[User]_yashx,"{'[User]_hashicorp-cla', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33873
+2023-09-12 10:58:06+00:00,[User]_notone0010,"{'[User]_notone0010', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33876
+2023-09-13 14:39:12+00:00,[User]_Joseluismantilla,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33882
+2023-09-14 16:54:34+00:00,[User]_jcarlson,"{'[User]_jcarlson', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33898
+2023-09-16 18:22:45+00:00,[User]_lorenzofelletti,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33903
+2023-09-19 12:13:07+00:00,[User]_vladimirtiukhtin,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33908
+2023-09-19 15:40:13+00:00,[User]_theherk,"{'[User]_jbardin', '[User]_theherk'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33910
+2023-09-20 08:17:14+00:00,[User]_lorenzofelletti,"{'[User]_apparentlymart', '[User]_lorenzofelletti'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33916
+2023-09-22 16:51:24+00:00,[User]_shanye997,"{'[User]_apparentlymart', '[User]_shanye997'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33931
+2023-09-23 05:11:09+00:00,[User]_flavono123,"{'[User]_crw', '[User]_mario21ic'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33935
+2023-09-26 05:34:01+00:00,[User]_ravinitp,"{'[User]_ravinitp', '[User]_hashicorp-cla', '[User]_apparentlymart', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33941
+2023-09-27 10:42:12+00:00,[User]_zackdotcomputer,{'[User]_radditude'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33945
+2023-09-27 11:14:19+00:00,[User]_radeksimko,"{'[User]_alisdair', '[User]_joekarl'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33946
+2023-09-27 18:21:55+00:00,[User]_pgelinas,"{'[User]_pgelinas', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33948
+2023-09-28 08:29:55+00:00,[User]_sftim,"{'[User]_crw', '[User]_sftim'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33949
+2023-09-29 00:42:46+00:00,[User]_patrickherrera,"{'[User]_patrickherrera', '[User]_apparentlymart', '[User]_gdavison'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33958
+2023-09-29 08:30:10+00:00,[User]_liamcervante,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33959
+2023-10-02 15:14:49+00:00,[User]_antgustech,"{'[User]_jbardin', '[User]_rcskosir'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33963
+2023-10-03 22:35:44+00:00,[User]_UdhavPawar,"{'[User]_chriskathumbi', '[User]_liamcervante', '[User]_UdhavPawar', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33970
+2023-10-04 08:06:18+00:00,[User]_snuggie12,"{'[User]_crw', '[User]_caius'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33972
+2023-10-04 17:53:53+00:00,[User]_mpkuth,"{'[User]_omarismail', '[User]_mpkuth', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33975
+2023-10-04 19:23:59+00:00,[User]_henriquebrunialti,"{'[User]_ubaid-github', '[User]_Erouan50', '[User]_crw', '[User]_ogusak', '[User]_bosch-ch', '[User]_jrogers-dlp', '[User]_jbardin', '[User]_thepoppingone', '[User]_pjhampton', '[User]_apparentlymart', '[User]_henriquebrunialti', '[User]_znahas', '[User]_NyanKiyoshi'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33977
+2023-10-06 00:57:32+00:00,[User]_greenkiwi,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/33995
+2023-10-06 06:05:33+00:00,[User]_ajf-firstup,"{'[User]_hashicorp-cla', '[User]_ajf-firstup', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/33999
+2023-10-06 16:18:13+00:00,[User]_GSDragoon,"{'[User]_liamcervante', '[User]_crw', '[User]_GSDragoon'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34009
+2023-10-06 16:44:46+00:00,[User]_liamcervante,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34010
+2023-10-07 16:46:11+00:00,[User]_joaocc,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34018
+2023-10-07 16:56:01+00:00,[User]_joaocc,"{'[User]_gsemet', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34019
+2023-10-09 22:50:59+00:00,[User]_techieforfun,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34039
+2023-10-10 02:39:30+00:00,[User]_dariuswatson,"{'[User]_DenisBalan', '[User]_liamcervante', '[User]_dariuswatson', '[User]_pavan-kovi'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34040
+2023-10-10 12:07:27+00:00,[User]_rbtcollins,"{'[User]_rbtcollins', '[User]_kiweezi', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34041
+2023-10-10 14:09:50+00:00,[User]_dariuswatson,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34044
+2023-10-10 14:25:05+00:00,[User]_baynezy,"{'[User]_Hecedu', '[User]_apparentlymart', '[User]_baynezy'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34046
+2023-10-10 16:53:20+00:00,[User]_NeorisCamilo,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34051
+2023-10-10 21:45:39+00:00,[User]_sean-rossignol,"{'[User]_mprimeaux', '[User]_liamcervante', '[User]_aprice-sss', '[User]_crw', '[User]_sean-rossignol', '[User]_rjminchuk'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34052
+2023-10-10 23:52:49+00:00,[User]_12345ieee,"{'[User]_rp-jasonp', '[User]_sosiskin2000', '[User]_yordis', '[User]_gdavison', '[User]_mark-wff', '[User]_AAverin', '[User]_hegerdes', '[User]_alecaugh', '[User]_patilak1', '[User]_vadymkiz', '[User]_zeyad-sitech', '[User]_noprobsdk', '[User]_holms', '[User]_mmeier86', '[User]_vineelachavali', '[User]_frittentheke', '[User]_crw', '[User]_jar-b', '[User]_matkovskiy', '[User]_gantta', '[User]_12345ieee'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34053
+2023-10-11 06:46:41+00:00,[User]_ritsok,{'[User]_im2nguyen'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/34056
+2023-10-11 14:36:18+00:00,[User]_joshua-hancox,"{'[User]_joshua-hancox', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34061
+2023-10-11 14:50:12+00:00,[User]_rpadaki,{'[User]_liamcervante'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34062
+2023-10-11 15:53:41+00:00,[User]_kmoe,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34063
+2023-10-12 09:00:30+00:00,[User]_IppX,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34068
+2023-10-12 10:42:37+00:00,[User]_med-94,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34071
+2023-10-12 16:32:50+00:00,[User]_yohanb,"{'[User]_fxkk', '[User]_omarismail', '[User]_brettcurtis', '[User]_yohanb', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34073
+2023-10-13 01:28:29+00:00,[User]_itay-grudev,{'[User]_liamcervante'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34075
+2023-10-13 04:45:24+00:00,[User]_UA-Admin2023,{'[User]_liamcervante'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34076
+2023-10-13 09:27:49+00:00,[User]_grommir,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34078
+2023-10-13 10:29:13+00:00,[User]_TChanel,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34079
+2023-10-13 13:35:18+00:00,[User]_jorenvh1,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34080
+2023-10-14 07:20:16+00:00,[User]_alamwasim29,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34083
+2023-10-15 20:26:48+00:00,[User]_owlleg6,"{'[User]_liamcervante', '[User]_owlleg6'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34087
+2023-10-16 10:46:43+00:00,[User]_internetti,"{'[User]_micaroni', '[User]_internetti', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34088
+2023-10-17 14:53:59+00:00,[User]_Devjeel,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34104
+2023-10-17 23:05:14+00:00,[User]_bondsb,"{'[User]_bondsb', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34105
+2023-10-18 09:26:01+00:00,[User]_CodeBehind,"{'[User]_liamcervante', '[User]_CodeBehind'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34106
+2023-10-18 18:31:46+00:00,[User]_Jithinxavi,"{'[User]_apparentlymart', '[User]_jbardin', '[User]_Jithinxavi'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34112
+2023-10-19 12:15:38+00:00,[User]_veldpworld,{'[User]_liamcervante'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34114
+2023-10-20 20:51:36+00:00,[User]_tdevopsottawa,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34122
+2023-10-20 23:28:12+00:00,[User]_apparentlymart,{'[User]_bschaatsbergen'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34124
+2023-10-25 10:41:29+00:00,[User]_lambbuster,"{'[User]_josh-keller', '[User]_gdavison', '[User]_Echeoss', '[User]_lambbuster', '[User]_rahul6941'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34136
+2023-10-27 04:35:54+00:00,[User]_strugee,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34146
+2023-10-27 09:55:36+00:00,[User]_Taha-cmd,"{'[User]_liamcervante', '[User]_jbardin', '[User]_AMEvers', '[User]_Taha-cmd'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34150
+2023-10-27 12:47:37+00:00,[User]_Rwwn,"{'[User]_kclinden', '[User]_jbardin', '[User]_Rwwn'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34152
+2023-10-27 14:28:54+00:00,[User]_chris-reeves,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34154
+2023-10-30 07:46:34+00:00,[User]_prahastakumar,"{'[User]_apparentlymart', '[User]_jbardin', '[User]_kmoe', '[User]_prahastakumar'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34157
+2023-10-30 16:46:59+00:00,[User]_jasonkarns,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34163
+2023-10-31 00:54:12+00:00,[User]_johankayati2019,"{'[User]_johankayati2019', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34165
+2023-10-31 07:51:24+00:00,[User]_ls-devops-notification,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34168
+2023-10-31 10:48:53+00:00,[User]_DamienCarpy,"{'[User]_apparentlymart', '[User]_DamienCarpy'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34170
+2023-10-31 14:00:53+00:00,[User]_tipirnenichowdary,"{'[User]_apparentlymart', '[User]_tipirnenichowdary'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34171
+2023-10-31 20:10:59+00:00,[User]_EvanCarroll,"{'[User]_apparentlymart', '[User]_EvanCarroll'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34172
+2023-11-01 17:59:52+00:00,[User]_JulienAndonov,{'[User]_jbardin'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34174
+2023-11-02 13:24:19+00:00,[User]_ron-matsliah,"{'[User]_omarismail', '[User]_crw', '[User]_brettcurtis', '[User]_sleepwithcoffee'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34180
+2023-11-02 18:01:49+00:00,[User]_richid,"{'[User]_omarismail', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34182
+2023-11-03 23:24:07+00:00,[User]_tmccombs,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34187
+2023-11-04 11:22:51+00:00,[User]_karimhreda,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34188
+2023-11-06 11:48:38+00:00,[User]_Hrolgar,"{'[User]_jbardin', '[User]_Hrolgar'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34191
+2023-11-07 15:23:00+00:00,[User]_rod2198,"{'[User]_Niahm', '[User]_Perks-of-Being-a-Cauliflower'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34199
+2023-11-08 10:27:20+00:00,[User]_wangrzneu,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34203
+2023-11-08 12:45:38+00:00,[User]_thewileyriley,"{'[User]_delaosa', '[User]_thewileyriley', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34207
+2023-11-09 10:59:56+00:00,[User]_marcofortina,"{'[User]_marcofortina', '[User]_jbardin', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34211
+2023-11-10 07:23:10+00:00,[User]_paololazzari,"{'[User]_apparentlymart', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34213
+2023-11-13 14:53:07+00:00,[User]_nwsparks,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34230
+2023-11-13 20:20:36+00:00,[User]_sdarwin,"{'[User]_apparentlymart', '[User]_sdarwin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34236
+2023-11-14 00:50:51+00:00,[User]_richid,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34237
+2023-11-14 21:15:06+00:00,[User]_EugenKon,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34242
+2023-11-16 04:15:31+00:00,[User]_scalp42,"{'[User]_scalp42', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34250
+2023-11-16 11:39:36+00:00,[User]_staranto,"{'[User]_connoravo', '[User]_jbardin', '[User]_staranto'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34252
+2023-11-17 13:39:03+00:00,[User]_rvdouderaa,"{'[User]_mefarazahmad', '[User]_apparentlymart', '[User]_rvdouderaa', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34264
+2023-11-17 15:03:01+00:00,[User]_hsiam261,"{'[User]_hashicorp-cla', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/34265
+2023-11-17 15:09:33+00:00,[User]_MJohnson459,"{'[User]_apparentlymart', '[User]_jbardin', '[User]_MJohnson459'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34266
+2023-11-18 05:23:39+00:00,[User]_inetmiguel,"{'[User]_hashicorp-cla', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/34271
+2023-11-21 05:49:35+00:00,[User]_jurna,"{'[User]_TheEdgeOfRage', '[User]_Ficqueth', '[User]_gdavison'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34279
+2023-11-22 18:40:01+00:00,[User]_tgoodsell-tempus,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34286
+2023-11-23 08:24:37+00:00,[User]_Bjyothi2023,{'[User]_apparentlymart'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34292
+2023-11-23 11:20:22+00:00,[User]_blzsadam,{'[User]_harshavmb'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34294
+2023-11-24 15:04:33+00:00,[User]_alexott,"{'[User]_alexott', '[User]_apparentlymart'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34296
+2023-11-24 15:19:47+00:00,[User]_Quanalogy,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34297
+2023-11-27 21:16:41+00:00,[User]_skeggse,{'[User]_liamcervante'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34303
+2023-11-28 16:43:40+00:00,[User]_andresvia,"{'[User]_apparentlymart', '[User]_jbardin', '[User]_andresvia'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34310
+2023-11-29 19:03:39+00:00,[User]_gdavison,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34327
+2023-11-30 14:38:24+00:00,[User]_EugenKon,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34335
+2023-12-04 06:12:25+00:00,[User]_nhooey,"{'[User]_apparentlymart', '[User]_jbardin'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34345
+2023-12-05 10:59:08+00:00,[User]_dkirrane,{'[User]_jacobkretz-bf'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34356
+2023-12-05 18:06:22+00:00,[User]_tschmidty69,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34359
+2023-12-07 18:41:43+00:00,[User]_sebasslash,"{'[User]_apparentlymart', '[User]_nfagerlund'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/34375
+2023-12-08 11:44:21+00:00,[User]_drewhemm,"{'[User]_apparentlymart', '[User]_jbardin', '[User]_drewhemm'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34379
+2023-12-11 20:38:47+00:00,[User]_drewmullen,{'[User]_KenSpur'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34395
+2023-12-11 21:29:14+00:00,[User]_shamzam31,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34396
+2023-12-13 13:27:13+00:00,[User]_Satak,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34405
+2023-12-14 16:09:00+00:00,[User]_hashworks,"{'[User]_varshneydevansh', '[User]_hashworks', '[User]_crw', '[User]_mistressxalexis', '[User]_jbardin', '[User]_kmoe'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34410
+2023-12-15 03:28:17+00:00,[User]_absolutelightning,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/34415
+2023-12-15 08:10:01+00:00,[User]_adampoplawski,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34416
+2023-12-15 13:21:28+00:00,[User]_DanielMSchmidt,set(),hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/34419
+2023-12-18 10:17:29+00:00,[User]_joaocc,{'[User]_crw'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34424
+2023-12-19 16:37:35+00:00,[User]_jbardin,{'[User]_albertorm95'},hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34428
+2023-12-20 18:38:32+00:00,[User]_denis256,"{'[User]_crw', '[User]_kmoe'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34438
+2023-12-20 22:21:04+00:00,[User]_drandell,"{'[User]_robertomczak', '[User]_jhancock93', '[User]_gk-drw', '[User]_jbardin', '[User]_paul-hugill', '[User]_spkane'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34439
+2023-12-21 18:04:59+00:00,[User]_lens0021,"{'[User]_lens0021', '[User]_apparentlymart', '[User]_kmoe', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/34443
+2023-12-22 14:02:35+00:00,[User]_remi-f-artelia,"{'[User]_ART-jbfontaine', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34448
+2023-12-24 11:34:48+00:00,[User]_harshavmb,"{'[User]_hashicorp-cla', '[User]_crw'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/pull/34455
+2023-12-27 12:09:25+00:00,[User]_krupavanigundraju,"{'[User]_hegerdes', '[User]_gutzi', '[User]_Dipak-Mistry-WTW', '[User]_crw', '[User]_Ananyojha'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34456
+2023-12-29 08:56:22+00:00,[User]_haroldo-bonette,"{'[User]_haroldo-bonette', '[User]_kmoe'}",hashicorp/terraform,2023,https://github.com/hashicorp/terraform/issues/34461
+2024-01-02 09:35:39+00:00,[User]_ravinitp,"{'[User]_ravinitp', '[User]_Josephred999', '[User]_crw', '[User]_MayaN2212'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34465
+2024-01-03 06:45:24+00:00,[User]_DevOpsJon,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34468
+2024-01-04 12:55:58+00:00,[User]_kryptoblack,"{'[User]_kryptoblack', '[User]_apparentlymart'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34479
+2024-01-05 12:25:00+00:00,[User]_henrjk,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34488
+2024-01-07 18:23:54+00:00,[User]_bschaatsbergen,"{'[User]_bschaatsbergen', '[User]_jbardin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34497
+2024-01-08 11:32:50+00:00,[User]_shanye997,"{'[User]_liamcervante', '[User]_crw', '[User]_shanye997'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34500
+2024-01-09 22:53:09+00:00,[User]_nathanblair,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34512
+2024-01-10 20:21:02+00:00,[User]_KaplanAlex,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34516
+2024-01-10 20:47:38+00:00,[User]_qwelias,"{'[User]_hashicorp-cla', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34517
+2024-01-10 22:38:50+00:00,[User]_MrChadMWood,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34518
+2024-01-15 17:29:57+00:00,[User]_abellosovic,"{'[User]_arodriguezdlc', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34526
+2024-01-15 20:17:20+00:00,[User]_Devvox93,"{'[User]_apparentlymart', '[User]_Devvox93', '[User]_LeoCie'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34527
+2024-01-16 16:26:41+00:00,[User]_cybershoe,"{'[User]_jbardin', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34530
+2024-01-17 07:32:51+00:00,[User]_silopolis,"{'[User]_crw', '[User]_carminevassallo'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34532
+2024-01-17 07:59:30+00:00,[User]_jtracey93,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34533
+2024-01-18 12:23:34+00:00,[User]_bew,"{'[User]_novekm', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34538
+2024-01-18 18:40:51+00:00,[User]_bflad,"{'[User]_bflad', '[User]_apparentlymart'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34541
+2024-01-18 19:12:25+00:00,[User]_chell0veck,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34542
+2024-01-19 17:56:30+00:00,[User]_joaocc,"{'[User]_joaocc', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34546
+2024-01-19 18:45:27+00:00,[User]_jgrammen-agilitypr,"{'[User]_jgrammen-agilitypr', '[User]_jbardin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34547
+2024-01-19 21:18:08+00:00,[User]_schollii,"{'[User]_schollii', '[User]_apparentlymart', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34548
+2024-01-20 13:27:39+00:00,[User]_cemo,"{'[User]_apparentlymart', '[User]_crw', '[User]_cemo'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34550
+2024-01-22 09:36:28+00:00,[User]_matt-FFFFFF,"{'[User]_crw', '[User]_matt-FFFFFF'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34552
+2024-01-22 16:55:57+00:00,[User]_denis256,"{'[User]_mrachuta', '[User]_apparentlymart'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34554
+2024-01-23 15:21:59+00:00,[User]_jdufresne,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34560
+2024-01-24 12:28:39+00:00,[User]_MubashirUsman,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34566
+2024-01-24 14:54:43+00:00,[User]_LaurentLesle,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34568
+2024-01-26 13:29:21+00:00,[User]_deepbrook,"{'[User]_omarismail', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34579
+2024-01-26 16:10:15+00:00,[User]_diegolagospagopa,{'[User]_diegolagospagopa'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34581
+2024-01-28 13:23:26+00:00,[User]_lijok,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34585
+2024-01-29 20:58:35+00:00,[User]_vincer,"{'[User]_apparentlymart', '[User]_vincer'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34588
+2024-01-31 21:46:40+00:00,[User]_anilkumarmyla,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34604
+2024-02-02 10:13:38+00:00,[User]_deepbrook,"{'[User]_bflad', '[User]_liamcervante', '[User]_deepbrook', '[User]_apparentlymart', '[User]_asaba-hashi'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34611
+2024-02-02 11:29:36+00:00,[User]_deitChi,"{'[User]_apparentlymart', '[User]_deitChi'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34612
+2024-02-03 12:41:30+00:00,[User]_TBeijen,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34615
+2024-02-05 09:37:20+00:00,[User]_oto-macenauer-absa,"{'[User]_oto-macenauer-absa', '[User]_apparentlymart'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34616
+2024-02-06 07:53:03+00:00,[User]_deepbrook,"{'[User]_trajan3', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34622
+2024-02-06 13:50:11+00:00,[User]_tiwood,"{'[User]_apparentlymart', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34626
+2024-02-06 14:03:08+00:00,[User]_tiwood,"{'[User]_liamcervante', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34627
+2024-02-07 18:23:52+00:00,[User]_benniehanas,"{'[User]_benniehanas', '[User]_crw', '[User]_jbardin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34633
+2024-02-07 22:59:13+00:00,[User]_tmccombs,"{'[User]_apparentlymart', '[User]_crw', '[User]_lqc'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34634
+2024-02-08 07:41:17+00:00,[User]_AndreasAugustin,"{'[User]_AndreasAugustin', '[User]_Devvox93'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34640
+2024-02-08 14:13:05+00:00,[User]_heldersepu,"{'[User]_crw', '[User]_GillesTourreau'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34639
+2024-02-12 17:02:33+00:00,[User]_radeksimko,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34660
+2024-02-13 04:51:16+00:00,[User]_NetMoose,"{'[User]_hashicorp-cla', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34662
+2024-02-13 15:42:50+00:00,[User]_alexis-renard,"{'[User]_liamcervante', '[User]_alexis-renard', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34668
+2024-02-13 15:57:01+00:00,[User]_maxxiefjv,"{'[User]_apparentlymart', '[User]_jbardin', '[User]_maxxiefjv'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34669
+2024-02-14 00:37:14+00:00,[User]_LaurentLesle,"{'[User]_LaurentLesle', '[User]_apparentlymart'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34672
+2024-02-14 01:53:19+00:00,[User]_LaurentLesle,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34673
+2024-02-14 02:21:03+00:00,[User]_Stretch96,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34674
+2024-02-17 13:42:26+00:00,[User]_bgshacklett,"{'[User]_liamcervante', '[User]_bgshacklett'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34693
+2024-02-17 16:04:54+00:00,[User]_bryanhonof,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34694
+2024-02-19 15:12:52+00:00,[User]_alexis-renard,{'[User]_liamcervante'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34700
+2024-02-20 12:43:04+00:00,[User]_kmoe,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34706
+2024-02-21 12:16:18+00:00,[User]_leuthelt,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34711
+2024-02-21 17:57:26+00:00,[User]_nwalters512,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34712
+2024-02-21 20:34:31+00:00,[User]_EugenKon,"{'[User]_EugenKon', '[User]_apparentlymart'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34714
+2024-02-23 22:32:52+00:00,[User]_jaffel-lc,"{'[User]_apparentlymart', '[User]_fdmsantos', '[User]_jaffel-lc'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34727
+2024-02-26 21:36:20+00:00,[User]_acdha,"{'[User]_apparentlymart', '[User]_acdha'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34732
+2024-03-01 01:56:01+00:00,[User]_apparentlymart,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34753
+2024-03-03 04:59:44+00:00,[User]_quixoticmonk,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34759
+2024-03-04 11:37:07+00:00,[User]_Joren-Thijs,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34760
+2024-03-05 04:45:19+00:00,[User]_endzyme,"{'[User]_endzyme', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34767
+2024-03-05 22:53:30+00:00,[User]_brettcurtis,"{'[User]_jbardin', '[User]_brettcurtis'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34771
+2024-03-06 11:03:55+00:00,[User]_Bipin-dbdigital-in,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34774
+2024-03-06 13:05:56+00:00,[User]_LeBaronDeCharlus,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34775
+2024-03-07 18:43:10+00:00,[User]_skmtrian,"{'[User]_apparentlymart', '[User]_skmtrian'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34786
+2024-03-07 23:29:27+00:00,[User]_jilyaluk,"{'[User]_jilyaluk', '[User]_apparentlymart', '[User]_jbardin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34792
+2024-03-08 12:37:24+00:00,[User]_mutahhir,"{'[User]_mutahhir', '[User]_apparentlymart'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34797
+2024-03-08 23:23:41+00:00,[User]_tmccombs,"{'[User]_tmccombs', '[User]_apparentlymart', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34808
+2024-03-09 00:20:12+00:00,[User]_crwilcox,"{'[User]_crw', '[User]_crwilcox'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34809
+2024-03-11 09:36:05+00:00,[User]_pazderak,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34813
+2024-03-13 02:02:34+00:00,[User]_apparentlymart,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34823
+2024-03-13 06:21:43+00:00,[User]_kam1kaze,"{'[User]_apparentlymart', '[User]_jbardin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34824
+2024-03-13 19:38:17+00:00,[User]_rokazeme,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34828
+2024-03-14 22:57:31+00:00,[User]_OOTS,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34850
+2024-03-16 17:20:00+00:00,[User]_alexis-renard,"{'[User]_omarismail', '[User]_hashicorp-cla', '[User]_alexis-renard', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34858
+2024-03-17 15:09:19+00:00,[User]_Lussebullen,"{'[User]_Lussebullen', '[User]_hashicorp-cla', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34859
+2024-03-18 15:34:57+00:00,[User]_rwblokzijl,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34860
+2024-03-20 09:20:49+00:00,[User]_bendbennett,"{'[User]_bendbennett', '[User]_apparentlymart'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34865
+2024-03-20 11:26:45+00:00,[User]_bendbennett,"{'[User]_liamcervante', '[User]_apparentlymart', '[User]_jbardin', '[User]_bendbennett'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34866
+2024-03-20 23:56:36+00:00,[User]_tmccombs,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34870
+2024-03-21 12:16:22+00:00,[User]_mike-guy,"{'[User]_liamcervante', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34871
+2024-03-23 17:52:04+00:00,[User]_freakinhippie,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34877
+2024-03-24 15:20:13+00:00,[User]_Madhu-mohan86,"{'[User]_crw', '[User]_Madhu-mohan86'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34878
+2024-03-24 21:16:48+00:00,[User]_george-richardson,"{'[User]_hashicorp-cla', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34879
+2024-03-25 12:20:10+00:00,[User]_liamcervante,"{'[User]_liamcervante', '[User]_DanielMSchmidt'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34881
+2024-03-25 18:13:07+00:00,[User]_liamcervante,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34883
+2024-03-26 07:49:22+00:00,[User]_Gianluca755,"{'[User]_crw', '[User]_rkoron007', '[User]_Gianluca755'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34885
+2024-03-26 19:10:13+00:00,[User]_teamterraform,{'[User]_jar-b'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34889
+2024-03-27 02:45:09+00:00,[User]_garysassano,"{'[User]_garysassano', '[User]_apparentlymart', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34890
+2024-03-27 10:39:40+00:00,[User]_dbanck,{'[User]_ansgarm'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34892
+2024-03-27 20:06:11+00:00,[User]_austinvalle,{'[User]_austinvalle'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34894
+2024-03-28 09:47:09+00:00,[User]_arthfl,"{'[User]_arthfl', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34898
+2024-03-28 17:13:41+00:00,[User]_michaelbrewer,"{'[User]_michaelbrewer', '[User]_apparentlymart', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34902
+2024-03-28 21:11:22+00:00,[User]_shoekstra,"{'[User]_shoekstra', '[User]_apparentlymart', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34903
+2024-03-28 21:41:56+00:00,[User]_michaelbrewer,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34904
+2024-03-28 22:14:49+00:00,[User]_teamterraform,"{'[User]_hashicorp-cla', '[User]_ritsok', '[User]_BrianMMcClain', '[User]_radeksimko'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34905
+2024-03-28 22:15:28+00:00,[User]_teamterraform,"{'[User]_ritsok', '[User]_BrianMMcClain', '[User]_radeksimko'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34909
+2024-03-29 15:01:00+00:00,[User]_shellwhale,"{'[User]_apparentlymart', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34917
+2024-04-01 11:40:15+00:00,[User]_ravi334,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34919
+2024-04-01 11:45:01+00:00,[User]_Shashwat2712200,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34924
+2024-04-01 12:19:15+00:00,[User]_dimoschi,"{'[User]_apparentlymart', '[User]_bschaatsbergen'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34920
+2024-04-01 20:41:47+00:00,[User]_jasonzhao6,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34925
+2024-04-02 12:34:23+00:00,[User]_kclinden,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34927
+2024-04-02 12:37:02+00:00,[User]_kclinden,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34928
+2024-04-02 13:37:44+00:00,[User]_DanielMSchmidt,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34929
+2024-04-02 16:30:40+00:00,[User]_liamcervante,{'[User]_liamcervante'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34930
+2024-04-02 16:44:51+00:00,[User]_zpbonjour,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34931
+2024-04-03 09:09:27+00:00,[User]_QBY-MauriceBaerisch,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34933
+2024-04-03 10:51:44+00:00,[User]_teamterraform,"{'[User]_hashicorp-cla', '[User]_radeksimko'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34934
+2024-04-03 10:52:08+00:00,[User]_teamterraform,"{'[User]_hashicorp-cla', '[User]_radeksimko'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34938
+2024-04-03 10:52:22+00:00,[User]_teamterraform,{'[User]_radeksimko'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34940
+2024-04-03 15:41:27+00:00,[User]_teamterraform,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34942
+2024-04-03 20:50:33+00:00,[User]_Maed223,{'[User]_Maed223'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34943
+2024-04-04 02:59:53+00:00,[User]_Jithinxavi,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34944
+2024-04-04 14:41:27+00:00,[User]_liamcervante,"{'[User]_liamcervante', '[User]_DanielMSchmidt', '[User]_jbardin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34946
+2024-04-05 06:05:01+00:00,[User]_HaruY96,{'[User]_liamcervante'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34948
+2024-04-05 08:57:50+00:00,[User]_gmarciani,"{'[User]_apparentlymart', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34949
+2024-04-05 11:42:38+00:00,[User]_trajan3,"{'[User]_trajan3', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34951
+2024-04-05 17:42:45+00:00,[User]_jordan-k-gilead,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34953
+2024-04-05 18:02:25+00:00,[User]_spkane,"{'[User]_apparentlymart', '[User]_spkane'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34954
+2024-04-05 22:50:54+00:00,[User]_apparentlymart,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34955
+2024-04-06 13:12:17+00:00,[User]_islishude,"{'[User]_jbardin', '[User]_Killpit'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34956
+2024-04-08 22:32:58+00:00,[User]_EugenKon,"{'[User]_EugenKon', '[User]_liamcervante'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34962
+2024-04-09 02:33:56+00:00,[User]_joeman155,{'[User]_liamcervante'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34964
+2024-04-09 05:21:46+00:00,[User]_mxfactorial,"{'[User]_apparentlymart', '[User]_mxfactorial'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34965
+2024-04-09 09:47:24+00:00,[User]_liamcervante,"{'[User]_liamcervante', '[User]_nfagerlund'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34966
+2024-04-10 10:41:30+00:00,[User]_BlakeWills-BJSS,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34969
+2024-04-10 11:38:56+00:00,[User]_remi-f-artelia,"{'[User]_remi-f-artelia', '[User]_jbardin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34970
+2024-04-10 23:51:58+00:00,[User]_jorhett,"{'[User]_marcelfrey29', '[User]_danielhanold', '[User]_apparentlymart', '[User]_jorhett', '[User]_surskitt'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34974
+2024-04-11 06:04:49+00:00,[User]_mynadx,"{'[User]_liamcervante', '[User]_mynadx', '[User]_jbardin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34975
+2024-04-11 07:19:59+00:00,[User]_jinsekim,"{'[User]_georgepstaylor', '[User]_arkaitzj', '[User]_liamcervante', '[User]_MatLambethMS', '[User]_jinsekim'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34976
+2024-04-11 13:05:15+00:00,[User]_kumar1708,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34978
+2024-04-11 15:49:59+00:00,[User]_teamterraform,{'[User]_liamcervante'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34979
+2024-04-11 15:54:16+00:00,[User]_WillGibson,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34980
+2024-04-11 17:08:04+00:00,[User]_iamunni,"{'[User]_iamunni', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34981
+2024-04-12 11:47:28+00:00,[User]_y3ti,"{'[User]_joferrao', '[User]_y3ti', '[User]_jbardin', '[User]_fpeixotoj'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34984
+2024-04-12 20:36:18+00:00,[User]_apparentlymart,"{'[User]_jbardin', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34987
+2024-04-12 20:44:18+00:00,[User]_apparentlymart,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34988
+2024-04-12 20:56:01+00:00,[User]_apparentlymart,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/34990
+2024-04-13 10:01:58+00:00,[User]_aseem-heg,{'[User]_liamcervante'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34991
+2024-04-13 21:40:52+00:00,[User]_maos999,{'[User]_liamcervante'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34992
+2024-04-15 10:40:25+00:00,[User]_AndyDean96,{'[User]_liamcervante'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34995
+2024-04-15 11:46:45+00:00,[User]_ashwini19101994,"{'[User]_liamcervante', '[User]_david-may-shift'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/34997
+2024-04-15 16:40:20+00:00,[User]_andrew-at-stratis,"{'[User]_apparentlymart', '[User]_andrew-at-stratis'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35000
+2024-04-15 18:01:55+00:00,[User]_lucasmo,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35002
+2024-04-15 19:49:55+00:00,[User]_bminahan73,"{'[User]_mjgoethe', '[User]_liamcervante', '[User]_crw', '[User]_bminahan73', '[User]_seblatre'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35005
+2024-04-16 00:14:34+00:00,[User]_arnvid,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35006
+2024-04-16 10:14:22+00:00,[User]_liamcervante,"{'[User]_apparentlymart', '[User]_DanielMSchmidt', '[User]_liamcervante'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35007
+2024-04-16 17:40:15+00:00,[User]_liamcervante,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35009
+2024-04-16 19:23:30+00:00,[User]_dreinhardt-terminus,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35010
+2024-04-17 05:43:58+00:00,[User]_seblatre,"{'[User]_liamcervante', '[User]_seblatre'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35011
+2024-04-17 08:13:00+00:00,[User]_alexeyinkin,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35012
+2024-04-17 10:50:23+00:00,[User]_Sravanthicilivaru,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35013
+2024-04-17 16:25:07+00:00,[User]_lkysow,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35015
+2024-04-17 16:59:28+00:00,[User]_DanielMSchmidt,"{'[User]_liamcervante', '[User]_DanielMSchmidt'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35016
+2024-04-17 17:51:11+00:00,[User]_apparentlymart,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35017
+2024-04-17 18:38:24+00:00,[User]_david1437,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35019
+2024-04-17 20:25:18+00:00,[User]_jbardin,{'[User]_liamcervante'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35020
+2024-04-18 12:50:19+00:00,[User]_alexjeen,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35022
+2024-04-18 16:08:58+00:00,[User]_whitefancy,"{'[User]_whitefancy', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35025
+2024-04-18 22:34:46+00:00,[User]_SarahFrench,{'[User]_SarahFrench'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35026
+2024-04-19 00:11:30+00:00,[User]_bholzer,"{'[User]_apparentlymart', '[User]_crw', '[User]_bholzer'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35027
+2024-04-19 02:40:19+00:00,[User]_Paasharma,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35028
+2024-04-19 02:52:25+00:00,[User]_whitefancy,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35029
+2024-04-19 18:00:22+00:00,[User]_alex-shafer-1002,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35036
+2024-04-19 19:11:16+00:00,[User]_michaele-blend,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35037
+2024-04-19 19:50:51+00:00,[User]_melphleg,"{'[User]_melphleg', '[User]_liamcervante', '[User]_tegomass'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35038
+2024-04-19 20:56:03+00:00,[User]_hmlanigan,{'[User]_liamcervante'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35039
+2024-04-19 21:38:50+00:00,[User]_brettcurtis,"{'[User]_liamcervante', '[User]_brettcurtis'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35040
+2024-04-21 06:11:31+00:00,[User]_huanglx-2017,{'[User]_kmoe'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35043
+2024-04-22 16:08:30+00:00,[User]_liamcervante,"{'[User]_apparentlymart', '[User]_jbardin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35049
+2024-04-23 03:09:57+00:00,[User]_zhangfuli,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35052
+2024-04-23 08:16:31+00:00,[User]_andreigorgan,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35057
+2024-04-23 08:50:10+00:00,[User]_dabruehl,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35058
+2024-04-23 11:40:30+00:00,[User]_liamcervante,{'[User]_liamcervante'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35061
+2024-04-23 13:34:08+00:00,[User]_EugenKon,"{'[User]_EugenKon', '[User]_jbardin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35062
+2024-04-23 14:28:26+00:00,[User]_liamcervante,"{'[User]_austinvalle', '[User]_DanielMSchmidt'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35063
+2024-04-23 15:00:52+00:00,[User]_liamcervante,"{'[User]_alisdair', '[User]_austinvalle', '[User]_liamcervante'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35065
+2024-04-24 08:34:53+00:00,[User]_teamterraform,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35072
+2024-04-24 08:53:59+00:00,[User]_liamcervante,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35074
+2024-04-24 10:46:32+00:00,[User]_FernandoMiguel,"{'[User]_FernandoMiguel', '[User]_arohter', '[User]_jbardin', '[User]_radeksimko', '[User]_thomaschaplin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35075
+2024-04-24 15:55:44+00:00,[User]_gs0510,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35076
+2024-04-24 19:24:29+00:00,[User]_apparentlymart,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35077
+2024-04-24 19:35:26+00:00,[User]_apparentlymart,set(),hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35078
+2024-04-25 03:41:46+00:00,[User]_Narayan-Mitra,"{'[User]_liamcervante', '[User]_Narayan-Mitra'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35079
+2024-04-25 05:03:03+00:00,[User]_freakinhippie,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35080
+2024-04-25 15:47:34+00:00,[User]_tomhaynes,"{'[User]_apparentlymart', '[User]_crw', '[User]_tomhaynes'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35081
+2024-04-25 16:59:48+00:00,[User]_TheNilesh,"{'[User]_TheNilesh', '[User]_jbardin'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35083
+2024-04-25 18:17:38+00:00,[User]_fghoraishi,"{'[User]_apparentlymart', '[User]_crw'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35085
+2024-04-25 22:56:48+00:00,[User]_leohliao,{'[User]_leohliao'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35086
+2024-04-26 10:23:03+00:00,[User]_alexott,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35087
+2024-04-26 17:48:01+00:00,[User]_Rafaellinos,{'[User]_apparentlymart'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35089
+2024-04-26 19:27:07+00:00,[User]_jbardin,{'[User]_otaviojava'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35090
+2024-04-26 22:02:05+00:00,[User]_evanstucker-hates-2fa,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35091
+2024-04-29 13:36:28+00:00,[User]_sumitsharma16,{'[User]_jbardin'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35094
+2024-04-29 16:00:50+00:00,[User]_daveinci,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35095
+2024-04-29 16:05:47+00:00,[User]_melinath,"{'[User]_melinath', '[User]_apparentlymart'}",hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35096
+2024-04-30 08:37:13+00:00,[User]_sjparkinson,{'[User]_sjparkinson'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35097
+2024-04-30 09:46:20+00:00,[User]_manigandanpro,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35098
+2024-04-30 11:54:16+00:00,[User]_brettcurtis,{'[User]_crw'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/issues/35099
+2024-04-30 12:40:56+00:00,[User]_bflad,{'[User]_SarahFrench'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35100
+2024-04-30 21:22:14+00:00,[User]_jbardin,{'[User]_nfagerlund'},hashicorp/terraform,2024,https://github.com/hashicorp/terraform/pull/35101

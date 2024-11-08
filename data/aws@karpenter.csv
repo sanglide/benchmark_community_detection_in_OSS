@@ -1,0 +1,474 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-02 12:53:27+00:00,[User]_sondrelg,"{'[User]_sondrelg', '[User]_njtran', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3842
+2023-05-02 14:44:14+00:00,[User]_sgblv,{'[User]_njtran'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/3844
+2023-05-03 06:10:06+00:00,[User]_jonathan-innis,"{'[User]_nalshamaajc', '[User]_siolta', '[User]_jonathan-innis', '[User]_spereverziev'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3848
+2023-05-03 06:15:49+00:00,[User]_jonathan-innis,"{'[User]_tzneal', '[User]_jonathan-innis', '[User]_srinchow', '[User]_dcarrion87'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3849
+2023-05-03 20:56:00+00:00,[User]_njtran,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/3852
+2023-05-03 20:56:00+00:00,[User]_njtran,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/3853
+2023-05-03 21:30:09+00:00,[User]_cmukai-cisco,{'[User]_cmukai-cisco'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/3854
+2023-05-04 11:07:48+00:00,[User]_dhajoshi,"{'[User]_billrayburn', '[User]_sftim'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3856
+2023-05-05 11:03:47+00:00,[User]_lksvenoy-r7,"{'[User]_iandelahorne', '[User]_sbhrule15', '[User]_runningman84', '[User]_maximethebault'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3860
+2023-05-06 18:15:06+00:00,[User]_iamtito,"{'[User]_iamtito', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3862
+2023-05-08 04:18:26+00:00,[User]_flavono123,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/3863
+2023-05-08 08:19:15+00:00,[User]_belalhassan91,{'[User]_belalhassan91'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/3864
+2023-05-08 20:44:44+00:00,[User]_Phylu,"{'[User]_Phylu', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3867
+2023-05-10 17:03:32+00:00,[User]_khareyash05,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/3873
+2023-05-10 20:34:59+00:00,[User]_kevinsimons-wf,{'[User]_ellistarn'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/3875
+2023-05-10 20:54:34+00:00,[User]_yuanmwang-wf,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/3876
+2023-05-11 08:15:01+00:00,[User]_rr-krupesh-savaliya,"{'[User]_jonathan-innis', '[User]_rr-paras-patel', '[User]_rr-krupesh-savaliya', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3877
+2023-05-11 17:16:59+00:00,[User]_sidewinder12s,"{'[User]_ellistarn', '[User]_sftim', '[User]_timchenko-a', '[User]_sidewinder12s', '[User]_njtran'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3878
+2023-05-11 23:13:29+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/3881
+2023-05-12 16:21:34+00:00,[User]_tbublik,"{'[User]_bwagner5', '[User]_tzneal', '[User]_dcarrion87'}",aws/karpenter,2023,https://github.com/aws/karpenter/pull/3884
+2023-05-12 16:24:46+00:00,[User]_ellistarn,"{'[User]_sarthaknimbalkar', '[User]_prabhjotsingh18', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3885
+2023-05-16 11:26:21+00:00,[User]_imagekitio,"{'[User]_tzneal', '[User]_imagekitio'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3894
+2023-05-16 13:01:48+00:00,[User]_marlovil,"{'[User]_bwagner5', '[User]_tzneal', '[User]_marlovil'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3895
+2023-05-16 21:58:12+00:00,[User]_serhatperkmen,{'[User]_sftim'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/3899
+2023-05-17 20:46:12+00:00,[User]_engedaam,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/3905
+2023-05-18 16:48:41+00:00,[User]_bwagner5,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/3906
+2023-05-19 08:03:44+00:00,[User]_hitsub2,"{'[User]_bwagner5', '[User]_hitsub2'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3914
+2023-05-19 08:35:55+00:00,[User]_badaldavda8,"{'[User]_bwagner5', '[User]_badaldavdatcpl', '[User]_badaldavda8'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3915
+2023-05-19 17:13:43+00:00,[User]_barth12,"{'[User]_bwagner5', '[User]_barth12'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3917
+2023-05-19 18:49:24+00:00,[User]_jonathan-innis,"{'[User]_dharamthakkar', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3918
+2023-05-22 13:31:58+00:00,[User]_nparfait,"{'[User]_tzneal', '[User]_nparfait'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3920
+2023-05-22 16:12:43+00:00,[User]_Imunhatep,"{'[User]_tzneal', '[User]_bakavets', '[User]_vassilvk', '[User]_Imunhatep', '[User]_okorzhov', '[User]_yurrriq', '[User]_johngmyers', '[User]_njtran', '[User]_lomori'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3921
+2023-05-22 19:24:51+00:00,[User]_uttamlive,"{'[User]_tzneal', '[User]_uttamlive'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3922
+2023-05-22 20:55:00+00:00,[User]_njtran,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/3924
+2023-05-22 21:01:22+00:00,[User]_blackliner,"{'[User]_tzneal', '[User]_blackliner'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3925
+2023-05-23 06:37:56+00:00,[User]_jaydeep-pf,"{'[User]_jaydeep-pf', '[User]_tzneal', '[User]_njtran'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3927
+2023-05-23 11:50:21+00:00,[User]_gaborho,{'[User]_tzneal'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/3929
+2023-05-23 23:38:41+00:00,[User]_njtran,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/3934
+2023-05-24 23:06:37+00:00,[User]_jzhn,"{'[User]_tzneal', '[User]_jzhn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3937
+2023-05-25 11:01:59+00:00,[User]_philslab-ninja,{'[User]_tzneal'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/3939
+2023-05-25 22:03:59+00:00,[User]_JeremyBolster,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/3941
+2023-05-25 22:40:58+00:00,[User]_njtran,"{'[User]_njtran', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/pull/3942
+2023-05-26 10:04:18+00:00,[User]_olibenni,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/3944
+2023-05-29 01:44:50+00:00,[User]_willthames,"{'[User]_tzneal', '[User]_willthames', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3952
+2023-05-29 13:09:35+00:00,[User]_abirsigron,"{'[User]_abirsigron', '[User]_tzneal'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3954
+2023-05-31 06:08:31+00:00,[User]_fred-vogt-dod,"{'[User]_bwagner5', '[User]_luohao', '[User]_fred-vogt-dod'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3962
+2023-05-31 08:26:20+00:00,[User]_MauroSoli,{'[User]_MauroSoli'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/3963
+2023-05-31 19:11:16+00:00,[User]_balusarakesh,"{'[User]_ellistarn', '[User]_njtran', '[User]_mohankumarmani', '[User]_balusarakesh'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3967
+2023-06-01 11:52:49+00:00,[User]_ankitjain28may,"{'[User]_engedaam', '[User]_bwagner5', '[User]_ankitjain28may', '[User]_njtran'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3979
+2023-06-01 12:49:15+00:00,[User]_maximeguillet,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/3980
+2023-06-02 16:30:19+00:00,[User]_kstevensonnv,"{'[User]_kstevensonnv', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3988
+2023-06-02 19:04:35+00:00,[User]_kstevensonnv,"{'[User]_kstevensonnv', '[User]_bwagner5', '[User]_igorgolm'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3989
+2023-06-03 08:40:03+00:00,[User]_coliss86,"{'[User]_engedaam', '[User]_coliss86'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3992
+2023-06-05 03:53:15+00:00,[User]_hosonfung,"{'[User]_engedaam', '[User]_hosonfung', '[User]_jicowan'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3995
+2023-06-05 07:17:55+00:00,[User]_KqLLL,"{'[User]_bwagner5', '[User]_engedaam', '[User]_KqLLL', '[User]_kteague-tasktop', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/3996
+2023-06-05 16:08:09+00:00,[User]_sftim,{'[User]_sftim'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4000
+2023-06-05 19:10:34+00:00,[User]_bwagner5,"{'[User]_njtran', '[User]_bwagner5', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/pull/4001
+2023-06-06 12:22:46+00:00,[User]_nadavbuc,"{'[User]_tzneal', '[User]_maximveksler', '[User]_bwagner5', '[User]_wtibbitts', '[User]_nadavbuc', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4003
+2023-06-06 18:05:22+00:00,[User]_myaser,{'[User]_bwagner5'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4004
+2023-06-06 20:44:39+00:00,[User]_maxforasteiro,"{'[User]_bwagner5', '[User]_maxforasteiro'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4006
+2023-06-06 22:53:57+00:00,[User]_danielhelfand,"{'[User]_bwagner5', '[User]_danielhelfand'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4007
+2023-06-07 06:10:55+00:00,[User]_ainamdar-dev,{'[User]_ainamdar-dev'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4008
+2023-06-08 07:26:59+00:00,[User]_stijndehaes,{'[User]_stijndehaes'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4012
+2023-06-09 01:53:57+00:00,[User]_seanocca,"{'[User]_bwagner5', '[User]_seanocca', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4016
+2023-06-09 17:40:55+00:00,[User]_sankshiv80,{'[User]_bwagner5'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4018
+2023-06-12 02:41:29+00:00,[User]_hamishforbes,{'[User]_njtran'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4023
+2023-06-12 06:31:52+00:00,[User]_lzjqsdd,"{'[User]_laurent-chriqui', '[User]_njtran', '[User]_tzneal'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4024
+2023-06-12 11:32:06+00:00,[User]_nadavbuc,"{'[User]_njtran', '[User]_nadavbuc', '[User]_sftim'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4026
+2023-06-12 13:10:05+00:00,[User]_zalejus,"{'[User]_njtran', '[User]_zalejus'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4028
+2023-06-12 15:21:54+00:00,[User]_bwagner5,"{'[User]_bwagner5', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/pull/4030
+2023-06-13 07:59:03+00:00,[User]_huspy-ali,{'[User]_huspy-ali'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4035
+2023-06-14 04:13:56+00:00,[User]_tomerleib,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4039
+2023-06-14 18:15:57+00:00,[User]_bharathnadigoti,"{'[User]_bharathnadigoti', '[User]_njtran'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4041
+2023-06-14 18:52:23+00:00,[User]_jeremysprofile,{'[User]_jeremysprofile'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4043
+2023-06-14 19:30:22+00:00,[User]_bwagner5,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4044
+2023-06-14 20:43:04+00:00,[User]_thekuffs,"{'[User]_njtran', '[User]_thekuffs'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4046
+2023-06-15 07:40:48+00:00,[User]_arthurzenika,"{'[User]_njtran', '[User]_Hongbo-Miao', '[User]_arthurzenika'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4056
+2023-06-15 09:10:23+00:00,[User]_Constantin07,"{'[User]_njtran', '[User]_itek09'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4057
+2023-06-15 21:00:18+00:00,[User]_njtran,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4064
+2023-06-16 16:22:37+00:00,[User]_snorlaX-sleeps,"{'[User]_njtran', '[User]_snorlaX-sleeps'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4066
+2023-06-16 16:59:17+00:00,[User]_noyoshi,"{'[User]_noyoshi', '[User]_njtran', '[User]_jonathan-innis', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4067
+2023-06-19 20:49:46+00:00,[User]_njtran,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4080
+2023-06-19 21:42:12+00:00,[User]_tzifudzi,{'[User]_tzifudzi'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4081
+2023-06-20 20:37:18+00:00,[User]_tzifudzi,"{'[User]_ranaciit', '[User]_tzifudzi', '[User]_jonathan-innis', '[User]_jzhn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4088
+2023-06-21 11:03:43+00:00,[User]_alusvedejs,{'[User]_alusvedejs'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4093
+2023-06-22 05:59:18+00:00,[User]_mohankumarmani,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4102
+2023-06-22 17:45:27+00:00,[User]_ellistarn,"{'[User]_bwagner5', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4105
+2023-06-22 17:55:34+00:00,[User]_jonathan-innis,{'[User]_bwagner5'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4106
+2023-06-22 17:59:51+00:00,[User]_ellistarn,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4107
+2023-06-22 18:28:41+00:00,[User]_ellistarn,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4108
+2023-06-22 19:05:56+00:00,[User]_ellistarn,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4109
+2023-06-23 09:34:05+00:00,[User]_mrpentrexyl,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4118
+2023-06-26 11:19:27+00:00,[User]_anthosz,"{'[User]_anthosz', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4129
+2023-06-26 15:23:46+00:00,[User]_njtran,{'[User]_engedaam'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4131
+2023-06-26 16:29:19+00:00,[User]_npandeya,"{'[User]_tzneal', '[User]_npandeya'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4132
+2023-06-26 17:47:25+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4134
+2023-06-26 18:13:23+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4136
+2023-06-26 20:38:18+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4138
+2023-06-26 21:04:49+00:00,[User]_ellistarn,{'[User]_billrayburn'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4139
+2023-06-27 00:43:27+00:00,[User]_vinayan3,"{'[User]_vinayan3', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4144
+2023-06-27 02:13:56+00:00,[User]_rarecrumb,"{'[User]_Nashluffy', '[User]_engedaam', '[User]_rarecrumb', '[User]_yangwwei', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4145
+2023-06-27 15:53:31+00:00,[User]_gdevelek,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4149
+2023-06-28 06:05:23+00:00,[User]_tscn,"{'[User]_tscn', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4154
+2023-06-28 14:59:40+00:00,[User]_loperaja,"{'[User]_loperaja', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4156
+2023-06-28 23:54:05+00:00,[User]_johngmyers,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4159
+2023-06-29 10:46:06+00:00,[User]_itaib-AF,"{'[User]_itaib-AF', '[User]_mamoit', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4163
+2023-06-29 13:03:09+00:00,[User]_tzneal,{'[User]_tzneal'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4164
+2023-06-29 14:17:20+00:00,[User]_TheEdgeOfRage,"{'[User]_TheEdgeOfRage', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4165
+2023-06-29 18:08:22+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4167
+2023-06-29 19:05:35+00:00,[User]_nalshamaajc,"{'[User]_ellistarn', '[User]_nalshamaajc', '[User]_shay-ul', '[User]_sidewinder12s', '[User]_flavono123', '[User]_njtran', '[User]_roimor', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4168
+2023-06-29 23:06:32+00:00,[User]_jonathan-innis,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4173
+2023-07-01 19:42:13+00:00,[User]_bdols,"{'[User]_jonathan-innis', '[User]_bdols'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4187
+2023-07-03 06:43:23+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4189
+2023-07-03 11:24:13+00:00,[User]_stevehipwell,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4190
+2023-07-03 14:39:07+00:00,[User]_astropanic,"{'[User]_tzneal', '[User]_astropanic'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4192
+2023-07-03 23:16:45+00:00,[User]_tzifudzi,{'[User]_tzifudzi'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4193
+2023-07-03 23:27:18+00:00,[User]_tzifudzi,"{'[User]_tzifudzi', '[User]_halovanic'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4194
+2023-07-03 23:34:45+00:00,[User]_tzifudzi,{'[User]_tzifudzi'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4195
+2023-07-03 23:45:13+00:00,[User]_tzifudzi,{'[User]_tzifudzi'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4196
+2023-07-04 08:42:43+00:00,[User]_thomaschaaf,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4198
+2023-07-04 11:38:08+00:00,[User]_marcportabellaclotet-mt,"{'[User]_marcportabellaclotet-mt', '[User]_Nuru'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4199
+2023-07-05 15:12:00+00:00,[User]_mupuri,"{'[User]_jonathan-innis', '[User]_mupuri'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4201
+2023-07-05 17:15:48+00:00,[User]_engedaam,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4204
+2023-07-06 10:26:51+00:00,[User]_tauanlemos,"{'[User]_grzegorzlyczba', '[User]_tauanlemos'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4213
+2023-07-06 17:49:17+00:00,[User]_garvinp-stripe,"{'[User]_abeer-stripe', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4216
+2023-07-06 17:51:28+00:00,[User]_tzneal,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4217
+2023-07-07 05:44:39+00:00,[User]_Nuru,"{'[User]_tzneal', '[User]_Nuru'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4223
+2023-07-07 07:38:14+00:00,[User]_sylr,{'[User]_tzneal'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4225
+2023-07-07 16:09:33+00:00,[User]_andrew-pickin-epi,"{'[User]_engedaam', '[User]_jonathan-innis', '[User]_andrew-pickin-epi'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4227
+2023-07-07 18:39:23+00:00,[User]_sidewinder12s,"{'[User]_njtran', '[User]_yuvalavidor', '[User]_garvinp-stripe', '[User]_sidewinder12s'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4231
+2023-07-07 20:05:05+00:00,[User]_garvinp-stripe,"{'[User]_garvinp-stripe', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4232
+2023-07-09 22:54:18+00:00,[User]_tzneal,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4241
+2023-07-10 12:20:34+00:00,[User]_tzneal,"{'[User]_engedaam', '[User]_tzneal'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4243
+2023-07-10 17:54:34+00:00,[User]_garvinp-stripe,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4244
+2023-07-11 04:54:27+00:00,[User]_21kyu,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4248
+2023-07-11 05:31:19+00:00,[User]_flavono123,{'[User]_flavono123'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4249
+2023-07-11 12:57:05+00:00,[User]_nirroz93,"{'[User]_engedaam', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4253
+2023-07-11 13:40:40+00:00,[User]_denniskorbginski,"{'[User]_engedaam', '[User]_jonathan-innis', '[User]_denniskorbginski'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4254
+2023-07-11 15:26:20+00:00,[User]_domgoodwin,"{'[User]_engedaam', '[User]_njtran'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4256
+2023-07-12 10:25:51+00:00,[User]_openstack-test,"{'[User]_engedaam', '[User]_ellistarn', '[User]_jonathan-innis', '[User]_openstack-test'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4261
+2023-07-13 07:06:54+00:00,[User]_Nuru,"{'[User]_engedaam', '[User]_Nuru', '[User]_jonathan-innis', '[User]_Mihail-blip'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4266
+2023-07-13 12:28:20+00:00,[User]_vara-bonthu,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4267
+2023-07-13 18:21:56+00:00,[User]_engedaam,"{'[User]_engedaam', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/pull/4268
+2023-07-14 20:44:19+00:00,[User]_jonathan-innis,"{'[User]_ellistarn', '[User]_sktech730'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4271
+2023-07-17 18:42:21+00:00,[User]_jonathan-innis,{'[User]_bhargaje'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4278
+2023-07-18 15:29:23+00:00,[User]_sekar-saravanan,"{'[User]_jonathan-innis', '[User]_sekar-saravanan'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4289
+2023-07-18 21:59:03+00:00,[User]_mrparkers,"{'[User]_mrparkers', '[User]_agido-heppe', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4296
+2023-07-19 07:11:15+00:00,[User]_avysotsk,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4301
+2023-07-19 18:05:16+00:00,[User]_cburroughs,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4302
+2023-07-20 16:48:34+00:00,[User]_mamoit,"{'[User]_ellistarn', '[User]_mamoit', '[User]_sosheskaz', '[User]_arturkasperek', '[User]_njtran', '[User]_jonathan-innis', '[User]_mikkeloscar'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4310
+2023-07-20 17:07:45+00:00,[User]_garvinp-stripe,"{'[User]_garvinp-stripe', '[User]_jonathan-innis', '[User]_mamoit'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4311
+2023-07-20 17:19:10+00:00,[User]_Mihail-blip,"{'[User]_bwagner5', '[User]_Mihail-blip'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4312
+2023-07-20 17:25:13+00:00,[User]_andrewhibbert,"{'[User]_andrewhibbert', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4313
+2023-07-20 17:35:14+00:00,[User]_andrewhibbert,"{'[User]_njtran', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4314
+2023-07-21 11:39:34+00:00,[User]_cbugneac-nex,"{'[User]_njtran', '[User]_jonathan-innis', '[User]_cbugneac-nex'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4318
+2023-07-21 18:29:38+00:00,[User]_mbevc1,{'[User]_njtran'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4319
+2023-07-24 09:53:30+00:00,[User]_runningman84,{'[User]_sidewinder12s'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4326
+2023-07-25 10:03:58+00:00,[User]_dcarrion87,{'[User]_dcarrion87'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4331
+2023-07-25 14:21:51+00:00,[User]_mooneeb,{'[User]_engedaam'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4332
+2023-07-25 16:20:02+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4334
+2023-07-26 15:26:19+00:00,[User]_JayG-EBSCO,"{'[User]_engedaam', '[User]_JayG-EBSCO'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4342
+2023-07-27 20:49:21+00:00,[User]_stobias123,"{'[User]_JoeAshworth', '[User]_bwagner5', '[User]_parraletz'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4346
+2023-07-28 01:19:47+00:00,[User]_pdeva,"{'[User]_pdeva', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4349
+2023-07-31 13:34:06+00:00,[User]_sekar-saravanan,"{'[User]_sekar-saravanan', '[User]_sftim'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4356
+2023-07-31 18:22:22+00:00,[User]_matt-slalom,"{'[User]_matt-slalom', '[User]_warnerm8', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4357
+2023-08-01 22:25:47+00:00,[User]_matt-slalom,"{'[User]_jonathan-innis', '[User]_matt-slalom'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4362
+2023-08-02 09:48:32+00:00,[User]_cebernardi,"{'[User]_ellistarn', '[User]_engedaam', '[User]_cebernardi', '[User]_njtran', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4363
+2023-08-02 13:39:24+00:00,[User]_Omar-Bishtawi,{'[User]_ellistarn'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4364
+2023-08-02 13:57:15+00:00,[User]_nkn1111,"{'[User]_nkn1111', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4365
+2023-08-03 08:30:59+00:00,[User]_stevehipwell,"{'[User]_FernandoMiguel', '[User]_ellistarn', '[User]_bwagner5', '[User]_stevehipwell', '[User]_yuval-almog'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4367
+2023-08-04 17:13:15+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4381
+2023-08-04 17:14:59+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4382
+2023-08-04 17:56:20+00:00,[User]_matt-slalom,{'[User]_matt-slalom'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4384
+2023-08-05 05:25:32+00:00,[User]_qspors,{'[User]_tzneal'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4389
+2023-08-05 11:20:58+00:00,[User]_ThiagoScodeler,"{'[User]_ThiagoScodeler', '[User]_tzneal'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4390
+2023-08-07 05:23:55+00:00,[User]_gomesdigital,"{'[User]_tzneal', '[User]_gomesdigital'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4392
+2023-08-07 16:04:07+00:00,[User]_nadavbuc,"{'[User]_EddieCeausu', '[User]_tzneal', '[User]_nadavbuc'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4395
+2023-08-08 20:14:53+00:00,[User]_kevarr-vg,"{'[User]_bwagner5', '[User]_njtran'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4402
+2023-08-08 20:37:35+00:00,[User]_njtran,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4403
+2023-08-08 21:21:26+00:00,[User]_rothgar,"{'[User]_bwagner5', '[User]_rothgar'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4404
+2023-08-09 03:51:47+00:00,[User]_dnutels,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4406
+2023-08-09 13:08:30+00:00,[User]_thomaschaaf,"{'[User]_tzneal', '[User]_thomaschaaf'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4407
+2023-08-10 12:02:19+00:00,[User]_cest-pas-faux,{'[User]_tzneal'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4409
+2023-08-10 16:04:04+00:00,[User]_gonfva,"{'[User]_bwagner5', '[User]_gonfva', '[User]_sftim'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4411
+2023-08-11 08:56:06+00:00,[User]_runningman84,"{'[User]_FernandoMiguel', '[User]_jonathan-innis', '[User]_runningman84', '[User]_sftim'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4418
+2023-08-12 00:01:55+00:00,[User]_andrewleech,"{'[User]_andrewleech', '[User]_gotchipete'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4420
+2023-08-13 00:44:02+00:00,[User]_dmitry-mightydevops,{'[User]_dmitry-mightydevops'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4421
+2023-08-13 10:49:14+00:00,[User]_Omar-Bishtawi,"{'[User]_njtran', '[User]_Imunhatep', '[User]_rafilkmp3'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4422
+2023-08-14 11:30:34+00:00,[User]_premsgr6,"{'[User]_tzneal', '[User]_bwagner5', '[User]_architectaj', '[User]_ckhelifi', '[User]_premsgr6', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4429
+2023-08-14 17:09:54+00:00,[User]_fffinkel,"{'[User]_ssoriche', '[User]_jonathan-innis', '[User]_olemarkus'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4431
+2023-08-16 12:14:40+00:00,[User]_myaser,{'[User]_bwagner5'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4438
+2023-08-16 12:56:33+00:00,[User]_ochabaiev-boku,"{'[User]_tzneal', '[User]_ochabaiev-boku'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4440
+2023-08-16 13:38:46+00:00,[User]_zakariais,"{'[User]_zakariais', '[User]_garvinp-stripe', '[User]_bwagner5'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4441
+2023-08-17 19:30:19+00:00,[User]_linkthai,"{'[User]_bwagner5', '[User]_linkthai', '[User]_sftim'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4454
+2023-08-18 19:49:07+00:00,[User]_stobias123,{'[User]_njtran'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4456
+2023-08-20 22:59:20+00:00,[User]_garvinp-stripe,"{'[User]_garvinp-stripe', '[User]_ellistarn', '[User]_bwagner5', '[User]_rothgar', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4459
+2023-08-21 10:20:52+00:00,[User]_myaser,"{'[User]_njtran', '[User]_myaser'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4462
+2023-08-21 16:56:21+00:00,[User]_jonathan-innis,{'[User]_engedaam'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4465
+2023-08-21 17:17:06+00:00,[User]_miguellongo,{'[User]_bwagner5'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4466
+2023-08-21 17:29:49+00:00,[User]_jonathan-innis,"{'[User]_aman0408', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4467
+2023-08-21 18:07:53+00:00,[User]_bwagner5,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4471
+2023-08-21 18:49:34+00:00,[User]_bwagner5,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4472
+2023-08-21 20:09:58+00:00,[User]_bwagner5,{'[User]_riteshsonawane1372'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4475
+2023-08-23 09:10:17+00:00,[User]_LolloneS,"{'[User]_jonathan-innis', '[User]_LolloneS'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4484
+2023-08-24 01:55:55+00:00,[User]_isugimpy,"{'[User]_njtran', '[User]_isugimpy', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4492
+2023-08-24 05:45:39+00:00,[User]_amitgithub12345,"{'[User]_hawkesn', '[User]_njtran', '[User]_Jimcumming'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4493
+2023-08-24 18:49:04+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/pull/4497
+2023-08-29 03:45:13+00:00,[User]_yieon-lyon,"{'[User]_yieon-lyon', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4511
+2023-08-29 18:02:05+00:00,[User]_bwagner5,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4513
+2023-08-30 05:56:43+00:00,[User]_DingGGu,"{'[User]_bwagner5', '[User]_jonathan-innis', '[User]_DingGGu'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4516
+2023-08-31 15:49:43+00:00,[User]_txjjjjj,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4522
+2023-08-31 19:39:39+00:00,[User]_jonathan-innis,"{'[User]_aman0408', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4525
+2023-08-31 21:46:56+00:00,[User]_johngmyers,"{'[User]_xsvil', '[User]_jonathan-innis', '[User]_johngmyers'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4527
+2023-08-31 22:36:10+00:00,[User]_njtran,"{'[User]_njtran', '[User]_garvinp-stripe'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4529
+2023-09-01 04:01:03+00:00,[User]_txjjjjj,"{'[User]_txjjjjj', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4532
+2023-09-01 05:20:11+00:00,[User]_rkilingr,"{'[User]_garvinp-stripe', '[User]_rkilingr', '[User]_bwagner5', '[User]_engedaam', '[User]_njtran', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4533
+2023-09-01 09:42:41+00:00,[User]_txjjjjj,"{'[User]_txjjjjj', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4534
+2023-09-01 12:07:52+00:00,[User]_AlexMaksimkin,"{'[User]_bwagner5', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4536
+2023-09-01 12:20:15+00:00,[User]_txjjjjj,"{'[User]_FernandoMiguel', '[User]_txjjjjj'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4537
+2023-09-01 13:19:08+00:00,[User]_nandeeshb09,"{'[User]_bwagner5', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4538
+2023-09-01 21:28:39+00:00,[User]_mallow111,"{'[User]_mallow111', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4542
+2023-09-02 00:01:01+00:00,[User]_jonathan-innis,"{'[User]_aman0408', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4545
+2023-09-03 11:40:47+00:00,[User]_yuval-almog,"{'[User]_mhmtsvr', '[User]_jonathan-innis', '[User]_fatoh2'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4547
+2023-09-03 11:49:59+00:00,[User]_IonitaCatalin,"{'[User]_IonitaCatalin', '[User]_jayanthvn', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4548
+2023-09-03 15:09:11+00:00,[User]_shmuelarditi,"{'[User]_shmuelarditi', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4549
+2023-09-03 21:35:34+00:00,[User]_ybthai98,"{'[User]_bwagner5', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4550
+2023-09-04 09:59:50+00:00,[User]_txjjjjj,{'[User]_txjjjjj'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4554
+2023-09-04 14:33:30+00:00,[User]_txjjjjj,"{'[User]_bwagner5', '[User]_kayahk', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4555
+2023-09-05 09:24:07+00:00,[User]_txjjjjj,"{'[User]_bwagner5', '[User]_txjjjjj'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4557
+2023-09-05 11:52:07+00:00,[User]_ecerulm,{'[User]_bwagner5'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4558
+2023-09-05 14:10:25+00:00,[User]_avnerv,"{'[User]_engedaam', '[User]_avnerv'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4559
+2023-09-05 16:50:52+00:00,[User]_txjjjjj,"{'[User]_bwagner5', '[User]_txjjjjj'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4562
+2023-09-05 21:30:25+00:00,[User]_knechtionscoding,"{'[User]_knechtionscoding', '[User]_bwagner5', '[User]_njtran', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4563
+2023-09-06 01:33:40+00:00,[User]_txjjjjj,{'[User]_bwagner5'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4566
+2023-09-06 04:30:06+00:00,[User]_txjjjjj,{'[User]_bwagner5'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4567
+2023-09-06 16:27:59+00:00,[User]_bwagner5,"{'[User]_bwagner5', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/pull/4571
+2023-09-06 18:23:24+00:00,[User]_irparajababu,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4572
+2023-09-06 19:16:26+00:00,[User]_zm-alex,"{'[User]_zm-alex', '[User]_bwagner5', '[User]_noamgreen'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4574
+2023-09-07 00:03:22+00:00,[User]_naavveenn,"{'[User]_bwagner5', '[User]_naavveenn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4579
+2023-09-07 18:59:23+00:00,[User]_doy-materialize,{'[User]_bwagner5'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4581
+2023-09-07 19:35:58+00:00,[User]_govardha,"{'[User]_bwagner5', '[User]_govardha'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4582
+2023-09-08 16:25:28+00:00,[User]_sidewinder12s,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4589
+2023-09-08 23:56:06+00:00,[User]_Almenon,"{'[User]_Almenon', '[User]_bwagner5'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4597
+2023-09-11 20:54:42+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4608
+2023-09-11 21:34:03+00:00,[User]_saha-rajdeep,"{'[User]_engedaam', '[User]_saha-rajdeep'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4609
+2023-09-11 23:37:33+00:00,[User]_vgunapati,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4612
+2023-09-12 00:35:24+00:00,[User]_yangwwei,"{'[User]_njtran', '[User]_yangwwei', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4613
+2023-09-12 13:17:33+00:00,[User]_sekar-saravanan,{'[User]_ellistarn'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4615
+2023-09-12 14:09:11+00:00,[User]_runningman84,"{'[User]_bwagner5', '[User]_runningman84', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4616
+2023-09-13 07:54:54+00:00,[User]_HarshithaEshappa,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4619
+2023-09-13 08:20:38+00:00,[User]_HarshithaEshappa,{'[User]_ellistarn'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4620
+2023-09-13 11:43:08+00:00,[User]_gytis-ivaskevicius,"{'[User]_FernandoMiguel', '[User]_gytis-ivaskevicius', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4621
+2023-09-14 08:38:27+00:00,[User]_yuval-almog,"{'[User]_IshanFernandoClouda', '[User]_shikai93', '[User]_yuval-almog', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4628
+2023-09-14 14:01:12+00:00,[User]_JacobValdemar,{'[User]_ellistarn'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4630
+2023-09-14 23:46:57+00:00,[User]_randomdev1492,{'[User]_randomdev1492'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4633
+2023-09-18 03:46:02+00:00,[User]_jess-belliveau,{'[User]_ellistarn'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4641
+2023-09-19 17:13:43+00:00,[User]_engedaam,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4648
+2023-09-19 21:45:35+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4653
+2023-09-20 09:02:24+00:00,[User]_bcha,"{'[User]_bcha', '[User]_ami-descope', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4657
+2023-09-20 14:36:58+00:00,[User]_LolloneS,"{'[User]_njtran', '[User]_paurosello', '[User]_LolloneS'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4658
+2023-09-20 19:54:54+00:00,[User]_shivaprasad-balaji,"{'[User]_njtran', '[User]_shivaprasad-balaji', '[User]_ami-descope', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4660
+2023-09-21 00:21:36+00:00,[User]_johngmyers,"{'[User]_njtran', '[User]_mikestef9', '[User]_johngmyers'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4662
+2023-09-21 13:32:20+00:00,[User]_Izvi-digibank,{'[User]_njtran'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4664
+2023-09-21 14:08:32+00:00,[User]_shikai93,{'[User]_shikai93'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4665
+2023-09-21 15:23:07+00:00,[User]_aj-robson,{'[User]_aj-robson'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4666
+2023-09-21 16:32:09+00:00,[User]_cesarokuti,"{'[User]_cesarokuti', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/pull/4667
+2023-09-21 17:57:42+00:00,[User]_jonathan-innis,{'[User]_engedaam'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4670
+2023-09-22 02:51:51+00:00,[User]_infa-ddeore,"{'[User]_njtran', '[User]_runningman84', '[User]_infa-ddeore', '[User]_sftim'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4673
+2023-09-22 03:28:03+00:00,[User]_infa-ddeore,{'[User]_njtran'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4674
+2023-09-22 07:29:36+00:00,[User]_jhyoonzi,{'[User]_njtran'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4675
+2023-09-22 07:39:01+00:00,[User]_ochabaiev-boku,{'[User]_ochabaiev-boku'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4676
+2023-09-22 13:02:25+00:00,[User]_ashoksrirama,"{'[User]_njtran', '[User]_ashoksrirama'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4679
+2023-09-22 14:30:00+00:00,[User]_ashishkurian,{'[User]_ashishkurian'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4680
+2023-09-25 21:12:25+00:00,[User]_ChaseFreeman17,"{'[User]_ChaseFreeman17', '[User]_tzneal'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4689
+2023-09-25 23:33:37+00:00,[User]_pdeva,"{'[User]_tzneal', '[User]_carlosElopezVecino'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4693
+2023-09-26 13:29:07+00:00,[User]_bhavitsharma,"{'[User]_tzneal', '[User]_bhavitsharma', '[User]_hassammustafaa', '[User]_dgrozaMstar', '[User]_rknightion', '[User]_advishnuprasad'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4698
+2023-09-26 15:42:29+00:00,[User]_epetrovski-endava,"{'[User]_tzneal', '[User]_ellistarn', '[User]_engedaam', '[User]_paulmena-pulpo', '[User]_ggangisettiqn', '[User]_epetrovski-endava'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4699
+2023-09-26 17:40:57+00:00,[User]_winnieoursbrun,{'[User]_tzneal'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4701
+2023-09-26 19:10:53+00:00,[User]_infa-ddeore,"{'[User]_infa-ddeore', '[User]_garvinp-stripe'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4702
+2023-09-27 04:33:51+00:00,[User]_JRemitz,"{'[User]_tzneal', '[User]_JRemitz'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4708
+2023-09-27 06:47:46+00:00,[User]_BryanStenson-okta,"{'[User]_BryanStenson-okta', '[User]_tzneal'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4709
+2023-09-27 08:25:28+00:00,[User]_RiccardoBoettcher,{'[User]_RiccardoBoettcher'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4710
+2023-09-27 12:49:01+00:00,[User]_toddatapiture,"{'[User]_tzneal', '[User]_toddatapiture'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4711
+2023-09-28 10:14:47+00:00,[User]_infa-msheik,"{'[User]_infa-msheik', '[User]_njtran', '[User]_tzneal'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4720
+2023-09-28 13:36:21+00:00,[User]_dbbc96,"{'[User]_chrisnegus', '[User]_njtran', '[User]_dbbc96'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4722
+2023-09-28 16:08:03+00:00,[User]_Pixis-Akshay-Gopani,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4723
+2023-09-28 20:46:29+00:00,[User]_amanibhavam,"{'[User]_exNewbie', '[User]_tzneal', '[User]_berry2012', '[User]_defnn', '[User]_amanibhavam'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4724
+2023-09-29 06:47:23+00:00,[User]_runningman84,"{'[User]_tzneal', '[User]_FernandoMiguel'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4725
+2023-09-29 17:45:38+00:00,[User]_johngmyers,"{'[User]_garvinp-stripe', '[User]_johngmyers', '[User]_sftim'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4727
+2023-10-02 12:27:46+00:00,[User]_aaronstutzer,{'[User]_aaronstutzer'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4731
+2023-10-03 00:18:03+00:00,[User]_Almenon,"{'[User]_engedaam', '[User]_Almenon'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4737
+2023-10-03 05:06:10+00:00,[User]_wiseelf,"{'[User]_engedaam', '[User]_laiminhtrung1997', '[User]_jonathan-innis', '[User]_wiseelf'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4738
+2023-10-04 04:12:35+00:00,[User]_tzifudzi,{'[User]_tzifudzi'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4747
+2023-10-05 15:03:44+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4750
+2023-10-05 17:13:51+00:00,[User]_jmdeal,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4752
+2023-10-06 10:41:57+00:00,[User]_Hirikols,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4755
+2023-10-06 13:01:12+00:00,[User]_si-c613,"{'[User]_engedaam', '[User]_njtran', '[User]_si-c613'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4756
+2023-10-06 16:23:11+00:00,[User]_koreyGambill,"{'[User]_engedaam', '[User]_koreyGambill'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4758
+2023-10-06 19:27:20+00:00,[User]_ajschmidt8,"{'[User]_njtran', '[User]_ajschmidt8'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4769
+2023-10-09 04:39:46+00:00,[User]_huyngo81,"{'[User]_huyngo81', '[User]_ivan-amity', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4772
+2023-10-09 21:50:58+00:00,[User]_jmdeal,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4781
+2023-10-10 00:13:09+00:00,[User]_txjjjjj,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4782
+2023-10-10 04:59:25+00:00,[User]_chetagra,"{'[User]_chetagra', '[User]_jmdeal'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4784
+2023-10-10 20:34:11+00:00,[User]_gurpalw,"{'[User]_johnjeffers', '[User]_pete911'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4791
+2023-10-11 20:45:19+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4800
+2023-10-12 00:44:15+00:00,[User]_jonathan-innis,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4807
+2023-10-12 02:04:39+00:00,[User]_thjwhite,"{'[User]_thjwhite', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4809
+2023-10-12 05:57:36+00:00,[User]_wy0824,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4811
+2023-10-12 08:52:56+00:00,[User]_95jinhong,"{'[User]_tzneal', '[User]_95jinhong', '[User]_pete911'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4812
+2023-10-12 09:51:08+00:00,[User]_txjjjjj,"{'[User]_jonathan-innis', '[User]_pete911'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4813
+2023-10-12 12:29:15+00:00,[User]_OKAYRO,"{'[User]_OKAYRO', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4814
+2023-10-12 22:04:58+00:00,[User]_saha-rajdeep,{'[User]_chrisnegus'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4817
+2023-10-12 22:08:46+00:00,[User]_billrayburn,{'[User]_chrisnegus'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4818
+2023-10-12 23:06:03+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4819
+2023-10-12 23:06:19+00:00,[User]_saha-rajdeep,{'[User]_chrisnegus'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4820
+2023-10-12 23:12:41+00:00,[User]_saha-rajdeep,"{'[User]_gtomolillo', '[User]_rothgar'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4821
+2023-10-12 23:17:20+00:00,[User]_rothgar,{'[User]_gtomolillo'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4822
+2023-10-13 00:33:40+00:00,[User]_badrish-s,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4823
+2023-10-13 01:18:45+00:00,[User]_badrish-s,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4825
+2023-10-13 02:15:36+00:00,[User]_billrayburn,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4827
+2023-10-13 16:26:04+00:00,[User]_billrayburn,{'[User]_gtomolillo'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4829
+2023-10-15 05:01:08+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4837
+2023-10-15 05:03:04+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4838
+2023-10-15 23:34:15+00:00,[User]_saha-rajdeep,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4841
+2023-10-16 18:20:53+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4845
+2023-10-17 21:27:45+00:00,[User]_njtran,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4848
+2023-10-18 07:12:00+00:00,[User]_saitessell,{'[User]_njtran'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4849
+2023-10-18 12:04:37+00:00,[User]_cpchiu,"{'[User]_njtran', '[User]_cpchiu'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4850
+2023-10-18 17:37:40+00:00,[User]_snorlaX-sleeps,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4852
+2023-10-19 09:53:17+00:00,[User]_Seljuke,{'[User]_Seljuke'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4853
+2023-10-20 06:05:43+00:00,[User]_sadath-12,"{'[User]_sadath-12', '[User]_njtran', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4866
+2023-10-22 11:39:56+00:00,[User]_pgackiewiczlcloud,"{'[User]_engedaam', '[User]_ellistarn', '[User]_pgackiewiczlcloud', '[User]_koftek0723'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4883
+2023-10-22 20:19:53+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4884
+2023-10-23 07:20:32+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/pull/4891
+2023-10-23 11:48:56+00:00,[User]_tip-dteller,"{'[User]_tip-dteller', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4893
+2023-10-24 09:46:00+00:00,[User]_txjjjjj,{'[User]_ellistarn'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4904
+2023-10-24 15:43:22+00:00,[User]_dalefrancum,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4905
+2023-10-24 17:48:57+00:00,[User]_rafatio,"{'[User]_douglasquintanilha', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4907
+2023-10-24 21:54:46+00:00,[User]_ellistarn,{'[User]_brito-rafa'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4915
+2023-10-25 12:17:57+00:00,[User]_nantiferov,"{'[User]_nantiferov', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4922
+2023-10-25 12:46:39+00:00,[User]_rkirk-r7,"{'[User]_rkirk-r7', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4923
+2023-10-26 09:43:03+00:00,[User]_arestuzi,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4934
+2023-10-26 10:02:12+00:00,[User]_thepoppingone,"{'[User]_vjkancherla', '[User]_tzneal', '[User]_nakulrao', '[User]_Imunhatep', '[User]_snorlaX-sleeps', '[User]_thepoppingone', '[User]_ceastman-r7', '[User]_lishuaisky', '[User]_njtran', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4935
+2023-10-26 22:32:04+00:00,[User]_billrayburn,{'[User]_chrisnegus'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4944
+2023-10-27 17:07:17+00:00,[User]_samuel-esp,"{'[User]_michaelvl', '[User]_samuel-esp', '[User]_jonathan-innis', '[User]_ebizboy'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4948
+2023-10-29 13:22:57+00:00,[User]_OrBin,{'[User]_njtran'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4952
+2023-10-29 13:24:50+00:00,[User]_OrBin,{'[User]_njtran'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4953
+2023-10-30 18:59:00+00:00,[User]_njtran,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4965
+2023-10-30 21:55:54+00:00,[User]_tmoreadobe,"{'[User]_jmdeal', '[User]_tmoreadobe', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4969
+2023-10-30 23:26:39+00:00,[User]_jonathan-innis,{'[User]_jmdeal'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/4972
+2023-10-31 04:35:05+00:00,[User]_giovannirco,{'[User]_ellistarn'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4978
+2023-10-31 05:53:59+00:00,[User]_mikestef9,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4979
+2023-10-31 11:43:26+00:00,[User]_gtomolillo,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/4980
+2023-10-31 13:18:13+00:00,[User]_nicon89,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4982
+2023-10-31 16:35:03+00:00,[User]_Artiax,"{'[User]_suket22', '[User]_ellistarn', '[User]_colintkn', '[User]_michaelajr', '[User]_levinedaniel', '[User]_Artiax', '[User]_johngmyers', '[User]_olfway', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4985
+2023-10-31 16:55:48+00:00,[User]_jonathan-innis,"{'[User]_njtran', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/pull/4986
+2023-10-31 17:17:23+00:00,[User]_praseedasathaye,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/4987
+2023-10-31 17:56:57+00:00,[User]_jonathan-innis,"{'[User]_karthikmurali60', '[User]_jonathan-innis', '[User]_stevehipwell'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4989
+2023-10-31 19:33:15+00:00,[User]_jonathan-innis,"{'[User]_mbevc1', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/4993
+2023-11-01 23:46:43+00:00,[User]_engedaam,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5001
+2023-11-02 12:01:04+00:00,[User]_wiseelf,"{'[User]_jmdeal', '[User]_jonathan-innis', '[User]_wiseelf'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5003
+2023-11-02 12:04:37+00:00,[User]_tasdikrahman,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5004
+2023-11-02 14:36:29+00:00,[User]_rtrompier,"{'[User]_rtrompier', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5005
+2023-11-02 15:14:57+00:00,[User]_njtran,"{'[User]_garvinp-stripe', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5006
+2023-11-02 20:14:58+00:00,[User]_njtran,"{'[User]_engedaam', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/pull/5010
+2023-11-03 13:26:21+00:00,[User]_aprohorov-callsign,"{'[User]_engedaam', '[User]_aprohorov-callsign'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5013
+2023-11-06 02:15:55+00:00,[User]_dcarrion87,"{'[User]_jonathan-innis', '[User]_dcarrion87'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5024
+2023-11-06 06:35:10+00:00,[User]_yr8sdk,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5030
+2023-11-06 07:22:16+00:00,[User]_thepoppingone,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5031
+2023-11-06 14:50:33+00:00,[User]_harryw,{'[User]_ellistarn'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5033
+2023-11-06 15:23:37+00:00,[User]_honeyfordd,"{'[User]_engedaam', '[User]_honeyfordd'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5034
+2023-11-06 15:48:10+00:00,[User]_rknightion,"{'[User]_jonathan-innis', '[User]_rknightion'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5035
+2023-11-06 21:18:08+00:00,[User]_thelabdude,"{'[User]_jonathan-innis', '[User]_thelabdude'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5039
+2023-11-07 11:44:40+00:00,[User]_hitsub2,"{'[User]_engedaam', '[User]_hitsub2'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5043
+2023-11-07 17:56:09+00:00,[User]_njtran,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5044
+2023-11-08 16:51:54+00:00,[User]_Rez0k,{'[User]_Rez0k'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5049
+2023-11-08 21:13:22+00:00,[User]_wpbeckwith,"{'[User]_engedaam', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5050
+2023-11-09 00:59:00+00:00,[User]_comtalyst,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5051
+2023-11-09 08:55:59+00:00,[User]_nadavbuc,"{'[User]_engedaam', '[User]_njtran', '[User]_nadavbuc'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5052
+2023-11-09 10:56:05+00:00,[User]_txjjjjj,{'[User]_engedaam'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5053
+2023-11-09 12:17:10+00:00,[User]_noamgreen,{'[User]_noamgreen'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5054
+2023-11-09 16:26:26+00:00,[User]_midu-git,"{'[User]_engedaam', '[User]_bwagner5', '[User]_jonathan-innis', '[User]_midu-git'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5055
+2023-11-09 21:52:33+00:00,[User]_jonathan-innis,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5060
+2023-11-10 02:08:10+00:00,[User]_jonathan-innis,{'[User]_Stuckinrecoverymode'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5061
+2023-11-10 11:44:57+00:00,[User]_lllsJllsJ,"{'[User]_lllsJllsJ', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5062
+2023-11-10 18:18:31+00:00,[User]_jonathan-innis,{'[User]_JaynouOliver'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5065
+2023-11-10 23:07:27+00:00,[User]_jmdeal,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/5066
+2023-11-11 04:43:05+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5069
+2023-11-12 14:33:32+00:00,[User]_nadavbuc,{'[User]_nadavbuc'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5072
+2023-11-13 02:37:16+00:00,[User]_marcustut,"{'[User]_engedaam', '[User]_tzneal', '[User]_marcustut'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5073
+2023-11-13 17:35:20+00:00,[User]_johngmyers,{'[User]_johngmyers'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5078
+2023-11-13 17:38:00+00:00,[User]_tom-pavz,"{'[User]_laiminhtrung1997', '[User]_tom-pavz', '[User]_jonathan-innis', '[User]_Guilhermesfl'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5079
+2023-11-14 14:41:57+00:00,[User]_disparo13,"{'[User]_jmdeal', '[User]_hlascelles', '[User]_tzneal', '[User]_disparo13'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5089
+2023-11-14 21:33:50+00:00,[User]_chrismld,"{'[User]_tzneal', '[User]_chrismld'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5091
+2023-11-15 11:14:14+00:00,[User]_Izvi-digibank,"{'[User]_tzneal', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5095
+2023-11-15 15:54:01+00:00,[User]_paba19,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5096
+2023-11-15 16:26:30+00:00,[User]_ArieLevs,"{'[User]_tzneal', '[User]_ArieLevs'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5097
+2023-11-15 22:54:20+00:00,[User]_marciogmorales,"{'[User]_tzifudzi', '[User]_tzneal', '[User]_marciogmorales'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5099
+2023-11-16 09:12:13+00:00,[User]_MKnichal,"{'[User]_tzneal', '[User]_MKnichal'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5101
+2023-11-17 11:13:42+00:00,[User]_ricardomiguel-os,"{'[User]_ricardomiguel-os', '[User]_tzneal'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5104
+2023-11-17 11:14:51+00:00,[User]_runningman84,"{'[User]_tzneal', '[User]_runningman84'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5105
+2023-11-17 11:16:04+00:00,[User]_agelosnm,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5106
+2023-11-17 12:07:48+00:00,[User]_snorlaX-sleeps,"{'[User]_snorlaX-sleeps', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5107
+2023-11-18 00:00:23+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5112
+2023-11-19 08:10:25+00:00,[User]_nadavbuc,"{'[User]_nadavbuc', '[User]_senilio'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5113
+2023-11-19 14:18:07+00:00,[User]_nadavbuc,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5114
+2023-11-20 05:51:13+00:00,[User]_zakariais,"{'[User]_zakariais', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5116
+2023-11-20 14:50:40+00:00,[User]_jbruce-nex,"{'[User]_tzneal', '[User]_cbugneac-nex', '[User]_jbruce-nex'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5120
+2023-11-20 21:46:17+00:00,[User]_billrayburn,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5125
+2023-11-20 22:12:38+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5126
+2023-11-21 01:16:29+00:00,[User]_jgonera,"{'[User]_jgonera', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5127
+2023-11-21 06:45:21+00:00,[User]_jonathan-innis,{'[User]_engedaam'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/5128
+2023-11-21 17:38:35+00:00,[User]_xubofei1983,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5130
+2023-11-21 17:45:30+00:00,[User]_fonteslucas,"{'[User]_fonteslucas', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5131
+2023-11-21 18:24:51+00:00,[User]_k-walsh-gmg,"{'[User]_jonathan-innis', '[User]_k-walsh-gmg'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5133
+2023-11-21 19:06:32+00:00,[User]_yogeek,"{'[User]_jonathan-innis', '[User]_yogeek'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5134
+2023-11-21 21:09:39+00:00,[User]_mtavaresmedeiros,"{'[User]_mtavaresmedeiros', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5135
+2023-11-22 01:33:04+00:00,[User]_jonathan-innis,{'[User]_engedaam'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/5136
+2023-11-22 10:21:20+00:00,[User]_sasanknvs,"{'[User]_sasanknvs', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5139
+2023-11-22 11:41:51+00:00,[User]_tarikdem,"{'[User]_bwagner5', '[User]_tarikdem', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5140
+2023-11-22 12:14:17+00:00,[User]_stevehipwell,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5141
+2023-11-22 18:58:31+00:00,[User]_jonathan-innis,{'[User]_jmdeal'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/5143
+2023-11-22 19:13:53+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5144
+2023-11-22 19:42:29+00:00,[User]_billrayburn,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5145
+2023-11-22 21:25:20+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5148
+2023-11-23 06:01:54+00:00,[User]_jhyoonzi,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5149
+2023-11-23 08:18:08+00:00,[User]_infa-msheik,"{'[User]_infa-msheik', '[User]_jmdeal', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5150
+2023-11-24 06:56:58+00:00,[User]_runningman84,"{'[User]_jonathan-innis', '[User]_runningman84'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5153
+2023-11-24 09:29:44+00:00,[User]_marcofranssen,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5154
+2023-11-24 10:38:24+00:00,[User]_s-sy-y,"{'[User]_jonathan-innis', '[User]_s-sy-y'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5155
+2023-11-24 15:00:55+00:00,[User]_ananzmzm,"{'[User]_jonathan-innis', '[User]_ananzmzm'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5156
+2023-11-24 15:28:17+00:00,[User]_runningman84,"{'[User]_jonathan-innis', '[User]_runningman84'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5157
+2023-11-24 16:48:20+00:00,[User]_shezaan,"{'[User]_shezaan', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5158
+2023-11-25 03:53:48+00:00,[User]_jonathan-innis,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5161
+2023-11-25 03:55:50+00:00,[User]_jonathan-innis,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5162
+2023-11-25 04:11:31+00:00,[User]_jonathan-innis,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5163
+2023-11-26 11:21:04+00:00,[User]_henrikuittinen,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5165
+2023-11-27 10:57:55+00:00,[User]_runningman84,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5167
+2023-11-27 15:18:29+00:00,[User]_neilharris123,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5168
+2023-11-27 16:05:43+00:00,[User]_runningman84,"{'[User]_jmdeal', '[User]_runningman84'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5169
+2023-11-27 23:15:18+00:00,[User]_xubofei1983,"{'[User]_jmdeal', '[User]_xubofei1983'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5171
+2023-11-28 05:03:11+00:00,[User]_DevopsCareer,"{'[User]_jmdeal', '[User]_marcustut', '[User]_rubel-ahammad', '[User]_vjkancherla'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5176
+2023-11-28 06:09:22+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/pull/5177
+2023-11-28 12:38:05+00:00,[User]_runningman84,{'[User]_jmdeal'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5178
+2023-11-28 12:40:46+00:00,[User]_sasanknvs,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5179
+2023-11-28 22:54:18+00:00,[User]_jgonera,"{'[User]_jmdeal', '[User]_jgonera', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5181
+2023-11-29 01:58:49+00:00,[User]_jhyoonzi,"{'[User]_jhyoonzi', '[User]_jonathan-innis'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5182
+2023-11-29 08:54:30+00:00,[User]_badaldavda8,{'[User]_jmdeal'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5184
+2023-11-29 10:32:48+00:00,[User]_lifeofmoo,"{'[User]_jmdeal', '[User]_lifeofmoo', '[User]_bmohamoodallybmj'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5185
+2023-11-29 18:17:41+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5187
+2023-11-29 20:53:43+00:00,[User]_jmdeal,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/5188
+2023-11-30 06:52:56+00:00,[User]_infa-msheik,{'[User]_jmdeal'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5194
+2023-11-30 14:21:48+00:00,[User]_bryantbiggs,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5195
+2023-11-30 18:53:47+00:00,[User]_engedaam,{'[User]_engedaam'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5197
+2023-12-01 05:24:27+00:00,[User]_amitmantha,"{'[User]_jmdeal', '[User]_amitmantha'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5200
+2023-12-01 10:03:43+00:00,[User]_engedaam,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/5202
+2023-12-01 10:14:14+00:00,[User]_engedaam,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/5203
+2023-12-01 11:03:57+00:00,[User]_txjjjjj,{'[User]_jmdeal'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5204
+2023-12-02 04:18:00+00:00,[User]_txjjjjj,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5211
+2023-12-03 06:45:26+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/pull/5212
+2023-12-03 20:09:35+00:00,[User]_nantiferov,{'[User]_jonathan-innis'},aws/karpenter,2023,https://github.com/aws/karpenter/pull/5213
+2023-12-04 11:50:27+00:00,[User]_makarov-roman,{'[User]_makarov-roman'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5218
+2023-12-04 19:24:24+00:00,[User]_engedaam,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5219
+2023-12-04 21:39:47+00:00,[User]_alexandrospanayi,{'[User]_alexandrospanayi'},aws/karpenter,2023,https://github.com/aws/karpenter/issues/5222
+2023-12-04 22:08:53+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5223
+2023-12-05 00:08:04+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5225
+2023-12-05 00:20:37+00:00,[User]_jonathan-innis,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5228
+2023-12-05 10:49:07+00:00,[User]_Vormillion,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5232
+2023-12-05 12:37:07+00:00,[User]_mcanevet,"{'[User]_tzneal', '[User]_sftim'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5233
+2023-12-05 17:41:33+00:00,[User]_ellistarn,"{'[User]_martinsmatthews', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5234
+2023-12-05 19:35:37+00:00,[User]_engedaam,set(),aws/karpenter,2023,https://github.com/aws/karpenter/pull/5237
+2023-12-05 19:50:36+00:00,[User]_sidewinder12s,"{'[User]_sidewinder12s', '[User]_ellistarn'}",aws/karpenter,2023,https://github.com/aws/karpenter/issues/5238
+2023-12-05 22:55:54+00:00,[User]_manojmspython,set(),aws/karpenter,2023,https://github.com/aws/karpenter/issues/5243

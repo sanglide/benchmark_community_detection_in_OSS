@@ -1,0 +1,530 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 09:37:23+00:00,[User]_rhdunn,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/2988
+2023-05-01 13:11:44+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/2989
+2023-05-02 11:16:52+00:00,[User]_tryadelion,"{'[User]_tryadelion', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/2991
+2023-05-03 11:22:51+00:00,[User]_owengray-google,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/2992
+2023-05-04 16:36:31+00:00,[User]_aSemy,{'[User]_whyoleg'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/2993
+2023-05-11 00:11:39+00:00,[User]_ilya-g,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/2994
+2023-05-12 20:58:41+00:00,[User]_vmishenev,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/2995
+2023-05-15 14:13:17+00:00,[User]_owengray-google,"{'[User]_owengray-google', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/2996
+2023-05-16 12:03:20+00:00,[User]_kepocnhh,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/2997
+2023-05-16 20:54:00+00:00,[User]_juliamcclellan,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/2998
+2023-05-17 08:04:37+00:00,[User]_eunwoo-park-nhn,"{'[User]_eunwoo-park-nhn', '[User]_eunwoop', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/2999
+2023-05-19 15:23:17+00:00,[User]_IgnatBeresnev,"{'[User]_atyrin', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3000
+2023-05-19 19:12:11+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3001
+2023-05-19 19:57:27+00:00,[User]_IgnatBeresnev,"{'[User]_owengray-google', '[User]_asfalcone', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3002
+2023-05-21 15:08:44+00:00,[User]_romangraef,"{'[User]_romangraef', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3004
+2023-05-21 16:07:10+00:00,[User]_romangraef,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3005
+2023-05-22 04:08:19+00:00,[User]_eunwoop,"{'[User]_eunwoo-park-nhn', '[User]_eunwoop', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3006
+2023-05-23 15:40:05+00:00,[User]_atyrin,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3007
+2023-05-23 18:39:46+00:00,[User]_IgnatBeresnev,"{'[User]_aSemy', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3008
+2023-05-24 09:00:47+00:00,[User]_atyrin,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3010
+2023-05-24 09:10:47+00:00,[User]_atyrin,"{'[User]_atyrin', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3011
+2023-05-24 10:27:19+00:00,[User]_flyingfish162,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3012
+2023-05-26 10:56:54+00:00,[User]_OndraZizka,"{'[User]_OndraZizka', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3013
+2023-05-26 11:14:42+00:00,[User]_ltrejopu,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3014
+2023-05-27 20:22:40+00:00,[User]_iseki0,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3015
+2023-05-29 06:51:39+00:00,[User]_robstoll,{'[User]_robstoll'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3016
+2023-05-30 14:52:56+00:00,[User]_zoobestik,"{'[User]_zoobestik', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3017
+2023-05-30 17:04:38+00:00,[User]_zoobestik,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3018
+2023-05-30 17:15:28+00:00,[User]_IgnatBeresnev,"{'[User]_atyrin', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3019
+2023-05-30 17:16:42+00:00,[User]_zoobestik,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3020
+2023-05-30 18:38:33+00:00,[User]_zoobestik,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3021
+2023-06-01 13:35:46+00:00,[User]_hfhbd,"{'[User]_aSemy', '[User]_hfhbd', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3026
+2023-06-02 19:13:56+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3028
+2023-06-02 20:20:13+00:00,[User]_EdricChan03,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3029
+2023-06-04 12:27:57+00:00,[User]_aSemy,"{'[User]_whyoleg', '[User]_aSemy', '[User]_adam-enko'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3030
+2023-06-05 17:49:31+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3031
+2023-06-06 12:47:44+00:00,[User]_sandwwraith,"{'[User]_sandwwraith', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3032
+2023-06-06 13:13:01+00:00,[User]_sandwwraith,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3033
+2023-06-06 13:19:03+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3034
+2023-06-06 13:59:24+00:00,[User]_binkley,"{'[User]_aSemy', '[User]_binkley'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3035
+2023-06-06 18:31:22+00:00,[User]_aSemy,"{'[User]_aSemy', '[User]_binkley', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3036
+2023-06-06 19:45:34+00:00,[User]_chrisjenx,"{'[User]_aSemy', '[User]_chrisjenx', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3037
+2023-06-08 11:02:59+00:00,[User]_atyrin,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3038
+2023-06-08 22:12:27+00:00,[User]_av1934413,{'[User]_av1934413'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3039
+2023-06-09 12:29:23+00:00,[User]_SimonMarquis,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3040
+2023-06-09 17:52:44+00:00,[User]_IgnatBeresnev,"{'[User]_aajtodd', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3041
+2023-06-09 17:56:35+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3042
+2023-06-09 18:06:52+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3043
+2023-06-11 22:22:16+00:00,[User]_lounres,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3044
+2023-06-13 05:26:35+00:00,[User]_vishalpatil0,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3045
+2023-06-14 20:26:30+00:00,[User]_freya022,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3046
+2023-06-16 20:43:50+00:00,[User]_wkornewald,"{'[User]_wkornewald', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3047
+2023-06-20 09:00:44+00:00,[User]_jhdcruz,"{'[User]_solonovamax', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3048
+2023-06-20 12:54:08+00:00,[User]_sandwwraith,{'[User]_sandwwraith'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3049
+2023-06-21 16:50:48+00:00,[User]_jhdcruz,"{'[User]_vmishenev', '[User]_jhdcruz'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3050
+2023-06-26 12:09:51+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3051
+2023-06-27 11:57:02+00:00,[User]_markosopcic,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3052
+2023-06-28 18:07:14+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3053
+2023-06-29 20:05:22+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3054
+2023-06-30 11:03:50+00:00,[User]_owengray-google,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3055
+2023-07-03 12:13:14+00:00,[User]_waldenko,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3056
+2023-07-03 16:12:56+00:00,[User]_d-ambatenne,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3057
+2023-07-04 16:06:46+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3058
+2023-07-04 17:12:07+00:00,[User]_IgnatBeresnev,{'[User]_CLOVIS-AI'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3059
+2023-07-06 15:43:31+00:00,[User]_IgnatBeresnev,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3060
+2023-07-06 16:13:17+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3061
+2023-07-07 04:51:50+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3062
+2023-07-07 07:39:59+00:00,[User]_hfhbd,"{'[User]_joffrey-bion', '[User]_hfhbd', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3063
+2023-07-07 08:08:31+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3064
+2023-07-07 23:08:10+00:00,[User]_lowasser,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3066
+2023-07-10 08:40:29+00:00,[User]_JesusMcCloud,"{'[User]_JesusMcCloud', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3068
+2023-07-11 10:14:12+00:00,[User]_BoD,"{'[User]_BoD', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3070
+2023-07-13 16:40:00+00:00,[User]_owengray-google,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3072
+2023-07-13 19:06:26+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3073
+2023-07-14 19:14:30+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3074
+2023-07-17 09:01:39+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3075
+2023-07-17 09:14:32+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3076
+2023-07-17 14:48:02+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3078
+2023-07-18 18:05:26+00:00,[User]_owengray-google,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3079
+2023-07-20 21:07:06+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3081
+2023-07-24 10:27:01+00:00,[User]_zoobestik,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3082
+2023-07-24 12:18:26+00:00,[User]_raghav-deepsource,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3083
+2023-07-24 13:56:22+00:00,[User]_atyrin,"{'[User]_atyrin', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3085
+2023-07-24 15:42:02+00:00,[User]_atyrin,"{'[User]_gleb-skobinsky', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3087
+2023-07-24 15:47:50+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3088
+2023-07-25 14:13:11+00:00,[User]_atyrin,"{'[User]_berezinant', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3090
+2023-07-25 15:21:29+00:00,[User]_juliamcclellan,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3091
+2023-07-25 17:26:43+00:00,[User]_juliamcclellan,"{'[User]_vmishenev', '[User]_juliamcclellan', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3092
+2023-07-26 13:30:49+00:00,[User]_atyrin,{'[User]_seelchen'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3093
+2023-07-26 14:54:53+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_darthorimar'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3094
+2023-07-26 15:43:11+00:00,[User]_atyrin,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3095
+2023-07-28 09:29:04+00:00,[User]_CLOVIS-AI,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3096
+2023-07-28 15:18:41+00:00,[User]_philliplbryant,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3097
+2023-08-01 17:22:23+00:00,[User]_owengray-google,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3098
+2023-08-01 17:27:03+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_ftomassetti'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3099
+2023-08-01 18:15:47+00:00,[User]_IgnatBeresnev,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3100
+2023-08-02 01:02:18+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3101
+2023-08-02 14:03:26+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3102
+2023-08-04 13:09:32+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3104
+2023-08-04 17:00:49+00:00,[User]_qwwdfsad,"{'[User]_vmishenev', '[User]_qwwdfsad'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3105
+2023-08-06 07:45:20+00:00,[User]_brandon50124,{'[User]_brandon50124'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3106
+2023-08-06 19:32:01+00:00,[User]_Nek-12,"{'[User]_Nek-12', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3107
+2023-08-07 15:19:56+00:00,[User]_vmishenev,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3108
+2023-08-07 16:58:10+00:00,[User]_qwwdfsad,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3109
+2023-08-11 21:35:39+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3110
+2023-08-11 21:48:49+00:00,[User]_IgnatBeresnev,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3111
+2023-08-11 21:59:21+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3112
+2023-08-11 22:40:32+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3113
+2023-08-12 19:15:51+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3114
+2023-08-12 19:24:54+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3115
+2023-08-12 22:56:21+00:00,[User]_zoobestik,"{'[User]_zoobestik', '[User]_nikpachoo', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3116
+2023-08-14 12:34:58+00:00,[User]_adjorno,"{'[User]_adjorno', '[User]_fobidlim', '[User]_milgner', '[User]_valya1', '[User]_lmachacek', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3117
+2023-08-15 00:29:22+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3118
+2023-08-15 10:55:49+00:00,[User]_aSemy,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3119
+2023-08-15 21:40:01+00:00,[User]_ZacSweers,"{'[User]_3flex', '[User]_ZacSweers', '[User]_whyoleg', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3120
+2023-08-15 23:19:52+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3121
+2023-08-16 00:42:50+00:00,[User]_IgnatBeresnev,"{'[User]_CLOVIS-AI', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3122
+2023-08-16 15:13:16+00:00,[User]_owengray-google,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3123
+2023-08-16 17:36:46+00:00,[User]_juliamcclellan,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3124
+2023-08-16 18:31:14+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3125
+2023-08-17 11:41:52+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3126
+2023-08-17 15:31:57+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3127
+2023-08-17 15:42:06+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3128
+2023-08-17 15:47:43+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3129
+2023-08-17 20:40:09+00:00,[User]_juliamcclellan,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3130
+2023-08-17 22:19:00+00:00,[User]_IgnatBeresnev,"{'[User]_jeffdgr8', '[User]_kenyee', '[User]_CLOVIS-AI', '[User]_hfhbd', '[User]_adam-enko'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3131
+2023-08-18 01:01:04+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3132
+2023-08-21 13:39:24+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3133
+2023-08-21 15:50:06+00:00,[User]_ilya-g,{'[User]_fedochet'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3134
+2023-08-21 18:43:17+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3135
+2023-08-21 19:02:32+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3136
+2023-08-21 19:07:16+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3137
+2023-08-23 21:10:49+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3138
+2023-08-24 00:54:10+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3139
+2023-08-24 16:18:40+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3140
+2023-08-24 20:12:39+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3141
+2023-08-24 20:57:04+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3142
+2023-08-24 23:38:09+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3143
+2023-08-26 14:19:39+00:00,[User]_kunyavskiy,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3144
+2023-08-27 19:18:00+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3145
+2023-08-30 08:17:14+00:00,[User]_antohaby,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3147
+2023-08-30 15:41:04+00:00,[User]_bashor,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3148
+2023-08-31 11:23:08+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3149
+2023-08-31 15:42:27+00:00,[User]_darthorimar,"{'[User]_vmishenev', '[User]_darthorimar', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3150
+2023-08-31 18:52:29+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3151
+2023-09-01 00:07:06+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3152
+2023-09-01 12:19:56+00:00,[User]_IgnatBeresnev,"{'[User]_jeffdgr8', '[User]_gosha212', '[User]_JakeWharton', '[User]_AngeloFilaseta', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3153
+2023-09-01 13:08:16+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3154
+2023-09-01 14:47:18+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3155
+2023-09-01 14:59:16+00:00,[User]_vmishenev,"{'[User]_berezinant', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3156
+2023-09-01 15:43:43+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3157
+2023-09-01 20:32:37+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3158
+2023-09-03 14:51:26+00:00,[User]_LaylaMeower,"{'[User]_LaylaMeower', '[User]_atyrin'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3159
+2023-09-04 08:07:33+00:00,[User]_lppedd,"{'[User]_solonovamax', '[User]_lppedd'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3160
+2023-09-04 17:27:14+00:00,[User]_aSemy,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3161
+2023-09-05 13:56:57+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3162
+2023-09-05 14:13:52+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3163
+2023-09-05 14:19:19+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3164
+2023-09-05 14:25:43+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3165
+2023-09-05 14:36:59+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3166
+2023-09-05 14:48:07+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3167
+2023-09-05 15:02:59+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3169
+2023-09-05 15:07:40+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3170
+2023-09-05 15:32:03+00:00,[User]_lemberh,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3172
+2023-09-05 15:32:35+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3173
+2023-09-05 22:31:24+00:00,[User]_aSemy,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3175
+2023-09-05 22:47:16+00:00,[User]_aSemy,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3176
+2023-09-05 22:52:10+00:00,[User]_aSemy,"{'[User]_aSemy', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3177
+2023-09-13 17:21:45+00:00,[User]_hyandell,"{'[User]_hyandell', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3178
+2023-09-18 18:30:30+00:00,[User]_vmishenev,"{'[User]_atyrin', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3179
+2023-09-18 20:37:06+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3180
+2023-09-19 11:54:47+00:00,[User]_jbartok,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3181
+2023-09-20 08:40:37+00:00,[User]_ANGIL21,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3182
+2023-09-20 14:18:08+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3183
+2023-09-21 08:05:37+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_qwwdfsad', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3184
+2023-09-21 09:06:09+00:00,[User]_bojana-sofronovic-incode,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3185
+2023-09-21 09:49:00+00:00,[User]_bojana-sofronovic-incode,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3186
+2023-09-22 03:10:15+00:00,[User]_ilya-g,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3187
+2023-09-22 09:48:12+00:00,[User]_aSemy,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3188
+2023-09-22 11:48:23+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3189
+2023-09-26 13:08:56+00:00,[User]_asfalcone,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3190
+2023-09-29 10:15:48+00:00,[User]_boswelja,"{'[User]_whyoleg', '[User]_boswelja', '[User]_pdvrieze', '[User]_FWDekker'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3192
+2023-10-02 11:09:42+00:00,[User]_SakurajimaMaii,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3193
+2023-10-02 21:14:42+00:00,[User]_jeyanthanperiyasamy,"{'[User]_whyoleg', '[User]_kuju63'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3194
+2023-10-05 13:16:56+00:00,[User]_IgnatBeresnev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3195
+2023-10-06 16:33:31+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_atyrin'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3196
+2023-10-06 19:39:31+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3197
+2023-10-10 14:27:17+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3199
+2023-10-11 15:09:03+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3201
+2023-10-11 17:05:33+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3202
+2023-10-11 18:16:16+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3203
+2023-10-11 23:42:11+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3204
+2023-10-11 23:58:47+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3205
+2023-10-12 00:02:46+00:00,[User]_IgnatBeresnev,"{'[User]_vmishenev', '[User]_qwwdfsad', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3206
+2023-10-13 11:31:39+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3207
+2023-10-14 10:36:10+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3208
+2023-10-14 19:53:04+00:00,[User]_robstoll,"{'[User]_robstoll', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3209
+2023-10-17 07:17:21+00:00,[User]_SubhrajyotiSen,"{'[User]_SubhrajyotiSen', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3213
+2023-10-17 13:02:16+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3214
+2023-10-17 13:04:59+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3215
+2023-10-17 13:07:26+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3216
+2023-10-17 13:11:14+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3217
+2023-10-17 13:21:22+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3219
+2023-10-17 13:25:14+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3220
+2023-10-17 13:41:32+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3222
+2023-10-17 13:45:25+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3223
+2023-10-17 13:55:16+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3224
+2023-10-17 16:02:12+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3225
+2023-10-17 16:15:56+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3226
+2023-10-17 16:20:34+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3227
+2023-10-17 19:01:29+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3228
+2023-10-17 20:41:13+00:00,[User]_robstoll,"{'[User]_robstoll', '[User]_vmishenev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3230
+2023-10-17 22:10:29+00:00,[User]_IgnatBeresnev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3231
+2023-10-18 00:21:33+00:00,[User]_vmishenev,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3232
+2023-10-18 11:30:38+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3233
+2023-10-18 18:40:57+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3235
+2023-10-18 19:58:43+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_yanex', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3236
+2023-10-18 20:53:27+00:00,[User]_robstoll,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3237
+2023-10-19 18:42:31+00:00,[User]_vmishenev,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3238
+2023-10-19 19:07:43+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3239
+2023-10-20 13:42:31+00:00,[User]_seelchen,"{'[User]_whyoleg', '[User]_seelchen', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3240
+2023-10-20 18:02:12+00:00,[User]_seelchen,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3241
+2023-10-20 18:54:21+00:00,[User]_seelchen,"{'[User]_whyoleg', '[User]_seelchen'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3242
+2023-10-21 20:38:47+00:00,[User]_TorfsD,"{'[User]_TorfsD', '[User]_vmishenev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3243
+2023-10-23 18:00:41+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3244
+2023-10-23 19:48:40+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3245
+2023-10-23 20:17:52+00:00,[User]_IgnatBeresnev,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3246
+2023-10-24 15:42:45+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3247
+2023-10-24 17:02:12+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3248
+2023-10-24 21:56:15+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3249
+2023-10-25 13:40:01+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3250
+2023-10-25 15:52:04+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3251
+2023-10-25 15:54:42+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3252
+2023-10-25 15:56:22+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3253
+2023-10-25 16:02:00+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3255
+2023-10-25 16:03:50+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3256
+2023-10-25 16:05:15+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3257
+2023-10-25 16:06:13+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3258
+2023-10-25 16:07:52+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3259
+2023-10-25 16:09:22+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3260
+2023-10-25 16:11:16+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3261
+2023-10-25 19:34:51+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3262
+2023-10-26 12:03:05+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3263
+2023-10-26 13:33:40+00:00,[User]_aeiplatform,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3264
+2023-10-26 15:35:13+00:00,[User]_d-ambatenne,"{'[User]_whyoleg', '[User]_vmishenev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3265
+2023-10-26 19:05:22+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3266
+2023-10-27 10:36:43+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_ilya-g', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3267
+2023-10-27 15:53:53+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3268
+2023-10-27 15:55:42+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3269
+2023-10-27 16:01:54+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3271
+2023-10-30 10:23:06+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3272
+2023-10-30 10:24:12+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3273
+2023-10-30 10:25:19+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3274
+2023-10-30 10:26:50+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3275
+2023-10-30 10:28:37+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3276
+2023-10-30 10:29:34+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3277
+2023-10-30 10:30:21+00:00,[User]_d-ambatenne,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3278
+2023-10-30 10:31:42+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3279
+2023-10-30 10:33:22+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3280
+2023-10-30 10:34:34+00:00,[User]_d-ambatenne,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3281
+2023-10-30 10:36:26+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3282
+2023-10-30 12:56:28+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3283
+2023-10-30 12:57:52+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3284
+2023-10-30 12:58:53+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3285
+2023-10-30 13:01:12+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3287
+2023-10-30 13:02:07+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3288
+2023-10-30 13:06:59+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3292
+2023-10-30 13:08:19+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3293
+2023-10-30 13:09:39+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3294
+2023-10-30 13:11:30+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3295
+2023-10-30 13:12:48+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3296
+2023-10-30 13:13:44+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3297
+2023-10-30 13:14:43+00:00,[User]_d-ambatenne,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3298
+2023-10-30 13:17:57+00:00,[User]_nesk,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3299
+2023-10-30 13:46:36+00:00,[User]_IgnatBeresnev,"{'[User]_atyrin', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3300
+2023-10-30 14:27:47+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3301
+2023-10-30 14:33:41+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3302
+2023-10-30 14:34:48+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3303
+2023-10-30 14:35:39+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3304
+2023-10-30 14:36:43+00:00,[User]_d-ambatenne,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3305
+2023-10-30 15:18:20+00:00,[User]_d-ambatenne,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3307
+2023-10-30 15:19:11+00:00,[User]_d-ambatenne,{'[User]_d-ambatenne'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3308
+2023-10-30 15:48:12+00:00,[User]_sgrimm,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3309
+2023-10-30 18:02:02+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3310
+2023-10-31 23:01:03+00:00,[User]_IgnatBeresnev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3312
+2023-11-02 22:54:28+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_igoriakovlev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3315
+2023-11-03 00:03:53+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3316
+2023-11-03 16:05:09+00:00,[User]_BenDenen,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3317
+2023-11-04 01:36:36+00:00,[User]_kuju63,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3318
+2023-11-04 22:59:39+00:00,[User]_vmishenev,{'[User]_whyoleg'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3319
+2023-11-06 20:31:34+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3320
+2023-11-08 15:50:16+00:00,[User]_owengray-google,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3321
+2023-11-09 19:03:18+00:00,[User]_echeung-amzn,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3323
+2023-11-10 12:47:17+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3327
+2023-11-10 13:18:35+00:00,[User]_IgnatBeresnev,{'[User]_atyrin'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3328
+2023-11-10 16:00:58+00:00,[User]_atyrin,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3329
+2023-11-10 16:50:14+00:00,[User]_whyoleg,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3330
+2023-11-10 17:09:36+00:00,[User]_atyrin,"{'[User]_whyoleg', '[User]_atyrin', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3331
+2023-11-10 17:19:55+00:00,[User]_whyoleg,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3332
+2023-11-10 17:26:26+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3333
+2023-11-13 09:53:01+00:00,[User]_atyrin,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3334
+2023-11-13 10:30:03+00:00,[User]_atyrin,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3335
+2023-11-13 11:19:16+00:00,[User]_atyrin,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3336
+2023-11-13 12:51:00+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3337
+2023-11-13 16:40:16+00:00,[User]_atyrin,"{'[User]_atyrin', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3338
+2023-11-13 16:46:41+00:00,[User]_atyrin,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3339
+2023-11-13 16:58:26+00:00,[User]_615689347,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3340
+2023-11-13 17:08:20+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3341
+2023-11-13 19:50:11+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3342
+2023-11-14 09:41:37+00:00,[User]_atyrin,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_atyrin', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3343
+2023-11-14 19:52:45+00:00,[User]_hfhbd,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3345
+2023-11-15 12:06:46+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3346
+2023-11-15 14:30:21+00:00,[User]_whyoleg,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3347
+2023-11-15 15:50:24+00:00,[User]_atyrin,"{'[User]_vmishenev', '[User]_atyrin', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3348
+2023-11-15 17:40:27+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3349
+2023-11-15 17:49:15+00:00,[User]_atyrin,"{'[User]_vmishenev', '[User]_atyrin'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3350
+2023-11-16 11:13:26+00:00,[User]_atyrin,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3351
+2023-11-16 11:40:47+00:00,[User]_atyrin,{'[User]_atyrin'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3352
+2023-11-16 13:17:03+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3353
+2023-11-16 15:56:47+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_IgnatBeresnev', '[User]_ANGIL21'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3354
+2023-11-16 16:15:15+00:00,[User]_atyrin,"{'[User]_vmishenev', '[User]_atyrin'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3355
+2023-11-16 17:32:27+00:00,[User]_atyrin,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3356
+2023-11-19 16:27:22+00:00,[User]_gdude2002,{'[User]_gdude2002'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3357
+2023-11-20 12:04:47+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3358
+2023-11-20 12:21:38+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3359
+2023-11-20 17:11:58+00:00,[User]_atyrin,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3360
+2023-11-21 11:19:53+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3361
+2023-11-21 11:52:08+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3362
+2023-11-22 15:31:29+00:00,[User]_atyrin,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3363
+2023-11-22 17:30:55+00:00,[User]_IgnatBeresnev,"{'[User]_whyoleg', '[User]_vmishenev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3365
+2023-11-22 18:06:51+00:00,[User]_IgnatBeresnev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3366
+2023-11-23 12:46:19+00:00,[User]_atyrin,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3367
+2023-11-23 15:30:02+00:00,[User]_atyrin,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3369
+2023-11-23 15:33:46+00:00,[User]_vmishenev,{'[User]_whyoleg'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3370
+2023-11-23 15:49:31+00:00,[User]_nea89o,"{'[User]_vmishenev', '[User]_nea89o'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3371
+2023-11-24 10:47:39+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3372
+2023-11-24 17:03:07+00:00,[User]_atyrin,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3373
+2023-11-24 18:25:33+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3374
+2023-11-24 18:32:45+00:00,[User]_atyrin,"{'[User]_vmishenev', '[User]_atyrin', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3375
+2023-11-24 18:59:48+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3376
+2023-11-27 11:03:53+00:00,[User]_atyrin,"{'[User]_vmishenev', '[User]_atyrin'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3377
+2023-11-27 14:06:11+00:00,[User]_atyrin,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3378
+2023-11-27 15:07:11+00:00,[User]_atyrin,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3379
+2023-11-27 15:52:26+00:00,[User]_atyrin,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3380
+2023-11-28 15:09:22+00:00,[User]_atyrin,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3382
+2023-11-28 16:01:56+00:00,[User]_atyrin,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3383
+2023-11-29 14:37:51+00:00,[User]_atyrin,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3384
+2023-11-29 15:13:45+00:00,[User]_atyrin,"{'[User]_vmishenev', '[User]_atyrin'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3385
+2023-11-29 17:06:18+00:00,[User]_atyrin,{'[User]_vmishenev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3386
+2023-11-29 17:37:24+00:00,[User]_raviaw,{'[User]_atyrin'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3387
+2023-11-30 11:18:09+00:00,[User]_adham-n4a7,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3389
+2023-11-30 14:11:31+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3390
+2023-12-01 13:38:42+00:00,[User]_atyrin,{'[User]_atyrin'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3392
+2023-12-01 16:42:25+00:00,[User]_vmishenev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3393
+2023-12-03 13:56:59+00:00,[User]_osama-salman99,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3395
+2023-12-04 16:53:29+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3396
+2023-12-04 17:27:08+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3397
+2023-12-05 20:47:14+00:00,[User]_FWDekker,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3398
+2023-12-06 15:06:31+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3399
+2023-12-08 11:30:11+00:00,[User]_berezinant,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3402
+2023-12-09 08:42:36+00:00,[User]_colinrtwhite,{'[User]_colinrtwhite'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3403
+2023-12-11 08:32:26+00:00,[User]_whyoleg,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3404
+2023-12-11 10:38:26+00:00,[User]_adam-enko,"{'[User]_qwwdfsad', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3405
+2023-12-11 10:43:57+00:00,[User]_adam-enko,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3406
+2023-12-12 15:04:13+00:00,[User]_fanysoft,"{'[User]_codlab', '[User]_LukasHenkeEPG'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3407
+2023-12-12 17:17:41+00:00,[User]_adam-enko,{'[User]_adam-enko'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3408
+2023-12-12 18:47:38+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3409
+2023-12-12 22:08:38+00:00,[User]_berezinant,"{'[User]_zoobestik', '[User]_IgnatBeresnev', '[User]_berezinant'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3410
+2023-12-13 17:12:48+00:00,[User]_berezinant,"{'[User]_berezinant', '[User]_zoobestik', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3411
+2023-12-14 19:30:36+00:00,[User]_berezinant,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3412
+2023-12-15 17:33:46+00:00,[User]_berezinant,"{'[User]_zoobestik', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3413
+2023-12-15 19:45:33+00:00,[User]_lauzadis,{'[User]_berezinant'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3415
+2023-12-15 19:48:37+00:00,[User]_lauzadis,"{'[User]_lauzadis', '[User]_berezinant'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3416
+2023-12-18 13:22:28+00:00,[User]_berezinant,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3417
+2023-12-18 16:09:03+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3418
+2023-12-18 16:40:34+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_Tapchicoma', '[User]_adam-enko'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3419
+2023-12-18 17:07:04+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_IgnatBeresnev', '[User]_adam-enko'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3420
+2023-12-19 00:26:33+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3421
+2023-12-19 10:26:25+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_Tapchicoma'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3422
+2023-12-19 13:58:44+00:00,[User]_IgnatBeresnev,{'[User]_berezinant'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3423
+2023-12-19 15:55:56+00:00,[User]_whyoleg,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3424
+2023-12-20 10:36:10+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_EddieRingle', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3425
+2023-12-20 10:58:20+00:00,[User]_IgnatBeresnev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3426
+2023-12-20 14:01:53+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_ALikhachev', '[User]_IgnatBeresnev', '[User]_adam-enko'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3427
+2023-12-20 14:24:47+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_Tapchicoma'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3428
+2023-12-20 16:01:24+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3429
+2023-12-20 16:37:15+00:00,[User]_whyoleg,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3430
+2023-12-20 16:43:36+00:00,[User]_whyoleg,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3431
+2023-12-20 16:55:43+00:00,[User]_berezinant,"{'[User]_whyoleg', '[User]_IgnatBeresnev', '[User]_zoobestik', '[User]_berezinant'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3432
+2023-12-20 17:38:50+00:00,[User]_adam-enko,"{'[User]_dkrasnoff', '[User]_IgnatBeresnev', '[User]_adam-enko'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3433
+2023-12-21 13:58:58+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2023,https://github.com/Kotlin/dokka/issues/3434
+2023-12-21 14:22:59+00:00,[User]_whyoleg,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3435
+2023-12-28 18:42:59+00:00,[User]_berezinant,"{'[User]_IgnatBeresnev', '[User]_berezinant'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3436
+2023-12-28 21:40:53+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_IgnatBeresnev'}",Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3437
+2023-12-30 10:26:47+00:00,[User]_3flex,{'[User]_whyoleg'},Kotlin/dokka,2023,https://github.com/Kotlin/dokka/pull/3438
+2024-01-08 17:18:26+00:00,[User]_ejller,{'[User]_rnett'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3439
+2024-01-08 23:16:29+00:00,[User]_vmishenev,{'[User]_vmishenev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3440
+2024-01-09 19:34:57+00:00,[User]_atyrin,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3442
+2024-01-09 20:26:49+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3443
+2024-01-10 15:10:48+00:00,[User]_adam-enko,{'[User]_whyoleg'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3444
+2024-01-11 20:53:48+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3445
+2024-01-12 17:06:50+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_Tapchicoma', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3446
+2024-01-13 17:40:46+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_Luqman2302', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3447
+2024-01-16 12:36:58+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3449
+2024-01-16 16:03:31+00:00,[User]_adam-enko,"{'[User]_IgnatBeresnev', '[User]_dkrasnoff'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3450
+2024-01-16 22:14:57+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3451
+2024-01-17 00:37:58+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3452
+2024-01-17 13:40:56+00:00,[User]_atyrin,{'[User]_Laxystem'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3453
+2024-01-18 20:52:14+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3455
+2024-01-19 15:09:07+00:00,[User]_atyrin,{'[User]_atyrin'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3456
+2024-01-19 15:17:58+00:00,[User]_atyrin,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3457
+2024-01-22 11:29:12+00:00,[User]_atyrin,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3458
+2024-01-22 11:48:55+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_Tapchicoma', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3459
+2024-01-22 11:48:56+00:00,[User]_berezinant,{'[User]_IgnatBeresnev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3460
+2024-01-22 12:02:00+00:00,[User]_berezinant,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3461
+2024-01-22 12:13:46+00:00,[User]_berezinant,{'[User]_IgnatBeresnev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3463
+2024-01-22 14:55:30+00:00,[User]_adam-enko,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3464
+2024-01-23 16:41:01+00:00,[User]_atyrin,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3466
+2024-01-24 12:01:10+00:00,[User]_berezinant,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3467
+2024-01-24 12:12:57+00:00,[User]_berezinant,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3468
+2024-01-24 12:22:00+00:00,[User]_berezinant,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3469
+2024-01-24 12:31:04+00:00,[User]_berezinant,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3470
+2024-01-25 13:34:24+00:00,[User]_zainalishah901,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3471
+2024-01-25 17:24:40+00:00,[User]_Javaru,"{'[User]_whyoleg', '[User]_Javaru'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3472
+2024-01-26 14:12:50+00:00,[User]_adam-enko,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3474
+2024-01-29 11:12:02+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3476
+2024-01-29 11:23:55+00:00,[User]_adam-enko,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3477
+2024-01-30 08:53:08+00:00,[User]_adam-enko,{'[User]_adam-enko'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3478
+2024-01-30 11:27:41+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_ilgonmic', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3479
+2024-01-31 15:07:27+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_dkrasnoff', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3481
+2024-02-02 09:48:19+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_Tapchicoma', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3483
+2024-02-03 01:12:29+00:00,[User]_JoelCourtney,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3484
+2024-02-03 10:24:54+00:00,[User]_3flex,"{'[User]_3flex', '[User]_whyoleg', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3485
+2024-02-05 17:20:46+00:00,[User]_vmishenev,{'[User]_whyoleg'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3487
+2024-02-05 20:44:38+00:00,[User]_jeffdgr8,"{'[User]_jeffdgr8', '[User]_vmishenev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3488
+2024-02-06 10:14:52+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3489
+2024-02-06 17:07:51+00:00,[User]_vmishenev,{'[User]_whyoleg'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3490
+2024-02-09 11:10:57+00:00,[User]_d-ambatenne,{'[User]_vmishenev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3491
+2024-02-09 11:18:45+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_dkrasnoff', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3492
+2024-02-11 08:43:18+00:00,[User]_Laxystem,"{'[User]_vmishenev', '[User]_Laxystem'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3494
+2024-02-14 11:41:15+00:00,[User]_fmcarvalho,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3496
+2024-02-16 09:39:33+00:00,[User]_YohannKovacs,{'[User]_IgnatBeresnev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3497
+2024-02-17 17:34:48+00:00,[User]_hossain-khan,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3498
+2024-02-18 18:48:45+00:00,[User]_vmishenev,{'[User]_vmishenev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3499
+2024-02-18 19:03:52+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3500
+2024-02-23 17:44:52+00:00,[User]_vmishenev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3502
+2024-02-26 18:12:51+00:00,[User]_owengray-google,{'[User]_owengray-google'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3503
+2024-02-26 19:21:31+00:00,[User]_owengray-google,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3504
+2024-02-26 19:34:10+00:00,[User]_owengray-google,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3505
+2024-02-26 19:38:58+00:00,[User]_owengray-google,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3506
+2024-02-29 09:57:46+00:00,[User]_atyrin,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3507
+2024-03-01 11:09:47+00:00,[User]_theo-ritense,"{'[User]_snesm', '[User]_theo-ritense'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3508
+2024-03-01 12:00:21+00:00,[User]_IgnatBeresnev,{'[User]_berezinant'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3509
+2024-03-04 14:58:55+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3510
+2024-03-04 15:05:12+00:00,[User]_owengray-google,{'[User]_owengray-google'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3511
+2024-03-04 18:12:40+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3512
+2024-03-05 07:50:32+00:00,[User]_HTGAzureX1212,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3513
+2024-03-05 12:39:58+00:00,[User]_whyoleg,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3514
+2024-03-05 12:45:05+00:00,[User]_ForteScarlet,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3515
+2024-03-05 16:10:51+00:00,[User]_IgnatBeresnev,"{'[User]_whyoleg', '[User]_adam-enko', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3516
+2024-03-05 16:29:52+00:00,[User]_IgnatBeresnev,"{'[User]_IgnatBeresnev', '[User]_whyoleg', '[User]_vmishenev', '[User]_atyrin', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3517
+2024-03-05 19:43:04+00:00,[User]_whyoleg,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3518
+2024-03-06 10:32:20+00:00,[User]_jprinet,{'[User]_IgnatBeresnev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3519
+2024-03-07 22:05:47+00:00,[User]_vmishenev,{'[User]_qwwdfsad'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3521
+2024-03-08 14:30:54+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_dkrasnoff', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3522
+2024-03-08 16:20:27+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3523
+2024-03-08 17:40:35+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_dkrasnoff', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3525
+2024-03-11 10:08:46+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_dkrasnoff'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3526
+2024-03-11 23:19:14+00:00,[User]_Mornin-glory,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3528
+2024-03-12 17:50:55+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3529
+2024-03-13 10:46:36+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_dkrasnoff'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3530
+2024-03-13 12:26:42+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_dkrasnoff'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3531
+2024-03-13 15:25:30+00:00,[User]_LiYing2010,"{'[User]_LiYing2010', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3532
+2024-03-18 10:39:37+00:00,[User]_martinbonnin,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3534
+2024-03-19 10:20:41+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3536
+2024-03-19 10:29:50+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3537
+2024-03-19 10:40:22+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3539
+2024-03-19 10:51:52+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3540
+2024-03-19 11:21:25+00:00,[User]_hamorillo,"{'[User]_whyoleg', '[User]_hamorillo'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3541
+2024-03-19 17:14:41+00:00,[User]_vmishenev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3542
+2024-03-19 20:54:43+00:00,[User]_Zumisha,{'[User]_Zumisha'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3543
+2024-03-19 20:55:36+00:00,[User]_Zumisha,{'[User]_Zumisha'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3544
+2024-03-19 21:15:11+00:00,[User]_Zumisha,{'[User]_Zumisha'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3545
+2024-03-21 01:09:02+00:00,[User]_tangible-idea,"{'[User]_vmishenev', '[User]_tangible-idea'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3546
+2024-03-22 21:42:27+00:00,[User]_martinbonnin,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3547
+2024-03-25 16:59:55+00:00,[User]_MattiasBuelens,{'[User]_whyoleg'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3548
+2024-03-27 13:09:15+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_dkrasnoff'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3549
+2024-03-27 14:39:36+00:00,[User]_atyrin,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3550
+2024-03-28 06:51:42+00:00,[User]_testersen,{'[User]_whyoleg'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3551
+2024-03-28 15:24:08+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_adam-enko', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3552
+2024-03-29 14:08:48+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3553
+2024-03-30 03:11:11+00:00,[User]_Mornin-glory,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3554
+2024-04-06 20:38:12+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3555
+2024-04-08 15:23:24+00:00,[User]_whyoleg,"{'[User]_vmishenev', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3556
+2024-04-09 11:34:06+00:00,[User]_whyoleg,"{'[User]_IgnatBeresnev', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3557
+2024-04-09 13:09:37+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3558
+2024-04-09 13:39:24+00:00,[User]_IgnatBeresnev,{'[User]_vmishenev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3559
+2024-04-09 20:23:46+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_vmishenev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3560
+2024-04-10 13:37:43+00:00,[User]_IgnatBeresnev,"{'[User]_whyoleg', '[User]_IgnatBeresnev', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3561
+2024-04-10 13:42:40+00:00,[User]_IgnatBeresnev,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3562
+2024-04-11 12:15:00+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3563
+2024-04-12 14:59:54+00:00,[User]_whyoleg,{'[User]_vmishenev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3564
+2024-04-14 16:44:45+00:00,[User]_illarionov,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3565
+2024-04-15 12:13:37+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3566
+2024-04-15 14:28:09+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_vmishenev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3567
+2024-04-15 16:39:17+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3568
+2024-04-17 20:14:24+00:00,[User]_vmishenev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3569
+2024-04-18 20:05:32+00:00,[User]_nikpachoo,{'[User]_IgnatBeresnev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3570
+2024-04-19 14:28:02+00:00,[User]_qwwdfsad,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3571
+2024-04-22 09:31:13+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3572
+2024-04-22 09:56:38+00:00,[User]_IgnatBeresnev,{'[User]_whyoleg'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3573
+2024-04-22 10:06:06+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3574
+2024-04-22 10:19:42+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3575
+2024-04-22 10:40:02+00:00,[User]_IgnatBeresnev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3576
+2024-04-22 11:57:19+00:00,[User]_IgnatBeresnev,"{'[User]_whyoleg', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3577
+2024-04-22 13:57:38+00:00,[User]_vmishenev,{'[User]_IgnatBeresnev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3578
+2024-04-22 14:26:03+00:00,[User]_berezinant,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3579
+2024-04-23 15:20:04+00:00,[User]_adam-enko,"{'[User]_whyoleg', '[User]_dkrasnoff', '[User]_adam-enko'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3580
+2024-04-23 16:22:23+00:00,[User]_adam-enko,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3581
+2024-04-24 08:25:11+00:00,[User]_vmishenev,"{'[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3582
+2024-04-25 11:03:03+00:00,[User]_vmishenev,"{'[User]_whyoleg', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3584
+2024-04-25 16:22:10+00:00,[User]_whyoleg,{'[User]_IgnatBeresnev'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3585
+2024-04-25 21:03:39+00:00,[User]_vmishenev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3586
+2024-04-26 09:08:27+00:00,[User]_vmishenev,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3587
+2024-04-26 09:29:12+00:00,[User]_berezinant,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3588
+2024-04-26 10:55:33+00:00,[User]_whyoleg,"{'[User]_whyoleg', '[User]_vmishenev', '[User]_IgnatBeresnev'}",Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3589
+2024-04-29 11:57:08+00:00,[User]_BraisGabin,{'[User]_BraisGabin'},Kotlin/dokka,2024,https://github.com/Kotlin/dokka/issues/3591
+2024-04-30 15:22:44+00:00,[User]_krocard,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3593
+2024-04-30 15:29:00+00:00,[User]_krocard,set(),Kotlin/dokka,2024,https://github.com/Kotlin/dokka/pull/3594

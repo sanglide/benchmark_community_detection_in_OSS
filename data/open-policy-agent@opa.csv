@@ -1,0 +1,338 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 23:46:10+00:00,[User]_ashutosh-narkar,"{'[User]_nevumx', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5888
+2023-05-05 03:41:17+00:00,[User]_ctelfer-sophos,"{'[User]_srenatus', '[User]_ctelfer-sophos'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5901
+2023-05-05 06:49:41+00:00,[User]_carabasdaniel,"{'[User]_DerGut', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5902
+2023-05-08 08:45:01+00:00,[User]_srenatus,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5908
+2023-05-12 15:09:07+00:00,[User]_porwalameet,"{'[User]_sba30', '[User]_charlieegan3', '[User]_porwalameet', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5914
+2023-05-12 16:12:29+00:00,[User]_jaspervdj,"{'[User]_srenatus', '[User]_jaspervdj', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5916
+2023-05-14 17:29:01+00:00,[User]_HarshPathakhp,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5918
+2023-05-14 18:21:36+00:00,[User]_AleksanderBrzozowski,"{'[User]_srenatus', '[User]_AleksanderBrzozowski'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5919
+2023-05-15 05:35:35+00:00,[User]_HarshPathakhp,"{'[User]_srenatus', '[User]_charlieegan3', '[User]_ashutosh-narkar', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5920
+2023-05-16 12:07:46+00:00,[User]_gianielsevier,"{'[User]_gianielsevier', '[User]_srenatus'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5922
+2023-05-16 13:37:11+00:00,[User]_anderseknert,"{'[User]_renatosc', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5923
+2023-05-16 17:42:22+00:00,[User]_ecbenezra,"{'[User]_srenatus', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5924
+2023-05-18 09:51:47+00:00,[User]_charlieegan3,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5929
+2023-05-18 18:37:01+00:00,[User]_ctelfer-sophos,"{'[User]_srenatus', '[User]_ctelfer-sophos', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5931
+2023-05-19 07:37:48+00:00,[User]_RealHarshThakur,"{'[User]_RealHarshThakur', '[User]_ashutosh-narkar', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5932
+2023-05-19 13:56:34+00:00,[User]_deezkay,"{'[User]_deezkay', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5933
+2023-05-19 16:21:58+00:00,[User]_ashutosh-narkar,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5934
+2023-05-20 13:27:23+00:00,[User]_Trolloldem,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5935
+2023-05-22 12:58:38+00:00,[User]_floriangasc,"{'[User]_srenatus', '[User]_floriangasc', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5937
+2023-05-23 07:54:29+00:00,[User]_srenatus,"{'[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5940
+2023-05-23 10:21:05+00:00,[User]_prasanthu,"{'[User]_prasanthu', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5942
+2023-05-23 15:19:09+00:00,[User]_pheianox,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5943
+2023-05-24 08:37:55+00:00,[User]_anderseknert,"{'[User]_yogisinha', '[User]_tjons', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5945
+2023-05-24 11:31:59+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5947
+2023-05-24 13:32:03+00:00,[User]_johanfylling,"{'[User]_srenatus', '[User]_ashutosh-narkar', '[User]_johanfylling'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5949
+2023-05-25 00:19:38+00:00,[User]_renatosc,"{'[User]_johanfylling', '[User]_renatosc', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5951
+2023-05-26 17:03:41+00:00,[User]_fardin01,"{'[User]_fardin01', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5956
+2023-05-30 08:37:34+00:00,[User]_renatosc,"{'[User]_johanfylling', '[User]_renatosc'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5957
+2023-06-01 13:54:11+00:00,[User]_srenatus,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5962
+2023-06-02 04:13:04+00:00,[User]_ritikanarula,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5963
+2023-06-02 09:32:29+00:00,[User]_srenatus,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5964
+2023-06-03 01:26:23+00:00,[User]_ashutosh-narkar,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5966
+2023-06-05 06:48:08+00:00,[User]_mjungsbluth,"{'[User]_mjungsbluth', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5967
+2023-06-05 08:45:11+00:00,[User]_DCRUNNN,{'[User]_johanfylling'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5969
+2023-06-05 09:06:33+00:00,[User]_srenatus,"{'[User]_ashutosh-narkar', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5970
+2023-06-05 18:14:07+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5972
+2023-06-05 19:14:43+00:00,[User]_mjungsbluth,"{'[User]_mjungsbluth', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5973
+2023-06-05 22:05:38+00:00,[User]_qshu-splunk,"{'[User]_qshu-splunk', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5975
+2023-06-06 02:25:37+00:00,[User]_qshu-splunk,"{'[User]_qshu-splunk', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5976
+2023-06-06 20:25:07+00:00,[User]_hannahyeates,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5982
+2023-06-07 14:59:36+00:00,[User]_charlieegan3,"{'[User]_srenatus', '[User]_charlieegan3', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5984
+2023-06-07 15:35:55+00:00,[User]_ashutosh-narkar,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5985
+2023-06-07 18:20:13+00:00,[User]_ashutosh-narkar,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5986
+2023-06-08 15:11:22+00:00,[User]_Lockeysama,"{'[User]_ashutosh-narkar', '[User]_Lockeysama', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/5990
+2023-06-09 08:12:02+00:00,[User]_srenatus,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5991
+2023-06-09 13:20:48+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_srenatus'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/5992
+2023-06-12 13:48:33+00:00,[User]_ghaskins,"{'[User]_ghaskins', '[User]_srenatus'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6003
+2023-06-12 13:59:46+00:00,[User]_ghaskins,"{'[User]_zregvart', '[User]_anderseknert', '[User]_gr0l0rg', '[User]_srenatus', '[User]_ghaskins', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6004
+2023-06-12 23:14:51+00:00,[User]_yogisinha,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6006
+2023-06-13 11:10:24+00:00,[User]_yogisinha,"{'[User]_srenatus', '[User]_yogisinha', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6007
+2023-06-13 13:48:48+00:00,[User]_kubaj,"{'[User]_srenatus', '[User]_ashutosh-narkar', '[User]_kubaj', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6009
+2023-06-14 21:30:22+00:00,[User]_kenjenkins,"{'[User]_kenjenkins', '[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6013
+2023-06-15 08:42:52+00:00,[User]_srenatus,"{'[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6015
+2023-06-15 17:01:59+00:00,[User]_charlieegan3,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6020
+2023-06-16 08:05:44+00:00,[User]_anderseknert,"{'[User]_srenatus', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6021
+2023-06-16 23:33:51+00:00,[User]_kenjenkins,"{'[User]_kenjenkins', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6024
+2023-06-18 06:08:12+00:00,[User]_superff,"{'[User]_superff', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6026
+2023-06-21 08:38:27+00:00,[User]_henesm,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6033
+2023-06-21 20:49:17+00:00,[User]_ashutosh-narkar,"{'[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6036
+2023-06-22 10:25:54+00:00,[User]_charlieegan3,"{'[User]_charlieegan3', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6037
+2023-06-23 19:30:51+00:00,[User]_ashutosh-narkar,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6043
+2023-06-23 19:34:50+00:00,[User]_ashutosh-narkar,"{'[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6044
+2023-06-26 06:46:03+00:00,[User]_blacksails,"{'[User]_blacksails', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6046
+2023-06-26 12:08:39+00:00,[User]_LionOnTheChase,"{'[User]_srenatus', '[User]_ashutosh-narkar', '[User]_LionOnTheChase', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6050
+2023-06-26 16:15:06+00:00,[User]_johanfylling,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6051
+2023-06-28 09:13:19+00:00,[User]_srenatus,"{'[User]_srenatus', '[User]_philipaconrad', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6053
+2023-06-28 09:15:21+00:00,[User]_zregvart,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6054
+2023-06-28 10:17:28+00:00,[User]_zregvart,"{'[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6055
+2023-06-28 12:59:43+00:00,[User]_srenatus,"{'[User]_srenatus', '[User]_philipaconrad'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6057
+2023-06-29 08:14:30+00:00,[User]_srenatus,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6059
+2023-06-29 08:27:17+00:00,[User]_johanfylling,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6060
+2023-06-29 12:29:42+00:00,[User]_srenatus,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6062
+2023-06-30 12:50:38+00:00,[User]_blacksails,"{'[User]_blacksails', '[User]_charlieegan3', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6070
+2023-07-01 16:59:24+00:00,[User]_yogisinha,"{'[User]_johanfylling', '[User]_charlieegan3', '[User]_yogisinha', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6071
+2023-07-03 02:43:34+00:00,[User]_jaysonsantos05,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6073
+2023-07-05 13:14:31+00:00,[User]_volck,"{'[User]_volck', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6076
+2023-07-06 01:05:03+00:00,[User]_johnrengelman,"{'[User]_johanfylling', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6077
+2023-07-06 16:54:28+00:00,[User]_26tanishabanik,"{'[User]_charlieegan3', '[User]_26tanishabanik', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6080
+2023-07-10 11:06:15+00:00,[User]_kubaj,"{'[User]_ashutosh-narkar', '[User]_kubaj'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6085
+2023-07-12 08:18:23+00:00,[User]_srenatus,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6087
+2023-07-12 12:47:15+00:00,[User]_kubaj,"{'[User]_kubaj', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6088
+2023-07-13 06:34:04+00:00,[User]_epaulson10,"{'[User]_srenatus', '[User]_epaulson10'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6090
+2023-07-13 13:26:23+00:00,[User]_charlieegan3,"{'[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6091
+2023-07-13 14:16:47+00:00,[User]_charlieegan3,"{'[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6092
+2023-07-14 07:51:34+00:00,[User]_ashutosh-narkar,"{'[User]_srenatus', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6093
+2023-07-14 15:52:55+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6094
+2023-07-14 15:57:49+00:00,[User]_johanfylling,"{'[User]_srenatus', '[User]_johanfylling'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6095
+2023-07-14 19:45:36+00:00,[User]_Blueposey,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6096
+2023-07-14 22:45:08+00:00,[User]_brianchhun-chime,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6097
+2023-07-16 17:06:21+00:00,[User]_FollieHiyuki,"{'[User]_srenatus', '[User]_FollieHiyuki', '[User]_simar7'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6098
+2023-07-16 21:55:26+00:00,[User]_anderseknert,"{'[User]_simar7', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6099
+2023-07-17 19:43:50+00:00,[User]_brianchhun-chime,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6100
+2023-07-17 19:45:07+00:00,[User]_brianchhun-chime,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6101
+2023-07-19 07:16:29+00:00,[User]_26tanishabanik,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6103
+2023-07-19 07:44:38+00:00,[User]_ashutosh-narkar,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6104
+2023-07-20 16:45:43+00:00,[User]_charlieegan3,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6108
+2023-07-20 21:54:11+00:00,[User]_anderseknert,"{'[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6109
+2023-07-21 02:38:32+00:00,[User]_jiangduzi,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6111
+2023-07-21 16:45:09+00:00,[User]_Blueposey,"{'[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6113
+2023-07-21 19:13:28+00:00,[User]_charlesdaniels,"{'[User]_charlesdaniels', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6114
+2023-07-21 20:48:08+00:00,[User]_rai-prashanna,"{'[User]_rai-prashanna', '[User]_srenatus'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6115
+2023-07-25 16:16:55+00:00,[User]_charlieegan3,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6118
+2023-07-27 17:49:14+00:00,[User]_ashutosh-narkar,{'[User]_philipaconrad'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6121
+2023-07-28 17:51:16+00:00,[User]_ashutosh-narkar,"{'[User]_ashutosh-narkar', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6125
+2023-07-28 19:46:11+00:00,[User]_fdaguin,"{'[User]_fdaguin', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6126
+2023-07-28 21:21:08+00:00,[User]_benweint,"{'[User]_benweint', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6128
+2023-07-31 18:41:18+00:00,[User]_volck,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6130
+2023-08-01 06:55:54+00:00,[User]_yemal,"{'[User]_charlieegan3', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6131
+2023-08-01 08:30:15+00:00,[User]_anderseknert,"{'[User]_Ronnie-personal', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6132
+2023-08-01 11:59:14+00:00,[User]_anderseknert,"{'[User]_charlieegan3', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6133
+2023-08-01 15:52:53+00:00,[User]_keydon,"{'[User]_Pushkarm029', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6134
+2023-08-02 16:13:50+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_tsandall', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6138
+2023-08-03 15:53:19+00:00,[User]_ashutosh-narkar,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6140
+2023-08-09 02:15:04+00:00,[User]_Ronnie-personal,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6146
+2023-08-09 07:42:27+00:00,[User]_gitu,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6147
+2023-08-09 08:15:21+00:00,[User]_charlieegan3,{'[User]_charlieegan3'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6148
+2023-08-09 08:21:15+00:00,[User]_charlieegan3,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6149
+2023-08-10 16:28:14+00:00,[User]_yadunandan004,"{'[User]_yadunandan004', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6152
+2023-08-11 06:20:20+00:00,[User]_plingam-infy,"{'[User]_plingam-infy', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6154
+2023-08-12 08:37:13+00:00,[User]_Juneezee,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6155
+2023-08-14 12:05:25+00:00,[User]_srenatus,{'[User]_johanfylling'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6156
+2023-08-17 09:38:59+00:00,[User]_slonka,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6160
+2023-08-17 10:09:44+00:00,[User]_anderseknert,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6161
+2023-08-17 10:39:16+00:00,[User]_anderseknert,"{'[User]_johanfylling', '[User]_charlieegan3'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6162
+2023-08-17 12:16:28+00:00,[User]_anderseknert,"{'[User]_charlieegan3', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6163
+2023-08-17 13:32:23+00:00,[User]_anderseknert,{'[User]_charlieegan3'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6164
+2023-08-17 14:05:40+00:00,[User]_anderseknert,{'[User]_charlieegan3'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6165
+2023-08-18 17:12:56+00:00,[User]_alex0z1,{'[User]_alex0z1'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6172
+2023-08-22 09:47:24+00:00,[User]_Od1nB,"{'[User]_Od1nB', '[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6173
+2023-08-22 16:02:10+00:00,[User]_tsandall,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6174
+2023-08-28 12:28:32+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6182
+2023-08-28 17:21:06+00:00,[User]_joaobrandt,"{'[User]_joaobrandt', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6185
+2023-08-28 22:16:22+00:00,[User]_sspaink,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6186
+2023-08-29 08:03:34+00:00,[User]_srenatus,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6188
+2023-08-29 08:29:14+00:00,[User]_srenatus,"{'[User]_srenatus', '[User]_johanfylling'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6189
+2023-08-29 19:19:02+00:00,[User]_mrueg,"{'[User]_mrueg', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6195
+2023-08-30 14:39:53+00:00,[User]_anderseknert,{'[User]_Ronnie-personal'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6199
+2023-09-05 16:49:44+00:00,[User]_tsandall,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6211
+2023-09-06 09:20:33+00:00,[User]_anderseknert,"{'[User]_charlieegan3', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6213
+2023-09-07 05:48:11+00:00,[User]_meruvavenkatesh,{'[User]_charlieegan3'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6215
+2023-09-07 12:00:23+00:00,[User]_keydon,"{'[User]_ashutosh-narkar', '[User]_keydon', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6217
+2023-09-07 21:36:04+00:00,[User]_ashutosh-narkar,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6218
+2023-09-11 18:30:34+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_srenatus'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6221
+2023-09-13 06:19:21+00:00,[User]_Sahildange0,"{'[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6225
+2023-09-14 18:48:24+00:00,[User]_philipaconrad,"{'[User]_johanfylling', '[User]_philipaconrad', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6228
+2023-09-18 16:02:36+00:00,[User]_dario-apaleo,"{'[User]_srenatus', '[User]_tsandall', '[User]_dario-apaleo'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6231
+2023-09-18 20:59:48+00:00,[User]_ashutosh-narkar,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6232
+2023-09-22 07:48:07+00:00,[User]_AdrianArnautu,{'[User]_AdrianArnautu'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6238
+2023-09-22 19:15:27+00:00,[User]_ashutosh-narkar,"{'[User]_johanfylling', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6241
+2023-09-23 18:48:29+00:00,[User]_srenatus,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6242
+2023-09-25 10:56:19+00:00,[User]_stevepatter,"{'[User]_stevepatter', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6243
+2023-09-25 14:39:16+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6245
+2023-09-25 17:52:36+00:00,[User]_tsandall,"{'[User]_johanfylling', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6247
+2023-09-26 22:35:47+00:00,[User]_ashutosh-narkar,{'[User]_johanfylling'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6251
+2023-09-27 12:29:13+00:00,[User]_johanfylling,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6252
+2023-09-27 20:39:36+00:00,[User]_a7i,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6253
+2023-09-28 06:40:35+00:00,[User]_ehsannm,"{'[User]_srenatus', '[User]_ehsannm'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6254
+2023-09-29 08:04:16+00:00,[User]_anderseknert,"{'[User]_prashant3286', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6258
+2023-09-29 21:53:51+00:00,[User]_ashutosh-narkar,"{'[User]_johanfylling', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6262
+2023-09-29 22:59:08+00:00,[User]_tsandall,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6263
+2023-10-02 10:16:25+00:00,[User]_anderseknert,"{'[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6265
+2023-10-02 11:07:06+00:00,[User]_johanfylling,{'[User]_johanfylling'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6266
+2023-10-03 11:41:00+00:00,[User]_anderseknert,{'[User]_charlieegan3'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6269
+2023-10-03 16:08:23+00:00,[User]_ashutosh-narkar,"{'[User]_johanfylling', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6270
+2023-10-04 04:24:57+00:00,[User]_ashutosh-narkar,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6271
+2023-10-05 11:15:31+00:00,[User]_johanfylling,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6276
+2023-10-05 23:26:09+00:00,[User]_ashutosh-narkar,{'[User]_johanfylling'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6277
+2023-10-06 16:04:55+00:00,[User]_tsandall,"{'[User]_matajoh', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6281
+2023-10-07 10:20:10+00:00,[User]_c0c0n3,"{'[User]_c0c0n3', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6283
+2023-10-09 21:34:55+00:00,[User]_ashutosh-narkar,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6286
+2023-10-09 21:45:11+00:00,[User]_ashutosh-narkar,"{'[User]_prashant3286', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6287
+2023-10-10 11:15:37+00:00,[User]_johanfylling,{'[User]_johanfylling'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6288
+2023-10-10 11:24:24+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6290
+2023-10-10 11:43:51+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6291
+2023-10-10 13:39:30+00:00,[User]_cksidharthan,{'[User]_cksidharthan'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6293
+2023-10-10 13:57:55+00:00,[User]_CedricLempereur,"{'[User]_CedricLempereur', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6294
+2023-10-10 18:06:36+00:00,[User]_ashutosh-narkar,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6297
+2023-10-10 18:56:38+00:00,[User]_ashutosh-narkar,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6298
+2023-10-11 04:30:08+00:00,[User]_nitrocode,"{'[User]_johanfylling', '[User]_nitrocode', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6301
+2023-10-11 12:14:08+00:00,[User]_aholmis,"{'[User]_aholmis', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6307
+2023-10-11 13:10:40+00:00,[User]_anderseknert,"{'[User]_ashutosh-narkar', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6308
+2023-10-12 17:20:19+00:00,[User]_ashutosh-narkar,{'[User]_johanfylling'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6310
+2023-10-13 08:03:33+00:00,[User]_asadk12,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6311
+2023-10-13 08:09:45+00:00,[User]_asadk12,"{'[User]_asadk12', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6312
+2023-10-13 10:09:47+00:00,[User]_abdullahalrifat,"{'[User]_abdullahalrifat', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6313
+2023-10-13 11:35:14+00:00,[User]_anderseknert,"{'[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6314
+2023-10-13 12:02:11+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_ashutosh-narkar', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6315
+2023-10-15 11:44:05+00:00,[User]_adam-sandor,"{'[User]_srenatus', '[User]_adam-sandor', '[User]_johanfylling', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6316
+2023-10-15 22:34:26+00:00,[User]_anderseknert,"{'[User]_tjons', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6317
+2023-10-16 10:47:30+00:00,[User]_johanfylling,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6318
+2023-10-16 20:21:10+00:00,[User]_szuecs,"{'[User]_szuecs', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6319
+2023-10-16 22:02:03+00:00,[User]_ashutosh-narkar,"{'[User]_johanfylling', '[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6320
+2023-10-17 08:44:19+00:00,[User]_anderseknert,"{'[User]_srenatus', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6323
+2023-10-18 12:40:13+00:00,[User]_johanfylling,{'[User]_johanfylling'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6326
+2023-10-20 05:26:21+00:00,[User]_anderseknert,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6331
+2023-10-23 09:15:32+00:00,[User]_fseldow,"{'[User]_fseldow', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6332
+2023-10-23 11:41:10+00:00,[User]_rudrakhp,"{'[User]_rudrakhp', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6333
+2023-10-24 08:37:01+00:00,[User]_srenatus,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6335
+2023-10-24 17:53:55+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6338
+2023-10-24 17:58:41+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6339
+2023-10-25 11:11:20+00:00,[User]_charlieegan3,"{'[User]_charlieegan3', '[User]_bdytgj', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6343
+2023-10-25 15:43:40+00:00,[User]_charlieegan3,"{'[User]_charlieegan3', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6345
+2023-10-27 03:51:10+00:00,[User]_rudrakhp,"{'[User]_rudrakhp', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6351
+2023-10-27 16:41:43+00:00,[User]_ashutosh-narkar,"{'[User]_johanfylling', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6356
+2023-10-27 17:43:21+00:00,[User]_tsandall,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6357
+2023-10-30 12:18:22+00:00,[User]_johanfylling,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6360
+2023-10-30 21:56:09+00:00,[User]_anderseknert,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6364
+2023-10-31 09:26:27+00:00,[User]_anderseknert,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6366
+2023-10-31 13:31:19+00:00,[User]_johanfylling,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6368
+2023-10-31 14:27:00+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6370
+2023-10-31 20:46:14+00:00,[User]_RDVasavada,"{'[User]_RDVasavada', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6371
+2023-11-02 09:47:45+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6374
+2023-11-02 17:26:13+00:00,[User]_sandhose,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6376
+2023-11-06 10:16:06+00:00,[User]_johanfylling,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6382
+2023-11-06 12:26:20+00:00,[User]_srenatus,"{'[User]_ashutosh-narkar', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6386
+2023-11-06 15:58:41+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6388
+2023-11-07 12:24:53+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6391
+2023-11-08 10:45:29+00:00,[User]_anderseknert,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6393
+2023-11-08 12:31:40+00:00,[User]_sabinahofmann,"{'[User]_sabinahofmann', '[User]_ashutosh-narkar', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6394
+2023-11-09 10:34:43+00:00,[User]_srenatus,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6395
+2023-11-10 11:13:56+00:00,[User]_anderseknert,"{'[User]_johanfylling', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6398
+2023-11-10 12:53:52+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6399
+2023-11-13 10:34:21+00:00,[User]_srenatus,"{'[User]_srenatus', '[User]_johanfylling'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6401
+2023-11-13 12:22:52+00:00,[User]_srenatus,{'[User]_johanfylling'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6407
+2023-11-13 17:46:03+00:00,[User]_tilgovi,"{'[User]_rudrakhp', '[User]_tilgovi', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6410
+2023-11-15 18:30:40+00:00,[User]_charlieegan3,"{'[User]_johanfylling', '[User]_szuecs', '[User]_charlieegan3', '[User]_tjons', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6415
+2023-11-16 00:24:27+00:00,[User]_kenjenkins,"{'[User]_kenjenkins', '[User]_charlieegan3', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6416
+2023-11-16 09:59:59+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6417
+2023-11-17 12:16:32+00:00,[User]_robhafner,"{'[User]_srenatus', '[User]_robhafner'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6420
+2023-11-20 12:29:03+00:00,[User]_dhananjaysarkin,"{'[User]_dhananjaysarkin', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6422
+2023-11-23 12:01:31+00:00,[User]_anuraagramesh,"{'[User]_srenatus', '[User]_anuraagramesh'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6427
+2023-11-23 14:53:25+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6430
+2023-11-24 23:22:43+00:00,[User]_tsandall,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6435
+2023-11-28 16:13:16+00:00,[User]_kbalthaser,"{'[User]_futurexdesign', '[User]_kbalthaser', '[User]_srenatus', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6442
+2023-11-29 09:15:34+00:00,[User]_xiuwangthoughtworks,"{'[User]_xiuwangthoughtworks', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6443
+2023-11-30 09:40:44+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6445
+2023-11-30 18:15:38+00:00,[User]_lcarva,"{'[User]_lcarva', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6449
+2023-12-01 16:51:09+00:00,[User]_lcarva,"{'[User]_charlieegan3', '[User]_lcarva'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6451
+2023-12-02 15:46:36+00:00,[User]_colinjlacy,"{'[User]_srenatus', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6452
+2023-12-04 14:44:25+00:00,[User]_anderseknert,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6453
+2023-12-05 15:38:56+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_charlieegan3', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6455
+2023-12-05 23:04:13+00:00,[User]_c2zwdjnlcg,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6456
+2023-12-06 05:40:50+00:00,[User]_simar7,"{'[User]_HarshPathakhp', '[User]_johanfylling', '[User]_simar7', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6457
+2023-12-06 10:56:42+00:00,[User]_cova-fe,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6458
+2023-12-07 14:05:54+00:00,[User]_johanfylling,"{'[User]_johanfylling', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6462
+2023-12-09 20:49:58+00:00,[User]_grantlanglois,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6467
+2023-12-11 08:12:25+00:00,[User]_anderseknert,{'[User]_srenatus'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6468
+2023-12-12 09:42:48+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6471
+2023-12-13 01:22:02+00:00,[User]_ashutosh-narkar,"{'[User]_srenatus', '[User]_johanfylling', '[User]_charlesdaniels', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6475
+2023-12-13 15:03:25+00:00,[User]_charlieegan3,"{'[User]_charlieegan3', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6477
+2023-12-13 16:49:56+00:00,[User]_charlieegan3,{'[User]_anderseknert'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6479
+2023-12-14 09:58:15+00:00,[User]_anderseknert,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6480
+2023-12-14 21:03:32+00:00,[User]_charlesdaniels,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6483
+2023-12-15 11:50:22+00:00,[User]_stef-corilus,"{'[User]_srenatus', '[User]_stef-corilus'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6486
+2023-12-15 19:55:53+00:00,[User]_lcarva,"{'[User]_srenatus', '[User]_lcarva', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6487
+2023-12-15 22:22:39+00:00,[User]_ashutosh-narkar,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6488
+2023-12-16 18:45:09+00:00,[User]_jalseth,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6489
+2023-12-18 22:16:39+00:00,[User]_ashutosh-narkar,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6493
+2023-12-18 23:06:59+00:00,[User]_ashutosh-narkar,set(),open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6494
+2023-12-19 12:35:21+00:00,[User]_srenatus,"{'[User]_philipaconrad', '[User]_anderseknert'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6498
+2023-12-20 13:08:59+00:00,[User]_alxmk,"{'[User]_srenatus', '[User]_alxmk'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/issues/6499
+2023-12-20 13:22:32+00:00,[User]_alxmk,"{'[User]_srenatus', '[User]_alxmk', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6500
+2023-12-22 12:05:52+00:00,[User]_srenatus,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2023,https://github.com/open-policy-agent/opa/pull/6506
+2024-01-02 23:53:21+00:00,[User]_jalseth,"{'[User]_jalseth', '[User]_anderseknert'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6509
+2024-01-07 18:26:39+00:00,[User]_dolevf,"{'[User]_dolevf', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6514
+2024-01-09 15:08:02+00:00,[User]_anderseknert,"{'[User]_ashutosh-narkar', '[User]_anderseknert'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6516
+2024-01-10 12:43:31+00:00,[User]_PietervdWerk,"{'[User]_srenatus', '[User]_PietervdWerk', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6519
+2024-01-11 10:46:46+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6520
+2024-01-11 16:52:11+00:00,[User]_mosiac1,{'[User]_anderseknert'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6523
+2024-01-17 10:08:50+00:00,[User]_anderseknert,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6529
+2024-01-22 12:01:46+00:00,[User]_ear7h,{'[User]_johanfylling'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6536
+2024-01-22 23:16:22+00:00,[User]_ashutosh-narkar,"{'[User]_johanfylling', '[User]_charlieegan3', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6537
+2024-01-24 20:26:39+00:00,[User]_johanfylling,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6546
+2024-02-01 08:29:08+00:00,[User]_anderseknert,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6563
+2024-02-02 21:56:19+00:00,[User]_ashwinhb,"{'[User]_srenatus', '[User]_johanfylling'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6566
+2024-02-06 10:32:45+00:00,[User]_orouz,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6568
+2024-02-08 09:49:51+00:00,[User]_cxMiguelSilva,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6574
+2024-02-09 13:32:55+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6578
+2024-02-09 22:00:15+00:00,[User]_prasanthj,"{'[User]_philipaconrad', '[User]_prasanthj'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6581
+2024-02-12 06:28:46+00:00,[User]_Rohit-R-B,"{'[User]_Rohit-R-B', '[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6584
+2024-02-14 02:27:09+00:00,[User]_HarshPathakhp,{'[User]_anderseknert'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6588
+2024-02-15 13:04:33+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6591
+2024-02-15 13:18:24+00:00,[User]_johanfylling,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6592
+2024-02-20 09:55:11+00:00,[User]_srenatus,{'[User]_anderseknert'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6595
+2024-02-26 05:53:29+00:00,[User]_JohnChen-K,"{'[User]_JohnChen-K', '[User]_anderseknert', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6599
+2024-03-04 11:51:57+00:00,[User]_fredmaggiowski,{'[User]_anderseknert'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6608
+2024-03-04 15:50:41+00:00,[User]_nevumx,"{'[User]_nevumx', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6609
+2024-03-05 23:13:04+00:00,[User]_ashutosh-narkar,"{'[User]_johanfylling', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6612
+2024-03-06 01:45:18+00:00,[User]_philipaconrad,{'[User]_philipaconrad'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6613
+2024-03-06 09:10:41+00:00,[User]_mscudlik,"{'[User]_anderseknert', '[User]_jonvance'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6614
+2024-03-06 09:16:08+00:00,[User]_mscudlik,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6615
+2024-03-06 21:42:05+00:00,[User]_anderseknert,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6622
+2024-03-08 21:47:12+00:00,[User]_ashutosh-narkar,"{'[User]_srenatus', '[User]_tsandall', '[User]_ritazh', '[User]_maxsmythe'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6624
+2024-03-13 17:08:40+00:00,[User]_philipaconrad,{'[User]_johanfylling'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6628
+2024-03-14 21:26:53+00:00,[User]_sean-r-williams,"{'[User]_sean-r-williams', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6630
+2024-03-19 10:10:58+00:00,[User]_amardeep2006,"{'[User]_amardeep2006', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6638
+2024-03-20 11:14:41+00:00,[User]_samarthya-gupta1,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6640
+2024-03-20 16:35:46+00:00,[User]_ashutosh-narkar,{'[User]_srenatus'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6641
+2024-03-22 05:23:30+00:00,[User]_rudrakhp,"{'[User]_rudrakhp', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6642
+2024-03-26 23:21:22+00:00,[User]_ashutosh-narkar,"{'[User]_johanfylling', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6647
+2024-03-28 08:57:48+00:00,[User]_nicolaschotard,"{'[User]_nicolaschotard', '[User]_srenatus', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6651
+2024-03-28 09:08:50+00:00,[User]_johanfylling,"{'[User]_srenatus', '[User]_johanfylling', '[User]_anderseknert'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6652
+2024-04-02 18:15:19+00:00,[User]_c42-adam,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6660
+2024-04-02 22:30:29+00:00,[User]_dxh9845,"{'[User]_dxh9845', '[User]_philipaconrad'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6661
+2024-04-03 01:27:22+00:00,[User]_xico42,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6662
+2024-04-03 14:39:34+00:00,[User]_nicolaschotard,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6664
+2024-04-03 18:58:06+00:00,[User]_koponen-styra,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6665
+2024-04-03 19:11:15+00:00,[User]_3goats,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6666
+2024-04-03 19:23:15+00:00,[User]_philipaconrad,"{'[User]_dxh9845', '[User]_anderseknert', '[User]_srenatus', '[User]_philipaconrad', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6667
+2024-04-03 21:36:10+00:00,[User]_xico42,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6668
+2024-04-03 22:57:01+00:00,[User]_koponen-styra,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6669
+2024-04-04 08:07:45+00:00,[User]_srenatus,{'[User]_anderseknert'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6672
+2024-04-04 12:09:09+00:00,[User]_rudrakhp,"{'[User]_rudrakhp', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6675
+2024-04-04 13:21:14+00:00,[User]_bdumpp,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6676
+2024-04-04 14:50:01+00:00,[User]_charlieegan3,"{'[User]_charlieegan3', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6677
+2024-04-09 09:34:15+00:00,[User]_mrvanes,"{'[User]_srenatus', '[User]_ashutosh-narkar', '[User]_mrvanes', '[User]_anderseknert'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6684
+2024-04-09 10:02:10+00:00,[User]_johanfylling,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6685
+2024-04-09 13:24:02+00:00,[User]_johanfylling,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6688
+2024-04-10 12:56:21+00:00,[User]_kd-labs,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6690
+2024-04-12 12:13:43+00:00,[User]_stiidk,"{'[User]_stiidk', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6693
+2024-04-12 13:41:06+00:00,[User]_sriram1545,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6694
+2024-04-15 08:20:27+00:00,[User]_anderseknert,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6696
+2024-04-15 12:23:28+00:00,[User]_srenatus,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6697
+2024-04-18 17:02:13+00:00,[User]_tsandall,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6701
+2024-04-19 15:18:28+00:00,[User]_nikpivkin,"{'[User]_nikpivkin', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6703
+2024-04-19 18:55:25+00:00,[User]_sirpi,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6704
+2024-04-23 09:45:10+00:00,[User]_johanneslarsson,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6708
+2024-04-23 13:46:25+00:00,[User]_mjungsbluth,"{'[User]_mjungsbluth', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6710
+2024-04-24 17:19:19+00:00,[User]_ahd3r,"{'[User]_ahd3r', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6713
+2024-04-24 18:05:26+00:00,[User]_charlesdaniels,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6714
+2024-04-24 18:57:54+00:00,[User]_ashutosh-narkar,{'[User]_srenatus'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6715
+2024-04-24 19:25:13+00:00,[User]_veweaver,"{'[User]_veweaver', '[User]_anderseknert'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6716
+2024-04-25 22:25:59+00:00,[User]_suzuki-shunsuke,"{'[User]_suzuki-shunsuke', '[User]_ashutosh-narkar'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6720
+2024-04-26 16:05:32+00:00,[User]_ashutosh-narkar,{'[User]_srenatus'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6723
+2024-04-26 16:26:59+00:00,[User]_alghanmi,{'[User]_ashutosh-narkar'},open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6724
+2024-04-29 15:00:07+00:00,[User]_SpecLad,"{'[User]_SpecLad', '[User]_anderseknert'}",open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/issues/6727
+2024-04-30 08:04:59+00:00,[User]_gdlg,set(),open-policy-agent/opa,2024,https://github.com/open-policy-agent/opa/pull/6728

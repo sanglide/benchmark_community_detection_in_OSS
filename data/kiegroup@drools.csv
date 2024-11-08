@@ -1,0 +1,151 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-02 09:54:54+00:00,[User]_kie-ci4,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5208
+2023-05-02 13:15:12+00:00,[User]_lampajr,{'[User]_radtriste'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5209
+2023-05-02 15:08:56+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5211
+2023-05-02 15:53:35+00:00,[User]_lampajr,{'[User]_radtriste'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5213
+2023-05-02 21:02:51+00:00,[User]_kie-ci4,"{'[User]_lampajr', '[User]_radtriste', '[User]_rgdoliveira'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5215
+2023-05-02 21:04:04+00:00,[User]_kie-ci4,"{'[User]_kie-ci4', '[User]_radtriste', '[User]_rgdoliveira', '[User]_lampajr'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5216
+2023-05-02 21:23:44+00:00,[User]_lampajr,{'[User]_rgdoliveira'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5217
+2023-05-03 14:08:23+00:00,[User]_lampajr,{'[User]_radtriste'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5218
+2023-05-05 15:03:15+00:00,[User]_pibizza,"{'[User]_kie-ci4', '[User]_mariofusco'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5220
+2023-05-08 09:15:14+00:00,[User]_mbiarnes,"{'[User]_mariofusco', '[User]_tarilabs', '[User]_radtriste', '[User]_danielezonca'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5221
+2023-05-09 06:52:17+00:00,[User]_quadrik,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5222
+2023-05-10 13:54:24+00:00,[User]_nprentza,"{'[User]_kie-ci4', '[User]_nprentza', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5227
+2023-05-11 12:55:50+00:00,[User]_nprentza,"{'[User]_kie-ci4', '[User]_nprentza', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5230
+2023-05-11 14:14:55+00:00,[User]_albfan,{'[User]_fjtirado'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5231
+2023-05-11 14:35:20+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5232
+2023-05-15 09:43:58+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas', '[User]_dupliaka'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5233
+2023-05-22 09:50:16+00:00,[User]_kie-ci4,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5241
+2023-05-23 09:16:30+00:00,[User]_tkobayas,"{'[User]_SangiliKumarSolartis', '[User]_mariofusco'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5246
+2023-05-24 13:13:38+00:00,[User]_kie-ci4,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5248
+2023-05-25 08:49:42+00:00,[User]_radtriste,"{'[User]_pefernan', '[User]_baldimir'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5251
+2023-05-25 09:23:01+00:00,[User]_mbiarnes,{'[User]_radtriste'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5252
+2023-05-30 09:48:36+00:00,[User]_radtriste,{'[User]_danielezonca'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5259
+2023-05-31 07:07:40+00:00,[User]_radtriste,"{'[User]_lampajr', '[User]_mareknovotny', '[User]_radtriste'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5262
+2023-05-31 13:52:10+00:00,[User]_nprentza,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5268
+2023-06-01 10:52:41+00:00,[User]_mariofusco,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5274
+2023-06-02 08:45:27+00:00,[User]_radtriste,"{'[User]_lampajr', '[User]_winklerm', '[User]_rgdoliveira'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5279
+2023-06-02 09:41:47+00:00,[User]_bacciotti,"{'[User]_lampajr', '[User]_mariofusco', '[User]_Ginxo'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5280
+2023-06-05 06:58:16+00:00,[User]_tarilabs,"{'[User]_mariofusco', '[User]_tkobayas', '[User]_danielezonca'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5282
+2023-06-05 10:15:01+00:00,[User]_lampajr,"{'[User]_mariofusco', '[User]_radtriste'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5285
+2023-06-06 13:38:36+00:00,[User]_dupliaka,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5288
+2023-06-06 14:19:27+00:00,[User]_radtriste,{'[User]_pefernan'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5289
+2023-06-08 14:17:36+00:00,[User]_mariofusco,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5296
+2023-06-12 08:38:32+00:00,[User]_bacciotti,"{'[User]_lampajr', '[User]_mareknovotny', '[User]_Ginxo'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5299
+2023-06-14 13:27:20+00:00,[User]_mariofusco,"{'[User]_kie-ci4', '[User]_mariofusco'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5306
+2023-06-15 07:51:10+00:00,[User]_radtriste,{'[User]_mariofusco'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5312
+2023-06-15 09:01:17+00:00,[User]_radtriste,{'[User]_rgdoliveira'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5313
+2023-06-15 10:02:56+00:00,[User]_kie-ci4,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5314
+2023-06-16 04:37:18+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5320
+2023-06-16 04:39:02+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5321
+2023-06-16 18:53:29+00:00,[User]_kie-ci4,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5326
+2023-06-19 02:04:09+00:00,[User]_tkobayas,{'[User]_mariofusco'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5327
+2023-06-19 02:07:30+00:00,[User]_tkobayas,{'[User]_mariofusco'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5328
+2023-06-21 10:10:03+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5338
+2023-06-21 10:12:43+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5339
+2023-06-21 12:40:48+00:00,[User]_lampajr,{'[User]_Ginxo'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5340
+2023-06-22 11:16:35+00:00,[User]_nprentza,"{'[User]_kie-ci4', '[User]_mariofusco', '[User]_tkobayas', '[User]_nprentza'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5343
+2023-06-26 08:38:41+00:00,[User]_tkobayas,"{'[User]_gmunozfe', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5347
+2023-06-26 14:41:22+00:00,[User]_kie-ci4,{'[User]_radtriste'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5350
+2023-06-26 14:44:54+00:00,[User]_kie-ci4,"{'[User]_kie-ci4', '[User]_radtriste', '[User]_rgdoliveira', '[User]_lampajr'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5351
+2023-06-26 14:57:10+00:00,[User]_lampajr,{'[User]_radtriste'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5352
+2023-06-26 15:24:18+00:00,[User]_lampajr,"{'[User]_lampajr', '[User]_radtriste'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5353
+2023-06-26 21:03:51+00:00,[User]_lampajr,{'[User]_lampajr'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5356
+2023-06-26 21:12:18+00:00,[User]_lampajr,{'[User]_rgdoliveira'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5357
+2023-06-27 08:07:25+00:00,[User]_lampajr,{'[User]_radtriste'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5358
+2023-06-27 11:19:27+00:00,[User]_radtriste,{'[User]_rgdoliveira'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5359
+2023-06-30 02:34:24+00:00,[User]_tkobayas,{'[User]_tkobayas'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5366
+2023-06-30 02:44:43+00:00,[User]_tkobayas,"{'[User]_tkobayas', '[User]_tarilabs'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5367
+2023-07-03 09:16:50+00:00,[User]_kie-ci4,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5369
+2023-07-04 07:43:41+00:00,[User]_tkobayas,"{'[User]_tkobayas', '[User]_pibizza', '[User]_tarilabs'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5370
+2023-07-05 07:46:07+00:00,[User]_holzig,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5374
+2023-07-05 10:45:38+00:00,[User]_kie-ci4,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5375
+2023-07-10 05:41:01+00:00,[User]_tkobayas,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5379
+2023-07-11 09:08:56+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5383
+2023-07-11 09:12:22+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5384
+2023-07-13 10:17:59+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5390
+2023-07-19 06:32:31+00:00,[User]_tkobayas,{'[User]_tkobayas'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5394
+2023-07-20 02:35:47+00:00,[User]_tkobayas,"{'[User]_gmunozfe', '[User]_tkobayas', '[User]_danielezonca', '[User]_Ginxo'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5395
+2023-07-24 06:44:39+00:00,[User]_radtriste,{'[User]_lampajr'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5398
+2023-07-24 06:47:59+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5399
+2023-07-24 07:25:50+00:00,[User]_radtriste,"{'[User]_lampajr', '[User]_radtriste'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5400
+2023-07-25 07:14:19+00:00,[User]_tkobayas,"{'[User]_kie-ci4', '[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5402
+2023-07-26 08:32:42+00:00,[User]_tarilabs,"{'[User]_mariofusco', '[User]_tkobayas', '[User]_tarilabs'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5404
+2023-07-27 12:53:10+00:00,[User]_baldimir,"{'[User]_gitgabrio', '[User]_mariofusco'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5411
+2023-07-27 12:56:22+00:00,[User]_baldimir,"{'[User]_gitgabrio', '[User]_mariofusco'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5412
+2023-07-28 08:35:52+00:00,[User]_kie-ci4,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5413
+2023-07-31 05:36:19+00:00,[User]_tarilabs,"{'[User]_mariofusco', '[User]_tkobayas', '[User]_danielezonca'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5417
+2023-08-01 09:43:01+00:00,[User]_radtriste,{'[User]_mbiarnes'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5419
+2023-08-01 14:54:23+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5424
+2023-08-01 15:06:22+00:00,[User]_lampajr,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5425
+2023-08-01 16:39:35+00:00,[User]_kie-ci4,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5428
+2023-08-02 09:47:56+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5430
+2023-08-02 20:43:26+00:00,[User]_fjtirado,"{'[User]_mareknovotny', '[User]_fjtirado', '[User]_mariofusco'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5436
+2023-08-03 12:16:06+00:00,[User]_radtriste,{'[User]_mbiarnes'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5441
+2023-08-07 12:36:53+00:00,[User]_kie-ci,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5448
+2023-08-08 10:17:55+00:00,[User]_mariofusco,{'[User]_tkobayas'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5450
+2023-08-09 07:37:07+00:00,[User]_mbiarnes,{'[User]_radtriste'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5455
+2023-08-10 08:38:03+00:00,[User]_radtriste,{'[User]_mbiarnes'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5457
+2023-08-10 23:24:09+00:00,[User]_fjtirado,"{'[User]_fjtirado', '[User]_mariofusco', '[User]_mareknovotny'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5458
+2023-08-14 14:57:12+00:00,[User]_kie-ci4,{'[User]_kie-ci4'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5462
+2023-08-15 07:41:32+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5463
+2023-08-15 08:44:51+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5464
+2023-08-16 13:17:27+00:00,[User]_radtriste,"{'[User]_radtriste', '[User]_mbiarnes'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5467
+2023-08-16 13:50:38+00:00,[User]_mbiarnes,{'[User]_radtriste'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5468
+2023-08-16 14:10:36+00:00,[User]_radtriste,"{'[User]_kie-ci4', '[User]_mbiarnes'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5469
+2023-08-16 15:30:18+00:00,[User]_umutsahin,{'[User]_mariofusco'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5472
+2023-08-17 13:39:22+00:00,[User]_radtriste,"{'[User]_kie-ci4', '[User]_Ginxo'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5475
+2023-08-21 08:39:20+00:00,[User]_radtriste,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5476
+2023-08-21 11:41:03+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5477
+2023-08-21 11:41:34+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5478
+2023-08-21 13:15:27+00:00,[User]_kie-ci4,{'[User]_rgdoliveira'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5479
+2023-08-21 15:11:22+00:00,[User]_kie-ci4,"{'[User]_kie-ci4', '[User]_rgdoliveira', '[User]_lampajr'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5481
+2023-08-23 12:12:51+00:00,[User]_lampajr,"{'[User]_lampajr', '[User]_rgdoliveira'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5484
+2023-08-25 08:16:36+00:00,[User]_radtriste,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5488
+2023-08-25 08:50:00+00:00,[User]_radtriste,"{'[User]_lampajr', '[User]_radtriste'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5489
+2023-08-25 09:32:09+00:00,[User]_radtriste,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5490
+2023-08-28 09:08:11+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5491
+2023-08-29 07:53:44+00:00,[User]_radtriste,{'[User]_radtriste'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5494
+2023-08-29 12:12:07+00:00,[User]_radtriste,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5496
+2023-08-30 09:16:42+00:00,[User]_tkobayas,{'[User]_tkobayas'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5498
+2023-08-31 11:53:22+00:00,[User]_radtriste,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5499
+2023-09-04 07:53:00+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5507
+2023-09-05 07:28:38+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5508
+2023-09-05 11:24:41+00:00,[User]_pibizza,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5509
+2023-09-07 07:08:20+00:00,[User]_kie-ci4,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5512
+2023-09-07 07:08:27+00:00,[User]_kie-ci,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5513
+2023-09-07 07:09:33+00:00,[User]_kie-ci,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5514
+2023-09-07 08:04:12+00:00,[User]_kie-ci,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5515
+2023-09-08 14:24:06+00:00,[User]_radtriste,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5518
+2023-09-08 14:35:38+00:00,[User]_radtriste,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5519
+2023-09-08 14:39:02+00:00,[User]_mariofusco,{'[User]_tkobayas'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5520
+2023-09-13 12:32:18+00:00,[User]_radtriste,{'[User]_mbiarnes'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5522
+2023-09-13 13:59:07+00:00,[User]_jstastny-cz,{'[User]_jakubschwan'},kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5523
+2023-09-22 13:11:57+00:00,[User]_mbiarnes,"{'[User]_mariofusco', '[User]_tkobayas', '[User]_mareknovotny', '[User]_mbiarnes'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/4
+2023-10-10 10:09:57+00:00,[User]_kie-ci4,"{'[User]_mariofusco', '[User]_tkobayas', '[User]_mareknovotny'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/5
+2023-10-10 10:15:15+00:00,[User]_kie-ci4,"{'[User]_mariofusco', '[User]_mareknovotny'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/6
+2023-10-11 08:38:25+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/7
+2023-10-12 09:33:14+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/8
+2023-10-13 07:55:52+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/9
+2023-10-27 11:51:27+00:00,[User]_aasaru,"{'[User]_tkobayas', '[User]_mariofusco', '[User]_mareknovotny', '[User]_rgdoliveira', '[User]_lucamolteni'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/12
+2023-10-30 06:42:04+00:00,[User]_tkobayas,"{'[User]_tkobayas', '[User]_mariofusco', '[User]_mareknovotny', '[User]_radtriste', '[User]_rgdoliveira', '[User]_lucamolteni'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/13
+2023-10-30 07:47:23+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas', '[User]_mareknovotny', '[User]_lucamolteni'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/14
+2023-10-31 11:00:53+00:00,[User]_tkobayas,"{'[User]_lucamolteni', '[User]_tkobayas', '[User]_ricardozanini', '[User]_rgdoliveira'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/15
+2023-11-01 21:44:45+00:00,[User]_Mhretaab,set(),kiegroup/drools,2023,https://github.com/kiegroup/drools/issues/16
+2023-11-12 15:56:38+00:00,[User]_ITLULU,"{'[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/issues/20
+2023-11-23 12:41:08+00:00,[User]_taitaking,"{'[User]_gmunozfe', '[User]_mariofusco', '[User]_tkobayas'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/issues/26
+2023-12-12 06:56:14+00:00,[User]_tkobayas,"{'[User]_gitgabrio', '[User]_mariofusco', '[User]_mareknovotny', '[User]_yesamer'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/pull/36
+2023-12-13 16:37:44+00:00,[User]_gbuckholtz,"{'[User]_gitgabrio', '[User]_baldimir', '[User]_yesamer'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/issues/37
+2023-12-23 20:15:18+00:00,[User]_radtke,"{'[User]_gmunozfe', '[User]_rgdoliveira'}",kiegroup/drools,2023,https://github.com/kiegroup/drools/issues/40
+2024-01-12 07:09:44+00:00,[User]_tkobayas,"{'[User]_mariofusco', '[User]_tkobayas', '[User]_mareknovotny'}",kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/2
+2024-01-19 09:28:42+00:00,[User]_rgdoliveira,set(),kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/10
+2024-03-12 08:05:43+00:00,[User]_baldimir,{'[User]_mareknovotny'},kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/33
+2024-03-13 19:13:56+00:00,[User]_porcelli,{'[User]_baldimir'},kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/34
+2024-04-04 07:02:26+00:00,[User]_rgdoliveira,"{'[User]_fjtirado', '[User]_mareknovotny', '[User]_domhanak'}",kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/41
+2024-04-04 09:18:37+00:00,[User]_rgdoliveira,"{'[User]_mareknovotny', '[User]_domhanak'}",kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/42
+2024-04-09 09:10:38+00:00,[User]_rgdoliveira,"{'[User]_mareknovotny', '[User]_domhanak'}",kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/43
+2024-04-11 08:33:23+00:00,[User]_fantonangeli,"{'[User]_ricardozanini', '[User]_rgdoliveira'}",kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/44
+2024-04-16 06:42:27+00:00,[User]_rgdoliveira,set(),kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/45
+2024-04-19 15:10:40+00:00,[User]_fantonangeli,"{'[User]_ricardozanini', '[User]_rgdoliveira'}",kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/46
+2024-04-23 07:43:35+00:00,[User]_rgdoliveira,set(),kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/47
+2024-04-29 10:10:49+00:00,[User]_fantonangeli,set(),kiegroup/drools,2024,https://github.com/kiegroup/drools/pull/48

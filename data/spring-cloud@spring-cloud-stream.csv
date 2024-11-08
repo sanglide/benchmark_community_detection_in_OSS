@@ -1,0 +1,204 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-02 18:48:02+00:00,[User]_oliverfuehrer,"{'[User]_sobychacko', '[User]_oliverfuehrer', '[User]_pivotal-cla'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2720
+2023-05-03 20:05:27+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2721
+2023-05-04 06:31:40+00:00,[User]_jaikemj,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2722
+2023-05-07 04:44:34+00:00,[User]_onobc,{'[User]_onobc'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2723
+2023-05-07 04:45:59+00:00,[User]_onobc,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2724
+2023-05-09 08:44:02+00:00,[User]_oliverfuehrer,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2725
+2023-05-09 09:58:03+00:00,[User]_adamsmith118,"{'[User]_sobychacko', '[User]_adamsmith118', '[User]_garyrussell'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2726
+2023-05-09 13:19:33+00:00,[User]_adamsmith118,"{'[User]_sobychacko', '[User]_garyrussell'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2727
+2023-05-10 17:28:33+00:00,[User]_mayur-solace,"{'[User]_sobychacko', '[User]_Nephery', '[User]_mayur-solace'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2728
+2023-05-10 20:07:23+00:00,[User]_garyrussell,{'[User]_kitkars'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2729
+2023-05-11 15:47:14+00:00,[User]_garyrussell,"{'[User]_onobc', '[User]_garyrussell', '[User]_artembilan'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2730
+2023-05-13 17:28:30+00:00,[User]_kitkars,"{'[User]_kitkars', '[User]_artembilan'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2731
+2023-05-15 10:52:36+00:00,[User]_mbell-nutmeg,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2733
+2023-05-15 17:42:19+00:00,[User]_sobychacko,{'[User]_garyrussell'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2734
+2023-05-15 19:42:03+00:00,[User]_sobychacko,{'[User]_garyrussell'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2735
+2023-05-19 05:54:34+00:00,[User]_Impakt,"{'[User]_sobychacko', '[User]_iliagon', '[User]_fleboulch'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2736
+2023-05-19 09:29:24+00:00,[User]_j-n-white,"{'[User]_sobychacko', '[User]_j-n-white'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2737
+2023-05-19 22:01:25+00:00,[User]_sobychacko,"{'[User]_sobychacko', '[User]_onobc'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2738
+2023-05-20 01:11:45+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2739
+2023-05-22 11:34:59+00:00,[User]_jamfor352,"{'[User]_sobychacko', '[User]_jamfor352', '[User]_pivotal-cla'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2740
+2023-05-22 15:05:22+00:00,[User]_martinformi,"{'[User]_sobychacko', '[User]_martinformi'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2741
+2023-05-22 19:57:23+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2742
+2023-05-24 10:20:41+00:00,[User]_mrjoew,{'[User]_mrjoew'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2743
+2023-05-25 15:58:48+00:00,[User]_Nephery,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2744
+2023-05-26 07:57:42+00:00,[User]_jamfor352,{'[User]_jamfor352'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2745
+2023-05-31 01:24:35+00:00,[User]_chanhyeong,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2747
+2023-06-01 15:42:56+00:00,[User]_Shapoval1van,"{'[User]_olegz', '[User]_pivotal-cla'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2748
+2023-06-01 19:32:20+00:00,[User]_onobc,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2749
+2023-06-03 22:15:02+00:00,[User]_angelbeshirov,"{'[User]_sobychacko', '[User]_angelbeshirov'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2750
+2023-06-12 23:55:31+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2751
+2023-06-13 16:43:55+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2753
+2023-06-14 21:27:54+00:00,[User]_manyasi06,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2754
+2023-06-15 19:57:07+00:00,[User]_sobychacko,"{'[User]_sobychacko', '[User]_onobc', '[User]_garyrussell'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2755
+2023-06-15 22:14:35+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2756
+2023-06-15 22:41:12+00:00,[User]_sobychacko,"{'[User]_olegz', '[User]_onobc'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2757
+2023-06-18 16:37:22+00:00,[User]_kothapet,"{'[User]_sobychacko', '[User]_kothapet'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2758
+2023-06-21 08:21:35+00:00,[User]_djivko,"{'[User]_sobychacko', '[User]_djivko'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2759
+2023-06-22 17:00:14+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2760
+2023-06-23 14:28:58+00:00,[User]_gynoro,"{'[User]_sobychacko', '[User]_gynoro', '[User]_garyrussell'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2761
+2023-06-24 10:37:39+00:00,[User]_RaulGF92,"{'[User]_sobychacko', '[User]_Egraveline'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2762
+2023-06-28 21:38:39+00:00,[User]_garyrussell,{'[User]_garyrussell'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2763
+2023-06-29 14:50:13+00:00,[User]_garyrussell,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2764
+2023-07-02 05:11:21+00:00,[User]_sangyongchoi,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2765
+2023-07-05 23:23:21+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2766
+2023-07-06 12:02:01+00:00,[User]_vicziani,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2767
+2023-07-06 17:20:44+00:00,[User]_Shapoval1van,"{'[User]_sobychacko', '[User]_Shapoval1van'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2768
+2023-07-09 07:48:42+00:00,[User]_ennishol,"{'[User]_sobychacko', '[User]_ennishol'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2770
+2023-07-09 08:15:45+00:00,[User]_ennishol,"{'[User]_sobychacko', '[User]_ennishol'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2771
+2023-07-12 22:51:55+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2772
+2023-07-13 23:42:48+00:00,[User]_Claudio-code,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2773
+2023-07-14 13:03:26+00:00,[User]_Claudio-code,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2774
+2023-07-14 13:09:08+00:00,[User]_gynoro,"{'[User]_sobychacko', '[User]_gynoro', '[User]_pivotal-cla'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2775
+2023-07-17 15:22:37+00:00,[User]_ferblaca,"{'[User]_sobychacko', '[User]_ferblaca', '[User]_StevenPG'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2776
+2023-07-18 21:53:16+00:00,[User]_Claudio-code,"{'[User]_sobychacko', '[User]_Claudio-code'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2778
+2023-07-18 23:50:20+00:00,[User]_StevenPG,"{'[User]_sobychacko', '[User]_StevenPG'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2779
+2023-07-25 12:24:23+00:00,[User]_roookeee,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2780
+2023-07-26 05:26:29+00:00,[User]_voodemsanthosh,"{'[User]_sobychacko', '[User]_voodemsanthosh'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2781
+2023-07-31 22:17:52+00:00,[User]_maslailleron,"{'[User]_sobychacko', '[User]_olegz', '[User]_cmergenthaler', '[User]_davidmelia'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2782
+2023-08-03 01:25:54+00:00,[User]_francocm,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2783
+2023-08-07 13:32:10+00:00,[User]_nabeelAtAlef,{'[User]_nabeelAtAlef'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2784
+2023-08-08 10:10:27+00:00,[User]_nabeelAtAlef,"{'[User]_olegz', '[User]_sobychacko'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2785
+2023-08-09 13:35:54+00:00,[User]_vprudnikov,"{'[User]_sobychacko', '[User]_vprudnikov'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2786
+2023-08-10 11:37:30+00:00,[User]_omercelikceng,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2787
+2023-08-10 12:02:55+00:00,[User]_omercelikceng,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2788
+2023-08-10 16:18:48+00:00,[User]_omercelikceng,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2789
+2023-08-10 17:53:03+00:00,[User]_omercelikceng,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2790
+2023-08-14 17:20:11+00:00,[User]_omercelikceng,"{'[User]_sobychacko', '[User]_omercelikceng', '[User]_artembilan'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2792
+2023-08-18 19:48:08+00:00,[User]_omercelikceng,"{'[User]_sobychacko', '[User]_omercelikceng', '[User]_eomercelik'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2793
+2023-08-23 08:49:03+00:00,[User]_LaurineLeNet,"{'[User]_saragluna', '[User]_LaurineLeNet', '[User]_sobychacko', '[User]_ferblaca', '[User]_olegz', '[User]_DouglasZillah'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2794
+2023-08-25 17:57:41+00:00,[User]_welovelain,"{'[User]_sobychacko', '[User]_welovelain'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2796
+2023-08-26 17:01:17+00:00,[User]_rajadilipkolli,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2797
+2023-09-01 01:33:12+00:00,[User]_dbgsprw,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2798
+2023-09-01 16:29:09+00:00,[User]_ivangfr,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2799
+2023-09-07 03:42:06+00:00,[User]_sumati-kulkarni,"{'[User]_sobychacko', '[User]_sumati-kulkarni'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2800
+2023-09-07 16:16:52+00:00,[User]_jalati-paychex,"{'[User]_sobychacko', '[User]_olegz', '[User]_jalati-paychex'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2801
+2023-09-07 22:18:17+00:00,[User]_StevenPG,"{'[User]_sobychacko', '[User]_StevenPG', '[User]_huberrom'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2802
+2023-09-11 01:32:43+00:00,[User]_onobc,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2803
+2023-09-11 13:42:32+00:00,[User]_omercelikceng,"{'[User]_sobychacko', '[User]_olegz', '[User]_omercelikceng', '[User]_eomercelik'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2804
+2023-09-12 01:54:41+00:00,[User]_KevinLiLu,"{'[User]_sobychacko', '[User]_KevinLiLu'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2805
+2023-09-13 20:40:30+00:00,[User]_sobychacko,{'[User]_placaze'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2807
+2023-09-13 21:04:42+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2808
+2023-09-15 07:31:57+00:00,[User]_GarryIV,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2810
+2023-09-18 17:24:01+00:00,[User]_sobychacko,"{'[User]_sobychacko', '[User]_onobc'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2811
+2023-09-19 17:32:20+00:00,[User]_sobychacko,"{'[User]_sobychacko', '[User]_garyrussell'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2812
+2023-09-19 22:44:07+00:00,[User]_sobychacko,{'[User]_olegz'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2813
+2023-09-20 20:38:34+00:00,[User]_sobychacko,"{'[User]_sobychacko', '[User]_olegz', '[User]_omercelikceng', '[User]_artembilan'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2814
+2023-09-23 01:56:25+00:00,[User]_onobc,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2816
+2023-09-25 13:33:04+00:00,[User]_j-ferreira,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2817
+2023-09-26 14:19:49+00:00,[User]_onobc,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2819
+2023-09-26 18:17:40+00:00,[User]_GFriedrich,"{'[User]_sobychacko', '[User]_GFriedrich'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2820
+2023-09-26 18:30:10+00:00,[User]_GFriedrich,"{'[User]_sobychacko', '[User]_GFriedrich'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2821
+2023-09-27 04:51:08+00:00,[User]_tonny1983,{'[User]_olegz'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2822
+2023-09-28 06:49:29+00:00,[User]_flemaitre,"{'[User]_sobychacko', '[User]_flemaitre'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2823
+2023-09-28 16:47:54+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2824
+2023-09-29 02:58:33+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2825
+2023-10-10 10:00:29+00:00,[User]_DigitalMediageek,"{'[User]_olegz', '[User]_DigitalMediageek'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2827
+2023-10-11 20:09:03+00:00,[User]_petretiandrea,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2828
+2023-10-17 07:50:28+00:00,[User]_lengyuewuhua,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2829
+2023-10-17 18:52:01+00:00,[User]_onobc,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2830
+2023-10-17 22:39:28+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2831
+2023-10-18 23:12:35+00:00,[User]_sobychacko,"{'[User]_sobychacko', '[User]_artembilan'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2832
+2023-10-18 23:14:39+00:00,[User]_StevenPG,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2833
+2023-10-19 00:26:18+00:00,[User]_sobychacko,"{'[User]_sobychacko', '[User]_petretiandrea'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2834
+2023-10-20 05:40:29+00:00,[User]_kurthong,"{'[User]_sobychacko', '[User]_kurthong'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2835
+2023-10-20 20:12:10+00:00,[User]_bjeSSAdev,"{'[User]_sobychacko', '[User]_bjeSSAdev'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2836
+2023-10-24 23:16:19+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2837
+2023-10-25 23:22:41+00:00,[User]_sobychacko,"{'[User]_sobychacko', '[User]_garyrussell', '[User]_artembilan'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2838
+2023-10-27 21:32:55+00:00,[User]_garyrussell,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2839
+2023-10-28 15:39:49+00:00,[User]_omercelikceng,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2840
+2023-10-30 18:41:34+00:00,[User]_buyukim,"{'[User]_sobychacko', '[User]_buyukim'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2841
+2023-11-01 08:25:14+00:00,[User]_weiro-9-w7,"{'[User]_sobychacko', '[User]_weiro-9-w7'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2842
+2023-11-01 18:49:08+00:00,[User]_GFriedrich,"{'[User]_sobychacko', '[User]_GFriedrich'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2843
+2023-11-03 03:26:32+00:00,[User]_weiro-9-w7,{'[User]_weiro-9-w7'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2844
+2023-11-05 21:18:20+00:00,[User]_GFriedrich,"{'[User]_sobychacko', '[User]_GFriedrich'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2845
+2023-11-07 14:35:54+00:00,[User]_SingKS8,"{'[User]_sobychacko', '[User]_SingKS8'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2846
+2023-11-10 05:39:14+00:00,[User]_Masaru-Nouchi,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2847
+2023-11-14 16:36:33+00:00,[User]_ferblaca,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2848
+2023-11-15 15:05:46+00:00,[User]_JordiMartinezVicent,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2849
+2023-11-15 21:37:34+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2850
+2023-11-15 23:03:15+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2851
+2023-11-16 09:12:13+00:00,[User]_kper,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2852
+2023-11-18 21:52:41+00:00,[User]_kabennett,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2853
+2023-11-20 11:00:44+00:00,[User]_GJohannes,{'[User]_garyrussell'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2854
+2023-11-21 08:07:41+00:00,[User]_l7448294,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2855
+2023-11-21 11:31:04+00:00,[User]_Fonexn,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2856
+2023-11-22 06:46:21+00:00,[User]_m-kay,"{'[User]_sobychacko', '[User]_m-kay'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2857
+2023-11-23 02:34:04+00:00,[User]_onobc,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2858
+2023-11-24 11:24:29+00:00,[User]_castelblanque,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2859
+2023-11-29 13:28:43+00:00,[User]_omercelikceng,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2860
+2023-11-29 16:52:57+00:00,[User]_omercelikceng,"{'[User]_sobychacko', '[User]_omercelikceng'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2862
+2023-12-04 18:07:39+00:00,[User]_sobychacko,{'[User]_artembilan'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2863
+2023-12-05 20:36:19+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2864
+2023-12-10 02:48:08+00:00,[User]_brodov,{'[User]_brodov'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2867
+2023-12-11 00:37:18+00:00,[User]_Claudio-code,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/pull/2868
+2023-12-11 06:54:25+00:00,[User]_liuxuzxx,{'[User]_liuxuzxx'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2869
+2023-12-11 09:03:35+00:00,[User]_pcavezzan,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2870
+2023-12-12 14:18:19+00:00,[User]_hellerEkc,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2871
+2023-12-12 20:35:31+00:00,[User]_peterdaub,"{'[User]_sobychacko', '[User]_peterdaub'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2872
+2023-12-12 21:08:33+00:00,[User]_tamamico,"{'[User]_sobychacko', '[User]_tamamico'}",spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2873
+2023-12-18 11:26:40+00:00,[User]_Sofa467,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2874
+2023-12-18 11:29:27+00:00,[User]_Sofa467,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2875
+2023-12-21 22:32:44+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2876
+2023-12-22 00:54:33+00:00,[User]_PhilippMT,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2877
+2023-12-23 19:13:19+00:00,[User]_SimoneGiusso,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2878
+2023-12-28 00:39:29+00:00,[User]_hellerEkc,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2023,https://github.com/spring-cloud/spring-cloud-stream/issues/2879
+2024-01-09 09:15:54+00:00,[User]_kper,"{'[User]_sobychacko', '[User]_kper'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2880
+2024-01-10 08:20:18+00:00,[User]_kper,"{'[User]_sobychacko', '[User]_kper'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2881
+2024-01-11 10:43:52+00:00,[User]_srinivasboini,"{'[User]_sobychacko', '[User]_srinivasboini598', '[User]_srinivasboini'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2882
+2024-01-15 11:51:44+00:00,[User]_KirillMakrutin,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2883
+2024-01-15 21:20:55+00:00,[User]_onobc,set(),spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2884
+2024-01-19 08:24:56+00:00,[User]_snskshn,set(),spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2886
+2024-01-19 09:25:14+00:00,[User]_keepGOG,"{'[User]_sobychacko', '[User]_keepGOG'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2887
+2024-01-23 08:59:49+00:00,[User]_akhalifeh79,"{'[User]_sobychacko', '[User]_akhalifeh79'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2888
+2024-01-23 17:09:10+00:00,[User]_kabennett,"{'[User]_sobychacko', '[User]_artembilan', '[User]_kabennett'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2889
+2024-01-24 08:25:16+00:00,[User]_scarm01,"{'[User]_sobychacko', '[User]_scarm01'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2890
+2024-01-25 19:03:01+00:00,[User]_mentamas,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2891
+2024-01-26 15:16:20+00:00,[User]_cooperlyt,"{'[User]_sobychacko', '[User]_cooperlyt'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2892
+2024-01-28 16:28:39+00:00,[User]_kutmk,"{'[User]_sobychacko', '[User]_kutmk'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2893
+2024-01-30 21:02:30+00:00,[User]_mgevantmakher,"{'[User]_sobychacko', '[User]_mgevantmakher'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2894
+2024-01-31 17:48:34+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2895
+2024-02-02 13:15:30+00:00,[User]_mmuniz75,"{'[User]_sobychacko', '[User]_mmuniz75'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2896
+2024-02-07 02:31:13+00:00,[User]_srinivasboini,"{'[User]_sobychacko', '[User]_srinivasboini'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2897
+2024-02-13 11:07:30+00:00,[User]_olegz,set(),spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2898
+2024-02-13 14:11:15+00:00,[User]_mborgraeve,"{'[User]_sobychacko', '[User]_mborgraeve', '[User]_weikangchia'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2899
+2024-02-13 20:59:39+00:00,[User]_kutmk,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2900
+2024-02-14 03:42:28+00:00,[User]_Toxa45,{'[User]_Toxa45'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2901
+2024-02-14 20:41:35+00:00,[User]_artembilan,set(),spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2902
+2024-02-14 21:39:04+00:00,[User]_artembilan,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2903
+2024-02-15 12:13:55+00:00,[User]_LazroLeader,"{'[User]_sobychacko', '[User]_LazroLeader'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2904
+2024-02-16 14:28:11+00:00,[User]_dharezlak,{'[User]_artembilan'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2905
+2024-02-19 15:50:06+00:00,[User]_akhalifeh79,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2906
+2024-02-20 19:30:08+00:00,[User]_carolmorneau,"{'[User]_sobychacko', '[User]_carolmorneau'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2907
+2024-02-22 13:36:48+00:00,[User]_mborgraeve,"{'[User]_sobychacko', '[User]_mborgraeve'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2908
+2024-02-23 20:32:38+00:00,[User]_wyhasany,{'[User]_artembilan'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2909
+2024-02-23 21:34:20+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2910
+2024-02-27 13:33:31+00:00,[User]_babubabu,{'[User]_babubabu'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2911
+2024-02-27 16:31:19+00:00,[User]_babubabu,"{'[User]_sobychacko', '[User]_babubabu'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2912
+2024-02-28 05:58:41+00:00,[User]_babubabu,"{'[User]_sobychacko', '[User]_babubabu'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2913
+2024-03-06 10:03:29+00:00,[User]_akoufa,"{'[User]_sobychacko', '[User]_akoufa'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2914
+2024-03-07 16:50:23+00:00,[User]_sobychacko,{'[User]_onobc'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2915
+2024-03-10 18:13:21+00:00,[User]_mzalewski82,set(),spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2916
+2024-03-13 05:36:25+00:00,[User]_onobc,"{'[User]_sobychacko', '[User]_onobc'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2918
+2024-03-13 19:15:00+00:00,[User]_Spatrik95,"{'[User]_sobychacko', '[User]_PatrikScully'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2919
+2024-03-15 09:20:51+00:00,[User]_PatrikScully,{'[User]_PatrikScully'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2920
+2024-03-15 14:49:00+00:00,[User]_mjbingen,"{'[User]_sobychacko', '[User]_mjbingen'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2921
+2024-03-19 12:26:11+00:00,[User]_qxv1612,"{'[User]_sobychacko', '[User]_qxv1612'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2922
+2024-03-19 14:48:43+00:00,[User]_wyhasany,"{'[User]_sobychacko', '[User]_wyhasany'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2923
+2024-03-19 22:20:44+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2924
+2024-03-20 07:06:03+00:00,[User]_qxv1612,"{'[User]_sobychacko', '[User]_qxv1612'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2925
+2024-03-22 07:17:40+00:00,[User]_kqkdChen,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2927
+2024-03-29 15:01:12+00:00,[User]_SingKS8,set(),spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2929
+2024-04-02 17:34:27+00:00,[User]_jakub-bochenski,{'[User]_jakub-bochenski'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2930
+2024-04-04 13:22:27+00:00,[User]_Laksuh,"{'[User]_sobychacko', '[User]_kutmk', '[User]_Laksuh'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2931
+2024-04-08 13:52:19+00:00,[User]_Felixel42,"{'[User]_sobychacko', '[User]_Felixel42'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2932
+2024-04-08 15:16:56+00:00,[User]_Perry45,"{'[User]_sobychacko', '[User]_Perry45'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2933
+2024-04-08 19:28:27+00:00,[User]_martyschaer,"{'[User]_sobychacko', '[User]_martyschaer'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2934
+2024-04-10 18:03:38+00:00,[User]_sobychacko,set(),spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2935
+2024-04-14 03:30:10+00:00,[User]_onobc,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/pull/2936
+2024-04-14 13:59:03+00:00,[User]_mobknight,{'[User]_sobychacko'},spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2937
+2024-04-22 15:02:25+00:00,[User]_mjbingen,set(),spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2938
+2024-04-23 21:02:06+00:00,[User]_samragu,"{'[User]_dvovney', '[User]_ansd', '[User]_artembilan', '[User]_samragu'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2939
+2024-04-24 05:16:34+00:00,[User]_AndreKoepke,"{'[User]_olegz', '[User]_AndreKoepke'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2940
+2024-04-29 09:26:22+00:00,[User]_LiquidSelf,"{'[User]_sobychacko', '[User]_LiquidSelf'}",spring-cloud/spring-cloud-stream,2024,https://github.com/spring-cloud/spring-cloud-stream/issues/2941

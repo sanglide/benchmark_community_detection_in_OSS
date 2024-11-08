@@ -1,0 +1,485 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-02 04:49:20+00:00,[User]_saw-jan,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10784
+2023-05-02 06:59:19+00:00,[User]_saw-jan,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10786
+2023-05-02 14:05:25+00:00,[User]_michaelstingl,{'[User]_saw-jan'},owncloud/client,2023,https://github.com/owncloud/client/issues/10788
+2023-05-02 14:37:41+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/10790
+2023-05-02 19:59:55+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10793
+2023-05-03 11:37:58+00:00,[User]_saw-jan,{'[User]_ownclouders'},owncloud/client,2023,https://github.com/owncloud/client/pull/10799
+2023-05-03 12:24:05+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10801
+2023-05-03 12:27:49+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/10803
+2023-05-03 16:42:47+00:00,[User]_erikjv,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/10806
+2023-05-04 09:50:07+00:00,[User]_individual-it,"{'[User]_michaelstingl', '[User]_individual-it', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10807
+2023-05-04 10:13:22+00:00,[User]_michaelstingl,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/10808
+2023-05-05 13:19:19+00:00,[User]_erikjv,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/10810
+2023-05-05 15:54:28+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10812
+2023-05-08 11:08:46+00:00,[User]_HanaGemela,"{'[User]_michaelstingl', '[User]_S-Panta', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10814
+2023-05-08 11:43:51+00:00,[User]_saw-jan,"{'[User]_michaelstingl', '[User]_saw-jan', '[User]_tbsbdr', '[User]_micbar'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10815
+2023-05-08 13:22:53+00:00,[User]_HanaGemela,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10816
+2023-05-09 03:45:26+00:00,[User]_saw-jan,"{'[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10817
+2023-05-09 09:11:05+00:00,[User]_HanaGemela,"{'[User]_michaelstingl', '[User]_saw-jan', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10820
+2023-05-09 13:16:53+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10822
+2023-05-09 13:50:19+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_ownclouders', '[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10824
+2023-05-09 13:52:00+00:00,[User]_TheOneRing,"{'[User]_michaelstingl', '[User]_ownclouders', '[User]_fmoc', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10825
+2023-05-09 14:23:37+00:00,[User]_TheOneRing,"{'[User]_ownclouders', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10826
+2023-05-09 15:48:27+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10828
+2023-05-10 15:45:34+00:00,[User]_TheOneRing,{'[User]_saw-jan'},owncloud/client,2023,https://github.com/owncloud/client/issues/10832
+2023-05-10 19:06:51+00:00,[User]_nils-weidinger,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/10833
+2023-05-11 08:55:51+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10835
+2023-05-11 11:40:12+00:00,[User]_TheOneRing,"{'[User]_ownclouders', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10836
+2023-05-11 12:17:52+00:00,[User]_TheOneRing,"{'[User]_ownclouders', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10837
+2023-05-11 14:47:30+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10838
+2023-05-12 07:11:07+00:00,[User]_cunio,"{'[User]_fmoc', '[User]_JoKalliauer', '[User]_maxwai'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10839
+2023-05-12 09:25:49+00:00,[User]_HanaGemela,"{'[User]_michaelstingl', '[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10840
+2023-05-12 13:19:24+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/10841
+2023-05-12 23:18:09+00:00,[User]_Synthlight,"{'[User]_TheOneRing', '[User]_beatjoerg', '[User]_saw-jan', '[User]_michaelstingl', '[User]_richman1000000'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10842
+2023-05-15 04:32:07+00:00,[User]_saw-jan,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10843
+2023-05-15 11:08:07+00:00,[User]_HanaGemela,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10844
+2023-05-16 08:06:23+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10846
+2023-05-17 13:43:35+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/10851
+2023-05-17 14:47:09+00:00,[User]_TheOneRing,"{'[User]_ownclouders', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10852
+2023-05-17 15:06:32+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10853
+2023-05-18 05:19:02+00:00,[User]_prajwel,"{'[User]_fmoc', '[User]_saw-jan', '[User]_JoKalliauer', '[User]_michaelstingl', '[User]_einarjh'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10854
+2023-05-18 09:14:36+00:00,[User]_mmattel,"{'[User]_mmattel', '[User]_jnweiger'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10855
+2023-05-23 14:14:02+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10859
+2023-05-24 08:12:32+00:00,[User]_TermeHansen,"{'[User]_michaelstingl', '[User]_rhafer', '[User]_fmoc', '[User]_TermeHansen'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10861
+2023-05-24 12:59:19+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10862
+2023-05-25 03:48:15+00:00,[User]_saw-jan,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10864
+2023-05-25 12:54:08+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10867
+2023-05-25 14:39:07+00:00,[User]_fmoc,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/10868
+2023-05-26 03:41:27+00:00,[User]_saw-jan,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10870
+2023-05-26 03:45:24+00:00,[User]_saw-jan,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/pull/10871
+2023-05-26 08:32:34+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10874
+2023-05-26 12:13:39+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/10877
+2023-05-26 12:16:52+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10878
+2023-05-26 12:38:42+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10879
+2023-05-26 13:04:57+00:00,[User]_TheOneRing,"{'[User]_ownclouders', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10881
+2023-05-26 15:49:03+00:00,[User]_michaelstingl,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_HanaGemela', '[User]_S-Panta', '[User]_michaelstingl'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10884
+2023-05-29 06:07:38+00:00,[User]_saw-jan,{'[User]_saw-jan'},owncloud/client,2023,https://github.com/owncloud/client/issues/10885
+2023-05-30 09:32:25+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10887
+2023-05-30 10:21:07+00:00,[User]_michaelstingl,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10888
+2023-05-30 11:22:37+00:00,[User]_TheOneRing,"{'[User]_ownclouders', '[User]_erikjv'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10890
+2023-05-30 12:02:37+00:00,[User]_HanaGemela,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10892
+2023-05-30 13:23:02+00:00,[User]_saw-jan,"{'[User]_ownclouders', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10893
+2023-05-30 13:42:39+00:00,[User]_mmattel,"{'[User]_michaelstingl', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10894
+2023-05-31 10:38:18+00:00,[User]_jnweiger,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10897
+2023-05-31 13:21:06+00:00,[User]_TheOneRing,"{'[User]_erikjv', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10899
+2023-05-31 14:05:23+00:00,[User]_TheOneRing,"{'[User]_erikjv', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10900
+2023-05-31 16:27:21+00:00,[User]_erikjv,"{'[User]_erikjv', '[User]_fmoc', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10901
+2023-06-01 03:46:11+00:00,[User]_saw-jan,"{'[User]_michaelstingl', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10902
+2023-06-01 04:09:54+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10903
+2023-06-01 09:14:47+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/10904
+2023-06-01 10:40:01+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/10905
+2023-06-05 04:32:38+00:00,[User]_saw-jan,"{'[User]_grgprarup', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10908
+2023-06-05 07:00:27+00:00,[User]_HanaGemela,"{'[User]_michaelstingl', '[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10909
+2023-06-06 03:49:35+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10912
+2023-06-06 08:04:00+00:00,[User]_fmoc,"{'[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10913
+2023-06-06 11:57:58+00:00,[User]_fmoc,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/10914
+2023-06-07 19:47:34+00:00,[User]_HanaGemela,"{'[User]_mmattel', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10915
+2023-06-09 10:07:14+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10916
+2023-06-12 06:31:28+00:00,[User]_philbit,"{'[User]_philbit', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10917
+2023-06-12 12:18:16+00:00,[User]_erikjv,"{'[User]_erikjv', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10918
+2023-06-13 08:43:31+00:00,[User]_fmoc,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10919
+2023-06-13 13:09:10+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10920
+2023-06-13 13:29:00+00:00,[User]_TheOneRing,"{'[User]_ownclouders', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10921
+2023-06-13 13:56:37+00:00,[User]_fmoc,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10922
+2023-06-13 14:21:45+00:00,[User]_TheOneRing,"{'[User]_ownclouders', '[User]_erikjv'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10923
+2023-06-14 12:46:53+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/10926
+2023-06-14 13:32:20+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10928
+2023-06-15 11:59:06+00:00,[User]_pollopolea,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/10930
+2023-06-15 14:58:15+00:00,[User]_erikjv,"{'[User]_erikjv', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10931
+2023-06-16 03:38:33+00:00,[User]_saw-jan,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10932
+2023-06-16 07:40:31+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10933
+2023-06-16 07:43:23+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/10934
+2023-06-16 08:58:40+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10935
+2023-06-16 09:03:18+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10936
+2023-06-16 10:30:06+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/10938
+2023-06-16 13:01:55+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10939
+2023-06-16 13:52:20+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/issues/10940
+2023-06-19 08:58:47+00:00,[User]_HanaGemela,"{'[User]_michaelstingl', '[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10941
+2023-06-19 15:32:23+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10944
+2023-06-19 16:10:43+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10945
+2023-06-19 17:34:00+00:00,[User]_richman1000000,"{'[User]_TheOneRing', '[User]_richman1000000', '[User]_fmoc', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10946
+2023-06-20 09:41:55+00:00,[User]_HanaGemela,{'[User]_michaelstingl'},owncloud/client,2023,https://github.com/owncloud/client/pull/10947
+2023-06-20 14:34:38+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10949
+2023-06-21 09:29:41+00:00,[User]_michaelstingl,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10950
+2023-06-21 10:21:55+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_michaelstingl'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10951
+2023-06-21 15:15:03+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10953
+2023-06-22 08:59:17+00:00,[User]_TheOneRing,"{'[User]_erikjv', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10955
+2023-06-22 09:31:31+00:00,[User]_TheOneRing,"{'[User]_erikjv', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10956
+2023-06-22 09:51:15+00:00,[User]_fmoc,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10957
+2023-06-22 11:09:32+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10958
+2023-06-23 12:31:10+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10960
+2023-06-23 13:01:37+00:00,[User]_fmoc,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10961
+2023-06-23 13:30:17+00:00,[User]_fmoc,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/issues/10962
+2023-06-23 13:38:42+00:00,[User]_fmoc,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10963
+2023-06-23 14:09:34+00:00,[User]_fmoc,"{'[User]_fmoc', '[User]_TheOneRing', '[User]_erikjv', '[User]_saw-jan', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10964
+2023-06-24 18:04:37+00:00,[User]_olifre,"{'[User]_olifre', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10965
+2023-06-26 08:03:45+00:00,[User]_HanaGemela,{'[User]_michaelstingl'},owncloud/client,2023,https://github.com/owncloud/client/pull/10968
+2023-06-27 03:57:57+00:00,[User]_saw-jan,"{'[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10970
+2023-06-27 08:28:35+00:00,[User]_saw-jan,{'[User]_saw-jan'},owncloud/client,2023,https://github.com/owncloud/client/pull/10971
+2023-06-27 09:33:30+00:00,[User]_HanaGemela,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10973
+2023-06-27 10:52:13+00:00,[User]_fmoc,"{'[User]_TheOneRing', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10974
+2023-06-27 11:01:21+00:00,[User]_TheOneRing,"{'[User]_fmoc', '[User]_CLAassistant'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10975
+2023-06-27 12:19:56+00:00,[User]_fmoc,{'[User]_saw-jan'},owncloud/client,2023,https://github.com/owncloud/client/issues/10976
+2023-06-27 13:39:35+00:00,[User]_TheOneRing,{'[User]_saw-jan'},owncloud/client,2023,https://github.com/owncloud/client/issues/10978
+2023-06-28 07:46:09+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/10979
+2023-06-28 10:04:58+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10981
+2023-06-28 15:18:17+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_ownclouders'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10982
+2023-06-28 16:27:09+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_fmoc', '[User]_dragotin'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10983
+2023-06-29 07:48:14+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/10984
+2023-06-29 08:17:47+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/10985
+2023-06-29 09:35:49+00:00,[User]_HanaGemela,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/10986
+2023-06-29 12:06:01+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/10989
+2023-06-29 12:27:51+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10990
+2023-06-30 08:26:10+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/10992
+2023-06-30 12:21:12+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/10993
+2023-07-03 10:01:36+00:00,[User]_d7oc,{'[User]_michaelstingl'},owncloud/client,2023,https://github.com/owncloud/client/issues/10995
+2023-07-04 08:34:23+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10997
+2023-07-04 09:31:58+00:00,[User]_michaelstingl,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/10998
+2023-07-04 09:52:43+00:00,[User]_TheOneRing,"{'[User]_Salipa-Gurung', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/10999
+2023-07-04 10:53:17+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11000
+2023-07-04 11:16:05+00:00,[User]_Salipa-Gurung,"{'[User]_TheOneRing', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11001
+2023-07-04 13:32:21+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11002
+2023-07-05 08:21:27+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11003
+2023-07-05 09:52:20+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11004
+2023-07-05 11:44:53+00:00,[User]_saw-jan,{'[User]_phil-davis'},owncloud/client,2023,https://github.com/owncloud/client/pull/11005
+2023-07-05 11:49:40+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_phil-davis', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11006
+2023-07-05 12:42:51+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11007
+2023-07-05 14:31:19+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/issues/11008
+2023-07-06 10:41:58+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11011
+2023-07-06 11:08:45+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11012
+2023-07-06 13:47:01+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11013
+2023-07-07 08:15:30+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_saw-jan', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11016
+2023-07-07 08:28:13+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11017
+2023-07-07 10:28:16+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11018
+2023-07-07 14:18:34+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11020
+2023-07-10 15:41:18+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11023
+2023-07-11 10:29:55+00:00,[User]_TheOneRing,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11024
+2023-07-11 10:48:01+00:00,[User]_TheOneRing,{'[User]_saw-jan'},owncloud/client,2023,https://github.com/owncloud/client/issues/11025
+2023-07-11 11:13:11+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/11026
+2023-07-11 12:13:53+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11028
+2023-07-12 09:30:32+00:00,[User]_fmoc,"{'[User]_TheOneRing', '[User]_michaelstingl'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11029
+2023-07-12 09:46:20+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/11030
+2023-07-12 10:08:50+00:00,[User]_TheOneRing,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11031
+2023-07-12 10:17:33+00:00,[User]_fmoc,"{'[User]_TheOneRing', '[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11032
+2023-07-12 10:31:34+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11033
+2023-07-12 10:32:58+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11034
+2023-07-12 13:22:13+00:00,[User]_erikjv,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/pull/11036
+2023-07-13 13:55:06+00:00,[User]_erikjv,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/pull/11037
+2023-07-17 17:48:15+00:00,[User]_HanaGemela,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11039
+2023-07-18 08:56:42+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11041
+2023-07-20 10:44:02+00:00,[User]_jnweiger,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_jnweiger'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11042
+2023-07-20 12:05:28+00:00,[User]_saw-jan,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/11043
+2023-07-20 14:26:25+00:00,[User]_fmoc,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11044
+2023-07-21 09:45:14+00:00,[User]_jnweiger,"{'[User]_TheOneRing', '[User]_michaelstingl'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11045
+2023-07-21 11:15:00+00:00,[User]_fmoc,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/pull/11046
+2023-07-21 13:30:10+00:00,[User]_TheOneRing,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11047
+2023-07-21 13:58:51+00:00,[User]_michaelstingl,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_Salipa-Gurung', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11048
+2023-07-21 14:02:48+00:00,[User]_fmoc,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/pull/11049
+2023-07-21 14:15:13+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11050
+2023-07-21 15:34:27+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11051
+2023-07-21 15:38:49+00:00,[User]_fmoc,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/11052
+2023-07-24 15:27:02+00:00,[User]_erikjv,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/pull/11053
+2023-07-25 08:05:46+00:00,[User]_HanaGemela,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11054
+2023-07-25 11:44:51+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11055
+2023-07-25 11:50:30+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11056
+2023-07-25 12:28:29+00:00,[User]_fmoc,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11057
+2023-07-25 12:29:50+00:00,[User]_fmoc,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/issues/11058
+2023-07-25 12:32:20+00:00,[User]_fmoc,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11059
+2023-07-25 12:34:18+00:00,[User]_fmoc,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/issues/11060
+2023-07-25 12:36:24+00:00,[User]_fmoc,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11061
+2023-07-25 15:58:04+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11063
+2023-07-26 14:18:49+00:00,[User]_fmoc,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/pull/11064
+2023-07-27 12:55:18+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11065
+2023-07-27 13:18:10+00:00,[User]_fmoc,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11066
+2023-07-27 16:16:02+00:00,[User]_erikjv,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11068
+2023-07-28 07:53:36+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11069
+2023-07-28 15:09:48+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_erikjv'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11073
+2023-08-04 09:30:44+00:00,[User]_nemethstarproductions,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11082
+2023-08-04 11:25:16+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/11083
+2023-08-04 13:02:32+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11085
+2023-08-04 14:45:04+00:00,[User]_fmoc,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/issues/11089
+2023-08-07 08:40:08+00:00,[User]_HanaGemela,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11091
+2023-08-08 08:08:21+00:00,[User]_fmoc,"{'[User]_Salipa-Gurung', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11094
+2023-08-08 10:23:33+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11097
+2023-08-09 09:02:08+00:00,[User]_grgprarup,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11102
+2023-08-09 11:09:04+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11104
+2023-08-09 13:39:36+00:00,[User]_erikjv,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11107
+2023-08-11 07:09:16+00:00,[User]_TheOneRing,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/pull/11110
+2023-08-15 13:17:49+00:00,[User]_erikjv,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/pull/11120
+2023-08-15 13:49:08+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11121
+2023-08-15 14:41:19+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11122
+2023-08-16 03:52:33+00:00,[User]_saw-jan,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/11123
+2023-08-16 11:25:13+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/11126
+2023-08-18 09:28:14+00:00,[User]_HanaGemela,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11130
+2023-08-18 10:19:28+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11131
+2023-08-18 14:37:58+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_Salipa-Gurung', '[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11132
+2023-08-21 10:02:19+00:00,[User]_saw-jan,"{'[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11133
+2023-08-22 09:18:19+00:00,[User]_TheOneRing,"{'[User]_michaelstingl', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11136
+2023-08-23 14:36:54+00:00,[User]_erikjv,"{'[User]_erikjv', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11141
+2023-08-23 14:39:21+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11142
+2023-08-29 10:03:45+00:00,[User]_TheOneRing,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11149
+2023-08-29 10:13:22+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11150
+2023-08-29 10:20:48+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11151
+2023-08-29 12:22:17+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11152
+2023-08-30 07:12:43+00:00,[User]_HanaGemela,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11156
+2023-08-30 14:09:23+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/11160
+2023-08-31 07:48:05+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11163
+2023-08-31 07:53:09+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11164
+2023-08-31 07:55:34+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11165
+2023-08-31 14:56:41+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11167
+2023-08-31 15:16:44+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11168
+2023-09-01 12:25:40+00:00,[User]_HanaGemela,"{'[User]_fmoc', '[User]_saw-jan', '[User]_Salipa-Gurung', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11171
+2023-09-02 10:19:29+00:00,[User]_eagirre,"{'[User]_michaelstingl', '[User]_fmoc', '[User]_eagirre'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11172
+2023-09-04 18:17:02+00:00,[User]_michaelstingl,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11175
+2023-09-04 18:32:22+00:00,[User]_michaelstingl,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11176
+2023-09-05 10:42:52+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_erikjv'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11178
+2023-09-05 11:03:53+00:00,[User]_saw-jan,{'[User]_saw-jan'},owncloud/client,2023,https://github.com/owncloud/client/issues/11179
+2023-09-06 07:35:41+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11182
+2023-09-06 09:12:01+00:00,[User]_jnweiger,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11183
+2023-09-06 11:51:42+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/11185
+2023-09-06 12:13:35+00:00,[User]_HanaGemela,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11186
+2023-09-06 12:59:16+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/11187
+2023-09-07 07:55:51+00:00,[User]_HanaGemela,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11188
+2023-09-07 10:46:45+00:00,[User]_michaelstingl,"{'[User]_michaelstingl', '[User]_oladapo-joseph'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11191
+2023-09-07 13:27:40+00:00,[User]_TheOneRing,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11195
+2023-09-11 04:03:54+00:00,[User]_saw-jan,"{'[User]_saw-jan', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11199
+2023-09-13 05:02:08+00:00,[User]_saw-jan,{'[User]_saw-jan'},owncloud/client,2023,https://github.com/owncloud/client/issues/11203
+2023-09-13 11:16:05+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11204
+2023-09-14 09:13:04+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11206
+2023-09-14 09:24:40+00:00,[User]_HanaGemela,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11207
+2023-09-14 09:55:33+00:00,[User]_HanaGemela,"{'[User]_michaelstingl', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11208
+2023-09-15 10:53:06+00:00,[User]_TheOneRing,"{'[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11211
+2023-09-21 03:50:28+00:00,[User]_saw-jan,{'[User]_saw-jan'},owncloud/client,2023,https://github.com/owncloud/client/issues/11217
+2023-09-21 03:54:16+00:00,[User]_saw-jan,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11218
+2023-09-21 12:46:17+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11221
+2023-09-21 14:41:15+00:00,[User]_TheOneRing,"{'[User]_fmoc', '[User]_jnweiger', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11223
+2023-09-22 11:59:17+00:00,[User]_TheOneRing,"{'[User]_felix-schwarz', '[User]_fmoc', '[User]_JuancaG05', '[User]_TheOneRing', '[User]_manuelplazaspalacio', '[User]_saw-jan', '[User]_michaelstingl', '[User]_jesmrec'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11224
+2023-09-26 10:29:30+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/issues/11228
+2023-09-26 18:51:38+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11229
+2023-09-27 06:09:38+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11230
+2023-09-27 06:24:15+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11231
+2023-09-27 06:34:15+00:00,[User]_HanaGemela,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11232
+2023-09-27 06:43:33+00:00,[User]_HanaGemela,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11233
+2023-09-27 09:32:29+00:00,[User]_TheOneRing,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11235
+2023-09-27 14:48:17+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/11238
+2023-09-28 06:05:22+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11239
+2023-09-28 06:19:33+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11240
+2023-09-28 13:20:03+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11243
+2023-09-28 14:01:59+00:00,[User]_erikjv,"{'[User]_erikjv', '[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11245
+2023-09-28 14:11:30+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_erikjv'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11246
+2023-09-29 10:30:14+00:00,[User]_HanaGemela,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11250
+2023-09-29 12:11:13+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/pull/11251
+2023-10-02 04:19:07+00:00,[User]_Salipa-Gurung,"{'[User]_fmoc', '[User]_saw-jan', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11255
+2023-10-03 05:10:23+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11257
+2023-10-05 19:33:21+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11264
+2023-10-06 14:28:09+00:00,[User]_rokj,"{'[User]_TheOneRing', '[User]_fmoc', '[User]_rokj'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11265
+2023-10-07 11:50:58+00:00,[User]_sfadschm,{'[User]_sfadschm'},owncloud/client,2023,https://github.com/owncloud/client/issues/11267
+2023-10-09 07:50:32+00:00,[User]_mmattel,"{'[User]_fmoc', '[User]_workflowsguy', '[User]_TheOneRing', '[User]_mmattel', '[User]_sbgraphic'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11269
+2023-10-10 14:50:09+00:00,[User]_michaelstingl,"{'[User]_cdamken', '[User]_rainforest1155', '[User]_HanaGemela', '[User]_michaelstingl', '[User]_steelcuts'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11274
+2023-10-10 16:17:48+00:00,[User]_ndekross,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11275
+2023-10-11 09:13:09+00:00,[User]_butonic,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_butonic', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11276
+2023-10-12 09:34:30+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/issues/11283
+2023-10-12 11:40:17+00:00,[User]_HanaGemela,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11284
+2023-10-12 13:55:16+00:00,[User]_codepoet80,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_codepoet80'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11287
+2023-10-13 08:42:22+00:00,[User]_simeonborko,"{'[User]_TheOneRing', '[User]_simeonborko', '[User]_michaelstingl'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11289
+2023-10-13 10:47:10+00:00,[User]_Salipa-Gurung,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11290
+2023-10-16 10:15:06+00:00,[User]_michaelstingl,"{'[User]_TheOneRing', '[User]_rpausch-owncloud'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11292
+2023-10-16 11:25:48+00:00,[User]_HanaGemela,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11294
+2023-10-16 12:48:46+00:00,[User]_daniel-lerch,"{'[User]_TheOneRing', '[User]_grohart', '[User]_saw-jan', '[User]_DeepDiver1975', '[User]_michaelstingl', '[User]_daniel-lerch', '[User]_atroxix'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11296
+2023-10-17 11:03:16+00:00,[User]_jnweiger,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11297
+2023-10-17 18:02:15+00:00,[User]_jnweiger,"{'[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11298
+2023-10-18 11:18:47+00:00,[User]_HanaGemela,{'[User]_michaelstingl'},owncloud/client,2023,https://github.com/owncloud/client/pull/11299
+2023-10-22 08:37:25+00:00,[User]_workflowsguy,"{'[User]_michaelstingl', '[User]_workflowsguy'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11302
+2023-10-23 09:57:23+00:00,[User]_michaelstingl,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_erikjv', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11304
+2023-10-24 09:07:54+00:00,[User]_HanaGemela,"{'[User]_michaelstingl', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11306
+2023-10-24 10:52:23+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11307
+2023-10-24 11:00:16+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11308
+2023-10-24 11:02:41+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11309
+2023-10-24 15:12:53+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11310
+2023-10-24 19:46:10+00:00,[User]_HanaGemela,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11311
+2023-10-25 14:12:48+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11314
+2023-10-27 11:13:16+00:00,[User]_zerolabnet,"{'[User]_TheOneRing', '[User]_zerolabnet'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11319
+2023-11-02 10:05:26+00:00,[User]_TheOneRing,"{'[User]_Salipa-Gurung', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11325
+2023-11-02 11:26:17+00:00,[User]_erikjv,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11326
+2023-11-02 11:27:28+00:00,[User]_ask6483,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_ask6483'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11327
+2023-11-02 11:52:56+00:00,[User]_TheOneRing,{'[User]_saw-jan'},owncloud/client,2023,https://github.com/owncloud/client/issues/11328
+2023-11-02 20:08:17+00:00,[User]_TentativeConvert,"{'[User]_TheOneRing', '[User]_fmoc', '[User]_TentativeConvert'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11329
+2023-11-03 04:27:27+00:00,[User]_saw-jan,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11330
+2023-11-03 08:46:49+00:00,[User]_saw-jan,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11331
+2023-11-03 09:41:24+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2023,https://github.com/owncloud/client/issues/11332
+2023-11-03 11:56:45+00:00,[User]_jnweiger,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11333
+2023-11-06 11:31:14+00:00,[User]_HanaGemela,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11340
+2023-11-07 13:11:51+00:00,[User]_TheOneRing,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11343
+2023-11-07 13:19:41+00:00,[User]_jnweiger,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11344
+2023-11-08 11:25:43+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_Salipa-Gurung'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11346
+2023-11-08 11:50:50+00:00,[User]_HanaGemela,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11349
+2023-11-08 15:01:12+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11351
+2023-11-10 07:53:37+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11358
+2023-11-10 08:04:32+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11359
+2023-11-10 10:40:53+00:00,[User]_HanaGemela,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11360
+2023-11-15 05:42:32+00:00,[User]_Ishan-Kaura,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11370
+2023-11-15 05:46:20+00:00,[User]_Ishan-Kaura,{'[User]_michaelstingl'},owncloud/client,2023,https://github.com/owncloud/client/issues/11371
+2023-11-15 05:50:39+00:00,[User]_Ishan-Kaura,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11372
+2023-11-16 11:03:32+00:00,[User]_HanaGemela,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11375
+2023-11-17 08:28:34+00:00,[User]_fmoc,"{'[User]_erikjv', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11377
+2023-11-17 08:58:21+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_saw-jan', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11378
+2023-11-17 13:25:57+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11380
+2023-11-19 19:01:56+00:00,[User]_Synthlight,"{'[User]_TheOneRing', '[User]_bialy77', '[User]_Synthlight', '[User]_sneerix', '[User]_tack0974'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11382
+2023-11-21 09:51:04+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11385
+2023-11-21 14:10:43+00:00,[User]_fmoc,"{'[User]_fmoc', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11388
+2023-11-22 11:31:59+00:00,[User]_HanaGemela,{'[User]_HanaGemela'},owncloud/client,2023,https://github.com/owncloud/client/issues/11391
+2023-11-23 03:49:32+00:00,[User]_saw-jan,{'[User]_Salipa-Gurung'},owncloud/client,2023,https://github.com/owncloud/client/issues/11393
+2023-11-24 14:52:35+00:00,[User]_proofy,"{'[User]_TheOneRing', '[User]_fmoc', '[User]_proofy'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11399
+2023-11-28 14:21:41+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11401
+2023-11-28 17:15:04+00:00,[User]_natesdot,"{'[User]_TheOneRing', '[User]_thomaswasle', '[User]_fmoc', '[User]_michaelstingl'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11402
+2023-11-28 18:21:47+00:00,[User]_michaelstingl,"{'[User]_TheOneRing', '[User]_michaelstingl'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11403
+2023-11-28 19:49:03+00:00,[User]_michaelstingl,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11404
+2023-11-30 10:11:54+00:00,[User]_HanaGemela,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11409
+2023-11-30 14:17:43+00:00,[User]_d7oc,"{'[User]_TheOneRing', '[User]_d7oc', '[User]_codepoet80', '[User]_hellerbarde', '[User]_michaelstingl'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11411
+2023-12-05 13:04:13+00:00,[User]_saw-jan,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11418
+2023-12-05 14:57:38+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11421
+2023-12-05 16:57:36+00:00,[User]_n0valis,{'[User]_michaelstingl'},owncloud/client,2023,https://github.com/owncloud/client/issues/11422
+2023-12-06 08:41:23+00:00,[User]_mmattel,"{'[User]_michaelstingl', '[User]_mmattel'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11423
+2023-12-06 09:27:51+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11424
+2023-12-08 11:12:46+00:00,[User]_TheOneRing,set(),owncloud/client,2023,https://github.com/owncloud/client/pull/11427
+2023-12-11 06:47:13+00:00,[User]_thommierother,"{'[User]_michaelstingl', '[User]_thommierother'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11429
+2023-12-11 11:02:56+00:00,[User]_HanaGemela,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11430
+2023-12-11 11:06:49+00:00,[User]_HanaGemela,{'[User]_fmoc'},owncloud/client,2023,https://github.com/owncloud/client/pull/11431
+2023-12-12 10:19:07+00:00,[User]_HanaGemela,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/issues/11433
+2023-12-12 10:33:50+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11435
+2023-12-13 10:39:08+00:00,[User]_HanaGemela,"{'[User]_TheOneRing', '[User]_HanaGemela'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11438
+2023-12-15 03:23:31+00:00,[User]_mikpom,"{'[User]_mikpom', '[User]_michaelstingl'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11440
+2023-12-15 14:45:13+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11441
+2023-12-15 17:25:00+00:00,[User]_fmoc,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2023,https://github.com/owncloud/client/pull/11442
+2023-12-19 11:47:29+00:00,[User]_michaelstingl,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11446
+2023-12-19 21:50:40+00:00,[User]_TheOneRing,{'[User]_TheOneRing'},owncloud/client,2023,https://github.com/owncloud/client/pull/11448
+2023-12-21 06:59:41+00:00,[User]_saw-jan,set(),owncloud/client,2023,https://github.com/owncloud/client/issues/11449
+2023-12-21 12:40:43+00:00,[User]_michaelstingl,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11450
+2023-12-29 15:40:03+00:00,[User]_georgebarnett,"{'[User]_TheOneRing', '[User]_michaelstingl'}",owncloud/client,2023,https://github.com/owncloud/client/issues/11454
+2024-01-01 21:14:21+00:00,[User]_mgatwwgmx,"{'[User]_marc-IG', '[User]_mgatwwgmx', '[User]_TheOneRing'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11455
+2024-01-04 15:57:40+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11459
+2024-01-05 15:32:51+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11461
+2024-01-05 15:37:36+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11462
+2024-01-05 16:13:40+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11463
+2024-01-07 19:11:15+00:00,[User]_codepoet80,"{'[User]_michaelstingl', '[User]_codepoet80'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11464
+2024-01-08 15:25:11+00:00,[User]_HanaGemela,{'[User]_TheOneRing'},owncloud/client,2024,https://github.com/owncloud/client/issues/11465
+2024-01-11 10:05:05+00:00,[User]_TheOneRing,"{'[User]_fmoc', '[User]_CLAassistant'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11469
+2024-01-12 16:29:47+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_saw-jan'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11470
+2024-01-15 14:54:39+00:00,[User]_michaelstingl,"{'[User]_michaelstingl', '[User]_saw-jan'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11471
+2024-01-15 15:12:47+00:00,[User]_michaelstingl,"{'[User]_TheOneRing', '[User]_michaelstingl', '[User]_saw-jan'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11472
+2024-01-15 18:02:01+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11473
+2024-01-16 14:55:32+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11475
+2024-01-17 09:38:39+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2024,https://github.com/owncloud/client/pull/11477
+2024-01-17 10:50:23+00:00,[User]_TheOneRing,"{'[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11478
+2024-01-17 19:28:20+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_fmoc', '[User]_saw-jan'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11479
+2024-01-18 06:07:22+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11480
+2024-01-18 10:46:53+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2024,https://github.com/owncloud/client/pull/11482
+2024-01-18 10:53:52+00:00,[User]_TheOneRing,{'[User]_fmoc'},owncloud/client,2024,https://github.com/owncloud/client/pull/11483
+2024-01-18 13:08:00+00:00,[User]_TheOneRing,"{'[User]_saw-jan', '[User]_fmoc'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11484
+2024-01-18 13:22:22+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_fmoc'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11485
+2024-01-18 16:42:44+00:00,[User]_erikjv,{'[User]_TheOneRing'},owncloud/client,2024,https://github.com/owncloud/client/pull/11487
+2024-01-18 16:50:49+00:00,[User]_erikjv,{'[User]_TheOneRing'},owncloud/client,2024,https://github.com/owncloud/client/pull/11488
+2024-01-19 12:21:19+00:00,[User]_fmoc,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_fmoc', '[User]_saw-jan'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11490
+2024-01-19 15:18:44+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11491
+2024-01-19 15:24:06+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11492
+2024-01-22 09:10:35+00:00,[User]_saw-jan,{'[User]_saw-jan'},owncloud/client,2024,https://github.com/owncloud/client/pull/11493
+2024-01-23 15:18:11+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_fmoc'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11494
+2024-01-29 05:51:32+00:00,[User]_saw-jan,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11496
+2024-01-30 11:26:46+00:00,[User]_TheOneRing,{'[User]_saw-jan'},owncloud/client,2024,https://github.com/owncloud/client/issues/11497
+2024-01-31 06:26:05+00:00,[User]_howardlowndes,"{'[User]_TheOneRing', '[User]_howardlowndes'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11498
+2024-01-31 08:45:22+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11499
+2024-01-31 18:37:03+00:00,[User]_jnweiger,"{'[User]_TheOneRing', '[User]_saw-jan', '[User]_jnweiger'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11502
+2024-02-01 04:27:02+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_erikjv', '[User]_saw-jan'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11503
+2024-02-01 13:10:21+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11507
+2024-02-01 13:24:40+00:00,[User]_erikjv,{'[User]_TheOneRing'},owncloud/client,2024,https://github.com/owncloud/client/pull/11508
+2024-02-07 16:23:48+00:00,[User]_erikjv,{'[User]_TheOneRing'},owncloud/client,2024,https://github.com/owncloud/client/pull/11511
+2024-02-08 22:49:48+00:00,[User]_P-EB,"{'[User]_TheOneRing', '[User]_P-EB'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11513
+2024-02-09 12:57:31+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11514
+2024-02-13 15:03:30+00:00,[User]_TheOneRing,{'[User]_saw-jan'},owncloud/client,2024,https://github.com/owncloud/client/issues/11516
+2024-02-14 09:35:33+00:00,[User]_TheOneRing,"{'[User]_erikjv', '[User]_saw-jan'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11517
+2024-02-15 03:26:16+00:00,[User]_almartin-fing,"{'[User]_TheOneRing', '[User]_almartin-fing'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11519
+2024-02-15 03:33:44+00:00,[User]_saw-jan,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11520
+2024-02-15 12:03:10+00:00,[User]_saw-jan,{'[User]_TheOneRing'},owncloud/client,2024,https://github.com/owncloud/client/pull/11521
+2024-02-15 12:44:28+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11522
+2024-02-15 12:47:20+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11523
+2024-02-20 08:58:34+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11524
+2024-02-21 11:58:18+00:00,[User]_Salipa-Gurung,{'[User]_saw-jan'},owncloud/client,2024,https://github.com/owncloud/client/pull/11526
+2024-02-21 18:06:39+00:00,[User]_tbsbdr,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11527
+2024-02-22 10:42:27+00:00,[User]_tbsbdr,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11528
+2024-02-27 14:53:12+00:00,[User]_jnweiger,{'[User]_TheOneRing'},owncloud/client,2024,https://github.com/owncloud/client/issues/11534
+2024-03-04 17:33:32+00:00,[User]_ammannit,{'[User]_TheOneRing'},owncloud/client,2024,https://github.com/owncloud/client/issues/11535
+2024-03-05 08:23:59+00:00,[User]_saw-jan,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11536
+2024-03-08 19:13:56+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11539
+2024-03-11 10:38:03+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11540
+2024-03-12 11:07:27+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11542
+2024-03-12 13:07:30+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11543
+2024-03-13 17:38:08+00:00,[User]_michaelstingl,{'[User]_TheOneRing'},owncloud/client,2024,https://github.com/owncloud/client/issues/11544
+2024-03-15 14:03:39+00:00,[User]_TheOneRing,"{'[User]_TheOneRing', '[User]_tbsbdr'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11545
+2024-03-15 14:33:22+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11546
+2024-03-15 14:36:57+00:00,[User]_TheOneRing,{'[User]_saw-jan'},owncloud/client,2024,https://github.com/owncloud/client/issues/11547
+2024-03-15 16:25:56+00:00,[User]_TheOneRing,{'[User]_saw-jan'},owncloud/client,2024,https://github.com/owncloud/client/issues/11548
+2024-03-18 06:07:34+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_saw-jan'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11549
+2024-03-18 12:17:40+00:00,[User]_saw-jan,"{'[User]_saw-jan', '[User]_Salipa-Gurung'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11550
+2024-03-18 15:03:02+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11551
+2024-03-18 15:06:08+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11552
+2024-03-19 09:18:14+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11553
+2024-03-19 12:06:31+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11554
+2024-03-19 14:20:28+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11555
+2024-03-20 18:06:15+00:00,[User]_P-EB,"{'[User]_TheOneRing', '[User]_P-EB', '[User]_proofy'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11558
+2024-03-22 13:11:39+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11560
+2024-03-22 18:23:46+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11561
+2024-03-26 13:47:16+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11564
+2024-03-27 10:39:20+00:00,[User]_saw-jan,{'[User]_Salipa-Gurung'},owncloud/client,2024,https://github.com/owncloud/client/pull/11565
+2024-03-28 07:16:00+00:00,[User]_saw-jan,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11566
+2024-03-28 17:33:51+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11567
+2024-04-02 12:36:11+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11568
+2024-04-02 14:46:44+00:00,[User]_TheOneRing,{'[User]_saw-jan'},owncloud/client,2024,https://github.com/owncloud/client/issues/11569
+2024-04-02 14:58:09+00:00,[User]_TheOneRing,"{'[User]_erikjv', '[User]_tbsbdr'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11570
+2024-04-04 11:20:44+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11571
+2024-04-04 13:23:34+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11572
+2024-04-04 14:40:24+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11573
+2024-04-05 10:24:32+00:00,[User]_saw-jan,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11574
+2024-04-05 12:02:27+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11575
+2024-04-05 14:55:45+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11576
+2024-04-08 12:57:23+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11577
+2024-04-08 13:58:46+00:00,[User]_tschiebel,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11579
+2024-04-08 14:41:10+00:00,[User]_tschiebel,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11580
+2024-04-08 15:01:30+00:00,[User]_tschiebel,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11582
+2024-04-09 06:27:37+00:00,[User]_tschiebel,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11583
+2024-04-09 06:32:40+00:00,[User]_tschiebel,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11584
+2024-04-09 06:38:43+00:00,[User]_tschiebel,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11585
+2024-04-09 06:49:21+00:00,[User]_tschiebel,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11586
+2024-04-09 06:55:20+00:00,[User]_tschiebel,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11587
+2024-04-09 06:59:30+00:00,[User]_tschiebel,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11588
+2024-04-09 07:05:04+00:00,[User]_tschiebel,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11589
+2024-04-09 07:11:39+00:00,[User]_tschiebel,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11590
+2024-04-09 07:54:06+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11591
+2024-04-09 08:59:05+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/issues/11592
+2024-04-09 09:33:02+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/issues/11593
+2024-04-09 10:12:07+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11594
+2024-04-09 13:07:11+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11595
+2024-04-09 14:56:39+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11596
+2024-04-10 05:04:14+00:00,[User]_saw-jan,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11597
+2024-04-10 08:14:47+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11598
+2024-04-10 13:29:32+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11599
+2024-04-10 13:53:05+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11600
+2024-04-10 15:43:52+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11601
+2024-04-10 16:01:46+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11602
+2024-04-12 11:43:40+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11603
+2024-04-12 12:51:50+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11605
+2024-04-15 12:20:53+00:00,[User]_saw-jan,"{'[User]_TheOneRing', '[User]_saw-jan', '[User]_Salipa-Gurung'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11606
+2024-04-16 11:17:43+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11607
+2024-04-16 13:58:04+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11608
+2024-04-16 14:18:08+00:00,[User]_erikjv,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11609
+2024-04-17 13:10:41+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11610
+2024-04-17 14:20:57+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11611
+2024-04-17 14:56:46+00:00,[User]_TheOneRing,{'[User]_erikjv'},owncloud/client,2024,https://github.com/owncloud/client/pull/11612
+2024-04-21 08:06:44+00:00,[User]_haimiko,"{'[User]_haimiko', '[User]_klaasdc', '[User]_TheOneRing', '[User]_nicobsa', '[User]_apach3guy'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11613
+2024-04-23 13:15:37+00:00,[User]_erikjv,"{'[User]_TheOneRing', '[User]_erikjv'}",owncloud/client,2024,https://github.com/owncloud/client/pull/11614
+2024-04-24 11:53:22+00:00,[User]_TheOneRing,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11615
+2024-04-25 16:56:07+00:00,[User]_erikjv,set(),owncloud/client,2024,https://github.com/owncloud/client/pull/11617
+2024-04-28 14:20:33+00:00,[User]_Step72,"{'[User]_TheOneRing', '[User]_Step72'}",owncloud/client,2024,https://github.com/owncloud/client/issues/11618
+2024-04-30 07:39:21+00:00,[User]_saw-jan,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11619
+2024-04-30 15:55:21+00:00,[User]_CoWayger,{'[User]_TheOneRing'},owncloud/client,2024,https://github.com/owncloud/client/issues/11620
+2024-04-30 22:33:53+00:00,[User]_beuker81,set(),owncloud/client,2024,https://github.com/owncloud/client/issues/11621

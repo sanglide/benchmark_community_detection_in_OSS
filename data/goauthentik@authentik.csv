@@ -1,0 +1,617 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 01:19:30+00:00,[User]_kapsikkum,{'[User]_Svenum'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5429
+2023-05-01 11:05:51+00:00,[User]_5048721542,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5438
+2023-05-01 14:12:27+00:00,[User]_julianq,"{'[User]_BeryJu', '[User]_kapsikkum', '[User]_rmundel', '[User]_julianq'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5439
+2023-05-01 16:52:55+00:00,[User]_fuomag9,"{'[User]_septatrix', '[User]_billyprice1', '[User]_nab-os', '[User]_BeryJu', '[User]_rissson', '[User]_ajtatum', '[User]_zmilonas'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5440
+2023-05-02 17:33:31+00:00,[User]_BeryJu,"{'[User]_BeryJu', '[User]_joachimtingvold'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5451
+2023-05-03 00:20:55+00:00,[User]_yananet,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5453
+2023-05-03 20:46:13+00:00,[User]_RyanSquared,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5471
+2023-05-04 08:34:31+00:00,[User]_Abhi123afk,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5476
+2023-05-04 11:02:19+00:00,[User]_samip5,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5477
+2023-05-04 11:06:33+00:00,[User]_ymage,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5478
+2023-05-04 11:06:33+00:00,[User]_samip5,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5479
+2023-05-04 15:03:06+00:00,[User]_rissson,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/5481
+2023-05-05 12:32:44+00:00,[User]_BeryJu,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/5492
+2023-05-05 16:59:04+00:00,[User]_liquidfrollo,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5495
+2023-05-05 18:16:03+00:00,[User]_gabemcg,{'[User]_gabemcg'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5496
+2023-05-07 15:45:10+00:00,[User]_Tauebenuss,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5507
+2023-05-08 13:53:16+00:00,[User]_Keyinator,{'[User]_Keyinator'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5529
+2023-05-08 17:54:13+00:00,[User]_gcarrarom,"{'[User]_gcarrarom', '[User]_PKizzle', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5531
+2023-05-08 18:51:11+00:00,[User]_shuhari00,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5537
+2023-05-08 21:05:05+00:00,[User]_BeryJu,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/5540
+2023-05-09 00:47:13+00:00,[User]_obrienmd,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5541
+2023-05-09 10:24:59+00:00,[User]_victorzimmer,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5552
+2023-05-10 17:27:42+00:00,[User]_obrienmd,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5567
+2023-05-11 12:20:26+00:00,[User]_tograss,"{'[User]_tograss', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5584
+2023-05-12 03:11:13+00:00,[User]_Chifilly,"{'[User]_gtronset', '[User]_rzumbado', '[User]_Chifilly', '[User]_tanpro260196', '[User]_scolastico'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5590
+2023-05-12 05:13:19+00:00,[User]_Mafyuh,{'[User]_hr87'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5593
+2023-05-12 12:38:50+00:00,[User]_BeryJu,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/5595
+2023-05-13 20:27:33+00:00,[User]_swishkin,"{'[User]_jonade', '[User]_swishkin', '[User]_tograss'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5599
+2023-05-15 11:50:08+00:00,[User]_BeryJu,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/5611
+2023-05-15 16:12:24+00:00,[User]_jdavis998,"{'[User]_jdogcoder', '[User]_jdavis998', '[User]_brunoelgrande', '[User]_DimitarMicevski1', '[User]_danktankk'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5613
+2023-05-16 08:01:30+00:00,[User]_tograss,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5629
+2023-05-16 15:03:37+00:00,[User]_Bojan023,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/5634
+2023-05-16 20:22:42+00:00,[User]_justSem,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5640
+2023-05-17 02:47:25+00:00,[User]_ddavtian,"{'[User]_Catospye', '[User]_ddavtian', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5644
+2023-05-17 05:32:52+00:00,[User]_Changer90,{'[User]_Changer90'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5649
+2023-05-17 06:42:18+00:00,[User]_bestrocker221,"{'[User]_mam', '[User]_Changer90', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5650
+2023-05-18 06:22:44+00:00,[User]_christophdb,"{'[User]_OliverPifferi', '[User]_christophdb', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5672
+2023-05-18 10:29:18+00:00,[User]_motey,"{'[User]_macmoritz', '[User]_motey', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5673
+2023-05-18 14:20:27+00:00,[User]_BeryJu,"{'[User]_DreamingRaven', '[User]_danielloader', '[User]_genofire', '[User]_MacroPower'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5675
+2023-05-19 15:50:56+00:00,[User]_Zelpher,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5698
+2023-05-19 22:27:27+00:00,[User]_CyborTronik,"{'[User]_CyborTronik', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5700
+2023-05-21 13:13:52+00:00,[User]_OliverPifferi,{'[User]_OliverPifferi'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5704
+2023-05-22 02:22:17+00:00,[User]_Keyinator,"{'[User]_iexos', '[User]_geudrik'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5711
+2023-05-22 17:49:57+00:00,[User]_luketainton,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5718
+2023-05-22 18:19:53+00:00,[User]_0xcd0e,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5722
+2023-05-23 05:25:35+00:00,[User]_mccullerlp,"{'[User]_uumas', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5725
+2023-05-23 06:06:49+00:00,[User]_larsl-net,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5726
+2023-05-24 03:52:58+00:00,[User]_Smallinger,"{'[User]_BeryJu', '[User]_ZerkerEOD', '[User]_Saeverix', '[User]_Smallinger'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5732
+2023-05-24 08:31:18+00:00,[User]_maleksal,"{'[User]_maleksal', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5740
+2023-05-25 09:27:24+00:00,[User]_mittler-works,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5752
+2023-05-25 15:38:28+00:00,[User]_bbaumgartl,"{'[User]_ostiwe', '[User]_bbaumgartl'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5754
+2023-05-25 16:25:52+00:00,[User]_tazboyz16,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5756
+2023-05-26 04:17:23+00:00,[User]_Ra72xx,{'[User]_Healzangels'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5762
+2023-05-26 09:05:19+00:00,[User]_mittler-works,"{'[User]_septatrix', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5764
+2023-05-26 23:47:03+00:00,[User]_ruifung,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5771
+2023-05-27 13:43:13+00:00,[User]_pinarruiz,"{'[User]_pinarruiz', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5773
+2023-05-27 22:12:02+00:00,[User]_pbvdven,"{'[User]_pbvdven', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5775
+2023-05-27 23:08:59+00:00,[User]_yodatak,{'[User]_yodatak'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5776
+2023-05-29 08:35:46+00:00,[User]_buzzard10,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5795
+2023-05-29 09:36:44+00:00,[User]_joggs,{'[User]_joggs'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5796
+2023-05-29 12:17:28+00:00,[User]_BeryJu,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/5798
+2023-05-29 13:01:14+00:00,[User]_buzzard10,"{'[User]_pinarruiz', '[User]_buzzard10'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5799
+2023-05-30 08:53:39+00:00,[User]_devSparkle,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5810
+2023-05-30 18:30:49+00:00,[User]_larsl-net,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5813
+2023-05-31 04:45:17+00:00,[User]_sagungargs15,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5815
+2023-05-31 09:17:35+00:00,[User]_tograss,"{'[User]_sdimovv', '[User]_tograss'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5820
+2023-06-01 21:39:45+00:00,[User]_pbvdven,"{'[User]_pbvdven', '[User]_larsl-net'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5827
+2023-06-04 03:39:09+00:00,[User]_FirbyKirby,{'[User]_FirbyKirby'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5845
+2023-06-04 07:12:53+00:00,[User]_buzzard10,"{'[User]_obsidiangroup', '[User]_buzzard10'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5847
+2023-06-04 10:07:30+00:00,[User]_benedikt-bartscher,"{'[User]_tetofonta', '[User]_benedikt-bartscher'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5848
+2023-06-05 14:54:49+00:00,[User]_mivalsten,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5859
+2023-06-05 18:30:08+00:00,[User]_FirbyKirby,"{'[User]_mittler-works', '[User]_manuviens', '[User]_FirbyKirby', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5863
+2023-06-06 12:58:31+00:00,[User]_smusali,{'[User]_SimardeepSingh-zsh'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/5878
+2023-06-06 21:20:51+00:00,[User]_GeorgeGedox,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5879
+2023-06-07 02:22:57+00:00,[User]_ruifung,"{'[User]_ruifung', '[User]_Aljutor', '[User]_ekrekeler'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5881
+2023-06-07 15:19:27+00:00,[User]_buzzard10,{'[User]_buzzard10'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5887
+2023-06-07 17:38:07+00:00,[User]_hawke114,{'[User]_sirux88'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5889
+2023-06-08 11:08:57+00:00,[User]_BeryJu,{'[User]_vherrlein'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5904
+2023-06-09 13:21:22+00:00,[User]_Harnish,"{'[User]_Harnish', '[User]_PrinceBaghel258025'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5916
+2023-06-09 17:53:38+00:00,[User]_bloodyburger,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5919
+2023-06-09 19:31:56+00:00,[User]_ReaHe,"{'[User]_septatrix', '[User]_strazto', '[User]_ReaHe', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5920
+2023-06-10 17:34:53+00:00,[User]_bloodyburger,"{'[User]_rqi14', '[User]_joshuakraitberg', '[User]_Ard3ny', '[User]_bloodyburger', '[User]_vherrlein'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5923
+2023-06-11 17:36:15+00:00,[User]_ftc2,{'[User]_theAlevan'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5924
+2023-06-11 18:02:15+00:00,[User]_benedikt-bartscher,"{'[User]_Rami-Pastrami', '[User]_q20'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5925
+2023-06-13 18:06:56+00:00,[User]_macmoritz,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5947
+2023-06-15 08:20:19+00:00,[User]_tograss,{'[User]_rucciva'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5971
+2023-06-17 18:21:02+00:00,[User]_sskokorin,"{'[User]_sskokorin', '[User]_kidhab'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5986
+2023-06-18 11:52:06+00:00,[User]_rknightion,{'[User]_rknightion'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5987
+2023-06-18 12:37:25+00:00,[User]_balucio,{'[User]_balucio'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5988
+2023-06-19 01:01:41+00:00,[User]_rissson,"{'[User]_rqi14', '[User]_rissson', '[User]_Mareo'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5990
+2023-06-19 02:59:55+00:00,[User]_rucciva,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/5991
+2023-06-20 14:43:59+00:00,[User]_DonSudak,"{'[User]_strazto', '[User]_DonSudak'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6019
+2023-06-23 07:20:04+00:00,[User]_medir,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6052
+2023-06-23 17:01:14+00:00,[User]_seandonohoo,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6055
+2023-06-26 06:17:15+00:00,[User]_shmanubhav,"{'[User]_shmanubhav', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6061
+2023-06-26 11:08:45+00:00,[User]_justSem,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6063
+2023-06-26 12:47:46+00:00,[User]_BeryJu,{'[User]_zppinho'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6064
+2023-06-26 13:33:39+00:00,[User]_sloanja,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6065
+2023-06-26 14:10:35+00:00,[User]_Divinii,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6066
+2023-06-27 15:45:12+00:00,[User]_benedikt-bartscher,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6078
+2023-06-28 09:01:45+00:00,[User]_CygnusHyoga,{'[User]_nikdoof'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6091
+2023-06-28 09:40:31+00:00,[User]_arthurgeek,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6092
+2023-06-28 12:16:33+00:00,[User]_SilvandroOliveira,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6093
+2023-06-28 19:39:20+00:00,[User]_tograss,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6097
+2023-06-29 18:08:53+00:00,[User]_uumas,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6104
+2023-06-29 20:44:28+00:00,[User]_uumas,"{'[User]_uumas', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6106
+2023-07-01 14:08:46+00:00,[User]_bpsanto,{'[User]_bpsanto'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6113
+2023-07-01 16:29:42+00:00,[User]_bpsanto,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6114
+2023-07-01 20:34:49+00:00,[User]_bpsanto,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6115
+2023-07-02 04:29:10+00:00,[User]_Droidem,{'[User]_septatrix'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6117
+2023-07-03 02:56:41+00:00,[User]_thestarrypage,{'[User]_sloanja'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6118
+2023-07-03 05:20:12+00:00,[User]_shanelord01,"{'[User]_abeggled', '[User]_StewRed', '[User]_shanelord01', '[User]_SpitFireRSA'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6120
+2023-07-03 15:21:17+00:00,[User]_septatrix,"{'[User]_septatrix', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6122
+2023-07-04 12:26:19+00:00,[User]_BeryJu,{'[User]_Nick-085'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6138
+2023-07-04 14:17:53+00:00,[User]_MaximeWewer,{'[User]_MaximeWewer'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6140
+2023-07-05 18:17:49+00:00,[User]_uumas,"{'[User]_uumas', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6149
+2023-07-07 01:35:56+00:00,[User]_adamzvolanek,"{'[User]_haupas', '[User]_adamzvolanek', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6173
+2023-07-07 16:10:00+00:00,[User]_BeryJu,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6182
+2023-07-07 16:19:50+00:00,[User]_taufik-rama,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6183
+2023-07-07 17:05:47+00:00,[User]_BeryJu,"{'[User]_los93sol', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6184
+2023-07-07 21:18:10+00:00,[User]_BeryJu,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6186
+2023-07-07 23:55:20+00:00,[User]_nikdoof,{'[User]_RealStickman'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6190
+2023-07-08 03:49:21+00:00,[User]_Spencer-0003,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6192
+2023-07-08 19:59:29+00:00,[User]_devSparkle,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6194
+2023-07-09 03:40:24+00:00,[User]_pbvdven,"{'[User]_grepler', '[User]_Svenum', '[User]_BeryJu', '[User]_agent-squirrel', '[User]_Chifilly', '[User]_MegaShinySnivy'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6195
+2023-07-09 06:03:23+00:00,[User]_shmanubhav,"{'[User]_MegaShinySnivy', '[User]_wwebb', '[User]_shmanubhav', '[User]_masterwishx'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6196
+2023-07-10 07:38:00+00:00,[User]_horego,"{'[User]_horego', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6201
+2023-07-10 12:08:02+00:00,[User]_tograss,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6206
+2023-07-10 12:13:54+00:00,[User]_tograss,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6207
+2023-07-11 12:54:51+00:00,[User]_vschwaberow,"{'[User]_shmanubhav', '[User]_df503', '[User]_badsmoke', '[User]_vschwaberow', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6216
+2023-07-11 15:28:47+00:00,[User]_AirP0WeR,"{'[User]_nikdoof', '[User]_pbvdven', '[User]_karelkryda', '[User]_rinseaid'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6217
+2023-07-11 21:08:04+00:00,[User]_Svenum,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6223
+2023-07-12 00:06:18+00:00,[User]_lanrat,{'[User]_nathanclayton'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6224
+2023-07-12 03:30:07+00:00,[User]_Cafun,{'[User]_Cafun'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6225
+2023-07-12 16:06:18+00:00,[User]_Cyberunner23,{'[User]_Cyberunner23'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6229
+2023-07-13 08:01:25+00:00,[User]_Figabra,"{'[User]_nikdoof', '[User]_Figabra', '[User]_rqi14', '[User]_thewillwilson', '[User]_andrewgdunn'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6243
+2023-07-15 04:49:54+00:00,[User]_doskel,"{'[User]_sammcj', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6259
+2023-07-18 09:59:21+00:00,[User]_pbvdven,{'[User]_isdnfan'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6281
+2023-07-18 14:16:06+00:00,[User]_Cyberunner23,"{'[User]_pbvdven', '[User]_Cyberunner23', '[User]_rissson'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6291
+2023-07-18 20:49:03+00:00,[User]_BeryJu,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6293
+2023-07-18 20:50:24+00:00,[User]_BeryJu,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6294
+2023-07-20 16:13:28+00:00,[User]_ne0YT,{'[User]_ne0YT'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6317
+2023-07-22 22:25:51+00:00,[User]_antt1995,{'[User]_antt1995'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6335
+2023-07-23 04:37:44+00:00,[User]_Xuroth,"{'[User]_Keyinator', '[User]_Xuroth', '[User]_n1ght-hunter', '[User]_modem7'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6337
+2023-07-23 23:24:57+00:00,[User]_obsidiangroup,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6339
+2023-07-24 20:17:15+00:00,[User]_tanberry,{'[User]_tanberry'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6357
+2023-07-24 20:55:07+00:00,[User]_Surgical17,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6358
+2023-07-24 21:48:09+00:00,[User]_kensternberg-authentik,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/6360
+2023-07-25 01:33:54+00:00,[User]_mclarence,"{'[User]_mclarence', '[User]_BirkhoffLee'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6361
+2023-07-25 06:57:34+00:00,[User]_timoschwarzer,"{'[User]_BeryJu', '[User]_timoschwarzer', '[User]_ne0YT'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6373
+2023-07-26 09:54:34+00:00,[User]_rwjack,"{'[User]_x140x1n', '[User]_joriskt', '[User]_rwjack'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6385
+2023-07-26 13:28:48+00:00,[User]_joriskt,"{'[User]_GeekPro101', '[User]_Cubea01'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6388
+2023-07-26 20:58:19+00:00,[User]_mattzell,"{'[User]_mattzell', '[User]_benedikt-bartscher', '[User]_mist0706'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6389
+2023-07-27 15:16:12+00:00,[User]_BeryJu,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6403
+2023-07-28 08:11:53+00:00,[User]_headstack,"{'[User]_terion-name', '[User]_phauch'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6408
+2023-07-28 15:59:11+00:00,[User]_NomAnor,"{'[User]_nielscil', '[User]_rqi14'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6413
+2023-07-29 08:47:35+00:00,[User]_joriskt,{'[User]_joriskt'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6419
+2023-07-29 16:43:21+00:00,[User]_tanberry,{'[User]_sevmonster'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6422
+2023-08-03 08:21:10+00:00,[User]_rucciva,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6464
+2023-08-03 11:47:13+00:00,[User]_TehMuffinMoo,"{'[User]_TehMuffinMoo', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6467
+2023-08-03 18:20:23+00:00,[User]_OliverPifferi,"{'[User]_OliverPifferi', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6469
+2023-08-04 21:19:35+00:00,[User]_lanrat,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6477
+2023-08-07 15:10:47+00:00,[User]_orzFly,{'[User]_orzFly'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6496
+2023-08-07 17:30:34+00:00,[User]_kekalainen,"{'[User]_kekalainen', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6497
+2023-08-08 08:59:47+00:00,[User]_tograss,"{'[User]_medir', '[User]_MaximeWewer', '[User]_tograss'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6506
+2023-08-11 08:46:40+00:00,[User]_wesystems,{'[User]_daniele-athome'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6526
+2023-08-19 05:15:08+00:00,[User]_tio-plato,{'[User]_tio-plato'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6576
+2023-08-20 10:47:21+00:00,[User]_Raven-L,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6577
+2023-08-21 09:37:22+00:00,[User]_chokhadavikas,{'[User]_gap579137'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6586
+2023-08-22 12:54:43+00:00,[User]_boesr,{'[User]_boesr'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6595
+2023-08-23 18:04:30+00:00,[User]_MariaMerkel,{'[User]_MariaMerkel'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6610
+2023-08-24 14:10:24+00:00,[User]_PentaPaetzold,"{'[User]_PentaPaetzold', '[User]_MasterKryszn', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6617
+2023-08-25 08:19:27+00:00,[User]_szabogyula,"{'[User]_not7cd', '[User]_ChenWenBrian', '[User]_laopaoer-wallet', '[User]_szabogyula'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6622
+2023-08-26 13:12:36+00:00,[User]_anon243,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6633
+2023-08-27 18:08:51+00:00,[User]_ekrekeler,{'[User]_ekrekeler'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6642
+2023-08-29 19:00:27+00:00,[User]_poelzi,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6667
+2023-08-29 21:24:53+00:00,[User]_segro21,"{'[User]_esackbauer', '[User]_segro21', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6673
+2023-08-29 22:37:17+00:00,[User]_mharveyDC,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6679
+2023-08-30 10:02:02+00:00,[User]_Lrns123,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6688
+2023-08-30 12:05:59+00:00,[User]_timoschwarzer,{'[User]_timoschwarzer'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6691
+2023-08-30 12:23:12+00:00,[User]_Hitman247m,"{'[User]_Aterfax', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6692
+2023-08-30 13:52:08+00:00,[User]_bbaumgartl,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6693
+2023-08-30 14:39:50+00:00,[User]_kurokawaikki,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6694
+2023-08-30 15:43:33+00:00,[User]_a-gerhard,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6697
+2023-08-30 16:03:06+00:00,[User]_a-gerhard,{'[User]_a-gerhard'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6698
+2023-08-30 23:02:57+00:00,[User]_sumpfralle,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6708
+2023-08-31 07:52:56+00:00,[User]_headstack,"{'[User]_headstack', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6712
+2023-08-31 14:55:05+00:00,[User]_digitalconstantin,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6718
+2023-08-31 19:26:56+00:00,[User]_tanberry,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6719
+2023-09-01 03:24:26+00:00,[User]_joachimtingvold,{'[User]_joachimtingvold'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6722
+2023-09-01 12:44:54+00:00,[User]_drpetersen,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6732
+2023-09-01 17:20:38+00:00,[User]_Goldenflamer,"{'[User]_Goldenflamer', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6735
+2023-09-02 09:27:03+00:00,[User]_drpetersen,"{'[User]_drpetersen', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6736
+2023-09-03 12:34:21+00:00,[User]_karelkryda,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6742
+2023-09-04 14:48:28+00:00,[User]_joachimtingvold,"{'[User]_BeryJu', '[User]_amitrea', '[User]_joachimtingvold'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6749
+2023-09-06 21:51:46+00:00,[User]_wrenix,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6779
+2023-09-07 00:36:29+00:00,[User]_Eyeanman,"{'[User]_elythh', '[User]_Eyeanman'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6782
+2023-09-07 07:57:15+00:00,[User]_headstack,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6792
+2023-09-07 08:28:42+00:00,[User]_bdomars,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6793
+2023-09-07 10:46:59+00:00,[User]_Aljutor,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6794
+2023-09-07 20:14:26+00:00,[User]_ajquick,"{'[User]_DuvelCorp', '[User]_ajquick', '[User]_DrZoidberg09'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6796
+2023-09-07 20:25:30+00:00,[User]_ArchGryphon9362,{'[User]_natoleet'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6798
+2023-09-08 06:16:49+00:00,[User]_sunilgsuthar,"{'[User]_sunilgsuthar', '[User]_CanonCan', '[User]_CryptoTr4der', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6804
+2023-09-08 13:46:09+00:00,[User]_gcarrarom,"{'[User]_gcarrarom', '[User]_strifel'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6807
+2023-09-08 14:26:55+00:00,[User]_a-gerhard,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6808
+2023-09-08 17:49:54+00:00,[User]_a-gerhard,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6810
+2023-09-08 17:54:59+00:00,[User]_a-gerhard,{'[User]_a-gerhard'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6811
+2023-09-08 21:29:06+00:00,[User]_Spark61,{'[User]_Spark61'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6813
+2023-09-10 12:43:16+00:00,[User]_MasterKryszn,{'[User]_MasterKryszn'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6819
+2023-09-10 14:05:28+00:00,[User]_corbosman,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6822
+2023-09-10 22:32:04+00:00,[User]_ethindp,{'[User]_ethindp'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6825
+2023-09-11 10:45:56+00:00,[User]_plsanchezfaure,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6836
+2023-09-11 13:24:33+00:00,[User]_a-gerhard,"{'[User]_a-gerhard', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6839
+2023-09-11 14:02:26+00:00,[User]_boesr,{'[User]_boesr'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6842
+2023-09-11 17:10:57+00:00,[User]_a-gerhard,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6844
+2023-09-11 22:04:39+00:00,[User]_kensternberg-authentik,"{'[User]_kensternberg-authentik', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/6856
+2023-09-12 16:38:13+00:00,[User]_macmoritz,"{'[User]_PKizzle', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6863
+2023-09-13 09:45:36+00:00,[User]_a-gerhard,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6876
+2023-09-13 14:08:21+00:00,[User]_jacen05,"{'[User]_jacen05', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6881
+2023-09-13 14:45:07+00:00,[User]_Kotva666,"{'[User]_NicholasKuchiniski', '[User]_Kotva666'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6882
+2023-09-13 21:34:40+00:00,[User]_tograss,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6889
+2023-09-14 13:06:00+00:00,[User]_boesr,"{'[User]_boesr', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6896
+2023-09-14 21:38:00+00:00,[User]_DerEnderKeks,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6900
+2023-09-14 22:54:20+00:00,[User]_DerEnderKeks,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6901
+2023-09-16 13:10:29+00:00,[User]_wrenix,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6916
+2023-09-16 20:49:20+00:00,[User]_madduck,{'[User]_madduck'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6917
+2023-09-18 13:57:44+00:00,[User]_boesr,"{'[User]_septatrix', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6929
+2023-09-18 20:31:15+00:00,[User]_chrisblech,"{'[User]_chrisblech', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6931
+2023-09-19 20:49:45+00:00,[User]_septatrix,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6937
+2023-09-20 01:27:39+00:00,[User]_rickyelopez,"{'[User]_rickyelopez', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6938
+2023-09-21 19:57:06+00:00,[User]_wrenix,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6950
+2023-09-23 20:14:33+00:00,[User]_RogerSik,{'[User]_RogerSik'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6961
+2023-09-26 06:08:28+00:00,[User]_Mrs-Feathers,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6986
+2023-09-26 08:31:38+00:00,[User]_belak,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/6987
+2023-09-27 06:35:31+00:00,[User]_cdmx1,"{'[User]_cdmx1', '[User]_roney492', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7001
+2023-09-28 15:13:17+00:00,[User]_BeryJu,{'[User]_smusali'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/7011
+2023-10-01 17:44:48+00:00,[User]_rqi14,{'[User]_rqi14'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7019
+2023-10-04 03:28:54+00:00,[User]_rqi14,{'[User]_chauyuen'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7058
+2023-10-05 09:26:43+00:00,[User]_pelicangris,"{'[User]_CoMPaTech', '[User]_psuet'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7071
+2023-10-05 13:43:57+00:00,[User]_NajiAboo,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7073
+2023-10-06 12:03:27+00:00,[User]_silicht,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7088
+2023-10-06 17:40:02+00:00,[User]_PKizzle,"{'[User]_JuanitaCathy', '[User]_PKizzle'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7096
+2023-10-09 14:09:18+00:00,[User]_doei135,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7115
+2023-10-10 03:19:23+00:00,[User]_pelaxa,{'[User]_cakriwut'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7123
+2023-10-12 10:44:49+00:00,[User]_boywiz,{'[User]_boywiz'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7152
+2023-10-15 19:35:25+00:00,[User]_Mailstorm-ctrl,{'[User]_Mailstorm-ctrl'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7174
+2023-10-18 09:36:41+00:00,[User]_foux,"{'[User]_foux', '[User]_PythonCoderAS', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7213
+2023-10-18 13:20:17+00:00,[User]_techn0pia,{'[User]_techn0pia'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7216
+2023-10-18 17:10:28+00:00,[User]_techn0pia,"{'[User]_techn0pia', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7219
+2023-10-18 18:13:21+00:00,[User]_Ruakij,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7222
+2023-10-20 07:03:49+00:00,[User]_depuits,"{'[User]_fansari', '[User]_bdomars'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7242
+2023-10-21 12:11:27+00:00,[User]_mrdrogdrog,"{'[User]_NeZios', '[User]_WoodyWoodsta', '[User]_bbl232'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7251
+2023-10-21 12:13:25+00:00,[User]_OneAutumnSheath,{'[User]_OneAutumnSheath'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7252
+2023-10-22 15:25:32+00:00,[User]_xcsdm,"{'[User]_CallMeTerdFerguson', '[User]_jfreax', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7254
+2023-10-23 15:17:40+00:00,[User]_renatogoedert,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7261
+2023-10-23 19:04:18+00:00,[User]_samip5,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7262
+2023-10-24 08:33:39+00:00,[User]_fgionghi,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7276
+2023-10-26 18:10:15+00:00,[User]_Ziomal12,{'[User]_Ziomal12'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7317
+2023-10-26 18:42:38+00:00,[User]_dieseldan,"{'[User]_lightweight', '[User]_dieseldan', '[User]_Demigodrick', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7319
+2023-10-26 19:24:55+00:00,[User]_igor47,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7320
+2023-10-26 19:46:32+00:00,[User]_igor47,"{'[User]_BeryJu', '[User]_igor47', '[User]_mwx23', '[User]_smoebody'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7322
+2023-10-26 21:25:23+00:00,[User]_klutchrider,"{'[User]_DKingAlpha', '[User]_dweee', '[User]_raldnor', '[User]_los93sol', '[User]_natoleet', '[User]_Leptopoda', '[User]_BeryJu', '[User]_keesfluitman', '[User]_klutchrider'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7326
+2023-10-26 21:33:22+00:00,[User]_mharveyDC,{'[User]_mharveyDC'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7327
+2023-10-27 01:54:12+00:00,[User]_obsidiangroup,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7332
+2023-10-27 08:50:20+00:00,[User]_rqi14,{'[User]_rqi14'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7337
+2023-10-27 09:04:05+00:00,[User]_Leptopoda,"{'[User]_Elevate08', '[User]_los93sol', '[User]_Leptopoda', '[User]_BeryJu', '[User]_keesfluitman'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7338
+2023-10-27 10:26:23+00:00,[User]_rqi14,"{'[User]_vaibhav-kulkarni', '[User]_rqi14', '[User]_ghothan87', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7339
+2023-10-27 11:36:16+00:00,[User]_Dual-0,"{'[User]_aceat64', '[User]_lexxxel', '[User]_raldnor', '[User]_cbc02009', '[User]_nismanoku', '[User]_BeryJu', '[User]_justSem', '[User]_yaakovfeldman', '[User]_Kaaybi'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7342
+2023-10-27 11:48:46+00:00,[User]_Ksdmg,"{'[User]_Ksdmg', '[User]_nz2o', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7343
+2023-10-27 12:12:22+00:00,[User]_jcollas,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7346
+2023-10-27 12:17:44+00:00,[User]_mittler-works,"{'[User]_mittler-works', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7347
+2023-10-27 17:34:30+00:00,[User]_mmierke,{'[User]_igor47'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7352
+2023-10-28 01:41:48+00:00,[User]_xxxarmitagexx,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7357
+2023-10-29 10:29:47+00:00,[User]_johanneszelger,"{'[User]_johanneszelger', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7371
+2023-10-29 17:23:55+00:00,[User]_ayushin,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7373
+2023-10-30 00:09:13+00:00,[User]_aheath70,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7375
+2023-10-30 02:38:16+00:00,[User]_djarbz,"{'[User]_stiivo', '[User]_djarbz', '[User]_einst6'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7376
+2023-10-30 03:23:08+00:00,[User]_awr,{'[User]_awr'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7377
+2023-10-30 12:54:06+00:00,[User]_lameslime,"{'[User]_lameslime', '[User]_hkjarral', '[User]_BeryJu', '[User]_wazoo', '[User]_vb4life', '[User]_nusol-sc'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7383
+2023-10-31 10:35:07+00:00,[User]_loikki,"{'[User]_loikki', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7391
+2023-11-01 11:08:05+00:00,[User]_oopen,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7405
+2023-11-02 01:42:25+00:00,[User]_djarbz,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7409
+2023-11-02 22:56:38+00:00,[User]_ggondim,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7418
+2023-11-03 14:52:26+00:00,[User]_DesertCookie,"{'[User]_zookatron', '[User]_DesertCookie', '[User]_tolecnal', '[User]_thetonk'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7431
+2023-11-05 16:10:23+00:00,[User]_v411e,{'[User]_v411e'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7437
+2023-11-05 17:10:09+00:00,[User]_rulim34,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7438
+2023-11-05 22:33:50+00:00,[User]_mharveyDC,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7439
+2023-11-06 18:59:45+00:00,[User]_mikevdberge,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7460
+2023-11-07 00:07:47+00:00,[User]_aheath70,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7463
+2023-11-07 01:28:51+00:00,[User]_dalso0418,{'[User]_dalso0418'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7466
+2023-11-07 09:41:07+00:00,[User]_davidolrik,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7476
+2023-11-07 20:50:43+00:00,[User]_Girgitt,{'[User]_Girgitt'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7481
+2023-11-08 11:17:00+00:00,[User]_maurxce,"{'[User]_maurxce', '[User]_ctuIhu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7489
+2023-11-11 05:34:38+00:00,[User]_Nopey,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7522
+2023-11-12 04:13:43+00:00,[User]_dkowis,"{'[User]_LincolnBryant', '[User]_Ra72xx'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7524
+2023-11-12 13:36:06+00:00,[User]_aheath70,"{'[User]_rissson', '[User]_aheath70', '[User]_admecoach'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7526
+2023-11-13 15:35:57+00:00,[User]_samip5,"{'[User]_samip5', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7547
+2023-11-14 06:50:39+00:00,[User]_thephilippbusch,"{'[User]_thephilippbusch', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7559
+2023-11-15 00:05:34+00:00,[User]_willsnake,{'[User]_oswaldocostaneto'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7569
+2023-11-15 03:43:01+00:00,[User]_PasserDreamer,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7570
+2023-11-15 06:33:56+00:00,[User]_aheath70,"{'[User]_aheath70', '[User]_darsh12'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7576
+2023-11-16 09:29:38+00:00,[User]_mittler-works,{'[User]_tongkl1'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7595
+2023-11-16 14:35:47+00:00,[User]_tedstriker,"{'[User]_BeryJu', '[User]_Gamechiefx'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7598
+2023-11-16 20:14:38+00:00,[User]_Sulframus,{'[User]_Sulframus'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7599
+2023-11-18 16:54:10+00:00,[User]_kawanjaberi,"{'[User]_kawanjaberi', '[User]_anroots', '[User]_MrUsefull', '[User]_cowboyxup'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7616
+2023-11-19 12:39:26+00:00,[User]_ggianfran,"{'[User]_janosmiko', '[User]_ggianfran', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7624
+2023-11-21 11:26:50+00:00,[User]_tograss,{'[User]_BeryJu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7659
+2023-11-21 21:00:05+00:00,[User]_mharveyDC,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7675
+2023-11-22 15:32:13+00:00,[User]_jflattery,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7691
+2023-11-23 13:00:56+00:00,[User]_pingiun,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7697
+2023-11-24 11:35:17+00:00,[User]_samip5,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7703
+2023-11-25 11:32:49+00:00,[User]_cyclingwithelephants,"{'[User]_jdmarble', '[User]_cyclingwithelephants'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7707
+2023-11-27 08:51:43+00:00,[User]_mikevdberge,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7711
+2023-11-27 10:59:19+00:00,[User]_joachimtingvold,{'[User]_bdallen'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7712
+2023-11-27 14:26:43+00:00,[User]_maxaudron,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7713
+2023-11-27 16:31:52+00:00,[User]_tedstriker,"{'[User]_tedstriker', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7714
+2023-11-27 22:56:00+00:00,[User]_PDXUser,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7716
+2023-11-28 14:58:28+00:00,[User]_Janhouse,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7727
+2023-11-29 23:04:43+00:00,[User]_dantest21,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7738
+2023-11-30 13:56:11+00:00,[User]_l4rm4nd,"{'[User]_Cubea01', '[User]_fabioteixei', '[User]_BeryJu', '[User]_CyB0rgg', '[User]_cdmx1', '[User]_roney492'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7744
+2023-12-01 13:03:31+00:00,[User]_tanberry,{'[User]_rissson'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/7753
+2023-12-01 20:52:29+00:00,[User]_ayakael,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7757
+2023-12-03 07:44:39+00:00,[User]_chris2fr,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7760
+2023-12-04 21:02:55+00:00,[User]_12nick12,{'[User]_12nick12'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7780
+2023-12-04 21:32:32+00:00,[User]_kensternberg-authentik,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/pull/7781
+2023-12-05 00:37:49+00:00,[User]_asifbacchus,{'[User]_asifbacchus'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7782
+2023-12-05 15:30:14+00:00,[User]_septatrix,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7790
+2023-12-05 15:34:19+00:00,[User]_eiclu,{'[User]_eiclu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7791
+2023-12-06 15:22:14+00:00,[User]_Wouter0100,{'[User]_Wouter0100'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7801
+2023-12-06 16:52:18+00:00,[User]_ReaHe,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7802
+2023-12-09 16:25:54+00:00,[User]_MarcelCoding,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7836
+2023-12-09 17:33:35+00:00,[User]_cometbeetle,{'[User]_cometbeetle'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7837
+2023-12-13 01:43:01+00:00,[User]_mharveyDC,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7864
+2023-12-13 15:41:37+00:00,[User]_elg0ch0,{'[User]_Luccifer'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7871
+2023-12-13 19:20:54+00:00,[User]_typkrft,"{'[User]_typkrft', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7875
+2023-12-14 09:31:59+00:00,[User]_marekhotshot,{'[User]_marekhotshot'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7879
+2023-12-14 10:05:32+00:00,[User]_laopaoer-wallet,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7880
+2023-12-14 16:48:53+00:00,[User]_segro21,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7884
+2023-12-14 19:56:43+00:00,[User]_wedowhateverwewant,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7886
+2023-12-15 02:31:09+00:00,[User]_laopaoer-wallet,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7887
+2023-12-15 07:12:37+00:00,[User]_laopaoer-wallet,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7890
+2023-12-16 15:23:30+00:00,[User]_openbrian,{'[User]_openbrian'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7892
+2023-12-17 05:24:09+00:00,[User]_samip5,{'[User]_samip5'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7894
+2023-12-18 21:43:35+00:00,[User]_j007bond007,"{'[User]_TSJasonH', '[User]_j007bond007'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7907
+2023-12-18 22:33:32+00:00,[User]_jalder,{'[User]_eiclu'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7909
+2023-12-19 03:13:30+00:00,[User]_laopaoer-wallet,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7911
+2023-12-19 06:14:42+00:00,[User]_laopaoer-wallet,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7918
+2023-12-19 10:22:20+00:00,[User]_BeryJu,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7920
+2023-12-19 15:35:38+00:00,[User]_WERTBON1789,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7927
+2023-12-19 21:38:24+00:00,[User]_alametti,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7940
+2023-12-21 11:01:57+00:00,[User]_vherrlein,{'[User]_vherrlein'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7961
+2023-12-22 10:34:16+00:00,[User]_jt721,"{'[User]_CyB0rgg', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7972
+2023-12-22 13:09:00+00:00,[User]_mwx23,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7973
+2023-12-22 15:15:03+00:00,[User]_EHRETic,"{'[User]_PythonCoderAS', '[User]_EHRETic'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7974
+2023-12-23 15:52:26+00:00,[User]_ytoaa,{'[User]_ytoaa'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7981
+2023-12-24 14:09:45+00:00,[User]_MahmoudBehery,{'[User]_SpitFireRSA'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7985
+2023-12-25 09:29:09+00:00,[User]_sgofferj,"{'[User]_sgofferj', '[User]_im4everok'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7988
+2023-12-25 17:54:13+00:00,[User]_jamesngob,"{'[User]_jamesngob', '[User]_xNinjaKittyx'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7990
+2023-12-26 01:38:04+00:00,[User]_modem7,"{'[User]_rissson', '[User]_modem7'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7993
+2023-12-27 08:01:50+00:00,[User]_nicolas-semaphor,"{'[User]_nicolas-semaphor', '[User]_Janfred'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/7999
+2023-12-27 12:55:44+00:00,[User]_samip5,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/8001
+2023-12-28 01:23:54+00:00,[User]_typkrft,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/8005
+2023-12-29 23:34:59+00:00,[User]_metril,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/8016
+2023-12-30 01:05:28+00:00,[User]_thebootable,set(),goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/8017
+2023-12-30 08:32:22+00:00,[User]_itristenx,"{'[User]_itristenx', '[User]_BeryJu'}",goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/8018
+2023-12-30 11:05:33+00:00,[User]_ptibug,{'[User]_ptibug'},goauthentik/authentik,2023,https://github.com/goauthentik/authentik/issues/8019
+2024-01-01 16:48:40+00:00,[User]_Bojan023,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8036
+2024-01-01 16:49:30+00:00,[User]_Bojan023,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8037
+2024-01-02 14:45:22+00:00,[User]_HsunGong,{'[User]_HsunGong'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8045
+2024-01-03 03:48:02+00:00,[User]_whitephoenix117,"{'[User]_nbx3', '[User]_DeinAlbtraumTV', '[User]_whitephoenix117', '[User]_roney492'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8049
+2024-01-04 04:39:34+00:00,[User]_arpanghosh8453,"{'[User]_rissson', '[User]_arpanghosh8453'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8054
+2024-01-04 14:14:34+00:00,[User]_LSchieren,{'[User]_LSchieren'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8055
+2024-01-04 22:43:23+00:00,[User]_LucaGabi,{'[User]_LucaGabi'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8060
+2024-01-07 12:40:34+00:00,[User]_maikschneider,{'[User]_oytuntez'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8078
+2024-01-07 18:00:33+00:00,[User]_ton212,{'[User]_los93sol'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8080
+2024-01-08 14:22:09+00:00,[User]_cfoellmann,"{'[User]_radiantwave', '[User]_cfoellmann'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8089
+2024-01-08 21:56:48+00:00,[User]_thechubbypanda,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8091
+2024-01-09 12:18:55+00:00,[User]_im4everok,"{'[User]_im4everok', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8102
+2024-01-09 18:50:33+00:00,[User]_iTim314,"{'[User]_iTim314', '[User]_rissson', '[User]_XA21X'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8108
+2024-01-10 14:19:05+00:00,[User]_k8ieone,"{'[User]_k8ieone', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8123
+2024-01-11 00:19:22+00:00,[User]_bepstein111,"{'[User]_bepstein111', '[User]_falkheiland', '[User]_codeagencybe', '[User]_FanerYedermann', '[User]_balderekjk', '[User]_LM1LC3N7', '[User]_xaviergxf', '[User]_GoManaged', '[User]_NorkzYT', '[User]_Duoquote', '[User]_thinkhead'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8127
+2024-01-11 08:45:06+00:00,[User]_pgodzwa,"{'[User]_pgodzwa', '[User]_CyB0rgg', '[User]_tograss'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8131
+2024-01-12 04:45:54+00:00,[User]_ruifung,{'[User]_ruifung'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8137
+2024-01-12 17:14:52+00:00,[User]_im4everok,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8145
+2024-01-12 22:46:34+00:00,[User]_jamesngob,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8154
+2024-01-12 22:56:41+00:00,[User]_jamesngob,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8155
+2024-01-14 11:41:02+00:00,[User]_Wunderharke,{'[User]_Wunderharke'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8161
+2024-01-14 19:01:24+00:00,[User]_pbvdven,{'[User]_jamesngob'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8162
+2024-01-15 10:47:56+00:00,[User]_motey,"{'[User]_motey', '[User]_rissson', '[User]_PygBear'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8175
+2024-01-15 13:33:20+00:00,[User]_boesr,"{'[User]_boesr', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8176
+2024-01-15 18:54:01+00:00,[User]_Junto026,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8180
+2024-01-15 20:14:41+00:00,[User]_gitayam,{'[User]_gitayam'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8181
+2024-01-16 19:00:05+00:00,[User]_vanderpunk,"{'[User]_vanderpunk', '[User]_rqi14', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8196
+2024-01-17 08:57:02+00:00,[User]_sdayu,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8206
+2024-01-17 11:41:01+00:00,[User]_ektorasdj,{'[User]_GD-Dal'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8208
+2024-01-18 15:10:08+00:00,[User]_anburhce,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8223
+2024-01-19 19:51:09+00:00,[User]_septatrix,{'[User]_sammcj'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8239
+2024-01-20 19:40:31+00:00,[User]_daedric7,"{'[User]_penguintamer', '[User]_dsdole'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8243
+2024-01-22 17:54:57+00:00,[User]_Yaya48,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8257
+2024-01-22 20:41:30+00:00,[User]_septatrix,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8259
+2024-01-23 08:15:53+00:00,[User]_vodanet,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8265
+2024-01-23 10:39:12+00:00,[User]_JanKoppe,"{'[User]_lectrician1', '[User]_JanKoppe', '[User]_esimes', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8266
+2024-01-24 00:18:29+00:00,[User]_wurst44,{'[User]_wurst44'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8280
+2024-01-25 08:30:57+00:00,[User]_LeftoversTodayAppAdmin,"{'[User]_MaximalCats', '[User]_Atomique', '[User]_Leatherface75'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8306
+2024-01-25 12:01:21+00:00,[User]_v1k7g85,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8307
+2024-01-29 10:13:06+00:00,[User]_boesr,{'[User]_boesr'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8340
+2024-01-29 13:53:28+00:00,[User]_tograss,"{'[User]_leisefuxX', '[User]_ll-innovationRD', '[User]_tograss', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8342
+2024-01-30 12:18:13+00:00,[User]_ragulkumar7398,{'[User]_roney492'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8368
+2024-01-30 15:26:29+00:00,[User]_im4everok,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8369
+2024-01-30 16:44:14+00:00,[User]_alfredosilvestre-natixis,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8370
+2024-02-01 04:38:50+00:00,[User]_Foxy1a,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8382
+2024-02-01 10:15:06+00:00,[User]_boesr,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8389
+2024-02-02 16:03:50+00:00,[User]_anburhce,{'[User]_karienverster'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8396
+2024-02-04 14:57:38+00:00,[User]_MaxPelly,{'[User]_MaxPelly'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8401
+2024-02-05 01:26:22+00:00,[User]_kaylee-98,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8402
+2024-02-05 07:24:24+00:00,[User]_jamesngob,"{'[User]_septatrix', '[User]_kPKfQKhuz86', '[User]_PythonCoderAS', '[User]_mgrimace', '[User]_Max-housing-it', '[User]_barto95100', '[User]_rissson', '[User]_ForsakenRei', '[User]_jmilette'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8411
+2024-02-05 18:23:05+00:00,[User]_jamesngob,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8420
+2024-02-05 20:37:33+00:00,[User]_kCyborg,"{'[User]_otaconix', '[User]_kCyborg'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8421
+2024-02-06 09:48:06+00:00,[User]_KoMa1012,"{'[User]_wjbrf', '[User]_KoMa1012'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8431
+2024-02-06 14:36:57+00:00,[User]_HilkopterBob,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8432
+2024-02-09 08:07:52+00:00,[User]_andymarden,"{'[User]_andymarden', '[User]_rissson'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8465
+2024-02-11 22:33:01+00:00,[User]_BahaKhmeissi,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8473
+2024-02-12 21:41:21+00:00,[User]_DastardlyDino,"{'[User]_DastardlyDino', '[User]_rumexcrisp'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8489
+2024-02-13 14:44:51+00:00,[User]_rissson,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/pull/8499
+2024-02-13 15:56:02+00:00,[User]_jkolczasty,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8500
+2024-02-14 16:51:00+00:00,[User]_roney492,{'[User]_roney492'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8507
+2024-02-14 17:48:32+00:00,[User]_pxlfrk,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8509
+2024-02-15 16:33:37+00:00,[User]_rissson,"{'[User]_rissson', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/pull/8529
+2024-02-16 06:42:43+00:00,[User]_caspre24,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8547
+2024-02-16 08:11:11+00:00,[User]_quentinmit,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8548
+2024-02-17 16:34:33+00:00,[User]_DrZoidberg09,"{'[User]_DrZoidberg09', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8554
+2024-02-18 07:16:35+00:00,[User]_kaylee-98,{'[User]_MaximalCats'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8556
+2024-02-18 20:25:57+00:00,[User]_thcrt,{'[User]_thcrt'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8559
+2024-02-20 10:17:04+00:00,[User]_joshuaboniface,"{'[User]_joshuaboniface', '[User]_anthonylavado'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8592
+2024-02-20 10:38:23+00:00,[User]_v1k7g85,"{'[User]_medir', '[User]_v1k7g85', '[User]_lukasruckenstuhl', '[User]_LukaszC86', '[User]_cardboardpig'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8593
+2024-02-20 19:59:09+00:00,[User]_bioszombie,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8601
+2024-02-21 16:11:52+00:00,[User]_EmilZackrisson,"{'[User]_fuomag9', '[User]_strandundmeer', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8618
+2024-02-21 16:59:12+00:00,[User]_macmoritz,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8620
+2024-02-21 18:45:45+00:00,[User]_bioszombie,"{'[User]_teambvd', '[User]_bioszombie', '[User]_rlowevoiply'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8627
+2024-02-21 21:40:38+00:00,[User]_bigdaddy5414,"{'[User]_freender', '[User]_DavidFuchs', '[User]_BeryJu', '[User]_FML128', '[User]_SirBomble'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8631
+2024-02-21 21:48:39+00:00,[User]_KaoruKanon,{'[User]_KaoruKanon'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8632
+2024-02-22 04:17:12+00:00,[User]_b-,"{'[User]_BeryJu', '[User]_yeyeoke', '[User]_ServusNL', '[User]_bentschrader'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8636
+2024-02-22 04:59:14+00:00,[User]_mobiledude,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8638
+2024-02-22 05:50:28+00:00,[User]_Mase3206,{'[User]_Mase3206'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8639
+2024-02-22 05:58:33+00:00,[User]_Mase3206,"{'[User]_Mase3206', '[User]_NigelVanHattum'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8640
+2024-02-22 07:38:11+00:00,[User]_bilyboy785,"{'[User]_CanonCan', '[User]_mostdcoa', '[User]_siankatabg', '[User]_bilyboy785', '[User]_sammcj', '[User]_klutchrider', '[User]_patrick-GH'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8641
+2024-02-22 08:29:54+00:00,[User]_Max-housing-it,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8642
+2024-02-22 21:48:17+00:00,[User]_mlinares1998,"{'[User]_gabe565', '[User]_rissson', '[User]_mlinares1998'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8657
+2024-02-23 02:00:17+00:00,[User]_sdayu,"{'[User]_BramVandenbossche', '[User]_BeryJu', '[User]_bbaumgartl', '[User]_nima-karimi'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8660
+2024-02-23 07:40:31+00:00,[User]_lukasruckenstuhl,{'[User]_jejbq'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8666
+2024-02-23 11:28:33+00:00,[User]_dierkgrossfeld,"{'[User]_nicedevil007', '[User]_dierkgrossfeld'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8670
+2024-02-24 11:39:12+00:00,[User]_Ingener74,"{'[User]_alhazmy13', '[User]_Ingener74'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8673
+2024-02-24 19:53:12+00:00,[User]_indomitorum,"{'[User]_BeryJu', '[User]_dierkgrossfeld'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8676
+2024-02-25 11:41:06+00:00,[User]_vherrlein,"{'[User]_japtain-cack', '[User]_teambvd', '[User]_iRaven4522', '[User]_BeryJu', '[User]_vherrlein', '[User]_rlowevoiply'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8681
+2024-02-25 20:52:20+00:00,[User]_stavros-k,{'[User]_masterwishx'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8684
+2024-02-25 21:22:51+00:00,[User]_samholton,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8685
+2024-02-26 01:58:46+00:00,[User]_cometbeetle,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8686
+2024-02-27 10:56:44+00:00,[User]_almagnit,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8704
+2024-02-27 18:29:46+00:00,[User]_shadowfox1991,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8707
+2024-02-27 18:47:20+00:00,[User]_CookieGMVN,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8708
+2024-02-27 20:42:56+00:00,[User]_bioszombie,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8711
+2024-02-28 09:28:00+00:00,[User]_masterdot,"{'[User]_MaxPelly', '[User]_CookieGMVN', '[User]_teambvd', '[User]_rissson', '[User]_masterdot'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8721
+2024-02-28 19:27:26+00:00,[User]_masterdot,"{'[User]_macmoritz', '[User]_kensternberg-authentik'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8739
+2024-02-29 08:43:56+00:00,[User]_roney492,{'[User]_rissson'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8748
+2024-02-29 10:03:19+00:00,[User]_etu49026,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8749
+2024-02-29 15:29:33+00:00,[User]_Ramblurr,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8751
+2024-02-29 19:54:24+00:00,[User]_srnuk,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8757
+2024-02-29 22:53:55+00:00,[User]_Atomique,{'[User]_Atomique'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8758
+2024-03-01 01:38:43+00:00,[User]_patrick-GH,"{'[User]_rissson', '[User]_patrick-GH', '[User]_stefan-matic'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8760
+2024-03-01 02:03:20+00:00,[User]_qdrddr,"{'[User]_qdrddr', '[User]_rissson'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8761
+2024-03-01 05:13:44+00:00,[User]_jcrapuchettes,"{'[User]_CppBunny', '[User]_ZUCCzwp', '[User]_jcrapuchettes', '[User]_rissson'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8768
+2024-03-01 17:32:14+00:00,[User]_sanzoghenzo,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8777
+2024-03-04 17:22:40+00:00,[User]_BeryJu,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/pull/8794
+2024-03-04 22:03:00+00:00,[User]_marlowleon,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8798
+2024-03-06 03:34:10+00:00,[User]_sjkjs,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8816
+2024-03-06 10:50:02+00:00,[User]_TheCataliasTNT2k,{'[User]_TheCataliasTNT2k'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8821
+2024-03-07 10:08:58+00:00,[User]_sparkblaze,"{'[User]_sparkblaze', '[User]_medir', '[User]_BeryJu', '[User]_cardboardpig', '[User]_GiooiG'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8833
+2024-03-07 13:55:06+00:00,[User]_jejbq,{'[User]_jejbq'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8834
+2024-03-08 00:02:55+00:00,[User]_Huber1,"{'[User]_rissson', '[User]_beamrod', '[User]_Huber1', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8840
+2024-03-08 05:03:58+00:00,[User]_marlowleon,"{'[User]_GD-Dal', '[User]_marlowleon'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8849
+2024-03-09 10:43:29+00:00,[User]_RoboMagus,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8857
+2024-03-09 21:27:22+00:00,[User]_Mrs-Feathers,{'[User]_andymarden'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8860
+2024-03-09 23:35:24+00:00,[User]_TheDevMinerTV,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8861
+2024-03-09 23:36:23+00:00,[User]_Junto026,{'[User]_Junto026'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8862
+2024-03-10 02:04:50+00:00,[User]_crltc,"{'[User]_BeryJu', '[User]_rissson', '[User]_mmenajr', '[User]_Meowcat285', '[User]_crltc'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8863
+2024-03-11 00:21:27+00:00,[User]_mostdcoa,{'[User]_rissson'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8864
+2024-03-11 18:54:01+00:00,[User]_septatrix,"{'[User]_septatrix', '[User]_ifeulner', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8877
+2024-03-11 23:00:34+00:00,[User]_CL107,{'[User]_CL107'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8880
+2024-03-13 22:17:56+00:00,[User]_Jonathan34,"{'[User]_Jonathan34', '[User]_rissson', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8900
+2024-03-14 15:29:20+00:00,[User]_kensternberg-authentik,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/pull/8908
+2024-03-15 23:41:12+00:00,[User]_mimilamy200,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8931
+2024-03-16 01:23:35+00:00,[User]_Jdplays,"{'[User]_Jdplays', '[User]_mpeirone'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8932
+2024-03-16 15:39:48+00:00,[User]_tugdualenligne,{'[User]_eternity1984'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8934
+2024-03-17 06:42:08+00:00,[User]_dimmenhau,{'[User]_pathetiq'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8936
+2024-03-18 09:31:07+00:00,[User]_davidfrench0,{'[User]_heycarl'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8949
+2024-03-18 16:47:19+00:00,[User]_nbx3,"{'[User]_Zapfmeister', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8953
+2024-03-18 21:52:10+00:00,[User]_mpeirone,"{'[User]_camrossi', '[User]_fREAST', '[User]_P4R4DiSi4C', '[User]_mpeirone', '[User]_GGG-KILLER', '[User]_BeryJu', '[User]_MattZera', '[User]_anleg', '[User]_AryanOvalekar'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8956
+2024-03-19 00:28:46+00:00,[User]_obadaahmar,{'[User]_CrustyB'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8957
+2024-03-19 02:30:30+00:00,[User]_CryPt00n,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8958
+2024-03-19 11:33:09+00:00,[User]_tograss,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8964
+2024-03-20 03:10:14+00:00,[User]_dracon80,"{'[User]_dracon80', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8966
+2024-03-20 05:50:52+00:00,[User]_jrdwiz,"{'[User]_jrdwiz', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8973
+2024-03-20 14:24:45+00:00,[User]_sanzoghenzo,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8978
+2024-03-20 16:11:53+00:00,[User]_vertig0ne,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8979
+2024-03-21 09:30:15+00:00,[User]_PrzemekSkw,"{'[User]_rissson', '[User]_PrzemekSkw', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8990
+2024-03-22 09:28:47+00:00,[User]_tim-at-gith,{'[User]_tim-at-gith'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/8999
+2024-03-22 19:14:00+00:00,[User]_tim-at-gith,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9003
+2024-03-22 19:23:09+00:00,[User]_Spleenftw,{'[User]_Spleenftw'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9004
+2024-03-22 23:20:51+00:00,[User]_smileyface24,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9007
+2024-03-23 00:12:52+00:00,[User]_ednxzu,"{'[User]_mamichini', '[User]_los93sol', '[User]_ednxzu', '[User]_rissson'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9008
+2024-03-23 03:11:42+00:00,[User]_los93sol,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9009
+2024-03-23 17:35:25+00:00,[User]_devSparkle,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9010
+2024-03-23 17:50:54+00:00,[User]_los93sol,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9011
+2024-03-24 12:00:08+00:00,[User]_AR2000AR,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9012
+2024-03-24 12:23:57+00:00,[User]_szinn,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9013
+2024-03-24 21:52:22+00:00,[User]_TSJasonH,{'[User]_TSJasonH'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9015
+2024-03-25 09:51:19+00:00,[User]_vodanet,"{'[User]_tlsabara', '[User]_vodanet', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9019
+2024-03-25 19:37:41+00:00,[User]_maskalix,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9024
+2024-03-26 10:03:39+00:00,[User]_ThierryIT,"{'[User]_ThierryIT', '[User]_rissson'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9034
+2024-03-26 21:11:56+00:00,[User]_mharveyDC,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9038
+2024-03-26 21:37:07+00:00,[User]_mgasche,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9039
+2024-03-26 22:02:18+00:00,[User]_mgasche,"{'[User]_septatrix', '[User]_ChenWenBrian', '[User]_mgasche'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9040
+2024-03-27 10:10:17+00:00,[User]_MaximeWewer,"{'[User]_zuiderkwast', '[User]_dami-i', '[User]_jmaibaum'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9043
+2024-03-27 16:28:26+00:00,[User]_deadlysnek,"{'[User]_franciscomfcmaia', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9045
+2024-03-27 17:27:00+00:00,[User]_septatrix,"{'[User]_septatrix', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9046
+2024-03-27 21:53:48+00:00,[User]_xNinjaKittyx,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9050
+2024-03-27 22:57:33+00:00,[User]_bjornsnoen,"{'[User]_pratclot', '[User]_bjornsnoen', '[User]_Immovality', '[User]_thefeli73', '[User]_Nicoautoxp', '[User]_DavidFuchs', '[User]_BeryJu', '[User]_DenVilk', '[User]_clavery', '[User]_Krishnacore', '[User]_geiger-to', '[User]_max-critcrew'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9051
+2024-03-28 12:44:37+00:00,[User]_szinn,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9059
+2024-03-28 20:55:11+00:00,[User]_shotor,"{'[User]_dugite-code', '[User]_shotor', '[User]_SpiderD555'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9062
+2024-03-28 22:32:32+00:00,[User]_PrzemekSkw,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9063
+2024-03-29 23:29:18+00:00,[User]_ainp,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9078
+2024-03-30 08:51:29+00:00,[User]_guyguy333,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9079
+2024-03-31 19:42:40+00:00,[User]_Keyinator,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9084
+2024-04-01 03:14:07+00:00,[User]_AeonRemnant,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9086
+2024-04-01 19:34:29+00:00,[User]_sherif-fanous,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9092
+2024-04-01 21:28:18+00:00,[User]_kensternberg-authentik,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9093
+2024-04-02 03:28:08+00:00,[User]_Mase3206,{'[User]_Mase3206'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9097
+2024-04-02 16:16:57+00:00,[User]_konradmoesch,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9108
+2024-04-02 17:31:43+00:00,[User]_buzzandesarrollo,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9113
+2024-04-03 16:04:03+00:00,[User]_fullykubed,"{'[User]_fullykubed', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9118
+2024-04-03 21:37:56+00:00,[User]_fullykubed,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9121
+2024-04-03 22:24:42+00:00,[User]_fullykubed,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9123
+2024-04-04 13:57:56+00:00,[User]_ledahosn,{'[User]_PentaPaetzold'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9135
+2024-04-04 16:23:03+00:00,[User]_BeryJu,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9137
+2024-04-05 12:55:07+00:00,[User]_fullykubed,{'[User]_fullykubed'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9152
+2024-04-06 14:59:13+00:00,[User]_cadaniel,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9157
+2024-04-07 06:30:19+00:00,[User]_renpj,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9159
+2024-04-07 21:38:20+00:00,[User]_kukoarmas,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9160
+2024-04-07 22:03:44+00:00,[User]_kukoarmas,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9161
+2024-04-08 07:21:56+00:00,[User]_nicolas-semaphor,{'[User]_janhalen'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9172
+2024-04-08 10:32:05+00:00,[User]_jkolczasty,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9175
+2024-04-08 12:14:02+00:00,[User]_Adrian-DKFZ,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9176
+2024-04-09 06:14:28+00:00,[User]_ankycooper,{'[User]_yunylz'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9189
+2024-04-09 20:12:40+00:00,[User]_luiplapin1,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9199
+2024-04-10 08:26:01+00:00,[User]_LM1LC3N7,"{'[User]_LM1LC3N7', '[User]_cfradewavecom'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9202
+2024-04-10 13:00:43+00:00,[User]_lucaam,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9203
+2024-04-11 08:11:31+00:00,[User]_acelinkio,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9212
+2024-04-11 16:33:16+00:00,[User]_jdow,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9218
+2024-04-12 00:54:53+00:00,[User]_op8867555,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9227
+2024-04-12 07:57:08+00:00,[User]_beiliubei,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9237
+2024-04-13 12:03:50+00:00,[User]_42Fourward,{'[User]_GiooiG'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9244
+2024-04-13 15:03:48+00:00,[User]_Ma27,"{'[User]_Ma27', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9245
+2024-04-13 15:08:51+00:00,[User]_DenVilk,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9246
+2024-04-13 20:48:19+00:00,[User]_InfinityDevTech,"{'[User]_InfinityDevTech', '[User]_MikeWaggs'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9247
+2024-04-13 22:53:48+00:00,[User]_ClearSeve,{'[User]_Sapd'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9250
+2024-04-14 11:44:11+00:00,[User]_DenVilk,"{'[User]_BeryJu', '[User]_m00nyONE', '[User]_DenVilk'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9251
+2024-04-14 13:49:37+00:00,[User]_BallistiX09,{'[User]_EHRETic'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9252
+2024-04-14 17:04:45+00:00,[User]_Fymyte,{'[User]_Fymyte'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9253
+2024-04-16 04:26:35+00:00,[User]_plsnotracking,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9283
+2024-04-16 11:12:28+00:00,[User]_MaciejRucinskiVIMN,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9288
+2024-04-16 16:39:40+00:00,[User]_ruanbekker,"{'[User]_ruanbekker', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9292
+2024-04-17 09:42:05+00:00,[User]_martin-jensen,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9312
+2024-04-17 16:09:00+00:00,[User]_PentaPaetzold,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9320
+2024-04-18 09:23:11+00:00,[User]_marcolino7,"{'[User]_LM1LC3N7', '[User]_marcolino7', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9331
+2024-04-18 10:53:02+00:00,[User]_CliveTran,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9332
+2024-04-19 10:48:39+00:00,[User]_UbiquitousBear,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9352
+2024-04-20 06:55:07+00:00,[User]_iRaven4522,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9361
+2024-04-22 00:30:34+00:00,[User]_yunylz,{'[User]_yunylz'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9369
+2024-04-22 09:29:58+00:00,[User]_ZUCCzwp,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9375
+2024-04-22 11:09:46+00:00,[User]_hansolo57,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9376
+2024-04-23 03:51:22+00:00,[User]_tseking555,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9378
+2024-04-23 06:53:11+00:00,[User]_ZUCCzwp,{'[User]_ZUCCzwp'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9383
+2024-04-24 08:45:00+00:00,[User]_imatrycode,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9394
+2024-04-24 09:39:13+00:00,[User]_FlashIvano,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9395
+2024-04-24 19:28:27+00:00,[User]_dlhall111,{'[User]_dlhall111'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9402
+2024-04-25 01:51:48+00:00,[User]_PythonCoderAS,"{'[User]_PythonCoderAS', '[User]_swesner411', '[User]_Healzangels', '[User]_KejjRod', '[User]_RyanTheTechMan', '[User]_priceaj'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9408
+2024-04-25 03:23:14+00:00,[User]_FlashIvano,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9409
+2024-04-25 07:30:25+00:00,[User]_foux,"{'[User]_foux', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9417
+2024-04-25 11:19:10+00:00,[User]_drewgle,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9423
+2024-04-25 15:05:12+00:00,[User]_m00nyONE,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9431
+2024-04-25 15:53:51+00:00,[User]_Arragon5xpwm,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9432
+2024-04-25 16:41:24+00:00,[User]_macmoritz,{'[User]_macmoritz'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9433
+2024-04-25 16:50:52+00:00,[User]_macmoritz,"{'[User]_macmoritz', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9434
+2024-04-25 19:01:10+00:00,[User]_psychedelicu,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9438
+2024-04-25 20:45:40+00:00,[User]_tugdualenligne,"{'[User]_tugdualenligne', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9440
+2024-04-25 21:53:50+00:00,[User]_szinn,"{'[User]_MegaShinySnivy', '[User]_szinn'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9442
+2024-04-26 06:59:27+00:00,[User]_SiddheshxC13,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9452
+2024-04-26 07:10:01+00:00,[User]_SpiderD555,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9453
+2024-04-26 07:53:36+00:00,[User]_FutureFlySpace,"{'[User]_AurelienGoor', '[User]_wgentine', '[User]_FutureFlySpace'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9454
+2024-04-26 08:31:08+00:00,[User]_mist0706,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9455
+2024-04-26 08:48:29+00:00,[User]_juliadin,{'[User]_juliadin'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9457
+2024-04-26 12:15:28+00:00,[User]_craige1,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9460
+2024-04-26 15:02:09+00:00,[User]_stonecoldant316,{'[User]_BeryJu'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9469
+2024-04-26 22:15:21+00:00,[User]_ToshY,"{'[User]_ToshY', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9477
+2024-04-27 11:42:20+00:00,[User]_Arragon5xpwm,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9483
+2024-04-27 12:31:52+00:00,[User]_devarxify,{'[User]_devarxify'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9484
+2024-04-27 23:28:29+00:00,[User]_ToshY,"{'[User]_ToshY', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9486
+2024-04-28 07:42:22+00:00,[User]_tseking555,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9490
+2024-04-28 20:44:58+00:00,[User]_twist3dimages,"{'[User]_twist3dimages', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9493
+2024-04-29 07:23:50+00:00,[User]_rqi14,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9504
+2024-04-29 08:56:32+00:00,[User]_FlashIvano,{'[User]_ChenWenBrian'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9506
+2024-04-29 09:28:55+00:00,[User]_FlashIvano,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9507
+2024-04-29 10:32:54+00:00,[User]_badsmoke,{'[User]_badsmoke'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9508
+2024-04-29 13:24:27+00:00,[User]_davidfrickert,{'[User]_davidfrickert'},goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9512
+2024-04-29 14:58:17+00:00,[User]_it-global-architect,"{'[User]_it-global-architect', '[User]_wgentine', '[User]_BeryJu'}",goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9513
+2024-04-30 21:11:49+00:00,[User]_raabf,set(),goauthentik/authentik,2024,https://github.com/goauthentik/authentik/issues/9533

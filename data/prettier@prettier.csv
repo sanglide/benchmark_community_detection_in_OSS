@@ -1,0 +1,826 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 02:37:05+00:00,[User]_rotu,"{'[User]_fisker', '[User]_31i0t', '[User]_WillsterJohnson', '[User]_alexander-akait', '[User]_rotu', '[User]_fredericrous'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14785
+2023-05-02 12:12:55+00:00,[User]_nvie,{'[User]_ot07'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14786
+2023-05-02 16:11:44+00:00,[User]_romainmenke,{'[User]_romainmenke'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/14787
+2023-05-03 08:50:13+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14788
+2023-05-03 11:00:08+00:00,[User]_lg-kialo,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14789
+2023-05-03 16:22:05+00:00,[User]_hvlxh,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14790
+2023-05-04 00:53:23+00:00,[User]_sarimarton,"{'[User]_fisker', '[User]_sarimarton'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14791
+2023-05-04 10:50:21+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/14792
+2023-05-05 03:13:28+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14793
+2023-05-05 07:45:09+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/14794
+2023-05-06 15:16:33+00:00,[User]_empty916,{'[User]_DarshanDixit05'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14795
+2023-05-08 03:10:15+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/14806
+2023-05-08 13:27:42+00:00,[User]_so1ve,{'[User]_so1ve'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14807
+2023-05-09 01:39:53+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14808
+2023-05-09 01:45:33+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14809
+2023-05-09 03:31:29+00:00,[User]_fisker,"{'[User]_fisker', '[User]_so1ve'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14810
+2023-05-10 02:33:41+00:00,[User]_hyrious,"{'[User]_kachkaev', '[User]_so1ve', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14811
+2023-05-10 10:25:22+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/14812
+2023-05-12 14:55:18+00:00,[User]_seiyab,"{'[User]_fisker', '[User]_alexander-akait', '[User]_seiyab', '[User]_romainmenke', '[User]_shellscape'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14814
+2023-05-13 07:47:27+00:00,[User]_priyanka-surana,"{'[User]_kachkaev', '[User]_hoodmane', '[User]_priyanka-surana'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14815
+2023-05-13 17:39:55+00:00,[User]_ccouzens,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14816
+2023-05-14 00:30:36+00:00,[User]_SIGSTACKFAULT,"{'[User]_fisker', '[User]_jemunk', '[User]_DaniilIsupov'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14817
+2023-05-14 17:31:11+00:00,[User]_cesarkohl,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/14829
+2023-05-16 09:15:39+00:00,[User]_codepunkt,"{'[User]_fisker', '[User]_threema-danilo'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14880
+2023-05-17 03:57:50+00:00,[User]_ot07,"{'[User]_kachkaev', '[User]_alexander-akait', '[User]_sosukesuzuki', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14830
+2023-05-17 15:54:55+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_lukeshiru', '[User]_Divlo', '[User]_sosukesuzuki', '[User]_pascalr', '[User]_tats-u', '[User]_nicolo-ribaudo'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14831
+2023-05-18 01:43:32+00:00,[User]_jedwards1211,"{'[User]_pieterv', '[User]_jedwards1211'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14832
+2023-05-19 17:16:39+00:00,[User]_ericbf,{'[User]_ericbf'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14833
+2023-05-19 21:29:27+00:00,[User]_mohd-akram,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14834
+2023-05-19 21:42:16+00:00,[User]_pieterv,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14835
+2023-05-19 22:55:58+00:00,[User]_pieterv,"{'[User]_fisker', '[User]_pieterv', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14836
+2023-05-19 23:15:50+00:00,[User]_pieterv,"{'[User]_pieterv', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14837
+2023-05-20 20:48:56+00:00,[User]_nishtahir,"{'[User]_fisker', '[User]_nishtahir'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14838
+2023-05-22 23:59:03+00:00,[User]_rotu,{'[User]_rotu'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/14849
+2023-05-23 16:30:19+00:00,[User]_jinxdash,"{'[User]_kachkaev', '[User]_jinxdash', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14851
+2023-05-23 21:25:21+00:00,[User]_thorn0,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14852
+2023-05-24 08:35:58+00:00,[User]_FauxFaux,{'[User]_so1ve'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14853
+2023-05-24 18:53:31+00:00,[User]_OnkelTem,{'[User]_OnkelTem'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14855
+2023-05-25 00:02:08+00:00,[User]_Sisableng,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14857
+2023-05-26 16:18:04+00:00,[User]_djpowers,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14859
+2023-05-27 08:21:26+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_nicolo-ribaudo', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14861
+2023-05-27 13:09:53+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14862
+2023-05-27 14:04:44+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_nicolo-ribaudo', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14863
+2023-05-28 03:08:55+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14864
+2023-05-28 21:23:34+00:00,[User]_kasukabeshinchan,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/14876
+2023-05-30 09:15:20+00:00,[User]_iomedico-beyer,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14877
+2023-05-30 10:13:47+00:00,[User]_jcs090218,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14878
+2023-05-31 15:39:07+00:00,[User]_aak-lear,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14881
+2023-06-01 05:58:05+00:00,[User]_laszlo1337,"{'[User]_sjunepark', '[User]_sosukesuzuki', '[User]_laszlo1337'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14882
+2023-06-01 13:26:53+00:00,[User]_YePpHa,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14883
+2023-06-01 13:55:06+00:00,[User]_dimitropoulos,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14884
+2023-06-01 15:32:24+00:00,[User]_d07RiV,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14885
+2023-06-02 16:58:59+00:00,[User]_Maryyeruva24,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/14886
+2023-06-03 02:09:36+00:00,[User]_chen-ccy,"{'[User]_so1ve', '[User]_chen-ccy', '[User]_vyadav0507'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14887
+2023-06-05 12:56:12+00:00,[User]_michaelfaith,{'[User]_michaelfaith'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14904
+2023-06-05 14:36:28+00:00,[User]_Maryyeruva24,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/14906
+2023-06-06 09:52:03+00:00,[User]_coolCucumber-cat,"{'[User]_kachkaev', '[User]_jxn-30', '[User]_coolCucumber-cat'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14907
+2023-06-07 11:26:36+00:00,[User]_kuoruan,"{'[User]_auvred', '[User]_kuoruan', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14910
+2023-06-07 13:01:55+00:00,[User]_sharshuv-quotient,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14911
+2023-06-08 01:53:09+00:00,[User]_kuoruan,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14912
+2023-06-08 15:08:20+00:00,[User]_regseb,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_regseb'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14913
+2023-06-09 09:24:09+00:00,[User]_jinxdash,"{'[User]_kachkaev', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14914
+2023-06-09 22:18:10+00:00,[User]_yazid113,"{'[User]_leandrorodrigues00', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14915
+2023-06-10 03:15:12+00:00,[User]_yoshi2no,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/14916
+2023-06-10 11:30:27+00:00,[User]_jmatsushita,"{'[User]_kachkaev', '[User]_jmatsushita'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14917
+2023-06-10 13:51:47+00:00,[User]_so1ve,"{'[User]_fisker', '[User]_so1ve'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14918
+2023-06-11 08:53:39+00:00,[User]_so1ve,"{'[User]_so1ve', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14934
+2023-06-11 14:05:19+00:00,[User]_tats-u,"{'[User]_fisker', '[User]_tats-u'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14935
+2023-06-11 14:19:56+00:00,[User]_tats-u,"{'[User]_kachkaev', '[User]_thorn0', '[User]_tats-u', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14936
+2023-06-12 07:27:26+00:00,[User]_gyhyfj,"{'[User]_kachkaev', '[User]_gyhyfj'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14937
+2023-06-12 07:27:56+00:00,[User]_Nicitaa,"{'[User]_Nicitaa', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14938
+2023-06-13 09:23:26+00:00,[User]_talperets,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14940
+2023-06-17 09:47:21+00:00,[User]_liuxingbaoyu,"{'[User]_fisker', '[User]_liuxingbaoyu'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14944
+2023-06-17 19:17:02+00:00,[User]_SIGSTACKFAULT,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14946
+2023-06-17 19:20:06+00:00,[User]_SIGSTACKFAULT,"{'[User]_SIGSTACKFAULT', '[User]_alexander-akait'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14947
+2023-06-19 20:47:40+00:00,[User]_felipecrs,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14957
+2023-06-21 04:34:10+00:00,[User]_acn-zhidong-sun,{'[User]_JPetitpierre'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14959
+2023-06-21 07:58:22+00:00,[User]_barrelful,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14960
+2023-06-21 10:40:39+00:00,[User]_waterplea,"{'[User]_Splaktar', '[User]_sosukesuzuki', '[User]_JounQin', '[User]_demensky', '[User]_waterplea'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14961
+2023-06-22 06:20:04+00:00,[User]_B2o5T,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14964
+2023-06-22 15:28:22+00:00,[User]_notramo,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14965
+2023-06-22 18:32:42+00:00,[User]_B2o5T,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14966
+2023-06-25 16:11:11+00:00,[User]_SyncroIT,{'[User]_SyncroIT'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/14981
+2023-06-26 08:54:28+00:00,[User]_Nicitaa,"{'[User]_kachkaev', '[User]_Nicitaa'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14983
+2023-06-26 08:58:00+00:00,[User]_xiaoxiangmoe,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_xiaoxiangmoe'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/14984
+2023-06-27 09:39:46+00:00,[User]_angelod1as,"{'[User]_fisker', '[User]_flamincode', '[User]_angelod1as'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14985
+2023-06-28 15:43:32+00:00,[User]_shervinchen,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/14986
+2023-06-28 22:31:03+00:00,[User]_amayer42,"{'[User]_Skalman', '[User]_amayer42'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14987
+2023-06-29 09:09:41+00:00,[User]_tuanalumi,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/14989
+2023-06-29 20:39:06+00:00,[User]_flamincode,"{'[User]_fisker', '[User]_flamincode', '[User]_dmcninch'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14990
+2023-07-01 09:04:07+00:00,[User]_eneajaho,"{'[User]_fisker', '[User]_DingWeizhe', '[User]_sosukesuzuki', '[User]_rickvandermeij-aanzee', '[User]_michaelfaith', '[User]_huevosyitz', '[User]_jpike88', '[User]_eneajaho', '[User]_dylhunn', '[User]_sp90'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/14991
+2023-07-02 05:23:00+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_SPAHI4', '[User]_sosukesuzuki', '[User]_xiaoxiangmoe', '[User]_MatanelGordon', '[User]_trivikr', '[User]_michaelfaith'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15004
+2023-07-03 17:18:17+00:00,[User]_analytic-bias,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15006
+2023-07-03 17:39:37+00:00,[User]_ahsanrana,"{'[User]_kachkaev', '[User]_christiango', '[User]_MatanelGordon', '[User]_ns-vpanfilov'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15007
+2023-07-04 05:11:48+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15009
+2023-07-04 05:28:06+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15010
+2023-07-04 06:21:43+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15011
+2023-07-05 13:12:10+00:00,[User]_sosukesuzuki,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15012
+2023-07-05 14:58:26+00:00,[User]_700software,"{'[User]_700software', '[User]_gusbmurphy'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15013
+2023-07-05 16:39:34+00:00,[User]_smikitky,"{'[User]_fisker', '[User]_tats-u', '[User]_smikitky', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15015
+2023-07-05 16:52:27+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15016
+2023-07-06 05:39:25+00:00,[User]_kingyue737,"{'[User]_fisker', '[User]_kingyue737'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15017
+2023-07-06 05:58:49+00:00,[User]_kingyue737,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15018
+2023-07-06 07:42:12+00:00,[User]_cope,"{'[User]_iursevla', '[User]_xg4'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15020
+2023-07-06 10:00:21+00:00,[User]_jonathanKingston,{'[User]_lrusso'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15021
+2023-07-06 10:48:01+00:00,[User]_Crawk95,"{'[User]_auvred', '[User]_msalahz', '[User]_websitevirtuoso', '[User]_sosukesuzuki', '[User]_ChristopheLav', '[User]_Crawk95', '[User]_Kaweees'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15022
+2023-07-06 14:10:15+00:00,[User]_Alexsey,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15023
+2023-07-06 21:24:31+00:00,[User]_mgabeler-lee-6rs,"{'[User]_fisker', '[User]_mgabeler-lee-6rs', '[User]_j3rem1e', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15025
+2023-07-07 04:07:10+00:00,[User]_bradzacher,"{'[User]_seiyab', '[User]_MatanelGordon', '[User]_Lokendra-sinh'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15026
+2023-07-07 04:49:37+00:00,[User]_bradzacher,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15027
+2023-07-07 05:13:17+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15028
+2023-07-07 05:47:19+00:00,[User]_TerrorJacktyl,{'[User]_TerrorJacktyl'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15029
+2023-07-07 08:17:18+00:00,[User]_rbatllet,"{'[User]_fisker', '[User]_rbatllet', '[User]_kachkaev'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15031
+2023-07-07 08:37:16+00:00,[User]_queengooborg,"{'[User]_auvred', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15032
+2023-07-07 13:56:29+00:00,[User]_MatanelGordon,"{'[User]_fisker', '[User]_MatanelGordon'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15033
+2023-07-07 16:27:11+00:00,[User]_timotheeguerin,"{'[User]_auvred', '[User]_timotheeguerin'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15034
+2023-07-07 17:07:06+00:00,[User]_auvred,"{'[User]_fisker', '[User]_auvred'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15035
+2023-07-07 19:11:05+00:00,[User]_vishalnandagopal,"{'[User]_vishalnandagopal', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15036
+2023-07-08 09:14:35+00:00,[User]_auvred,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15037
+2023-07-08 14:37:03+00:00,[User]_xiaoxiangmoe,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15038
+2023-07-08 15:11:26+00:00,[User]_risu729,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15039
+2023-07-08 16:55:11+00:00,[User]_auvred,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15040
+2023-07-08 18:34:51+00:00,[User]_jacobbogers,{'[User]_jacobbogers'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15041
+2023-07-09 04:03:57+00:00,[User]_Janther,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15061
+2023-07-09 04:49:32+00:00,[User]_MrOxMasTer,"{'[User]_MrOxMasTer', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15062
+2023-07-09 12:35:04+00:00,[User]_auvred,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_codenameryan', '[User]_auvred'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15066
+2023-07-10 10:05:12+00:00,[User]_jurgenwerk,{'[User]_jurgenwerk'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15068
+2023-07-10 11:21:57+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15069
+2023-07-10 12:49:21+00:00,[User]_gpoitch,"{'[User]_thorn0', '[User]_alex-kinokon', '[User]_sosukesuzuki', '[User]_Maks9', '[User]_MatanelGordon', '[User]_mvorisek', '[User]_andersk'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15070
+2023-07-10 14:05:36+00:00,[User]_fisker,"{'[User]_kachkaev', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15071
+2023-07-10 22:56:06+00:00,[User]_Gudahtt,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15074
+2023-07-11 05:58:03+00:00,[User]_fisker,"{'[User]_kachkaev', '[User]_sosukesuzuki', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15076
+2023-07-11 08:56:57+00:00,[User]_imagoiq,"{'[User]_fisker', '[User]_imagoiq'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15078
+2023-07-11 09:25:58+00:00,[User]_JounQin,"{'[User]_fisker', '[User]_devcrev', '[User]_Jeto143', '[User]_thorn0', '[User]_sdellysse', '[User]_sosukesuzuki', '[User]_JounQin', '[User]_tylervz'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15079
+2023-07-11 14:56:31+00:00,[User]_tats-u,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_tats-u'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15081
+2023-07-11 20:06:59+00:00,[User]_coswat,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15082
+2023-07-12 02:30:11+00:00,[User]_davidjb,"{'[User]_fisker', '[User]_davidjb'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15084
+2023-07-12 02:33:50+00:00,[User]_vighnesh153,"{'[User]_fisker', '[User]_vighnesh153'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15085
+2023-07-12 06:37:08+00:00,[User]_imagoiq,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15086
+2023-07-12 10:34:10+00:00,[User]_jurgenwerk,"{'[User]_oshmoun', '[User]_fisker', '[User]_NullVoxPopuli', '[User]_kachkaev', '[User]_jurgenwerk', '[User]_wycats'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15087
+2023-07-13 05:42:16+00:00,[User]_infacto,"{'[User]_fisker', '[User]_infacto'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15089
+2023-07-13 13:41:02+00:00,[User]_hgw77,"{'[User]_hgw77', '[User]_so1ve', '[User]_nuhptr', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15092
+2023-07-13 16:24:56+00:00,[User]_mgscreativa,"{'[User]_dannypk', '[User]_mgscreativa'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15091
+2023-07-14 11:42:03+00:00,[User]_dummdidumm,"{'[User]_fisker', '[User]_dummdidumm', '[User]_sosukesuzuki', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15093
+2023-07-14 12:48:55+00:00,[User]_YimingIsCOLD,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15094
+2023-07-14 13:14:56+00:00,[User]_YimingIsCOLD,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15095
+2023-07-14 15:48:12+00:00,[User]_joeltine,"{'[User]_auvred', '[User]_joeltine', '[User]_kachkaev'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15097
+2023-07-14 21:34:21+00:00,[User]_dominikzogg,"{'[User]_nicolaschambrier', '[User]_fisker', '[User]_auvred', '[User]_kachkaev', '[User]_dominikzogg'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15098
+2023-07-16 17:52:07+00:00,[User]_sammyfilly,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15118
+2023-07-17 02:08:47+00:00,[User]_commscheck,"{'[User]_commscheck', '[User]_so1ve', '[User]_vajahath', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15119
+2023-07-17 11:38:29+00:00,[User]_dummdidumm,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15121
+2023-07-17 12:41:15+00:00,[User]_bastiW,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15122
+2023-07-17 17:51:10+00:00,[User]_so1ve,"{'[User]_fisker', '[User]_so1ve', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15123
+2023-07-17 18:57:01+00:00,[User]_andrewkittredge,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15124
+2023-07-18 01:58:19+00:00,[User]_auvred,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_auvred'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15125
+2023-07-18 02:18:31+00:00,[User]_so1ve,"{'[User]_fisker', '[User]_Siilwyn', '[User]_Techn1x', '[User]_so1ve'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15126
+2023-07-18 02:39:39+00:00,[User]_auvred,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_auvred'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15127
+2023-07-18 22:22:08+00:00,[User]_pamelalozano16,"{'[User]_pamelalozano16', '[User]_sosukesuzuki', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15129
+2023-07-18 23:37:06+00:00,[User]_gkz,"{'[User]_fisker', '[User]_gkz', '[User]_sosukesuzuki', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15130
+2023-07-20 08:27:06+00:00,[User]_Techn1x,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15132
+2023-07-20 15:31:45+00:00,[User]_joealden,"{'[User]_kachkaev', '[User]_TyIsI'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15133
+2023-07-20 23:35:54+00:00,[User]_Leniorko,"{'[User]_auvred', '[User]_Leniorko'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15136
+2023-07-21 10:24:54+00:00,[User]_cesalazar,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15137
+2023-07-21 13:22:03+00:00,[User]_pozil,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15138
+2023-07-21 18:18:49+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15139
+2023-07-22 04:18:40+00:00,[User]_queengooborg,{'[User]_rlidwka'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15140
+2023-07-22 12:30:42+00:00,[User]_Laityned,"{'[User]_auvred', '[User]_mermshaus', '[User]_yordis', '[User]_azoellner', '[User]_rmzg', '[User]_mjsteinbaugh', '[User]_coffebar'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15141
+2023-07-22 13:18:15+00:00,[User]_jakes-space,"{'[User]_kachkaev', '[User]_Deckstar', '[User]_thillebrandt', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15142
+2023-07-24 14:09:15+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_uncenter', '[User]_benmccann', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15155
+2023-07-24 15:06:38+00:00,[User]_satelllte,"{'[User]_lukahartwig', '[User]_jasikpark', '[User]_sosukesuzuki', '[User]_kachkaev', '[User]_audunolsen', '[User]_satelllte'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15156
+2023-07-25 03:32:02+00:00,[User]_so1ve,"{'[User]_auvred', '[User]_so1ve'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15158
+2023-07-25 21:43:36+00:00,[User]_tremby,"{'[User]_kachkaev', '[User]_tremby'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15160
+2023-07-26 00:36:43+00:00,[User]_kemsky,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15161
+2023-07-27 05:58:45+00:00,[User]_MadLittleMods,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15163
+2023-07-27 08:28:56+00:00,[User]_dylanhillier,"{'[User]_fisker', '[User]_Xor767', '[User]_ipanasenko', '[User]_kvz', '[User]_liuyinz', '[User]_strongpauly', '[User]_raduflp', '[User]_dylanhillier', '[User]_mikeharder', '[User]_jdelStrother'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15164
+2023-07-27 10:05:48+00:00,[User]_sammyfilly,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15165
+2023-07-28 01:01:15+00:00,[User]_ethanresnick,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15166
+2023-07-29 02:01:34+00:00,[User]_fisker,"{'[User]_sosukesuzuki', '[User]_markstein-moll'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15168
+2023-07-29 02:13:49+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15169
+2023-07-29 11:46:09+00:00,[User]_seiyab,"{'[User]_fisker', '[User]_seiyab'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15171
+2023-07-31 05:42:48+00:00,[User]_jamesbraza,"{'[User]_fisker', '[User]_jamesbraza', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15187
+2023-07-31 07:25:10+00:00,[User]_OneLeal,"{'[User]_fisker', '[User]_OneLeal'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15189
+2023-07-31 09:15:15+00:00,[User]_ignatiusmb,{'[User]_ignatiusmb'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15188
+2023-07-31 15:45:35+00:00,[User]_IlyaShumyantsev,"{'[User]_kachkaev', '[User]_IlyaShumyantsev', '[User]_aduggleby'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15190
+2023-07-31 21:12:04+00:00,[User]_ahigueratw,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15191
+2023-07-31 22:41:57+00:00,[User]_TyIsI,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15192
+2023-08-01 07:45:25+00:00,[User]_lanzhi-lee,{'[User]_auvred'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15193
+2023-08-01 14:23:47+00:00,[User]_ivodolenc,"{'[User]_kachkaev', '[User]_ivodolenc', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15195
+2023-08-01 19:31:37+00:00,[User]_Fuzzyma,"{'[User]_fisker', '[User]_Sinjhin', '[User]_kouts'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15197
+2023-08-01 23:45:39+00:00,[User]_pamelalozano16,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15198
+2023-08-02 09:32:00+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15200
+2023-08-02 16:45:30+00:00,[User]_Luanovic,"{'[User]_kachkaev', '[User]_auvred', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15201
+2023-08-03 08:41:41+00:00,[User]_testplop,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15202
+2023-08-03 12:33:36+00:00,[User]_loynoir,"{'[User]_fisker', '[User]_loynoir'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15203
+2023-08-03 13:52:21+00:00,[User]_seiyab,"{'[User]_fisker', '[User]_aarongoldenthal', '[User]_seiyab', '[User]_sosukesuzuki', '[User]_k4rli'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15204
+2023-08-03 15:23:01+00:00,[User]_so1ve,"{'[User]_so1ve', '[User]_seiyab', '[User]_shaiallseated'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15205
+2023-08-03 16:14:47+00:00,[User]_6543,"{'[User]_6543', '[User]_kachkaev'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15206
+2023-08-05 09:20:11+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15208
+2023-08-05 20:31:12+00:00,[User]_bakkot,"{'[User]_fisker', '[User]_thorn0', '[User]_sosukesuzuki', '[User]_owenallenaz', '[User]_bakkot'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15209
+2023-08-06 14:03:08+00:00,[User]_auvred,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15217
+2023-08-06 14:34:59+00:00,[User]_AlanBlanchet,"{'[User]_auvred', '[User]_so1ve', '[User]_AlanBlanchet'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15218
+2023-08-06 23:16:54+00:00,[User]_ChristopherHaws,"{'[User]_so1ve', '[User]_FilipMarkovski'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15219
+2023-08-07 02:06:18+00:00,[User]_Eejit43,"{'[User]_fisker', '[User]_Eejit43'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15220
+2023-08-07 13:16:09+00:00,[User]_tats-u,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15221
+2023-08-07 13:39:15+00:00,[User]_NaridaL,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15222
+2023-08-07 22:17:26+00:00,[User]_bg-alt,"{'[User]_kachkaev', '[User]_bg-alt', '[User]_so1ve', '[User]_auvred'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15223
+2023-08-08 08:41:44+00:00,[User]_maartenbrakkee,"{'[User]_fisker', '[User]_maartenbrakkee'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15224
+2023-08-09 02:52:06+00:00,[User]_Nandainkle,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15225
+2023-08-10 06:01:33+00:00,[User]_yordis,"{'[User]_auvred', '[User]_iamandrewluca', '[User]_yordis', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15227
+2023-08-10 11:46:35+00:00,[User]_B2o5T,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15228
+2023-08-10 17:34:37+00:00,[User]_rotu,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15229
+2023-08-10 17:40:01+00:00,[User]_Tillaert,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15230
+2023-08-11 00:10:57+00:00,[User]_xixixao,"{'[User]_xixixao', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15231
+2023-08-11 06:33:53+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15232
+2023-08-11 09:40:41+00:00,[User]_fisker,"{'[User]_fisker', '[User]_Hulmey', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15233
+2023-08-11 10:52:28+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15234
+2023-08-11 20:52:38+00:00,[User]_xixixao,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15235
+2023-08-15 08:06:25+00:00,[User]_Tuurtie,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15248
+2023-08-15 09:29:20+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15249
+2023-08-15 22:14:22+00:00,[User]_Andrew15-5,"{'[User]_Andrew15-5', '[User]_sosukesuzuki', '[User]_mark-monteiro'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15250
+2023-08-16 06:00:06+00:00,[User]_Hero-codes,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15251
+2023-08-16 12:03:37+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15253
+2023-08-17 08:58:22+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15254
+2023-08-17 09:41:40+00:00,[User]_mangelozzi,"{'[User]_mhagnumdw', '[User]_kingyue737', '[User]_shantanu-bbai', '[User]_arkinmodi', '[User]_JoepKockelkorn'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15255
+2023-08-17 10:31:12+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15256
+2023-08-17 12:36:53+00:00,[User]_mangelozzi,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15257
+2023-08-17 17:10:08+00:00,[User]_so1ve,"{'[User]_so1ve', '[User]_seiyab', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15259
+2023-08-17 18:56:25+00:00,[User]_ChristopherHaws,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15260
+2023-08-17 21:33:57+00:00,[User]_matthewvalentine,{'[User]_seiyab'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15262
+2023-08-18 08:52:33+00:00,[User]_saeed51100,"{'[User]_auvred', '[User]_saeed51100'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15263
+2023-08-18 13:38:14+00:00,[User]_so1ve,"{'[User]_so1ve', '[User]_santosh-kuchetti', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15264
+2023-08-19 13:45:08+00:00,[User]_MichaelDeBoey,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15265
+2023-08-19 13:48:09+00:00,[User]_MichaelDeBoey,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15266
+2023-08-20 13:44:53+00:00,[User]_so1ve,{'[User]_so1ve'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15282
+2023-08-23 13:53:05+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15286
+2023-08-24 03:31:05+00:00,[User]_Janther,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15287
+2023-08-24 06:10:50+00:00,[User]_sharpenedblade,"{'[User]_fisker', '[User]_sharpenedblade'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15288
+2023-08-24 11:24:16+00:00,[User]_mikemaccana,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15289
+2023-08-24 18:24:39+00:00,[User]_MichaelDeBoey,"{'[User]_fisker', '[User]_MichaelDeBoey'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15290
+2023-08-25 03:41:37+00:00,[User]_Janther,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15291
+2023-08-25 16:37:01+00:00,[User]_so1ve,"{'[User]_so1ve', '[User]_seiyab', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15292
+2023-08-25 19:10:03+00:00,[User]_colin-oos,{'[User]_so1ve'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15293
+2023-08-28 08:12:13+00:00,[User]_bradzacher,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15314
+2023-08-28 13:17:36+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15317
+2023-08-28 13:35:21+00:00,[User]_fisker,"{'[User]_kachkaev', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15318
+2023-08-28 14:30:23+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15319
+2023-08-28 15:17:31+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15320
+2023-08-29 03:23:02+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15321
+2023-08-29 04:23:04+00:00,[User]_fisker,"{'[User]_WillsterJohnson', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15322
+2023-08-29 06:21:36+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15323
+2023-08-29 08:37:09+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15324
+2023-08-29 09:08:52+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15325
+2023-08-29 09:35:00+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15326
+2023-08-29 10:37:22+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15327
+2023-08-29 11:17:43+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15328
+2023-08-29 11:32:51+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15329
+2023-08-29 11:39:43+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15330
+2023-08-29 12:10:49+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15331
+2023-08-30 02:58:23+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15332
+2023-08-30 04:50:17+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15333
+2023-08-30 09:55:16+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15334
+2023-08-30 12:45:29+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15335
+2023-08-30 17:40:56+00:00,[User]_43081j,"{'[User]_43081j', '[User]_lrusso', '[User]_ehoogeveen-medweb', '[User]_so1ve', '[User]_dcog989', '[User]_awmottaz', '[User]_fabulousgk', '[User]_davidysoards'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15336
+2023-08-31 07:27:11+00:00,[User]_TechGenius7777,"{'[User]_fisker', '[User]_TechGenius7777', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15337
+2023-08-31 17:44:17+00:00,[User]_julienw,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15338
+2023-09-01 03:31:32+00:00,[User]_fisker,"{'[User]_fisker', '[User]_alexander-akait'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15339
+2023-09-01 16:20:56+00:00,[User]_julienw,"{'[User]_fisker', '[User]_julienw'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15340
+2023-09-01 16:41:01+00:00,[User]_julienw,{'[User]_vivekjoshi556'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15341
+2023-09-03 20:30:43+00:00,[User]_gitKrystan,"{'[User]_auvred', '[User]_gitKrystan'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15351
+2023-09-03 21:13:34+00:00,[User]_notaphplover,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15352
+2023-09-04 09:20:47+00:00,[User]_fisker,{'[User]_ArchitGajjar'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15353
+2023-09-04 12:22:33+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15354
+2023-09-05 03:30:20+00:00,[User]_fregante,"{'[User]_fregante', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15355
+2023-09-05 04:42:22+00:00,[User]_fregante,"{'[User]_fregante', '[User]_HolgerJeromin', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15356
+2023-09-05 11:19:53+00:00,[User]_Janther,"{'[User]_fisker', '[User]_Janther'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15357
+2023-09-05 23:40:13+00:00,[User]_unicornware,"{'[User]_fregante', '[User]_fisker', '[User]_unicornware'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15358
+2023-09-06 03:19:03+00:00,[User]_fregante,{'[User]_fregante'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15359
+2023-09-06 07:24:00+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15360
+2023-09-06 08:19:10+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15361
+2023-09-06 11:26:31+00:00,[User]_blaasvaer,"{'[User]_fisker', '[User]_blaasvaer'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15362
+2023-09-07 02:31:40+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15363
+2023-09-07 03:33:07+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15364
+2023-09-07 07:55:44+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15366
+2023-09-07 13:05:39+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15368
+2023-09-08 06:54:49+00:00,[User]_auvred,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_auvred'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15370
+2023-09-08 16:27:36+00:00,[User]_thooverdev,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15371
+2023-09-08 16:32:32+00:00,[User]_thooverdev,"{'[User]_so1ve', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15372
+2023-09-09 09:28:57+00:00,[User]_hosseinmd,"{'[User]_kachkaev', '[User]_hosseinmd'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15374
+2023-09-11 03:25:32+00:00,[User]_loganrosen,"{'[User]_loganrosen', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15387
+2023-09-11 17:49:14+00:00,[User]_benediktsatalia,"{'[User]_fisker', '[User]_flying-sheep', '[User]_mon-jai', '[User]_sosukesuzuki', '[User]_benediktsatalia'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15388
+2023-09-11 20:03:45+00:00,[User]_xenoterracide,"{'[User]_splincode', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15389
+2023-09-13 10:52:56+00:00,[User]_tintin10q,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15391
+2023-09-13 16:41:13+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15392
+2023-09-14 01:04:09+00:00,[User]_babakfp,"{'[User]_babakfp', '[User]_tats-u', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15393
+2023-09-14 01:40:54+00:00,[User]_josephfrazier,"{'[User]_fisker', '[User]_josephfrazier', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15394
+2023-09-14 03:46:54+00:00,[User]_lanzhi-lee,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15395
+2023-09-14 04:25:10+00:00,[User]_ADTC,"{'[User]_ADTC', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15396
+2023-09-14 11:29:01+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15397
+2023-09-14 12:49:56+00:00,[User]_claudiotx,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15399
+2023-09-14 17:46:47+00:00,[User]_vivekjoshi556,"{'[User]_fisker', '[User]_vivekjoshi556', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15400
+2023-09-14 19:24:25+00:00,[User]_hovissimo,"{'[User]_danawoodman', '[User]_sharky98'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15401
+2023-09-15 04:33:10+00:00,[User]_liuly0322,{'[User]_liuly0322'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15402
+2023-09-15 19:28:34+00:00,[User]_JustinBeckwith,"{'[User]_sosukesuzuki', '[User]_tats-u'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15403
+2023-09-16 00:32:53+00:00,[User]_ikanni,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15405
+2023-09-16 02:52:17+00:00,[User]_babakfp,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15406
+2023-09-16 07:59:43+00:00,[User]_so1ve,"{'[User]_seiyab', '[User]_g-cappai'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15407
+2023-09-16 08:56:24+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15408
+2023-09-16 09:48:18+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15409
+2023-09-16 14:18:27+00:00,[User]_tats-u,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15410
+2023-09-16 14:20:33+00:00,[User]_tats-u,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15411
+2023-09-17 00:31:50+00:00,[User]_rattrayalex,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15412
+2023-09-17 03:12:37+00:00,[User]_rattrayalex,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15422
+2023-09-17 03:56:23+00:00,[User]_rattrayalex,"{'[User]_fisker', '[User]_rattrayalex', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15423
+2023-09-18 00:43:53+00:00,[User]_saoudi-h,"{'[User]_fisker', '[User]_brodwen83', '[User]_sosukesuzuki', '[User]_Bro3Simon', '[User]_adarshjhaa100', '[User]_Di-void', '[User]_ohadschn', '[User]_saoudi-h', '[User]_risu729'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15426
+2023-09-18 06:27:14+00:00,[User]_tats-u,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15427
+2023-09-18 16:53:43+00:00,[User]_SamChou19815,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15429
+2023-09-18 20:12:41+00:00,[User]_romainmenke,"{'[User]_fisker', '[User]_romainmenke', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15430
+2023-09-19 12:14:08+00:00,[User]_SGJ-Skarp,"{'[User]_fisker', '[User]_SGJ-Skarp', '[User]_kachkaev'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15431
+2023-09-19 14:24:15+00:00,[User]_spez,"{'[User]_vivekjoshi556', '[User]_t-mangoe'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15432
+2023-09-19 14:49:48+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_julienw', '[User]_theodorejb', '[User]_sosukesuzuki', '[User]_t-ricci-digit', '[User]_benmccann'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15433
+2023-09-19 17:51:16+00:00,[User]_nicolo-ribaudo,"{'[User]_fisker', '[User]_nicolo-ribaudo', '[User]_lucacasonato'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15434
+2023-09-20 09:35:42+00:00,[User]_so1ve,{'[User]_so1ve'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15435
+2023-09-20 12:44:05+00:00,[User]_andershagbard,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15436
+2023-09-20 14:09:02+00:00,[User]_tsvetkovda,"{'[User]_auvred', '[User]_tsvetkovda', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15437
+2023-09-20 21:01:59+00:00,[User]_loganknecht,"{'[User]_fisker', '[User]_lcnittl', '[User]_loganknecht', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15438
+2023-09-21 16:59:52+00:00,[User]_avin-kavish,"{'[User]_avin-kavish', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15439
+2023-09-22 14:16:36+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15442
+2023-09-22 18:53:19+00:00,[User]_alexander-doroshko,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15445
+2023-09-23 10:04:54+00:00,[User]_Richard87,"{'[User]_fisker', '[User]_Richard87', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15446
+2023-09-23 22:16:10+00:00,[User]_g-cappai,"{'[User]_fisker', '[User]_ADTC', '[User]_sosukesuzuki', '[User]_g-cappai'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15447
+2023-09-24 18:38:40+00:00,[User]_rattrayalex,"{'[User]_vojtech-cerveny', '[User]_rattrayalex', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15459
+2023-09-24 20:48:49+00:00,[User]_nanaya,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15460
+2023-09-25 05:45:46+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_moodyVlad'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15462
+2023-09-25 08:28:49+00:00,[User]_KermanX,{'[User]_liuxingbaoyu'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15463
+2023-09-27 02:40:15+00:00,[User]_liuxingbaoyu,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15464
+2023-09-27 14:37:27+00:00,[User]_sosukesuzuki,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15466
+2023-09-27 16:24:28+00:00,[User]_ADTC,"{'[User]_fisker', '[User]_ADTC', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15467
+2023-09-27 16:30:39+00:00,[User]_lucacasonato,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_lucacasonato'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15468
+2023-09-27 17:46:32+00:00,[User]_jylin,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15469
+2023-09-28 01:41:00+00:00,[User]_paperdave,"{'[User]_sosukesuzuki', '[User]_markstein-moll'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15470
+2023-09-28 03:49:11+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15471
+2023-09-28 03:53:49+00:00,[User]_lucasols,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15472
+2023-09-28 05:53:26+00:00,[User]_austinbailie,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15473
+2023-09-29 12:56:19+00:00,[User]_elnebuloso,"{'[User]_so1ve', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15474
+2023-09-29 13:22:59+00:00,[User]_its-all-waves,"{'[User]_its-all-waves', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15475
+2023-09-29 17:31:48+00:00,[User]_eligrey,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_dreampasssser', '[User]_eligrey', '[User]_yoyo837'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15476
+2023-09-30 06:33:25+00:00,[User]_zaripych,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15477
+2023-10-01 01:56:08+00:00,[User]_trusktr,"{'[User]_caroillemann', '[User]_MarkoSagadin', '[User]_tats-u'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15479
+2023-10-03 02:22:50+00:00,[User]_ADTC,"{'[User]_jebarpg', '[User]_ADTC', '[User]_bobby-driggs'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15480
+2023-10-03 08:50:42+00:00,[User]_Standard8,{'[User]_Standard8'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15481
+2023-10-03 11:38:44+00:00,[User]_yutak23,{'[User]_yutak23'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15482
+2023-10-05 05:15:37+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15485
+2023-10-05 06:05:53+00:00,[User]_sosukesuzuki,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15486
+2023-10-05 06:35:01+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15487
+2023-10-05 07:10:03+00:00,[User]_sosukesuzuki,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15488
+2023-10-05 10:37:57+00:00,[User]_PinkChampagne17,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15490
+2023-10-06 10:24:26+00:00,[User]_seiyab,"{'[User]_fisker', '[User]_seiyab', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15491
+2023-10-07 18:43:59+00:00,[User]_davidodenwald,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15492
+2023-10-08 02:14:26+00:00,[User]_B2o5T,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15493
+2023-10-08 10:53:43+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15496
+2023-10-08 13:01:17+00:00,[User]_mrjimhubbard,"{'[User]_fisker', '[User]_mrjimhubbard'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15497
+2023-10-09 00:13:51+00:00,[User]_sosukesuzuki,"{'[User]_rattrayalex', '[User]_benmccann', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15502
+2023-10-09 02:06:09+00:00,[User]_sosukesuzuki,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15503
+2023-10-09 11:01:11+00:00,[User]_mdeweerd,"{'[User]_fisker', '[User]_mdeweerd'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15504
+2023-10-09 12:41:44+00:00,[User]_bschlenk,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15505
+2023-10-09 19:49:11+00:00,[User]_d-fischer,{'[User]_d-fischer'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15506
+2023-10-10 02:23:48+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15507
+2023-10-10 13:55:31+00:00,[User]_sosukesuzuki,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15508
+2023-10-11 23:40:48+00:00,[User]_bradzacher,"{'[User]_fisker', '[User]_seiyab', '[User]_bradzacher'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15510
+2023-10-12 01:15:05+00:00,[User]_jasikpark,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15511
+2023-10-12 08:43:09+00:00,[User]_TomCorvus,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15512
+2023-10-15 03:49:21+00:00,[User]_seiyab,"{'[User]_fisker', '[User]_seiyab', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15514
+2023-10-15 13:37:44+00:00,[User]_loynoir,"{'[User]_loynoir', '[User]_seiyab'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15515
+2023-10-19 00:31:33+00:00,[User]_kamitchell,"{'[User]_kachkaev', '[User]_kamitchell'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15517
+2023-10-19 16:19:37+00:00,[User]_nschloe,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15523
+2023-10-19 20:31:22+00:00,[User]_andrewvaughan,"{'[User]_sosukesuzuki', '[User]_andrewvaughan'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15524
+2023-10-20 08:13:02+00:00,[User]_sosukesuzuki,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15525
+2023-10-20 13:20:21+00:00,[User]_TomasLudvik,"{'[User]_TomasLudvik', '[User]_Lixquid', '[User]_glenn-jocher', '[User]_grossmannmartin', '[User]_LucasOe'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15526
+2023-10-20 19:23:20+00:00,[User]_cottom,"{'[User]_kachkaev', '[User]_c2tz'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15527
+2023-10-21 01:58:16+00:00,[User]_andrewvaughan,"{'[User]_sosukesuzuki', '[User]_andrewvaughan'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15528
+2023-10-21 14:21:53+00:00,[User]_andrewvaughan,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15529
+2023-10-21 23:53:09+00:00,[User]_benblank,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15530
+2023-10-21 23:53:47+00:00,[User]_benblank,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15531
+2023-10-22 07:56:01+00:00,[User]_sosukesuzuki,"{'[User]_rdlabo', '[User]_sheikalthaf', '[User]_kbrilla', '[User]_sosukesuzuki', '[User]_NateRadebaugh', '[User]_eneajaho'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15532
+2023-10-23 08:39:56+00:00,[User]_sanmai-NL,"{'[User]_fisker', '[User]_sanmai-NL', '[User]_sosukesuzuki', '[User]_andersk', '[User]_junaga'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15533
+2023-10-23 16:01:03+00:00,[User]_jkillian,{'[User]_coolCucumber-cat'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15534
+2023-10-24 06:30:21+00:00,[User]_sanjaiyan-dev,"{'[User]_fisker', '[User]_sanjaiyan-dev'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15535
+2023-10-26 09:39:59+00:00,[User]_cprecioso,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15537
+2023-10-26 17:11:01+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15541
+2023-10-26 20:11:51+00:00,[User]_tbz,"{'[User]_fisker', '[User]_tbz', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15545
+2023-10-27 08:43:48+00:00,[User]_dilip-14507,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15546
+2023-10-27 12:27:58+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15547
+2023-10-27 13:00:06+00:00,[User]_ematipico,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15550
+2023-10-27 13:07:22+00:00,[User]_nicitaacom,"{'[User]_nicitaacom', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15551
+2023-10-27 13:52:57+00:00,[User]_Zamiell,"{'[User]_fisker', '[User]_Zamiell', '[User]_Cielquan', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15553
+2023-10-27 16:49:06+00:00,[User]_sosukesuzuki,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15555
+2023-10-27 18:01:16+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15558
+2023-10-27 18:20:45+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15559
+2023-10-27 19:59:45+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15561
+2023-10-27 20:47:57+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15562
+2023-10-28 07:30:01+00:00,[User]_sxzz,"{'[User]_fisker', '[User]_nicolo-ribaudo', '[User]_sxzz', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15563
+2023-10-28 17:42:59+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15564
+2023-10-28 18:01:01+00:00,[User]_sosukesuzuki,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15565
+2023-10-29 08:39:07+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15566
+2023-10-29 09:47:57+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15567
+2023-10-29 11:42:20+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15568
+2023-10-29 13:14:31+00:00,[User]_sosukesuzuki,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15569
+2023-10-30 04:24:44+00:00,[User]_Airkro,"{'[User]_fisker', '[User]_Airkro'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15572
+2023-10-30 08:01:53+00:00,[User]_linhr,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15573
+2023-10-30 11:02:57+00:00,[User]_paleite,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15575
+2023-10-31 22:05:21+00:00,[User]_Shreyas0410,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_Shreyas0410'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15576
+2023-11-01 13:51:22+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15577
+2023-11-01 14:34:39+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15580
+2023-11-01 14:50:04+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15581
+2023-11-01 14:59:46+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15582
+2023-11-01 15:13:16+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15583
+2023-11-01 16:21:04+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15585
+2023-11-03 19:18:00+00:00,[User]_victoragnez,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15591
+2023-11-03 19:25:16+00:00,[User]_victoragnez,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15592
+2023-11-04 16:14:35+00:00,[User]_kamitchell,"{'[User]_Goldziher', '[User]_kddnewton', '[User]_paddyroddy', '[User]_kachkaev', '[User]_jonasengelmann'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15696
+2023-11-06 01:06:18+00:00,[User]_rattrayalex,"{'[User]_rattrayalex', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15594
+2023-11-06 12:40:21+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15596
+2023-11-06 13:11:23+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15597
+2023-11-06 20:58:38+00:00,[User]_TimOrme,"{'[User]_yingxun-lim', '[User]_CJTurpie'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15600
+2023-11-07 01:06:55+00:00,[User]_sosukesuzuki,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15601
+2023-11-07 12:28:43+00:00,[User]_Hulmey,{'[User]_Hulmey'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15604
+2023-11-08 20:36:02+00:00,[User]_maxpowa,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15605
+2023-11-09 03:11:12+00:00,[User]_DingWeizhe,"{'[User]_JosefBredereck', '[User]_ddohcim', '[User]_MunMunMiao', '[User]_NateRadebaugh', '[User]_PowerKiKi', '[User]_dylhunn', '[User]_michaelfaith', '[User]_anikets43', '[User]_twittwer', '[User]_fourgates', '[User]_bluebits-academy', '[User]_Halfist', '[User]_JeanMeche', '[User]_fisker', '[User]_NetanelBasal', '[User]_reduckted', '[User]_rdlabo', '[User]_sosukesuzuki', '[User]_bartduisters', '[User]_sheikalthaf', '[User]_DingWeizhe', '[User]_jpike88', '[User]_markrullo'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15606
+2023-11-09 05:05:20+00:00,[User]_fisker,{'[User]_AbdullahWins'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15607
+2023-11-09 14:42:50+00:00,[User]_apottere,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15611
+2023-11-09 23:26:01+00:00,[User]_E-Emmy,"{'[User]_auvred', '[User]_junaga', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15612
+2023-11-10 16:42:53+00:00,[User]_tjcouch-sil,"{'[User]_fisker', '[User]_tjcouch-sil', '[User]_kachkaev'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15613
+2023-11-12 12:40:42+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15614
+2023-11-12 13:25:43+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15615
+2023-11-12 13:44:09+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15616
+2023-11-12 13:50:09+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15617
+2023-11-12 14:18:30+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15619
+2023-11-12 15:34:57+00:00,[User]_fisker,"{'[User]_sheikalthaf', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15620
+2023-11-12 16:21:36+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15621
+2023-11-12 17:43:35+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15644
+2023-11-12 18:03:54+00:00,[User]_fisker,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15645
+2023-11-12 18:15:03+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15646
+2023-11-12 22:26:22+00:00,[User]_joeedh,"{'[User]_kachkaev', '[User]_sosukesuzuki', '[User]_joeedh'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15647
+2023-11-13 03:24:48+00:00,[User]_joeedh,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_joeedh'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15648
+2023-11-13 06:08:28+00:00,[User]_pmdartus,"{'[User]_fisker', '[User]_pmdartus'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15649
+2023-11-13 06:52:20+00:00,[User]_minijus,"{'[User]_fisker', '[User]_minijus', '[User]_terencehonles', '[User]_reduckted', '[User]_mattlewis92', '[User]_Zefling'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15650
+2023-11-13 07:00:57+00:00,[User]_pmdartus,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15651
+2023-11-13 07:38:12+00:00,[User]_azu,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15652
+2023-11-13 13:42:34+00:00,[User]_stephenwade,"{'[User]_kachkaev', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15654
+2023-11-13 18:11:37+00:00,[User]_epmatsw,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15655
+2023-11-14 06:43:19+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15656
+2023-11-14 13:45:24+00:00,[User]_ZEINTRY11,{'[User]_auvred'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15659
+2023-11-14 16:49:24+00:00,[User]_clebasc,"{'[User]_clebasc', '[User]_minijus'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15660
+2023-11-15 12:09:26+00:00,[User]_auvred,"{'[User]_fisker', '[User]_auvred', '[User]_rattrayalex', '[User]_ehoogeveen-medweb', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15662
+2023-11-15 17:13:50+00:00,[User]_fisker,"{'[User]_fisker', '[User]_phocks', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15663
+2023-11-16 18:09:23+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15666
+2023-11-16 20:28:39+00:00,[User]_yordis,"{'[User]_fisker', '[User]_yordis', '[User]_kachkaev'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15667
+2023-11-16 21:50:53+00:00,[User]_Splinteer,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15668
+2023-11-17 03:42:49+00:00,[User]_Janther,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15670
+2023-11-17 09:39:00+00:00,[User]_metalllus,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15671
+2023-11-17 12:46:08+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15672
+2023-11-17 16:52:23+00:00,[User]_glenjamin,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15673
+2023-11-17 22:21:47+00:00,[User]_arnaudNYC,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15674
+2023-11-18 04:26:10+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15675
+2023-11-18 05:52:03+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15676
+2023-11-18 06:59:22+00:00,[User]_sosukesuzuki,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15677
+2023-11-18 07:12:48+00:00,[User]_ReyBan82,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15678
+2023-11-18 07:38:35+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15679
+2023-11-19 09:17:45+00:00,[User]_ahmed20091200,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15682
+2023-11-19 13:37:35+00:00,[User]_KristjanESPERANTO,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15683
+2023-11-19 15:34:37+00:00,[User]_NullVoxPopuli,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15685
+2023-11-20 10:59:41+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15691
+2023-11-20 12:41:42+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15692
+2023-11-20 13:11:50+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15694
+2023-11-20 20:57:03+00:00,[User]_JPBM135,"{'[User]_fisker', '[User]_ramunas-k', '[User]_sosukesuzuki', '[User]_thrallala', '[User]_JPBM135'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15698
+2023-11-21 14:02:52+00:00,[User]_marvinruder,"{'[User]_fisker', '[User]_Danones'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15699
+2023-11-21 15:26:01+00:00,[User]_privatenumber,"{'[User]_fisker', '[User]_JounQin'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15700
+2023-11-22 08:43:12+00:00,[User]_Yohandah,"{'[User]_fisker', '[User]_Yohandah', '[User]_kachkaev'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15702
+2023-11-22 13:01:58+00:00,[User]_fisker,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15703
+2023-11-23 04:41:28+00:00,[User]_LudoLogical,"{'[User]_kachkaev', '[User]_LudoLogical', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15706
+2023-11-23 14:00:08+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15708
+2023-11-23 21:17:35+00:00,[User]_ExplodingCabbage,"{'[User]_fisker', '[User]_ExplodingCabbage'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15709
+2023-11-25 02:35:00+00:00,[User]_Janther,"{'[User]_Janther', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15710
+2023-11-25 22:46:31+00:00,[User]_billyjanitsch,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15711
+2023-11-26 03:13:16+00:00,[User]_junaga,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15713
+2023-11-27 06:02:39+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15717
+2023-11-27 11:56:46+00:00,[User]_fisker,"{'[User]_fisker', '[User]_ForsakenHarmony', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15718
+2023-11-27 15:38:32+00:00,[User]_mattlewis92,{'[User]_M0ns1gn0r'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15719
+2023-11-27 15:51:41+00:00,[User]_TimHaboldt,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15720
+2023-11-27 16:51:08+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_vjeux', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15722
+2023-11-28 00:26:52+00:00,[User]_charlesoconor,"{'[User]_sanmai-NL', '[User]_pauldraper', '[User]_junaga', '[User]_EldinZaimovic'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15723
+2023-11-28 09:43:36+00:00,[User]_log2-hwan,"{'[User]_kbrilla', '[User]_log2-hwan'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15724
+2023-11-29 01:43:36+00:00,[User]_fabiospampinato,{'[User]_liuxingbaoyu'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15725
+2023-11-29 02:06:51+00:00,[User]_terencehonles,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_terencehonles'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15726
+2023-11-29 02:32:05+00:00,[User]_xianghongai,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15727
+2023-11-29 06:49:05+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15728
+2023-11-29 07:27:36+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15729
+2023-11-29 19:48:31+00:00,[User]_fabiospampinato,"{'[User]_fisker', '[User]_uncenter', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15731
+2023-11-30 04:21:58+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15732
+2023-11-30 07:41:11+00:00,[User]_thernstig,{'[User]_thernstig'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15733
+2023-11-30 17:33:29+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15737
+2023-12-01 05:07:24+00:00,[User]_sosukesuzuki,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15739
+2023-12-01 08:18:04+00:00,[User]_tonai,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15740
+2023-12-01 10:46:02+00:00,[User]_boyum,"{'[User]_boyum', '[User]_fabiospampinato'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15741
+2023-12-01 13:03:55+00:00,[User]_Goldziher,"{'[User]_jamesbraza', '[User]_mpoli', '[User]_acdha', '[User]_michaelfarrell76', '[User]_ma11011s', '[User]_Pierre-Sassoulas'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15742
+2023-12-01 14:36:19+00:00,[User]_falsefalse,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15743
+2023-12-01 21:29:31+00:00,[User]_OliverJAsh,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15744
+2023-12-03 03:59:50+00:00,[User]_Janther,"{'[User]_fisker', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15746
+2023-12-03 16:45:45+00:00,[User]_Janther,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15747
+2023-12-04 15:11:14+00:00,[User]_fisker,"{'[User]_sosukesuzuki', '[User]_blmitkc'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15748
+2023-12-04 15:44:13+00:00,[User]_fisker,{'[User]_autofix-troubleshooter'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15749
+2023-12-04 18:47:36+00:00,[User]_ExplodingCabbage,"{'[User]_fisker', '[User]_ExplodingCabbage', '[User]_josephfrazier', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15750
+2023-12-05 07:52:55+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15756
+2023-12-05 08:50:00+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15757
+2023-12-05 10:04:25+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15758
+2023-12-05 10:08:38+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15759
+2023-12-05 18:20:05+00:00,[User]_jcbhmr,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15763
+2023-12-05 19:54:37+00:00,[User]_jcbhmr,"{'[User]_jcbhmr', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15764
+2023-12-05 20:16:17+00:00,[User]_jcbhmr,"{'[User]_jcbhmr', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15765
+2023-12-06 21:35:57+00:00,[User]_adamkdean,"{'[User]_kachkaev', '[User]_adamkdean'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15768
+2023-12-07 12:05:13+00:00,[User]_ExplodingCabbage,"{'[User]_fisker', '[User]_ExplodingCabbage'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15770
+2023-12-07 17:18:27+00:00,[User]_TheCukitoDev,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15772
+2023-12-08 19:19:10+00:00,[User]_kirkwaiblinger,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15774
+2023-12-09 23:27:11+00:00,[User]_d07RiV,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15776
+2023-12-10 12:01:35+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_reduckted', '[User]_mattlewis92', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15777
+2023-12-10 19:45:21+00:00,[User]_faultyserver,"{'[User]_faultyserver', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15779
+2023-12-11 04:43:12+00:00,[User]_mklnz,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15780
+2023-12-11 13:54:22+00:00,[User]_rmehner,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15781
+2023-12-11 14:00:42+00:00,[User]_queengooborg,"{'[User]_kachkaev', '[User]_queengooborg'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15782
+2023-12-11 15:53:57+00:00,[User]_paescuj,"{'[User]_sndrrth', '[User]_ehoogeveen-medweb', '[User]_sosukesuzuki', '[User]_kachkaev', '[User]_paescuj', '[User]_eamodio'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15783
+2023-12-12 08:04:48+00:00,[User]_gyhyfj,"{'[User]_fisker', '[User]_gyhyfj'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15786
+2023-12-12 18:29:32+00:00,[User]_ExplodingCabbage,"{'[User]_fisker', '[User]_ExplodingCabbage', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15787
+2023-12-13 13:49:38+00:00,[User]_ExplodingCabbage,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_JounQin', '[User]_Sec-ant', '[User]_ExplodingCabbage'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15789
+2023-12-13 23:21:38+00:00,[User]_tamird,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15791
+2023-12-14 04:01:03+00:00,[User]_sosukesuzuki,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15792
+2023-12-14 12:01:00+00:00,[User]_ExplodingCabbage,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15793
+2023-12-14 12:03:13+00:00,[User]_ExplodingCabbage,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15794
+2023-12-14 15:11:05+00:00,[User]_Janther,"{'[User]_fisker', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15795
+2023-12-14 22:14:32+00:00,[User]_fisker,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15796
+2023-12-14 23:54:28+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15805
+2023-12-15 05:58:37+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15806
+2023-12-15 11:20:10+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15807
+2023-12-15 13:37:54+00:00,[User]_fisker,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15809
+2023-12-15 14:30:07+00:00,[User]_mattlewis92,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15810
+2023-12-16 07:22:50+00:00,[User]_seiyab,"{'[User]_fisker', '[User]_seiyab', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15811
+2023-12-16 12:50:47+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15812
+2023-12-16 13:37:05+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15813
+2023-12-16 13:52:07+00:00,[User]_fisker,"{'[User]_kachkaev', '[User]_fisker'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15814
+2023-12-16 18:07:42+00:00,[User]_18kimn,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15815
+2023-12-17 11:20:20+00:00,[User]_sosukesuzuki,{'[User]_fisker'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15816
+2023-12-17 23:01:12+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15818
+2023-12-18 01:28:26+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15820
+2023-12-18 02:21:24+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15821
+2023-12-18 03:35:22+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15822
+2023-12-18 07:38:50+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15823
+2023-12-18 09:00:52+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15824
+2023-12-18 11:05:39+00:00,[User]_fisker,{'[User]_Thompson1985'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15825
+2023-12-18 11:47:49+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15826
+2023-12-18 13:05:40+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15827
+2023-12-18 14:25:37+00:00,[User]_mattlewis92,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15828
+2023-12-19 02:50:04+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_thorn0'}",prettier/prettier,2023,https://github.com/prettier/prettier/pull/15831
+2023-12-19 11:39:50+00:00,[User]_Zethson,"{'[User]_jsoref', '[User]_csabasari', '[User]_Zethson'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15832
+2023-12-19 12:16:34+00:00,[User]_rickvandermeij-aanzee,"{'[User]_fisker', '[User]_msoler95', '[User]_rickvandermeij-aanzee', '[User]_BojanKogoj'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15833
+2023-12-19 16:40:54+00:00,[User]_pitgrap,"{'[User]_fisker', '[User]_pitgrap'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15834
+2023-12-20 01:23:28+00:00,[User]_iway1,{'[User]_sosukesuzuki'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15835
+2023-12-20 10:48:00+00:00,[User]_TechMainul-dev,{'[User]_k-utsumi'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15837
+2023-12-20 17:11:59+00:00,[User]_fisker,set(),prettier/prettier,2023,https://github.com/prettier/prettier/pull/15838
+2023-12-20 17:19:36+00:00,[User]_leebenmorris,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15840
+2023-12-22 02:40:04+00:00,[User]_zanazc,"{'[User]_fisker', '[User]_zanazc'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15841
+2023-12-23 17:16:02+00:00,[User]_lopopolo,{'[User]_lopopolo'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15843
+2023-12-25 10:34:51+00:00,[User]_FilipMarkovski,"{'[User]_fisker', '[User]_so1ve'}",prettier/prettier,2023,https://github.com/prettier/prettier/issues/15844
+2023-12-28 11:00:24+00:00,[User]_mloureiro,{'[User]_mloureiro'},prettier/prettier,2023,https://github.com/prettier/prettier/issues/15846
+2023-12-28 14:52:02+00:00,[User]_sosukesuzuki,{'[User]_kachkaev'},prettier/prettier,2023,https://github.com/prettier/prettier/pull/15847
+2023-12-30 00:30:24+00:00,[User]_Laschet-Rambeaud,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15848
+2023-12-30 10:04:38+00:00,[User]_auvred,set(),prettier/prettier,2023,https://github.com/prettier/prettier/issues/15849
+2024-01-02 12:23:54+00:00,[User]_srivatsa17,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15853
+2024-01-02 16:07:16+00:00,[User]_auvred,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15854
+2024-01-03 06:14:36+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15866
+2024-01-03 06:55:39+00:00,[User]_zanminkian,"{'[User]_zanminkian', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15868
+2024-01-03 07:23:39+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15869
+2024-01-03 08:56:40+00:00,[User]_ArchitGajjar,"{'[User]_fisker', '[User]_ArchitGajjar', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15870
+2024-01-03 14:39:42+00:00,[User]_iinuwa,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15871
+2024-01-03 17:00:01+00:00,[User]_tdkbzh,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15872
+2024-01-04 13:40:49+00:00,[User]_agriffis,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15875
+2024-01-04 15:21:41+00:00,[User]_hyoretsu,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15876
+2024-01-05 13:33:05+00:00,[User]_joonashak,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15878
+2024-01-05 15:01:23+00:00,[User]_mbeckem,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_mbeckem'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15879
+2024-01-06 16:12:54+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15883
+2024-01-06 16:30:28+00:00,[User]_JounQin,"{'[User]_fisker', '[User]_JounQin'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15884
+2024-01-06 17:01:19+00:00,[User]_fisker,"{'[User]_fisker', '[User]_liuxingbaoyu'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15885
+2024-01-07 13:58:13+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_kachkaev'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15886
+2024-01-07 14:25:43+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15887
+2024-01-07 14:44:10+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15888
+2024-01-07 14:51:45+00:00,[User]_sosukesuzuki,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/15889
+2024-01-07 15:06:34+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15890
+2024-01-07 15:23:13+00:00,[User]_sosukesuzuki,"{'[User]_kachkaev', '[User]_robinlinden'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15891
+2024-01-07 15:26:49+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15892
+2024-01-07 21:11:40+00:00,[User]_drakejoshua,"{'[User]_fisker', '[User]_drakejoshua'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15893
+2024-01-08 15:23:16+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15895
+2024-01-08 16:03:07+00:00,[User]_eelco,"{'[User]_fisker', '[User]_eelco', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15896
+2024-01-09 10:12:34+00:00,[User]_JoshuaKGoldberg,"{'[User]_fisker', '[User]_JoshuaKGoldberg'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15898
+2024-01-09 14:29:26+00:00,[User]_lpoulter-gradle,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15899
+2024-01-09 15:31:28+00:00,[User]_sdavids,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15900
+2024-01-09 16:17:26+00:00,[User]_fisker,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15902
+2024-01-10 04:41:29+00:00,[User]_MagnarAndre,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/15903
+2024-01-10 08:29:56+00:00,[User]_satohshi,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15904
+2024-01-10 12:18:16+00:00,[User]_cossssmin,{'[User]_cossssmin'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15905
+2024-01-10 15:11:21+00:00,[User]_FloEdelmann,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/15906
+2024-01-11 05:26:14+00:00,[User]_mcandre,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15907
+2024-01-11 09:42:43+00:00,[User]_tjx666,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15908
+2024-01-11 14:23:30+00:00,[User]_seiyab,"{'[User]_fisker', '[User]_seiyab'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15909
+2024-01-12 06:19:45+00:00,[User]_fisker,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15910
+2024-01-12 11:29:14+00:00,[User]_hdodov,"{'[User]_hdodov', '[User]_lukeapage', '[User]_sosukesuzuki', '[User]_fisker'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15911
+2024-01-12 17:50:58+00:00,[User]_epmatsw,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15912
+2024-01-12 18:40:46+00:00,[User]_sosukesuzuki,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15914
+2024-01-12 18:50:31+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15915
+2024-01-12 20:34:38+00:00,[User]_Mozartuss,{'[User]_surgeboris'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15916
+2024-01-12 21:32:18+00:00,[User]_cclauss,"{'[User]_fisker', '[User]_cclauss'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15917
+2024-01-13 12:01:12+00:00,[User]_jjonescz,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15918
+2024-01-13 21:58:42+00:00,[User]_murdos,"{'[User]_kachkaev', '[User]_murdos', '[User]_sosukesuzuki', '[User]_fisker'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15919
+2024-01-14 02:29:51+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15920
+2024-01-14 04:04:29+00:00,[User]_seiyab,{'[User]_seiyab'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15921
+2024-01-14 12:29:40+00:00,[User]_JounQin,"{'[User]_JounQin', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15922
+2024-01-15 05:54:32+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15923
+2024-01-15 10:09:23+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15924
+2024-01-15 11:36:56+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15925
+2024-01-15 13:10:44+00:00,[User]_fisker,"{'[User]_erikbrgn', '[User]_HolgerJeromin', '[User]_sosukesuzuki', '[User]_henrikvolmer', '[User]_gaby'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15927
+2024-01-15 13:54:52+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15928
+2024-01-15 14:12:20+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15929
+2024-01-15 14:34:06+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15932
+2024-01-15 15:05:15+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15933
+2024-01-15 16:02:47+00:00,[User]_matthias-dev,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15934
+2024-01-15 18:08:56+00:00,[User]_akhilpulikkal,{'[User]_akhilpulikkal'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15935
+2024-01-15 18:22:59+00:00,[User]_xenoterracide,"{'[User]_kachkaev', '[User]_xenoterracide'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15936
+2024-01-16 02:24:25+00:00,[User]_JounQin,"{'[User]_JounQin', '[User]_ljharb', '[User]_fisker'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15938
+2024-01-16 08:29:15+00:00,[User]_savchuksavchuk,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15940
+2024-01-17 05:33:22+00:00,[User]_JoshuaKGoldberg,"{'[User]_fisker', '[User]_filiptammergard', '[User]_jiadesen', '[User]_jeripeierSBB', '[User]_slifty', '[User]_JoshuaKGoldberg'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15942
+2024-01-17 06:31:58+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15943
+2024-01-17 06:44:28+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15944
+2024-01-17 08:20:16+00:00,[User]_fisker,"{'[User]_fisker', '[User]_cbazureau', '[User]_ghiscoding', '[User]_kireerik'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15945
+2024-01-17 08:29:12+00:00,[User]_fstaffa,"{'[User]_fisker', '[User]_fstaffa', '[User]_henrikvolmer'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15946
+2024-01-17 09:29:19+00:00,[User]_fisker,{'[User]_jeripeierSBB'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15947
+2024-01-17 11:18:38+00:00,[User]_emilbader,{'[User]_FilipRazek'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15948
+2024-01-17 11:26:12+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15949
+2024-01-17 12:46:21+00:00,[User]_jacobrask,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15950
+2024-01-17 13:50:42+00:00,[User]_lewiswolf,{'[User]_starkovsky'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15951
+2024-01-17 17:14:06+00:00,[User]_almahdi404,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15953
+2024-01-17 19:58:05+00:00,[User]_JoshuaKGoldberg,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15954
+2024-01-18 03:22:10+00:00,[User]_slifty,"{'[User]_electrovir', '[User]_jakubmazanec', '[User]_ehoogeveen-medweb', '[User]_felipecrs', '[User]_kireerik', '[User]_mrmckeb', '[User]_mrazauskas', '[User]_jdno', '[User]_Methuselah96', '[User]_cbazureau', '[User]_cahnory', '[User]_fisker', '[User]_reefdog', '[User]_theoludwig', '[User]_slifty', '[User]_JounQin', '[User]_Zerebokep', '[User]_apepper', '[User]_jorgecasar', '[User]_gaby', '[User]_karlismelderis-mckinsey'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15956
+2024-01-18 14:05:37+00:00,[User]_cbazureau,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15958
+2024-01-18 14:56:02+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15959
+2024-01-18 17:05:23+00:00,[User]_AndyGera,"{'[User]_fisker', '[User]_ghiscoding', '[User]_AndyGera', '[User]_sosukesuzuki', '[User]_jessekrubin'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15960
+2024-01-19 06:39:57+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15962
+2024-01-19 12:56:49+00:00,[User]_lukeapage,"{'[User]_lukeapage', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15964
+2024-01-19 15:20:11+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_rattrayalex'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15965
+2024-01-20 08:10:22+00:00,[User]_t-mangoe,"{'[User]_fisker', '[User]_drewble'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15967
+2024-01-21 04:30:49+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15968
+2024-01-21 07:09:06+00:00,[User]_sosukesuzuki,"{'[User]_JounQin', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15969
+2024-01-21 15:38:30+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15970
+2024-01-22 03:34:24+00:00,[User]_fai8146767,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/15971
+2024-01-22 13:16:28+00:00,[User]_JounQin,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15972
+2024-01-23 01:42:18+00:00,[User]_sosukesuzuki,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/15974
+2024-01-23 06:18:21+00:00,[User]_JounQin,"{'[User]_JounQin', '[User]_fisker'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15975
+2024-01-23 11:52:44+00:00,[User]_SanderRonde,"{'[User]_fisker', '[User]_SanderRonde'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15976
+2024-01-23 12:09:26+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15977
+2024-01-23 13:51:02+00:00,[User]_nene,{'[User]_nene'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15978
+2024-01-23 14:23:31+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15979
+2024-01-24 12:57:40+00:00,[User]_FilipRazek,"{'[User]_fisker', '[User]_FilipRazek'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15980
+2024-01-25 13:35:32+00:00,[User]_edugouvfr,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15983
+2024-01-25 13:54:10+00:00,[User]_cavcrosby,"{'[User]_fisker', '[User]_cavcrosby', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15984
+2024-01-25 14:29:29+00:00,[User]_seiyab,"{'[User]_fisker', '[User]_seiyab'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15985
+2024-01-25 18:10:32+00:00,[User]_Iapetus-11,{'[User]_r-thomson'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15986
+2024-01-26 05:49:33+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/15989
+2024-01-26 17:41:12+00:00,[User]_jacobdalamb,"{'[User]_jacobdalamb', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/15990
+2024-01-27 23:34:51+00:00,[User]_seiyab,"{'[User]_fisker', '[User]_seiyab', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/15993
+2024-01-30 02:12:56+00:00,[User]_trusktr,{'[User]_trusktr'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/15999
+2024-01-30 09:16:18+00:00,[User]_ohaddahan,"{'[User]_fisker', '[User]_ohaddahan'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16000
+2024-01-31 02:38:32+00:00,[User]_KelSolaar,"{'[User]_tkalmar', '[User]_fisker'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16001
+2024-01-31 10:39:46+00:00,[User]_wenfangdu,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16002
+2024-01-31 16:24:04+00:00,[User]_kristof-mattei,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16003
+2024-01-31 19:45:22+00:00,[User]_puru763,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16005
+2024-02-01 04:47:45+00:00,[User]_justingrant,"{'[User]_DATEx2', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16006
+2024-02-01 15:12:49+00:00,[User]_keithlayne,"{'[User]_fisker', '[User]_keithlayne', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16007
+2024-02-01 22:19:03+00:00,[User]_bricejar,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16008
+2024-02-02 10:12:59+00:00,[User]_purplepenguin2,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16009
+2024-02-02 14:02:49+00:00,[User]_sosukesuzuki,"{'[User]_kachkaev', '[User]_fisker'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16010
+2024-02-02 16:11:18+00:00,[User]_rgaiacs,"{'[User]_fisker', '[User]_rgaiacs'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16011
+2024-02-02 18:47:18+00:00,[User]_sosukesuzuki,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16012
+2024-02-03 11:59:28+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16021
+2024-02-03 16:42:50+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16024
+2024-02-03 18:02:36+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16025
+2024-02-03 18:53:30+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16026
+2024-02-03 19:15:16+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16027
+2024-02-03 19:57:12+00:00,[User]_fisker,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16028
+2024-02-04 05:26:29+00:00,[User]_Shaddix,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16030
+2024-02-04 10:55:26+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16031
+2024-02-04 11:44:41+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16032
+2024-02-04 14:14:41+00:00,[User]_aaronadamsCA,"{'[User]_fisker', '[User]_Jaswanth-Sriram-Veturi'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16033
+2024-02-04 16:01:53+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16034
+2024-02-04 16:24:12+00:00,[User]_sosukesuzuki,"{'[User]_fisker', '[User]_bakkot', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16035
+2024-02-05 13:58:32+00:00,[User]_abemedia,{'[User]_garysassano'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16037
+2024-02-06 04:47:25+00:00,[User]_JounQin,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_JounQin'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16038
+2024-02-06 08:37:19+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16041
+2024-02-06 11:16:41+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16043
+2024-02-06 12:00:49+00:00,[User]_badges7,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16054
+2024-02-07 07:39:54+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16055
+2024-02-07 08:27:14+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16056
+2024-02-07 08:43:02+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16057
+2024-02-07 08:55:53+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16058
+2024-02-07 09:21:49+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16059
+2024-02-07 09:56:13+00:00,[User]_fisker,"{'[User]_kachkaev', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16061
+2024-02-07 17:20:00+00:00,[User]_mdentremont,"{'[User]_fisker', '[User]_mdentremont', '[User]_sosukesuzuki', '[User]_kachkaev'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16062
+2024-02-08 14:30:04+00:00,[User]_Atema,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16063
+2024-02-08 19:35:18+00:00,[User]_keithlayne,"{'[User]_fisker', '[User]_keithlayne', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16064
+2024-02-08 20:47:45+00:00,[User]_demensky,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16065
+2024-02-09 19:28:37+00:00,[User]_SamChou19815,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16066
+2024-02-10 01:23:09+00:00,[User]_cxcorp,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16067
+2024-02-10 11:24:54+00:00,[User]_Nefcanto,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16068
+2024-02-11 05:04:10+00:00,[User]_Jaswanth-Sriram-Veturi,"{'[User]_fisker', '[User]_sosukesuzuki', '[User]_Jaswanth-Sriram-Veturi'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16070
+2024-02-11 08:28:39+00:00,[User]_antongolub,"{'[User]_antongolub', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16071
+2024-02-11 16:49:46+00:00,[User]_ArnaudBarre,"{'[User]_fisker', '[User]_ArnaudBarre', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16072
+2024-02-13 15:26:26+00:00,[User]_ExplodingCabbage,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16073
+2024-02-14 11:06:28+00:00,[User]_BapRx,"{'[User]_BapRx', '[User]_lohithasiripurapu'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16074
+2024-02-14 12:36:08+00:00,[User]_amalamalamal,"{'[User]_kachkaev', '[User]_amalamalamal'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16075
+2024-02-14 21:05:12+00:00,[User]_jamesbraza,"{'[User]_tkalmar', '[User]_jamesbraza', '[User]_fisker'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16076
+2024-02-15 08:45:19+00:00,[User]_malthe,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16077
+2024-02-16 03:02:40+00:00,[User]_seiyab,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16078
+2024-02-16 10:26:05+00:00,[User]_hromkes,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16079
+2024-02-17 15:41:25+00:00,[User]_GustavoS7,"{'[User]_ony3000', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16081
+2024-02-17 22:08:27+00:00,[User]_teechap,"{'[User]_fisker', '[User]_teechap', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16082
+2024-02-18 09:19:40+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16083
+2024-02-18 09:50:14+00:00,[User]_fisker,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16084
+2024-02-19 11:09:53+00:00,[User]_marshallm94,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16094
+2024-02-19 12:39:51+00:00,[User]_LazerJesus,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16095
+2024-02-19 14:25:40+00:00,[User]_caozuba,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16097
+2024-02-19 14:26:04+00:00,[User]_caozuba,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16098
+2024-02-19 17:24:01+00:00,[User]_max05,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16099
+2024-02-19 18:17:19+00:00,[User]_chivalry,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16100
+2024-02-19 20:05:02+00:00,[User]_jaens,{'[User]_jaens'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16101
+2024-02-20 05:41:28+00:00,[User]_TOnDAhNe,"{'[User]_MikeMcDonald83', '[User]_phocks', '[User]_sosukesuzuki', '[User]_TOnDAhNe'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16102
+2024-02-21 07:21:31+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16105
+2024-02-21 08:47:07+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16108
+2024-02-21 15:41:35+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16110
+2024-02-21 16:11:21+00:00,[User]_fernandocanizo,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16111
+2024-02-22 06:37:59+00:00,[User]_aryaemami59,"{'[User]_fisker', '[User]_aryaemami59'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16112
+2024-02-22 15:00:13+00:00,[User]_mme,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16113
+2024-02-23 08:01:20+00:00,[User]_sxxov,"{'[User]_bakkot', '[User]_sxxov'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16114
+2024-02-24 05:04:54+00:00,[User]_bakkot,"{'[User]_fisker', '[User]_bakkot', '[User]_sxxov'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16116
+2024-02-24 05:32:07+00:00,[User]_luckydevboy,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16117
+2024-02-24 11:47:48+00:00,[User]_aryaemami59,{'[User]_JounQin'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16119
+2024-02-24 20:57:47+00:00,[User]_kirkwaiblinger,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16121
+2024-02-25 20:25:12+00:00,[User]_valerii15298,"{'[User]_kachkaev', '[User]_npiyush97'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16123
+2024-02-27 07:47:24+00:00,[User]_chrisvltn,"{'[User]_JounQin', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16124
+2024-02-27 20:48:20+00:00,[User]_hamax,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16125
+2024-02-28 23:32:50+00:00,[User]_kirkwaiblinger,"{'[User]_kirkwaiblinger', '[User]_dralshehri'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16126
+2024-02-28 23:42:14+00:00,[User]_kirkwaiblinger,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16127
+2024-02-29 14:05:31+00:00,[User]_IgniparousTempest,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16131
+2024-03-01 11:22:11+00:00,[User]_jdmnd,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16132
+2024-03-01 13:48:07+00:00,[User]_sxzz,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16133
+2024-03-01 22:46:15+00:00,[User]_seiyab,{'[User]_seiyab'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16134
+2024-03-02 17:32:27+00:00,[User]_cryptomilk,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16135
+2024-03-04 06:51:16+00:00,[User]_Nefcanto,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16136
+2024-03-06 04:06:31+00:00,[User]_lfire,"{'[User]_lfire', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16137
+2024-03-06 11:20:59+00:00,[User]_disog,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16138
+2024-03-07 09:28:10+00:00,[User]_bbriean,{'[User]_kachkaev'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16139
+2024-03-07 14:39:47+00:00,[User]_cryptomilk,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16140
+2024-03-07 14:40:06+00:00,[User]_codingmickey,{'[User]_codingmickey'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16141
+2024-03-11 16:09:35+00:00,[User]_Pomax,"{'[User]_bakkot', '[User]_Pomax', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16144
+2024-03-12 05:48:53+00:00,[User]_advanderveer,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16146
+2024-03-12 09:39:05+00:00,[User]_muuvmuuv,"{'[User]_fisker', '[User]_yanapeycheva', '[User]_muuvmuuv', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16147
+2024-03-12 15:12:07+00:00,[User]_BoxenOfDonuts,"{'[User]_bakkot', '[User]_yanapeycheva'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16148
+2024-03-13 11:19:37+00:00,[User]_kaifulee,"{'[User]_fisker', '[User]_kachkaev'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16149
+2024-03-13 13:36:56+00:00,[User]_gdbd,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16150
+2024-03-14 02:02:05+00:00,[User]_babakfp,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16151
+2024-03-14 11:51:41+00:00,[User]_Pietrucci-Blacher,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16152
+2024-03-14 14:47:53+00:00,[User]_Pietrucci-Blacher,"{'[User]_fisker', '[User]_Pietrucci-Blacher'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16153
+2024-03-14 17:42:01+00:00,[User]_0xflotus,"{'[User]_kachkaev', '[User]_fisker'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16154
+2024-03-18 12:44:06+00:00,[User]_n1kk,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16156
+2024-03-19 00:27:58+00:00,[User]_danielbayley,"{'[User]_danielbayley', '[User]_sosukesuzuki', '[User]_fisker'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16157
+2024-03-20 07:05:54+00:00,[User]_seiyab,"{'[User]_seiyab', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16158
+2024-03-20 12:24:53+00:00,[User]_Godrules500,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16159
+2024-03-21 00:52:34+00:00,[User]_njzjz,"{'[User]_yanapeycheva', '[User]_VKondakoff', '[User]_zhuozhiyongde', '[User]_njzjz'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16160
+2024-03-21 17:14:19+00:00,[User]_SudiptaAdhikaryJoy,"{'[User]_alexander-akait', '[User]_SudiptaAdhikaryJoy'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16162
+2024-03-25 08:10:44+00:00,[User]_pauldraper,"{'[User]_fisker', '[User]_jaydenseric', '[User]_sosukesuzuki', '[User]_pauldraper'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16163
+2024-03-25 15:09:31+00:00,[User]_onehe2211,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16164
+2024-03-26 11:23:18+00:00,[User]_GrimLink,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16165
+2024-03-27 10:38:49+00:00,[User]_janpaepke,{'[User]_kirkwaiblinger'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16167
+2024-03-27 15:58:46+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16168
+2024-03-28 19:57:18+00:00,[User]_michaele-blend,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16183
+2024-03-30 06:52:27+00:00,[User]_dqh-au,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16184
+2024-03-30 13:15:10+00:00,[User]_luehmann,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16185
+2024-04-01 21:48:07+00:00,[User]_hamirmahal,"{'[User]_fisker', '[User]_hamirmahal', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16188
+2024-04-02 09:44:11+00:00,[User]_benjie,{'[User]_benjie'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16189
+2024-04-02 13:31:37+00:00,[User]_nechita,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16190
+2024-04-02 21:43:24+00:00,[User]_SamChou19815,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16191
+2024-04-03 04:43:13+00:00,[User]_kirkwaiblinger,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16192
+2024-04-03 10:31:33+00:00,[User]_babakfp,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16193
+2024-04-04 00:09:35+00:00,[User]_kirkwaiblinger,"{'[User]_fisker', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16194
+2024-04-04 12:45:18+00:00,[User]_BenJam,{'[User]_BenJam'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16195
+2024-04-04 16:23:53+00:00,[User]_nicolo-ribaudo,"{'[User]_fisker', '[User]_nicolo-ribaudo', '[User]_Aspyryan'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16205
+2024-04-05 09:45:29+00:00,[User]_TheDevMinerTV,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16206
+2024-04-05 11:13:33+00:00,[User]_Woodz,{'[User]_sosukesuzuki'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16207
+2024-04-07 07:25:16+00:00,[User]_hamirmahal,"{'[User]_fisker', '[User]_hamirmahal'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16209
+2024-04-08 07:40:01+00:00,[User]_fisker,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16210
+2024-04-08 15:57:10+00:00,[User]_CharlesDM,{'[User]_fisker'},prettier/prettier,2024,https://github.com/prettier/prettier/pull/16211
+2024-04-09 01:27:54+00:00,[User]_hwhang0917,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16212
+2024-04-11 00:49:09+00:00,[User]_nurulakbaral,"{'[User]_fisker', '[User]_nurulakbaral'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16217
+2024-04-11 10:41:54+00:00,[User]_ntnyq,"{'[User]_SirJosh1987', '[User]_5kander'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16218
+2024-04-15 02:51:38+00:00,[User]_Mohamad1999hadi,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16220
+2024-04-15 13:05:10+00:00,[User]_gultyayev,"{'[User]_json-derulo', '[User]_gultyayev'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16222
+2024-04-15 18:21:05+00:00,[User]_Mrgaton,"{'[User]_Mrgaton', '[User]_sosukesuzuki'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16225
+2024-04-19 11:48:58+00:00,[User]_akudev,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16228
+2024-04-20 12:11:23+00:00,[User]_louwers,"{'[User]_fisker', '[User]_louwers', '[User]_kbroch-rivosinc', '[User]_kachkaev'}",prettier/prettier,2024,https://github.com/prettier/prettier/pull/16229
+2024-04-20 17:05:25+00:00,[User]_SanderRonde,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16230
+2024-04-25 07:37:55+00:00,[User]_apfelbox,"{'[User]_apfelbox', '[User]_guilhermetod'}",prettier/prettier,2024,https://github.com/prettier/prettier/issues/16232
+2024-04-26 02:11:02+00:00,[User]_MeanderingProgrammer,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16234
+2024-04-26 11:29:46+00:00,[User]_Quintisimo,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16235
+2024-04-29 08:34:37+00:00,[User]_everdimension,{'[User]_obunga99'},prettier/prettier,2024,https://github.com/prettier/prettier/issues/16241
+2024-04-29 14:25:35+00:00,[User]_yanapeycheva,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16242
+2024-04-30 03:13:51+00:00,[User]_Janther,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16244
+2024-04-30 05:02:06+00:00,[User]_Nasicus,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16245
+2024-04-30 10:47:56+00:00,[User]_gmrhom19,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16246
+2024-04-30 13:18:49+00:00,[User]_ubaldot,set(),prettier/prettier,2024,https://github.com/prettier/prettier/issues/16249
+2024-04-30 13:25:19+00:00,[User]_sosukesuzuki,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16250
+2024-04-30 22:38:19+00:00,[User]_mwb-u,set(),prettier/prettier,2024,https://github.com/prettier/prettier/pull/16251

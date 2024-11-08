@@ -1,0 +1,549 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 05:16:39+00:00,[User]_iVoider,"{'[User]_ekpyron', '[User]_bshastry'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14174
+2023-05-02 04:44:44+00:00,[User]_qwaz-theori,"{'[User]_ekpyron', '[User]_AnuragNishad12'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14175
+2023-05-02 13:55:02+00:00,[User]_r0qs,"{'[User]_ekpyron', '[User]_r0qs', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14176
+2023-05-03 10:56:05+00:00,[User]_hellwolf,"{'[User]_drgorillamd', '[User]_hellwolf'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14179
+2023-05-04 06:03:33+00:00,[User]_matheusaaguiar,"{'[User]_ekpyron', '[User]_matheusaaguiar', '[User]_leonardoalt', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14180
+2023-05-04 10:27:34+00:00,[User]_bshastry,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14181
+2023-05-04 10:30:52+00:00,[User]_bshastry,{'[User]_blishko'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14182
+2023-05-04 14:10:28+00:00,[User]_ekpyron,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14183
+2023-05-04 14:18:19+00:00,[User]_ekpyron,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14184
+2023-05-04 16:44:14+00:00,[User]_NunoFilipeSantos,{'[User]_matheusaaguiar'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14185
+2023-05-05 09:19:53+00:00,[User]_bshastry,"{'[User]_nikola-matic', '[User]_bshastry'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14187
+2023-05-05 09:40:32+00:00,[User]_bshastry,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14188
+2023-05-05 10:45:32+00:00,[User]_NunoFilipeSantos,"{'[User]_NunoFilipeSantos', '[User]_r0qs'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14189
+2023-05-06 13:50:57+00:00,[User]_r0qs,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14191
+2023-05-08 08:41:23+00:00,[User]_michprev,{'[User]_michprev'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14192
+2023-05-08 16:38:47+00:00,[User]_aarlt,"{'[User]_ekpyron', '[User]_hrkrshnn'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14194
+2023-05-09 02:54:21+00:00,[User]_Zhaojun-Liu,"{'[User]_Zhaojun-Liu', '[User]_ekpyron'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14197
+2023-05-09 10:12:30+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_hrkrshnn', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14198
+2023-05-09 16:02:10+00:00,[User]_ekpyron,"{'[User]_axic', '[User]_ekpyron'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14200
+2023-05-09 17:47:36+00:00,[User]_nikola-matic,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14201
+2023-05-10 09:39:09+00:00,[User]_ekpyron,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14203
+2023-05-10 09:49:51+00:00,[User]_ekpyron,{'[User]_hrkrshnn'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14204
+2023-05-10 10:03:39+00:00,[User]_ekpyron,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14205
+2023-05-10 13:18:08+00:00,[User]_0xbok,"{'[User]_ekpyron', '[User]_Coollaitar', '[User]_0xbok'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14207
+2023-05-10 15:54:18+00:00,[User]_ekpyron,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14209
+2023-05-10 16:28:20+00:00,[User]_pgebal,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14211
+2023-05-10 18:24:32+00:00,[User]_pcaversaccio,"{'[User]_cameel', '[User]_pcaversaccio'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14212
+2023-05-11 12:42:42+00:00,[User]_kuzdogan,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14214
+2023-05-11 14:15:43+00:00,[User]_aarlt,{'[User]_NunoFilipeSantos'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14215
+2023-05-11 14:46:17+00:00,[User]_leonardoalt,{'[User]_pgebal'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14216
+2023-05-11 17:06:33+00:00,[User]_PaulRBerg,"{'[User]_PaulRBerg', '[User]_adityakode', '[User]_AnuragNishad12', '[User]_gabrielkrell', '[User]_auryn-macmillan'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14217
+2023-05-12 15:05:55+00:00,[User]_pgebal,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14218
+2023-05-15 05:34:23+00:00,[User]_mcgrathcoutinho,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14224
+2023-05-15 13:08:54+00:00,[User]_NunoFilipeSantos,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14225
+2023-05-15 17:30:25+00:00,[User]_r0qs,"{'[User]_aarlt', '[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14229
+2023-05-15 18:43:00+00:00,[User]_r0qs,"{'[User]_AnuragNishad12', '[User]_r0qs'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14230
+2023-05-16 13:46:49+00:00,[User]_nikola-matic,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14231
+2023-05-16 15:06:35+00:00,[User]_r0qs,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14232
+2023-05-16 15:12:26+00:00,[User]_nikola-matic,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14233
+2023-05-16 17:02:14+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14234
+2023-05-17 09:57:35+00:00,[User]_bshastry,{'[User]_bshastry'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14236
+2023-05-17 11:10:31+00:00,[User]_robriks,"{'[User]_r0qs', '[User]_robriks'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14238
+2023-05-17 14:21:56+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14239
+2023-05-17 14:34:53+00:00,[User]_ekpyron,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14240
+2023-05-17 14:41:34+00:00,[User]_cameel,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14241
+2023-05-17 14:43:55+00:00,[User]_r0qs,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14242
+2023-05-17 14:46:41+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14243
+2023-05-18 07:22:26+00:00,[User]_barakman,"{'[User]_SevenSwen', '[User]_hrkrshnn', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14244
+2023-05-18 10:02:13+00:00,[User]_davidbrai,"{'[User]_davidbrai', '[User]_cameel', '[User]_NunoFilipeSantos'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14245
+2023-05-18 12:27:56+00:00,[User]_hpumengzhao,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14246
+2023-05-18 17:01:04+00:00,[User]_r0qs,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14247
+2023-05-18 17:04:26+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14248
+2023-05-19 13:05:14+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14249
+2023-05-19 14:42:11+00:00,[User]_kuzdogan,"{'[User]_ekpyron', '[User]_cameel', '[User]_kuzdogan'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14250
+2023-05-20 13:53:33+00:00,[User]_johnnygee19,"{'[User]_NunoFilipeSantos', '[User]_AnuragNishad12'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14253
+2023-05-20 15:43:09+00:00,[User]_reupcash,"{'[User]_joshlang', '[User]_reupcash'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14254
+2023-05-23 11:03:17+00:00,[User]_davidBar-On,"{'[User]_davidBar-On', '[User]_matheusaaguiar'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14259
+2023-05-23 13:44:36+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14261
+2023-05-24 07:30:58+00:00,[User]_davidBar-On,"{'[User]_davidBar-On', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14262
+2023-05-24 10:39:23+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14263
+2023-05-24 14:28:39+00:00,[User]_cameel,"{'[User]_nikola-matic', '[User]_aarlt', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14264
+2023-05-25 09:58:09+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_aarlt', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14268
+2023-05-25 18:28:32+00:00,[User]_matheusaaguiar,"{'[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14272
+2023-05-26 06:37:46+00:00,[User]_AnuragNishad12,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14273
+2023-05-26 09:54:56+00:00,[User]_nikola-matic,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14274
+2023-05-26 10:03:14+00:00,[User]_blishko,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14275
+2023-05-26 12:20:15+00:00,[User]_blishko,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14276
+2023-05-26 12:46:05+00:00,[User]_0x000000000000null,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14277
+2023-05-29 03:37:14+00:00,[User]_Dha0,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14278
+2023-05-30 18:17:35+00:00,[User]_NunoFilipeSantos,{'[User]_matheusaaguiar'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14280
+2023-05-31 05:22:18+00:00,[User]_matheusaaguiar,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14282
+2023-06-01 08:09:19+00:00,[User]_mbcse,"{'[User]_Prezzy06', '[User]_mbcse'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14286
+2023-06-01 18:47:31+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14289
+2023-06-02 10:29:09+00:00,[User]_r0qs,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14290
+2023-06-02 10:57:35+00:00,[User]_r0qs,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14291
+2023-06-02 14:13:37+00:00,[User]_cameel,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14292
+2023-06-03 11:17:24+00:00,[User]_Alinawaz-786,"{'[User]_Alinawaz-786', '[User]_Prezzy06', '[User]_r0qs', '[User]_HamzaMobeen786'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14294
+2023-06-07 11:43:26+00:00,[User]_ekpyron,"{'[User]_matheusaaguiar', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14310
+2023-06-07 13:56:56+00:00,[User]_ekpyron,"{'[User]_ekpyron', '[User]_r0qs', '[User]_aarlt'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14311
+2023-06-08 04:40:33+00:00,[User]_bunthoeunstable,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14312
+2023-06-12 13:31:41+00:00,[User]_r0qs,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14317
+2023-06-13 12:18:59+00:00,[User]_ekpyron,"{'[User]_AnuragNishad12', '[User]_matheusaaguiar'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14319
+2023-06-13 13:13:38+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14321
+2023-06-13 13:24:53+00:00,[User]_ekpyron,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14322
+2023-06-14 12:37:33+00:00,[User]_rellfy,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14326
+2023-06-14 12:43:00+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14327
+2023-06-14 14:24:49+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14328
+2023-06-15 13:38:45+00:00,[User]_cameel,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14330
+2023-06-16 07:54:35+00:00,[User]_zhiqiangxu,"{'[User]_kuzdogan', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14331
+2023-06-17 14:45:54+00:00,[User]_migoldfinger,"{'[User]_migoldfinger', '[User]_ekpyron'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14332
+2023-06-17 23:20:38+00:00,[User]_migoldfinger,"{'[User]_migoldfinger', '[User]_DonMartin3z'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14333
+2023-06-19 00:18:53+00:00,[User]_migoldfinger,{'[User]_migoldfinger'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14335
+2023-06-19 12:26:54+00:00,[User]_cameel,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14336
+2023-06-19 13:45:16+00:00,[User]_cameel,"{'[User]_thedavidmeister', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14337
+2023-06-19 14:51:53+00:00,[User]_cameel,{'[User]_matheusaaguiar'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14338
+2023-06-20 12:16:06+00:00,[User]_cameel,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14339
+2023-06-21 05:47:56+00:00,[User]_quirp,{'[User]_quirp'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14341
+2023-06-21 10:20:49+00:00,[User]_nikola-matic,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14342
+2023-06-21 14:06:10+00:00,[User]_ekpyron,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14343
+2023-06-21 15:58:06+00:00,[User]_pgebal,"{'[User]_pgebal', '[User]_leonardoalt'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14344
+2023-06-21 22:05:16+00:00,[User]_molecula451,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14345
+2023-06-22 16:15:36+00:00,[User]_matheusaaguiar,"{'[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14347
+2023-06-23 09:44:52+00:00,[User]_cameel,"{'[User]_matheusaaguiar', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14350
+2023-06-23 11:40:47+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14351
+2023-06-23 16:52:08+00:00,[User]_cameel,{'[User]_matheusaaguiar'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14353
+2023-06-23 17:57:28+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14354
+2023-06-23 18:02:02+00:00,[User]_cameel,"{'[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14355
+2023-06-26 07:29:09+00:00,[User]_pcaversaccio,"{'[User]_aathan', '[User]_mds1', '[User]_ekpyron', '[User]_cameel', '[User]_pcaversaccio'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14358
+2023-06-26 08:28:25+00:00,[User]_frontier159,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14359
+2023-06-26 10:25:21+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel', '[User]_kuzdogan'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14361
+2023-06-26 10:51:18+00:00,[User]_cameel,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14362
+2023-06-26 10:58:47+00:00,[User]_cameel,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14363
+2023-06-26 12:26:37+00:00,[User]_cameel,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14364
+2023-06-26 15:02:16+00:00,[User]_ekpyron,"{'[User]_ekpyron', '[User]_r0qs', '[User]_matheusaaguiar', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14365
+2023-06-26 15:15:09+00:00,[User]_ekpyron,"{'[User]_ekpyron', '[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14366
+2023-06-26 18:13:30+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14368
+2023-06-28 14:10:53+00:00,[User]_GabrielVilarinho,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14372
+2023-06-28 14:31:39+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14374
+2023-06-30 13:59:29+00:00,[User]_sebastiantf,"{'[User]_matheusaaguiar', '[User]_Ifechukwudaniel', '[User]_sebastiantf'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14376
+2023-06-30 14:02:13+00:00,[User]_blishko,{'[User]_leonardoalt'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14377
+2023-07-03 16:48:13+00:00,[User]_prestwich,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14379
+2023-07-04 12:45:21+00:00,[User]_0x0OZ,{'[User]_0x0OZ'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14380
+2023-07-04 15:34:00+00:00,[User]_ZigBalthazar,"{'[User]_cameel', '[User]_Derixtar54', '[User]_nikola-matic', '[User]_Sachin737', '[User]_ZigBalthazar'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14381
+2023-07-05 01:19:10+00:00,[User]_minaminao,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14382
+2023-07-08 12:30:20+00:00,[User]_hpumengzhao,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14387
+2023-07-08 13:36:33+00:00,[User]_hpumengzhao,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14388
+2023-07-08 15:26:01+00:00,[User]_Jorropo,"{'[User]_kuzdogan', '[User]_bumblefudge'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14389
+2023-07-08 23:46:50+00:00,[User]_criadoperez,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14390
+2023-07-10 05:36:07+00:00,[User]_alpinevm,"{'[User]_NunoFilipeSantos', '[User]_matheusaaguiar'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14391
+2023-07-10 10:29:49+00:00,[User]_cameel,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14393
+2023-07-10 11:37:37+00:00,[User]_nikola-matic,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14394
+2023-07-10 13:42:53+00:00,[User]_cameel,"{'[User]_cameel', '[User]_molecula451'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14396
+2023-07-10 14:28:39+00:00,[User]_r0qs,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14398
+2023-07-10 15:33:04+00:00,[User]_cameel,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14399
+2023-07-11 09:31:10+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14402
+2023-07-11 10:16:48+00:00,[User]_ultrasecreth,"{'[User]_cameel', '[User]_agnxsh'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14404
+2023-07-11 11:04:30+00:00,[User]_nikola-matic,{'[User]_matheusaaguiar'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14405
+2023-07-11 13:25:24+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14407
+2023-07-11 18:30:49+00:00,[User]_nikola-matic,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14408
+2023-07-12 08:06:40+00:00,[User]_nikola-matic,{'[User]_matheusaaguiar'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14409
+2023-07-12 12:09:59+00:00,[User]_nikola-matic,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14410
+2023-07-14 10:54:44+00:00,[User]_nikola-matic,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14411
+2023-07-14 12:48:06+00:00,[User]_r0qs,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14412
+2023-07-14 21:22:44+00:00,[User]_Megakith32,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14413
+2023-07-14 21:23:08+00:00,[User]_Megakith32,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14414
+2023-07-15 20:37:59+00:00,[User]_alphak3y,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14415
+2023-07-17 14:27:29+00:00,[User]_aathan,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14417
+2023-07-18 15:36:05+00:00,[User]_cameel,"{'[User]_NunoFilipeSantos', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14419
+2023-07-18 15:50:35+00:00,[User]_r0qs,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14420
+2023-07-18 16:07:22+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14421
+2023-07-18 17:57:05+00:00,[User]_nikola-matic,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14422
+2023-07-18 18:07:01+00:00,[User]_nikola-matic,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14423
+2023-07-19 07:27:27+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14427
+2023-07-19 10:23:01+00:00,[User]_r0qs,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14428
+2023-07-19 14:30:55+00:00,[User]_wackerow,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14429
+2023-07-19 21:52:59+00:00,[User]_Amxx,"{'[User]_blitz-1306', '[User]_Amxx', '[User]_pcaversaccio', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14430
+2023-07-20 08:43:03+00:00,[User]_ravindranrahul,{'[User]_ravindranrahul'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14432
+2023-07-20 10:24:11+00:00,[User]_cameel,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14433
+2023-07-20 11:29:12+00:00,[User]_nikola-matic,"{'[User]_frangio', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14434
+2023-07-20 19:59:26+00:00,[User]_wackerow,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14436
+2023-07-20 20:39:20+00:00,[User]_wackerow,{'[User]_NunoFilipeSantos'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14437
+2023-07-20 23:07:27+00:00,[User]_wackerow,{'[User]_NunoFilipeSantos'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14439
+2023-07-21 13:58:46+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14441
+2023-07-23 15:26:32+00:00,[User]_SteMak,"{'[User]_luislucena16', '[User]_fulldecent', '[User]_wadealexc', '[User]_n00b21337', '[User]_agnxsh'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14442
+2023-07-24 06:50:00+00:00,[User]_charlesxsh,"{'[User]_r0qs', '[User]_charlesxsh'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14444
+2023-07-25 09:27:48+00:00,[User]_blishko,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14446
+2023-07-25 10:22:47+00:00,[User]_pgebal,"{'[User]_pgebal', '[User]_agnxsh'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14447
+2023-07-25 10:24:24+00:00,[User]_pgebal,{'[User]_leonardoalt'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14448
+2023-07-25 15:18:45+00:00,[User]_pgebal,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14449
+2023-07-26 14:38:16+00:00,[User]_franzihei,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14451
+2023-07-26 21:52:53+00:00,[User]_haltman-at,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14452
+2023-07-26 21:56:52+00:00,[User]_haltman-at,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14453
+2023-07-28 11:36:22+00:00,[User]_r0qs,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14455
+2023-07-31 12:38:24+00:00,[User]_ekpyron,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14459
+2023-08-01 22:05:52+00:00,[User]_wackerow,{'[User]_NunoFilipeSantos'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14462
+2023-08-02 15:46:57+00:00,[User]_pgebal,"{'[User]_blishko', '[User]_pgebal', '[User]_leonardoalt'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14464
+2023-08-02 20:26:01+00:00,[User]_blishko,"{'[User]_blishko', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14465
+2023-08-04 18:19:40+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14468
+2023-08-04 18:20:03+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14469
+2023-08-04 23:29:25+00:00,[User]_haltman-at,"{'[User]_Assawal', '[User]_ekpyron', '[User]_cameel', '[User]_haltman-at', '[User]_mehtavishwa30'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14470
+2023-08-06 13:49:09+00:00,[User]_hpumengzhao,{'[User]_Derixtar54'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14471
+2023-08-06 13:57:07+00:00,[User]_hpumengzhao,{'[User]_gkirat'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14472
+2023-08-07 12:13:55+00:00,[User]_cameel,"{'[User]_blishko', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14473
+2023-08-07 12:35:35+00:00,[User]_cameel,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14474
+2023-08-07 13:41:28+00:00,[User]_ekpyron,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14475
+2023-08-07 15:02:31+00:00,[User]_ekpyron,{'[User]_matheusaaguiar'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14476
+2023-08-07 15:13:32+00:00,[User]_ekpyron,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14477
+2023-08-07 16:46:41+00:00,[User]_cameel,"{'[User]_blishko', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14478
+2023-08-07 17:59:59+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14480
+2023-08-08 11:21:26+00:00,[User]_cameel,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14481
+2023-08-08 21:51:03+00:00,[User]_pcaversaccio,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14483
+2023-08-11 11:18:36+00:00,[User]_fvictorio,"{'[User]_fvictorio', '[User]_virusbug07', '[User]_vvarl0cks'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14484
+2023-08-12 08:57:48+00:00,[User]_sambacha,"{'[User]_mehtavishwa30', '[User]_nidhi-singh02'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14486
+2023-08-14 08:38:57+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14488
+2023-08-14 19:38:05+00:00,[User]_nikola-matic,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14490
+2023-08-14 20:19:42+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14491
+2023-08-15 08:54:16+00:00,[User]_nikola-matic,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14492
+2023-08-15 14:21:56+00:00,[User]_nikola-matic,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14493
+2023-08-16 14:19:45+00:00,[User]_cameel,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14495
+2023-08-16 15:28:12+00:00,[User]_ekpyron,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14496
+2023-08-17 08:20:03+00:00,[User]_AnuragNishad12,"{'[User]_kuzdogan', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14498
+2023-08-17 13:54:11+00:00,[User]_nikola-matic,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14499
+2023-08-17 18:41:23+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14500
+2023-08-19 00:41:58+00:00,[User]_banteg,"{'[User]_ultrasecreth', '[User]_cameel', '[User]_wschwab', '[User]_banteg', '[User]_matheusaaguiar'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14501
+2023-08-21 11:07:29+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_r0qs', '[User]_matheusaaguiar', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14505
+2023-08-21 11:13:39+00:00,[User]_cameel,"{'[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14506
+2023-08-21 12:05:24+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14507
+2023-08-21 21:20:23+00:00,[User]_ItsNickBarry,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14509
+2023-08-22 18:15:30+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_matheusaaguiar', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14511
+2023-08-24 15:20:23+00:00,[User]_Akkii4,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14516
+2023-08-25 20:02:12+00:00,[User]_cameel,"{'[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14517
+2023-08-25 20:26:09+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_matheusaaguiar', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14518
+2023-08-28 18:52:12+00:00,[User]_AntoineMrtl,"{'[User]_AntoineMrtl', '[User]_ekpyron', '[User]_ALIR86'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14523
+2023-09-04 10:22:55+00:00,[User]_nikola-matic,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14530
+2023-09-04 14:06:44+00:00,[User]_ekpyron,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14531
+2023-09-05 06:50:56+00:00,[User]_nikola-matic,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14533
+2023-09-05 09:21:41+00:00,[User]_pgebal,"{'[User]_pgebal', '[User]_blishko', '[User]_ALIR86', '[User]_leonardoalt'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14534
+2023-09-05 12:25:13+00:00,[User]_ekpyron,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14535
+2023-09-05 13:03:04+00:00,[User]_nikola-matic,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14536
+2023-09-05 14:48:17+00:00,[User]_Pavlovskiiy,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14537
+2023-09-06 12:06:03+00:00,[User]_nikola-matic,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14540
+2023-09-06 14:29:20+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14541
+2023-09-06 15:54:36+00:00,[User]_cameel,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14542
+2023-09-07 10:21:18+00:00,[User]_cameel,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14547
+2023-09-07 12:59:27+00:00,[User]_akalmykov,"{'[User]_cameel', '[User]_akalmykov'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14549
+2023-09-08 16:49:59+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14552
+2023-09-08 19:31:40+00:00,[User]_sherpya,"{'[User]_r0qs', '[User]_kylianpep', '[User]_sherpya'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14553
+2023-09-09 15:31:49+00:00,[User]_yusuhua122,"{'[User]_yusuhua122', '[User]_ALIR86', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14555
+2023-09-11 10:41:36+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14556
+2023-09-11 12:45:06+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14558
+2023-09-11 14:58:55+00:00,[User]_cameel,"{'[User]_kuzdogan', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14559
+2023-09-11 15:44:49+00:00,[User]_cameel,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14560
+2023-09-12 13:54:22+00:00,[User]_r0qs,"{'[User]_ekpyron', '[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14562
+2023-09-17 04:11:15+00:00,[User]_rajgits,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14564
+2023-09-18 07:58:20+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_cameel', '[User]_Hsenaai'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14565
+2023-09-18 17:03:25+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14566
+2023-09-19 09:32:40+00:00,[User]_adu-web3,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14567
+2023-09-19 09:56:37+00:00,[User]_adu-web3,"{'[User]_r0qs', '[User]_adu-web3'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14568
+2023-09-22 12:49:35+00:00,[User]_acmLL,"{'[User]_acmLL', '[User]_r0qs', '[User]_leonardoalt', '[User]_R-Morpheus'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14573
+2023-09-22 17:41:33+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14574
+2023-09-29 20:55:10+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_r0qs', '[User]_matheusaaguiar', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14580
+2023-10-02 11:25:51+00:00,[User]_nikola-matic,{'[User]_matheusaaguiar'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14581
+2023-10-02 21:38:32+00:00,[User]_mysteryon88,"{'[User]_r0qs', '[User]_mysteryon88'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14583
+2023-10-03 16:52:57+00:00,[User]_DevUreak,"{'[User]_r0qs', '[User]_DevUreak'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14584
+2023-10-04 11:42:45+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14585
+2023-10-05 07:22:41+00:00,[User]_CJ42,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14587
+2023-10-05 10:27:21+00:00,[User]_bshastry,"{'[User]_ekpyron', '[User]_cameel', '[User]_bshastry'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14588
+2023-10-05 15:12:51+00:00,[User]_CJ42,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14589
+2023-10-06 15:44:43+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14590
+2023-10-06 16:02:12+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14591
+2023-10-08 04:27:44+00:00,[User]_barracuda156,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14592
+2023-10-08 04:33:20+00:00,[User]_barracuda156,{'[User]_barracuda156'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14593
+2023-10-09 09:22:14+00:00,[User]_CodeSandwich,"{'[User]_CodeSandwich', '[User]_NoahMarconi'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14595
+2023-10-09 10:24:01+00:00,[User]_bshastry,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14596
+2023-10-09 11:37:13+00:00,[User]_bshastry,"{'[User]_ekpyron', '[User]_cameel', '[User]_bshastry'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14597
+2023-10-09 21:39:32+00:00,[User]_l-Zetta-l,{'[User]_l-Zetta-l'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14598
+2023-10-10 13:26:22+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14599
+2023-10-10 13:49:10+00:00,[User]_nikola-matic,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14600
+2023-10-12 05:20:20+00:00,[User]_0xOlias,"{'[User]_mehtavishwa30', '[User]_divyasshree-BQ', '[User]_r0qs', '[User]_Divyn'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14604
+2023-10-12 11:47:15+00:00,[User]_bshastry,"{'[User]_cameel', '[User]_bshastry'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14605
+2023-10-12 20:40:36+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14606
+2023-10-13 09:32:20+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14610
+2023-10-13 11:09:38+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14611
+2023-10-14 01:06:55+00:00,[User]_Missjones2,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14613
+2023-10-14 03:22:38+00:00,[User]_Missjones2,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14614
+2023-10-14 13:39:59+00:00,[User]_Missjones2,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14615
+2023-10-14 16:54:09+00:00,[User]_Missjones2,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14616
+2023-10-15 04:39:45+00:00,[User]_SleepTheGod,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14618
+2023-10-16 07:54:17+00:00,[User]_winsvega,"{'[User]_qbzzt', '[User]_r0qs', '[User]_winsvega', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14619
+2023-10-17 08:33:51+00:00,[User]_alex1448,"{'[User]_r0qs', '[User]_cameel', '[User]_alex1448'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14624
+2023-10-18 09:49:26+00:00,[User]_bshastry,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14625
+2023-10-19 06:09:24+00:00,[User]_Enigmatic331,"{'[User]_r0qs', '[User]_Enigmatic331'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14626
+2023-10-20 20:18:08+00:00,[User]_cameel,{'[User]_Ekzer'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14628
+2023-10-23 16:03:29+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14635
+2023-10-24 08:08:25+00:00,[User]_nikola-matic,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14637
+2023-10-24 15:35:00+00:00,[User]_Subway2023,"{'[User]_Subway2023', '[User]_Nochao', '[User]_bshastry', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14639
+2023-10-24 21:47:53+00:00,[User]_qbzzt,"{'[User]_ekpyron', '[User]_qbzzt', '[User]_cameel', '[User]_Subway2023'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14640
+2023-10-25 09:12:48+00:00,[User]_nikola-matic,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14641
+2023-10-25 09:31:45+00:00,[User]_cameel,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14642
+2023-10-25 10:45:48+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14644
+2023-10-25 12:00:50+00:00,[User]_nikola-matic,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14645
+2023-10-25 12:26:43+00:00,[User]_ekpyron,"{'[User]_ekpyron', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14646
+2023-10-25 23:13:30+00:00,[User]_ekpyron,"{'[User]_ekpyron', '[User]_r0qs', '[User]_matheusaaguiar', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14649
+2023-10-26 14:35:11+00:00,[User]_nikola-matic,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14651
+2023-10-27 15:18:26+00:00,[User]_nicolasgarcia214,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14652
+2023-10-30 13:11:08+00:00,[User]_CarlosAndresRamirez,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14656
+2023-10-30 14:19:29+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14657
+2023-10-30 16:41:32+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14658
+2023-10-31 13:10:56+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14660
+2023-11-01 19:52:10+00:00,[User]_quirp,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14662
+2023-11-07 06:59:03+00:00,[User]_leo4048111,"{'[User]_ekpyron', '[User]_leo4048111'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14669
+2023-11-07 22:54:02+00:00,[User]_Polkadotclaim,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14670
+2023-11-08 08:18:26+00:00,[User]_nikola-matic,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14671
+2023-11-08 09:06:11+00:00,[User]_nikola-matic,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14672
+2023-11-08 10:51:25+00:00,[User]_cameel,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14674
+2023-11-08 11:25:25+00:00,[User]_nikola-matic,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14675
+2023-11-08 11:39:11+00:00,[User]_elanzalaco,{'[User]_qwerty472123'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14676
+2023-11-08 18:02:15+00:00,[User]_ernestognw,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14677
+2023-11-09 18:26:38+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14678
+2023-11-10 20:05:39+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_r0qs', '[User]_cameel', '[User]_christianlantin'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14679
+2023-11-11 19:18:55+00:00,[User]_molecula451,"{'[User]_ALIR86', '[User]_nikola-matic', '[User]_molecula451'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14681
+2023-11-15 16:15:59+00:00,[User]_ArielTM,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14684
+2023-11-16 15:27:09+00:00,[User]_desp4c1to,"{'[User]_desp4c1to', '[User]_r0qs', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14686
+2023-11-17 10:40:10+00:00,[User]_pgebal,"{'[User]_pgebal', '[User]_blishko', '[User]_leonardoalt', '[User]_r0qs'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14685
+2023-11-22 06:06:26+00:00,[User]_bshastry,"{'[User]_ekpyron', '[User]_bshastry', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14693
+2023-11-23 11:57:12+00:00,[User]_acmLL,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14695
+2023-11-23 19:26:02+00:00,[User]_kopy-kat,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14697
+2023-11-24 13:18:38+00:00,[User]_accessor-io,{'[User]_accessor-io'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14698
+2023-11-24 18:44:48+00:00,[User]_BeamNawapat,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14699
+2023-11-26 13:24:50+00:00,[User]_rafaelmohr,"{'[User]_AkhilKamath', '[User]_gsalzer', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14702
+2023-11-27 07:00:10+00:00,[User]_bshastry,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14703
+2023-11-27 17:45:52+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14704
+2023-11-28 12:43:44+00:00,[User]_r0qs,"{'[User]_ekpyron', '[User]_r0qs', '[User]_matheusaaguiar'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14705
+2023-11-28 13:44:25+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14706
+2023-11-29 12:29:01+00:00,[User]_lum7na,{'[User]_matheusaaguiar'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14707
+2023-11-30 14:16:17+00:00,[User]_nikola-matic,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14712
+2023-11-30 18:10:09+00:00,[User]_alex1448,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14713
+2023-12-01 13:21:21+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_christianlantin'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14716
+2023-12-04 21:25:00+00:00,[User]_r0qs,{'[User]_nikola-matic'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14718
+2023-12-05 07:59:35+00:00,[User]_haoyang9804,"{'[User]_haoyang9804', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14719
+2023-12-05 08:44:44+00:00,[User]_haoyang9804,"{'[User]_haoyang9804', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14720
+2023-12-07 13:44:40+00:00,[User]_nikola-matic,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14722
+2023-12-11 13:15:17+00:00,[User]_nikola-matic,{'[User]_cameel'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14724
+2023-12-11 17:05:49+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14726
+2023-12-11 17:36:33+00:00,[User]_nikola-matic,"{'[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14727
+2023-12-12 09:27:44+00:00,[User]_nikola-matic,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14728
+2023-12-12 10:22:00+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14729
+2023-12-13 12:21:48+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14730
+2023-12-13 15:54:59+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14731
+2023-12-15 07:18:31+00:00,[User]_mygirlmy2,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14732
+2023-12-15 13:20:43+00:00,[User]_lastchancedegen,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14733
+2023-12-18 18:28:26+00:00,[User]_r0qs,{'[User]_ekpyron'},ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14738
+2023-12-20 10:42:30+00:00,[User]_ekpyron,"{'[User]_r0qs', '[User]_cameel', '[User]_k06a'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14739
+2023-12-20 11:27:48+00:00,[User]_ekpyron,"{'[User]_ekpyron', '[User]_r0qs', '[User]_qizhou', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14740
+2023-12-20 11:31:20+00:00,[User]_ekpyron,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14741
+2023-12-20 11:49:01+00:00,[User]_ekpyron,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14742
+2023-12-20 13:48:03+00:00,[User]_ekpyron,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14744
+2023-12-21 02:30:28+00:00,[User]_Inikowu,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14745
+2023-12-22 15:28:17+00:00,[User]_DaoSpirit,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14749
+2023-12-22 15:55:20+00:00,[User]_pgebal,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14750
+2023-12-22 16:02:23+00:00,[User]_pgebal,{'[User]_pgebal'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14751
+2023-12-25 07:08:59+00:00,[User]_XiaoXiaofanzi,{'[User]_r0qs'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14752
+2023-12-25 12:51:27+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14755
+2023-12-26 15:33:44+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14757
+2023-12-27 10:56:56+00:00,[User]_nikola-matic,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/pull/14758
+2023-12-28 13:02:35+00:00,[User]_XiaoXiaofanzi,{'[User]_Subway2023'},ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14761
+2023-12-29 14:47:46+00:00,[User]_nuliknol,"{'[User]_cameel', '[User]_nuliknol'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14762
+2023-12-31 07:21:00+00:00,[User]_XiaoXiaofanzi,"{'[User]_XiaoXiaofanzi', '[User]_cameel'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14763
+2023-12-31 12:39:57+00:00,[User]_DaniPopes,set(),ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14764
+2023-12-31 18:08:05+00:00,[User]_Xardesso,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2023,https://github.com/ethereum/solidity/issues/14765
+2024-01-05 12:24:48+00:00,[User]_cameel,"{'[User]_cameel', '[User]_bshastry'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14768
+2024-01-05 23:27:12+00:00,[User]_alex1448,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14769
+2024-01-09 10:09:59+00:00,[User]_nikola-matic,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14770
+2024-01-09 18:39:34+00:00,[User]_r0qs,{'[User]_ekpyron'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14773
+2024-01-10 20:45:54+00:00,[User]_qwe231cvb,{'[User]_nikola-matic'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14775
+2024-01-11 05:19:05+00:00,[User]_ARSBUSTER000,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14776
+2024-01-11 14:38:18+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14779
+2024-01-11 20:27:17+00:00,[User]_nikola-matic,{'[User]_nikola-matic'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14780
+2024-01-12 06:23:02+00:00,[User]_bshastry,"{'[User]_nikola-matic', '[User]_cameel', '[User]_bshastry'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14781
+2024-01-12 06:32:14+00:00,[User]_bshastry,"{'[User]_cameel', '[User]_bshastry'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14782
+2024-01-18 11:57:41+00:00,[User]_nikola-matic,"{'[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14784
+2024-01-18 20:53:20+00:00,[User]_r0qs,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14786
+2024-01-19 04:35:34+00:00,[User]_bshastry,"{'[User]_cameel', '[User]_bshastry'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14787
+2024-01-19 17:33:59+00:00,[User]_PetarMax,"{'[User]_ekpyron', '[User]_cameel', '[User]_PetarMax'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14789
+2024-01-20 02:59:29+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14790
+2024-01-21 00:56:19+00:00,[User]_alex1448,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14791
+2024-01-21 02:08:05+00:00,[User]_alex1448,"{'[User]_r0qs', '[User]_alex1448'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14792
+2024-01-23 16:26:12+00:00,[User]_chamitro,"{'[User]_max-clinch', '[User]_r0qs', '[User]_chamitro'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14800
+2024-01-23 20:11:39+00:00,[User]_vidhanmangla,{'[User]_r0qs'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14801
+2024-01-25 05:54:51+00:00,[User]_bshastry,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14807
+2024-01-25 07:06:18+00:00,[User]_nikola-matic,{'[User]_mehtavishwa30'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14808
+2024-01-25 07:29:19+00:00,[User]_nikola-matic,"{'[User]_nikola-matic', '[User]_cameel', '[User]_mehtavishwa30'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14809
+2024-01-25 08:19:48+00:00,[User]_nikola-matic,{'[User]_mehtavishwa30'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14810
+2024-01-25 08:37:45+00:00,[User]_nikola-matic,"{'[User]_cameel', '[User]_badnewz80', '[User]_osarukun'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14811
+2024-01-25 15:40:25+00:00,[User]_aarlt,"{'[User]_ekpyron', '[User]_sambacha'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14813
+2024-01-26 08:52:06+00:00,[User]_BritikovKI,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14814
+2024-01-26 16:26:49+00:00,[User]_cameel,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14816
+2024-01-26 17:22:05+00:00,[User]_jtriley-eth,"{'[User]_kayabaNerve', '[User]_Neurone', '[User]_jtriley-eth'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14817
+2024-01-26 17:34:33+00:00,[User]_cameel,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14818
+2024-01-29 08:38:20+00:00,[User]_filmakarov,{'[User]_filmakarov'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14821
+2024-01-30 13:29:38+00:00,[User]_SleepTheGod,"{'[User]_Deputies', '[User]_SleepTheGod', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14823
+2024-01-31 12:15:28+00:00,[User]_kopy-kat,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14825
+2024-01-31 13:56:01+00:00,[User]_OmarTawfik,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14826
+2024-01-31 18:46:16+00:00,[User]_kuzdogan,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14827
+2024-01-31 20:48:39+00:00,[User]_jubeira,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14828
+2024-02-02 00:26:23+00:00,[User]_klkvr,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14829
+2024-02-02 05:17:33+00:00,[User]_bshastry,"{'[User]_ekpyron', '[User]_r0qs'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14830
+2024-02-02 13:57:34+00:00,[User]_r0qs,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14831
+2024-02-05 10:47:23+00:00,[User]_pgebal,"{'[User]_pgebal', '[User]_blishko'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14832
+2024-02-05 13:12:13+00:00,[User]_r0qs,{'[User]_ekpyron'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14833
+2024-02-06 11:26:32+00:00,[User]_nikola-matic,"{'[User]_ekpyron', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14834
+2024-02-07 10:57:32+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14835
+2024-02-09 04:50:15+00:00,[User]_Jackson368755,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14838
+2024-02-09 09:50:38+00:00,[User]_nikola-matic,"{'[User]_sgilflores3', '[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14839
+2024-02-09 15:18:55+00:00,[User]_blishko,"{'[User]_ekpyron', '[User]_pgebal'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14840
+2024-02-10 00:48:41+00:00,[User]_aarlt,"{'[User]_ekpyron', '[User]_aarlt'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14841
+2024-02-11 17:04:34+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14842
+2024-02-11 17:09:35+00:00,[User]_cameel,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14843
+2024-02-11 17:43:29+00:00,[User]_cameel,{'[User]_nikola-matic'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14844
+2024-02-11 17:53:18+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14845
+2024-02-12 10:54:29+00:00,[User]_r0qs,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14846
+2024-02-12 15:27:31+00:00,[User]_Lfada,"{'[User]_Lfada', '[User]_franzihei'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14848
+2024-02-13 00:13:46+00:00,[User]_githubfromgui,"{'[User]_aarlt', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14849
+2024-02-13 07:44:46+00:00,[User]_James4Ever0,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14850
+2024-02-14 14:59:44+00:00,[User]_lum7na,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14853
+2024-02-15 05:43:15+00:00,[User]_zemse,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14855
+2024-02-15 06:06:49+00:00,[User]_zemse,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14856
+2024-02-15 21:03:10+00:00,[User]_aarlt,"{'[User]_ekpyron', '[User]_aarlt', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14858
+2024-02-15 21:10:41+00:00,[User]_aarlt,{'[User]_aarlt'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14859
+2024-02-16 18:22:48+00:00,[User]_ytrezq,"{'[User]_matheusaaguiar', '[User]_GAMECHANGE'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14861
+2024-02-16 19:46:47+00:00,[User]_aarlt,"{'[User]_ekpyron', '[User]_r0qs', '[User]_aarlt'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14862
+2024-02-18 19:11:18+00:00,[User]_simon-perriard,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14863
+2024-02-18 19:53:55+00:00,[User]_aarlt,{'[User]_r0qs'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14865
+2024-02-19 09:46:30+00:00,[User]_r0qs,{'[User]_ekpyron'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14867
+2024-02-19 12:35:36+00:00,[User]_aarlt,{'[User]_ekpyron'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14868
+2024-02-19 15:29:15+00:00,[User]_aarlt,{'[User]_ekpyron'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14869
+2024-02-19 21:08:43+00:00,[User]_cenwadike,{'[User]_mehtavishwa30'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14870
+2024-02-19 21:09:56+00:00,[User]_cenwadike,"{'[User]_cenwadike', '[User]_cameel', '[User]_nikola-matic', '[User]_GAMECHANGE', '[User]_mehtavishwa30'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14871
+2024-02-19 22:48:01+00:00,[User]_aarlt,{'[User]_aarlt'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14872
+2024-02-20 06:28:22+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14873
+2024-02-20 09:21:39+00:00,[User]_sifislag,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14874
+2024-02-20 15:05:03+00:00,[User]_r0qs,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14875
+2024-02-20 15:50:22+00:00,[User]_Chomtana,"{'[User]_Chomtana', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14876
+2024-02-20 16:55:52+00:00,[User]_CodeSandwich,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14878
+2024-02-21 09:21:35+00:00,[User]_CJ42,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14879
+2024-02-21 17:46:29+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14880
+2024-02-21 17:47:53+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14881
+2024-02-21 20:15:52+00:00,[User]_r0qs,"{'[User]_ekpyron', '[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14882
+2024-02-23 11:00:33+00:00,[User]_GAMECHANGE,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14883
+2024-02-26 10:37:40+00:00,[User]_hedgar2017,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14885
+2024-02-26 14:45:21+00:00,[User]_Xanewok,{'[User]_nikola-matic'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14886
+2024-02-26 18:58:46+00:00,[User]_cameel,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14887
+2024-02-26 19:27:13+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14888
+2024-02-27 13:53:55+00:00,[User]_invocamanman,"{'[User]_r0qs', '[User]_invocamanman'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14889
+2024-02-27 16:25:59+00:00,[User]_blishko,"{'[User]_blishko', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14890
+2024-02-27 16:53:47+00:00,[User]_blishko,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14891
+2024-02-27 18:06:51+00:00,[User]_kaber2,"{'[User]_cameel', '[User]_kaber2'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14893
+2024-02-28 06:32:40+00:00,[User]_cqray1990,"{'[User]_laumeng', '[User]_smallerxuan'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14894
+2024-02-29 02:00:52+00:00,[User]_matheusaaguiar,"{'[User]_ekpyron', '[User]_r0qs', '[User]_matheusaaguiar', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14895
+2024-02-29 05:35:50+00:00,[User]_COINsciencer,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14896
+2024-02-29 07:12:44+00:00,[User]_lum7na,{'[User]_Sejfo994'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14897
+2024-02-29 09:51:05+00:00,[User]_yp945,{'[User]_mw2000'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14898
+2024-02-29 19:59:15+00:00,[User]_Ccid-9,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14900
+2024-03-01 15:24:40+00:00,[User]_Ccid-9,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14902
+2024-03-01 18:49:47+00:00,[User]_aarlt,{'[User]_ekpyron'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14903
+2024-03-04 13:55:44+00:00,[User]_aarlt,"{'[User]_ekpyron', '[User]_cameel', '[User]_GAMECHANGE'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14904
+2024-03-04 14:52:50+00:00,[User]_cameel,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14905
+2024-03-05 18:14:17+00:00,[User]_matheusaaguiar,"{'[User]_ekpyron', '[User]_r0qs', '[User]_matheusaaguiar', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14907
+2024-03-06 13:23:45+00:00,[User]_Ccid-9,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14911
+2024-03-06 13:27:27+00:00,[User]_Ccid-9,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14912
+2024-03-06 14:47:20+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14915
+2024-03-06 18:03:42+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14916
+2024-03-06 23:24:25+00:00,[User]_klkvr,"{'[User]_klkvr', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14917
+2024-03-07 11:40:46+00:00,[User]_r0qs,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14919
+2024-03-07 15:34:57+00:00,[User]_Saw-mon-and-Natalie,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14920
+2024-03-07 20:09:39+00:00,[User]_cameel,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14921
+2024-03-07 20:20:09+00:00,[User]_aarlt,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14922
+2024-03-08 07:36:01+00:00,[User]_iteyelmp,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14924
+2024-03-08 08:56:01+00:00,[User]_milaabl,"{'[User]_crystalbit', '[User]_milaabl'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14925
+2024-03-09 22:43:29+00:00,[User]_alex1448,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14929
+2024-03-11 15:33:23+00:00,[User]_veniger,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14930
+2024-03-11 17:49:45+00:00,[User]_mattaereal,"{'[User]_cameel', '[User]_mattaereal', '[User]_tinchoabbate'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14931
+2024-03-12 18:22:34+00:00,[User]_r0qs,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14932
+2024-03-13 09:10:13+00:00,[User]_r0qs,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14933
+2024-03-13 14:02:07+00:00,[User]_nlordell,"{'[User]_cameel', '[User]_nlordell'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14934
+2024-03-13 15:15:20+00:00,[User]_matheusaaguiar,{'[User]_nikola-matic'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14935
+2024-03-13 21:33:17+00:00,[User]_nikola-matic,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14937
+2024-03-13 23:37:09+00:00,[User]_r0qs,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14938
+2024-03-14 06:50:39+00:00,[User]_nikola-matic,{'[User]_aarlt'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14939
+2024-03-14 09:31:15+00:00,[User]_xiaoxianBoy,{'[User]_r0qs'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14940
+2024-03-14 10:35:36+00:00,[User]_nikola-matic,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14941
+2024-03-14 13:53:37+00:00,[User]_RaoulSchaffranek,"{'[User]_edurivara', '[User]_franzihei'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14942
+2024-03-15 12:10:24+00:00,[User]_danceratopz,{'[User]_nikola-matic'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14946
+2024-03-15 16:37:43+00:00,[User]_cameel,{'[User]_matheusaaguiar'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14947
+2024-03-18 15:57:09+00:00,[User]_Queenkaz,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14951
+2024-03-19 10:22:10+00:00,[User]_sambacha,{'[User]_GORDSECURE'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14955
+2024-03-22 13:54:44+00:00,[User]_alex1448,"{'[User]_pgebal', '[User]_r0qs'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14959
+2024-03-25 14:45:23+00:00,[User]_r0qs,"{'[User]_ekpyron', '[User]_r0qs'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14964
+2024-03-26 10:53:38+00:00,[User]_lum7na,"{'[User]_lum7na', '[User]_aman85662'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14966
+2024-03-27 08:55:50+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic', '[User]_0xalpharush'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14968
+2024-03-30 04:05:18+00:00,[User]_lum7na,{'[User]_pgebal'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14971
+2024-04-02 09:56:30+00:00,[User]_developer-decuple,"{'[User]_Amxx', '[User]_mehtavishwa30'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14972
+2024-04-03 11:48:17+00:00,[User]_aarlt,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14978
+2024-04-03 20:13:13+00:00,[User]_Amxx,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14979
+2024-04-04 07:26:00+00:00,[User]_Subway2023,{'[User]_mehtavishwa30'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14982
+2024-04-04 07:43:30+00:00,[User]_Subway2023,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14983
+2024-04-04 11:06:16+00:00,[User]_Subway2023,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14985
+2024-04-04 14:09:02+00:00,[User]_Subway2023,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14986
+2024-04-04 14:24:29+00:00,[User]_Subway2023,"{'[User]_Subway2023', '[User]_mehtavishwa30'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14987
+2024-04-04 15:17:08+00:00,[User]_pgebal,{'[User]_blishko'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/14988
+2024-04-05 03:29:16+00:00,[User]_Subway2023,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14989
+2024-04-05 23:43:36+00:00,[User]_alex1448,{'[User]_Ruko97'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14990
+2024-04-06 14:04:24+00:00,[User]_Subway2023,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14993
+2024-04-06 16:18:28+00:00,[User]_M9na1,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14994
+2024-04-06 18:18:40+00:00,[User]_alex1448,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14995
+2024-04-07 20:04:12+00:00,[User]_PatrickAlphaC,"{'[User]_Assawal', '[User]_mehtavishwa30'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14996
+2024-04-08 05:23:50+00:00,[User]_lum7na,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/14999
+2024-04-08 13:35:21+00:00,[User]_matheusaaguiar,"{'[User]_matheusaaguiar', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15001
+2024-04-09 18:44:10+00:00,[User]_vicnaum,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15004
+2024-04-10 13:55:15+00:00,[User]_matheusaaguiar,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15006
+2024-04-10 14:50:02+00:00,[User]_ekpyron,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15007
+2024-04-11 22:33:02+00:00,[User]_aarlt,"{'[User]_aarlt', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15009
+2024-04-12 11:50:42+00:00,[User]_Subway2023,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15010
+2024-04-12 12:25:02+00:00,[User]_Subway2023,{'[User]_blishko'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15011
+2024-04-12 12:41:23+00:00,[User]_Subway2023,"{'[User]_blishko', '[User]_Subway2023'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15012
+2024-04-12 12:45:57+00:00,[User]_Subway2023,{'[User]_blishko'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15013
+2024-04-12 13:00:42+00:00,[User]_Subway2023,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15014
+2024-04-12 13:03:32+00:00,[User]_Subway2023,{'[User]_blishko'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15015
+2024-04-12 13:11:05+00:00,[User]_Subway2023,"{'[User]_blishko', '[User]_Subway2023'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15016
+2024-04-12 13:17:52+00:00,[User]_Subway2023,{'[User]_blishko'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15017
+2024-04-12 13:27:09+00:00,[User]_Subway2023,{'[User]_blishko'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15018
+2024-04-12 13:36:05+00:00,[User]_Subway2023,"{'[User]_blishko', '[User]_Subway2023'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15019
+2024-04-12 14:15:43+00:00,[User]_Subway2023,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15020
+2024-04-12 14:52:29+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15021
+2024-04-12 15:23:14+00:00,[User]_cameel,"{'[User]_r0qs', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15023
+2024-04-12 16:30:49+00:00,[User]_pgebal,"{'[User]_pgebal', '[User]_blishko', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15025
+2024-04-12 22:42:33+00:00,[User]_cameel,"{'[User]_aarlt', '[User]_cameel', '[User]_ekpyron'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15026
+2024-04-15 10:41:32+00:00,[User]_iteyelmp,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15029
+2024-04-15 11:48:25+00:00,[User]_cameel,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15030
+2024-04-15 12:03:25+00:00,[User]_cameel,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15031
+2024-04-16 15:10:11+00:00,[User]_Bolits95,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15034
+2024-04-16 17:22:07+00:00,[User]_r0qs,{'[User]_nikola-matic'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15035
+2024-04-16 23:50:49+00:00,[User]_Bolits95,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15036
+2024-04-17 17:21:34+00:00,[User]_PaulRBerg,{'[User]_nikola-matic'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15037
+2024-04-18 13:52:19+00:00,[User]_sebastiantf,{'[User]_mehtavishwa30'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15038
+2024-04-19 17:56:32+00:00,[User]_frangio,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15040
+2024-04-20 02:49:03+00:00,[User]_GAMECHANGE,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15041
+2024-04-20 16:45:41+00:00,[User]_0xalpharush,"{'[User]_Assawal', '[User]_Duc0777776660', '[User]_mehtavishwa30', '[User]_0xalpharush'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15043
+2024-04-21 07:57:41+00:00,[User]_Subway2023,{'[User]_Subway2023'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15044
+2024-04-21 13:33:35+00:00,[User]_Subway2023,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15045
+2024-04-22 10:51:07+00:00,[User]_aarlt,{'[User]_r0qs'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15047
+2024-04-22 13:52:08+00:00,[User]_matheusaaguiar,"{'[User]_ekpyron', '[User]_cameel'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15048
+2024-04-23 14:07:30+00:00,[User]_blishko,"{'[User]_pgebal', '[User]_blishko'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15050
+2024-04-24 04:04:27+00:00,[User]_Subway2023,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15051
+2024-04-24 14:51:14+00:00,[User]_Subway2023,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15052
+2024-04-25 17:04:08+00:00,[User]_cameel,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15053
+2024-04-25 17:12:17+00:00,[User]_cameel,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15054
+2024-04-26 02:46:30+00:00,[User]_Subway2023,{'[User]_Subway2023'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15056
+2024-04-26 05:01:49+00:00,[User]_nikola-matic,"{'[User]_r0qs', '[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15057
+2024-04-26 08:50:03+00:00,[User]_nikola-matic,"{'[User]_cameel', '[User]_nikola-matic'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15058
+2024-04-26 12:52:38+00:00,[User]_r0qs,{'[User]_cameel'},ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15060
+2024-04-26 15:16:10+00:00,[User]_anthhub,{'[User]_DS-Coding0'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15061
+2024-04-26 18:37:36+00:00,[User]_cameel,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15062
+2024-04-26 19:03:32+00:00,[User]_cameel,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15063
+2024-04-28 15:36:01+00:00,[User]_vein451,{'[User]_r0qs'},ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15065
+2024-04-29 05:44:48+00:00,[User]_Subway2023,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/issues/15066
+2024-04-29 15:58:58+00:00,[User]_r0qs,set(),ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15067
+2024-04-30 08:14:42+00:00,[User]_axic,"{'[User]_r0qs', '[User]_Amxx'}",ethereum/solidity,2024,https://github.com/ethereum/solidity/pull/15069

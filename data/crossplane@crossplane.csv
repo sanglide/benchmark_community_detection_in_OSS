@@ -1,0 +1,753 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-03 12:34:42+00:00,[User]_martinflemingdev,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4041
+2023-05-03 14:47:23+00:00,[User]_junglie85,"{'[User]_bobh66', '[User]_junglie85', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4042
+2023-05-03 20:03:28+00:00,[User]_negz,"{'[User]_clementblaise', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4043
+2023-05-04 16:22:30+00:00,[User]_phisco,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4044
+2023-05-04 16:32:46+00:00,[User]_phisco,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4045
+2023-05-04 20:19:55+00:00,[User]_LCaparelli,{'[User]_LCaparelli'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4046
+2023-05-04 20:57:20+00:00,[User]_negz,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4048
+2023-05-04 21:29:09+00:00,[User]_negz,"{'[User]_haarchri', '[User]_plumbis', '[User]_jeanduplessis', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4049
+2023-05-05 12:38:50+00:00,[User]_duizabojul,"{'[User]_phisco', '[User]_reegnz', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4050
+2023-05-05 14:37:28+00:00,[User]_julienduchesne,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4051
+2023-05-06 01:36:02+00:00,[User]_negz,"{'[User]_turkenh', '[User]_negz', '[User]_pedjak', '[User]_ezgidemirel', '[User]_hasheddan'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4054
+2023-05-09 14:26:29+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_jbw976', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4060
+2023-05-10 11:44:42+00:00,[User]_ezgidemirel,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4063
+2023-05-10 14:38:37+00:00,[User]_cdloh,"{'[User]_jbw976', '[User]_negz', '[User]_turkenh', '[User]_haarchri', '[User]_cdloh', '[User]_PavelPikat', '[User]_avinakollu', '[User]_mmuthukrishnan', '[User]_AaronME'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4065
+2023-05-10 15:21:54+00:00,[User]_romulobil,"{'[User]_romulobil', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4066
+2023-05-12 09:23:24+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_jbw976', '[User]_hasheddan'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4067
+2023-05-12 09:33:55+00:00,[User]_phisco,"{'[User]_phisco', '[User]_MisterMX', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4070
+2023-05-12 14:04:30+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_hasheddan', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4071
+2023-05-15 22:48:49+00:00,[User]_badams055,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4074
+2023-05-16 10:22:47+00:00,[User]_phisco,"{'[User]_jbw976', '[User]_turkenh', '[User]_phisco', '[User]_pedjak', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4076
+2023-05-17 12:09:30+00:00,[User]_phisco,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4080
+2023-05-17 12:22:10+00:00,[User]_phisco,"{'[User]_phisco', '[User]_MisterMX', '[User]_hasheddan', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4082
+2023-05-17 12:34:40+00:00,[User]_phisco,"{'[User]_phisco', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4083
+2023-05-18 16:49:10+00:00,[User]_plumbis,"{'[User]_phisco', '[User]_plumbis', '[User]_hasheddan', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4085
+2023-05-18 23:45:16+00:00,[User]_jaylevin,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4087
+2023-05-22 07:14:53+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4091
+2023-05-23 06:12:34+00:00,[User]_chobostar,"{'[User]_chobostar', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4093
+2023-05-24 01:48:37+00:00,[User]_negz,{'[User]_hasheddan'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4098
+2023-05-24 07:34:52+00:00,[User]_turkenh,"{'[User]_yhrn', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4100
+2023-05-24 13:19:41+00:00,[User]_lsviben,"{'[User]_muvaf', '[User]_turkenh', '[User]_negz', '[User]_phisco', '[User]_pedjak', '[User]_pohly', '[User]_bobh66', '[User]_lsviben', '[User]_ytsarev', '[User]_hasheddan'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4101
+2023-05-24 20:54:02+00:00,[User]_ytsarev,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4103
+2023-05-25 15:09:43+00:00,[User]_phisco,"{'[User]_phisco', '[User]_turkenh', '[User]_lsviben', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4107
+2023-05-25 15:56:36+00:00,[User]_girishms-sentient,"{'[User]_bobh66', '[User]_plumbis', '[User]_girishms-sentient', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4108
+2023-05-25 21:23:43+00:00,[User]_hasheddan,"{'[User]_bobh66', '[User]_hasheddan', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4110
+2023-05-25 23:28:57+00:00,[User]_negz,{'[User]_hasheddan'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4111
+2023-05-26 17:31:17+00:00,[User]_bobh66,"{'[User]_bobh66', '[User]_pedjak'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4116
+2023-05-26 20:19:44+00:00,[User]_patrickleet,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4117
+2023-05-26 23:51:41+00:00,[User]_ksawerykarwacki,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4118
+2023-05-29 10:50:51+00:00,[User]_maximiliantech,{'[User]_hasheddan'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4119
+2023-05-30 10:13:35+00:00,[User]_jeanduplessis,"{'[User]_turkenh', '[User]_jeanduplessis', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4125
+2023-05-30 13:04:36+00:00,[User]_jbw976,"{'[User]_lsviben', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4126
+2023-05-30 15:16:56+00:00,[User]_phisco,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4127
+2023-05-30 23:06:33+00:00,[User]_mbbush,"{'[User]_PriyanshuAhlawat', '[User]_jbw976', '[User]_negz', '[User]_Azanul', '[User]_mbbush', '[User]_cpurev'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4129
+2023-05-31 05:38:59+00:00,[User]_negz,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4131
+2023-05-31 14:34:02+00:00,[User]_phisco,"{'[User]_phisco', '[User]_HonkingGoose', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4133
+2023-05-31 20:26:04+00:00,[User]_plumbis,"{'[User]_phisco', '[User]_plumbis', '[User]_hasheddan', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4134
+2023-06-01 20:12:21+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4138
+2023-06-05 05:57:06+00:00,[User]_phisco,"{'[User]_phisco', '[User]_jbw976', '[User]_hasheddan'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4145
+2023-06-05 12:47:43+00:00,[User]_tdeheurles,"{'[User]_phisco', '[User]_tdeheurles'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4146
+2023-06-06 11:34:58+00:00,[User]_fhopfensperger,"{'[User]_phisco', '[User]_turkenh', '[User]_fhopfensperger', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4149
+2023-06-07 09:01:05+00:00,[User]_jbw976,{'[User]_hasheddan'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4154
+2023-06-07 14:22:01+00:00,[User]_jbw976,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4155
+2023-06-07 14:23:15+00:00,[User]_jbw976,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4157
+2023-06-08 07:41:10+00:00,[User]_phisco,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4161
+2023-06-09 14:58:27+00:00,[User]_fernandezcuesta,"{'[User]_phisco', '[User]_fernandezcuesta'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4166
+2023-06-10 03:47:05+00:00,[User]_nl-brett-stime,"{'[User]_phisco', '[User]_jbw976', '[User]_nl-brett-stime', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4168
+2023-06-12 16:30:48+00:00,[User]_jaylevin,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4171
+2023-06-13 03:37:44+00:00,[User]_jaylevin,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4172
+2023-06-14 06:25:47+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_bassam'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4179
+2023-06-14 07:15:42+00:00,[User]_phisco,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4180
+2023-06-14 17:09:17+00:00,[User]_mikebryant,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4182
+2023-06-14 21:00:51+00:00,[User]_jaylevin,{'[User]_jeanduplessis'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4185
+2023-06-15 05:38:47+00:00,[User]_negz,"{'[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4187
+2023-06-15 05:58:30+00:00,[User]_negz,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4188
+2023-06-15 14:07:18+00:00,[User]_mikebryant,"{'[User]_mikebryant', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4190
+2023-06-16 18:36:11+00:00,[User]_justincbeard,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4191
+2023-06-18 04:24:31+00:00,[User]_bradkwadsworth-mw,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4193
+2023-06-19 01:26:24+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4196
+2023-06-19 12:30:25+00:00,[User]_AdamKorcz,"{'[User]_phisco', '[User]_AdamKorcz', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4198
+2023-06-19 12:32:37+00:00,[User]_AdamKorcz,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4199
+2023-06-19 12:34:38+00:00,[User]_AdamKorcz,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4201
+2023-06-19 12:35:22+00:00,[User]_AdamKorcz,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4202
+2023-06-19 15:03:19+00:00,[User]_sttts,"{'[User]_sttts', '[User]_ezgidemirel', '[User]_hasheddan', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4205
+2023-06-20 04:58:09+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_plumbis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4206
+2023-06-20 09:50:33+00:00,[User]_jbw976,"{'[User]_negz', '[User]_jbw976', '[User]_hasheddan', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4211
+2023-06-20 12:29:53+00:00,[User]_phisco,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4214
+2023-06-20 12:38:39+00:00,[User]_turkenh,"{'[User]_jbw976', '[User]_sttts', '[User]_negz', '[User]_turkenh', '[User]_bobh66'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4215
+2023-06-20 22:43:50+00:00,[User]_negz,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4219
+2023-06-21 10:04:18+00:00,[User]_haraldsk,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4228
+2023-06-21 10:19:42+00:00,[User]_ashishvaishno,{'[User]_ashishvaishno'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4229
+2023-06-21 10:58:08+00:00,[User]_mithie,"{'[User]_sttts', '[User]_mithie'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4230
+2023-06-21 13:55:03+00:00,[User]_dbarrous,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4231
+2023-06-22 00:58:46+00:00,[User]_negz,"{'[User]_hasheddan', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4240
+2023-06-22 01:23:36+00:00,[User]_negz,{'[User]_hasheddan'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4243
+2023-06-22 06:25:15+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4246
+2023-06-22 13:54:07+00:00,[User]_Breee,"{'[User]_jbw976', '[User]_bobh66', '[User]_Breee', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4250
+2023-06-23 02:31:33+00:00,[User]_negz,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4253
+2023-06-23 04:29:37+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4255
+2023-06-23 08:22:53+00:00,[User]_ashishvaishno,"{'[User]_ashishvaishno', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4260
+2023-06-23 10:10:20+00:00,[User]_pedjak,"{'[User]_phisco', '[User]_negz', '[User]_pedjak', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4261
+2023-06-23 22:38:47+00:00,[User]_darkmuggle,"{'[User]_darkmuggle', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4263
+2023-06-26 13:53:18+00:00,[User]_phisco,"{'[User]_negz', '[User]_phisco', '[User]_pedjak', '[User]_lsviben', '[User]_vladimirvivien'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4264
+2023-06-26 16:50:29+00:00,[User]_darkmuggle,"{'[User]_phisco', '[User]_darkmuggle', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4267
+2023-06-27 16:17:39+00:00,[User]_zicongmei,"{'[User]_zicongmei', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4271
+2023-06-28 07:58:06+00:00,[User]_iKubernetes,"{'[User]_jbw976', '[User]_turkenh', '[User]_negz', '[User]_iKubernetes', '[User]_ezgidemirel'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4272
+2023-06-28 17:10:24+00:00,[User]_bobh66,{'[User]_MisterMX'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4274
+2023-06-28 22:17:38+00:00,[User]_bobh66,"{'[User]_bobh66', '[User]_pedjak', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4278
+2023-06-29 01:13:29+00:00,[User]_negz,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4280
+2023-06-29 13:11:17+00:00,[User]_nullable-eth,"{'[User]_nullable-eth', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4282
+2023-06-29 21:51:36+00:00,[User]_amye,"{'[User]_jbw976', '[User]_amye', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4284
+2023-06-30 19:58:53+00:00,[User]_csantanapr,"{'[User]_phisco', '[User]_csantanapr', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4287
+2023-07-01 07:24:33+00:00,[User]_negz,"{'[User]_erikgb', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4288
+2023-07-06 08:44:31+00:00,[User]_sttts,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4298
+2023-07-07 15:29:18+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_ezgidemirel', '[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4304
+2023-07-07 21:41:50+00:00,[User]_negz,"{'[User]_negz', '[User]_ezgidemirel', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4305
+2023-07-10 08:14:47+00:00,[User]_negz,"{'[User]_jbw976', '[User]_sttts', '[User]_turkenh', '[User]_phisco', '[User]_negz', '[User]_gberche-orange', '[User]_ezgidemirel'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4306
+2023-07-10 14:27:43+00:00,[User]_sttts,"{'[User]_jbw976', '[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4307
+2023-07-10 15:01:05+00:00,[User]_stevendborrelli,"{'[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4308
+2023-07-11 07:01:25+00:00,[User]_sttts,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4309
+2023-07-11 10:17:02+00:00,[User]_sttts,"{'[User]_sttts', '[User]_tnthornton', '[User]_phisco', '[User]_negz', '[User]_turkenh', '[User]_pedjak', '[User]_darkmuggle', '[User]_s-urbaniak', '[User]_ezgidemirel'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4311
+2023-07-11 14:23:44+00:00,[User]_ezgidemirel,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4312
+2023-07-11 15:49:17+00:00,[User]_phisco,"{'[User]_phisco', '[User]_lsviben', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4313
+2023-07-12 03:34:01+00:00,[User]_dee0sap,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4317
+2023-07-12 05:31:39+00:00,[User]_negz,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4318
+2023-07-13 05:01:22+00:00,[User]_negz,"{'[User]_muvaf', '[User]_jbw976', '[User]_turkenh', '[User]_negz', '[User]_phisco', '[User]_ytsarev', '[User]_hasheddan'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4322
+2023-07-13 09:13:33+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_ezgidemirel', '[User]_pedjak'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4323
+2023-07-13 13:14:21+00:00,[User]_pedjak,"{'[User]_phisco', '[User]_ezgidemirel', '[User]_pedjak'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4324
+2023-07-14 06:45:38+00:00,[User]_sttts,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4327
+2023-07-14 13:50:27+00:00,[User]_dvgitit,"{'[User]_turkenh', '[User]_dvgitit', '[User]_chrisduong', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4329
+2023-07-14 16:18:57+00:00,[User]_sttts,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4331
+2023-07-16 18:23:19+00:00,[User]_phisco,{'[User]_muvaf'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4332
+2023-07-17 23:40:34+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4338
+2023-07-17 23:47:12+00:00,[User]_negz,{'[User]_jeanduplessis'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4339
+2023-07-18 18:32:48+00:00,[User]_haarchri,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4344
+2023-07-19 02:18:21+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4345
+2023-07-20 07:22:43+00:00,[User]_phisco,"{'[User]_ezgidemirel', '[User]_lsviben', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4355
+2023-07-20 11:26:27+00:00,[User]_phisco,{'[User]_lsviben'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4356
+2023-07-20 11:31:38+00:00,[User]_phisco,"{'[User]_ezgidemirel', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4357
+2023-07-21 09:38:34+00:00,[User]_ezgidemirel,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4365
+2023-07-21 11:04:00+00:00,[User]_pedjak,"{'[User]_muvaf', '[User]_ytsarev', '[User]_sttts', '[User]_turkenh', '[User]_phisco', '[User]_negz', '[User]_haarchri', '[User]_pedjak', '[User]_ulucinar', '[User]_bobh66', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4366
+2023-07-25 01:36:46+00:00,[User]_jbw976,{'[User]_chlunde'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4372
+2023-07-25 08:06:50+00:00,[User]_phisco,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4376
+2023-07-25 08:15:15+00:00,[User]_phisco,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4377
+2023-07-25 10:36:05+00:00,[User]_phisco,"{'[User]_phisco', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4379
+2023-07-26 10:57:13+00:00,[User]_dukanto,"{'[User]_dukanto', '[User]_ezgidemirel', '[User]_jeanduplessis', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4385
+2023-07-27 11:14:49+00:00,[User]_AdamKorcz,"{'[User]_phisco', '[User]_AdamKorcz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4390
+2023-07-27 11:48:06+00:00,[User]_ezgidemirel,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4391
+2023-07-27 12:21:36+00:00,[User]_ezgidemirel,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4392
+2023-07-27 13:54:12+00:00,[User]_phisco,"{'[User]_turkenh', '[User]_phisco', '[User]_eloo-abi', '[User]_pedjak', '[User]_MisterMX', '[User]_ytsarev'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4393
+2023-07-27 15:36:24+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4395
+2023-07-27 20:58:15+00:00,[User]_LCaparelli,"{'[User]_LCaparelli', '[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4398
+2023-07-27 21:57:55+00:00,[User]_LCaparelli,"{'[User]_turkenh', '[User]_phisco', '[User]_LCaparelli', '[User]_bobh66', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4399
+2023-07-28 01:36:48+00:00,[User]_dee0sap,"{'[User]_jbw976', '[User]_sttts', '[User]_turkenh', '[User]_phisco', '[User]_haarchri', '[User]_danports', '[User]_dee0sap'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4400
+2023-07-28 09:27:04+00:00,[User]_mergenci,"{'[User]_mergenci', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4401
+2023-07-30 22:03:23+00:00,[User]_duizabojul,"{'[User]_negz', '[User]_duizabojul', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4409
+2023-07-31 01:44:14+00:00,[User]_stevendborrelli,"{'[User]_jbw976', '[User]_stevendborrelli'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4412
+2023-07-31 09:57:10+00:00,[User]_phisco,{'[User]_plumbis'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4415
+2023-07-31 12:44:18+00:00,[User]_stevendborrelli,"{'[User]_phisco', '[User]_pedjak', '[User]_stevendborrelli', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4417
+2023-07-31 13:24:21+00:00,[User]_ezgidemirel,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4418
+2023-07-31 13:26:38+00:00,[User]_phisco,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4419
+2023-07-31 14:22:52+00:00,[User]_pedjak,"{'[User]_phisco', '[User]_jbw976', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4420
+2023-07-31 14:36:29+00:00,[User]_lsviben,"{'[User]_phisco', '[User]_turkenh', '[User]_lsviben', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4421
+2023-08-01 19:02:52+00:00,[User]_duizabojul,"{'[User]_phisco', '[User]_jbw976', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4425
+2023-08-02 07:57:17+00:00,[User]_mbbush,"{'[User]_phisco', '[User]_ezgidemirel'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4427
+2023-08-02 07:59:01+00:00,[User]_mbbush,"{'[User]_phisco', '[User]_ezgidemirel', '[User]_mbbush'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4428
+2023-08-02 08:50:57+00:00,[User]_jankaacc,"{'[User]_jankaacc', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4429
+2023-08-02 09:26:20+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4430
+2023-08-02 11:39:44+00:00,[User]_phisco,{'[User]_ezgidemirel'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4431
+2023-08-02 12:08:05+00:00,[User]_phisco,"{'[User]_phisco', '[User]_pedjak', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4433
+2023-08-02 14:42:20+00:00,[User]_hasheddan,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4434
+2023-08-03 07:28:06+00:00,[User]_phisco,"{'[User]_phisco', '[User]_pedjak'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4441
+2023-08-03 09:19:29+00:00,[User]_dee0sap,"{'[User]_jbw976', '[User]_phisco', '[User]_haarchri', '[User]_danports', '[User]_dee0sap'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4442
+2023-08-03 12:08:27+00:00,[User]_phisco,"{'[User]_phisco', '[User]_jbw976', '[User]_lsviben', '[User]_pedjak'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4443
+2023-08-03 14:34:17+00:00,[User]_turkenh,"{'[User]_turkenh', '[User]_negz', '[User]_pedjak', '[User]_stevendborrelli', '[User]_lsviben', '[User]_triThirty', '[User]_bobh66'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4444
+2023-08-04 09:49:34+00:00,[User]_phisco,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4446
+2023-08-04 09:55:56+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4447
+2023-08-04 10:48:36+00:00,[User]_phisco,{'[User]_lsviben'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4450
+2023-08-04 12:02:00+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_ezgidemirel', '[User]_pedjak'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4451
+2023-08-05 02:37:14+00:00,[User]_jbw976,{'[User]_santhoshivan23'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4454
+2023-08-07 10:56:58+00:00,[User]_phisco,{'[User]_pedjak'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4456
+2023-08-07 12:02:53+00:00,[User]_ezgidemirel,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4457
+2023-08-07 12:53:46+00:00,[User]_phisco,"{'[User]_pedjak', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4460
+2023-08-07 14:40:51+00:00,[User]_pedjak,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4461
+2023-08-07 15:40:12+00:00,[User]_phisco,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4462
+2023-08-07 15:48:49+00:00,[User]_phisco,{'[User]_ezgidemirel'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4463
+2023-08-07 16:12:45+00:00,[User]_phisco,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4464
+2023-08-07 21:35:36+00:00,[User]_shanecmiller23,"{'[User]_jbw976', '[User]_plumbis', '[User]_shanecmiller23', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4465
+2023-08-07 22:21:22+00:00,[User]_darkmuggle,"{'[User]_jbw976', '[User]_turkenh', '[User]_phisco', '[User]_darkmuggle', '[User]_AaronME'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4466
+2023-08-10 10:29:04+00:00,[User]_phisco,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4480
+2023-08-11 10:50:43+00:00,[User]_phisco,"{'[User]_phisco', '[User]_lsviben', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4484
+2023-08-11 11:46:57+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_ezgidemirel', '[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4485
+2023-08-12 06:25:16+00:00,[User]_Rohit312001,"{'[User]_Rohit312001', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4487
+2023-08-13 11:26:04+00:00,[User]_santhoshivan23,"{'[User]_jbw976', '[User]_negz', '[User]_turkenh', '[User]_santhoshivan23', '[User]_arjunmalhotra1'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4489
+2023-08-14 09:07:08+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_ezgidemirel'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4492
+2023-08-14 09:16:31+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_ezgidemirel'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4493
+2023-08-14 09:20:44+00:00,[User]_turkenh,{'[User]_ezgidemirel'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4494
+2023-08-14 09:28:47+00:00,[User]_turkenh,{'[User]_ezgidemirel'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4495
+2023-08-14 10:18:11+00:00,[User]_turkenh,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4496
+2023-08-14 10:25:14+00:00,[User]_turkenh,{'[User]_ezgidemirel'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4497
+2023-08-14 19:38:34+00:00,[User]_negz,"{'[User]_phisco', '[User]_ezgidemirel', '[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4500
+2023-08-14 20:17:39+00:00,[User]_negz,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4501
+2023-08-15 09:05:28+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4503
+2023-08-15 12:16:13+00:00,[User]_undera,"{'[User]_undera', '[User]_ezgidemirel', '[User]_dcompanykrish'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4504
+2023-08-21 15:40:06+00:00,[User]_csantanapr,"{'[User]_phisco', '[User]_csantanapr', '[User]_jmalloc', '[User]_felixlut'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4509
+2023-08-23 17:11:11+00:00,[User]_erikgb,{'[User]_erikgb'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4512
+2023-08-24 00:31:13+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4515
+2023-08-24 08:47:07+00:00,[User]_phisco,{'[User]_lsviben'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4516
+2023-08-24 17:34:29+00:00,[User]_muvaf,"{'[User]_bassam', '[User]_negz', '[User]_jbw976', '[User]_phisco'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4518
+2023-08-25 11:07:00+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4523
+2023-08-25 11:13:48+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_ravilr', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4524
+2023-08-25 11:18:34+00:00,[User]_phisco,"{'[User]_phisco', '[User]_lsviben', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4525
+2023-08-25 20:20:18+00:00,[User]_bobh66,{'[User]_bobh66'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4529
+2023-08-26 06:16:15+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_ezgidemirel', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4530
+2023-08-30 12:34:50+00:00,[User]_spatanka10,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4546
+2023-08-30 14:38:04+00:00,[User]_phisco,"{'[User]_phisco', '[User]_pedjak', '[User]_MisterMX', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4547
+2023-08-31 08:25:59+00:00,[User]_phisco,{'[User]_lsviben'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4550
+2023-08-31 21:04:05+00:00,[User]_stevendborrelli,"{'[User]_bobh66', '[User]_pedjak', '[User]_stevendborrelli', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4552
+2023-09-01 14:53:26+00:00,[User]_MisterMX,"{'[User]_phisco', '[User]_MisterMX', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4555
+2023-09-01 21:49:21+00:00,[User]_negz,"{'[User]_bobh66', '[User]_erikgb', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4558
+2023-09-01 23:55:48+00:00,[User]_negz,"{'[User]_pedjak', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4559
+2023-09-04 15:46:22+00:00,[User]_sttts,"{'[User]_jbw976', '[User]_sttts', '[User]_negz', '[User]_phisco', '[User]_pedjak', '[User]_bobh66'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4565
+2023-09-05 10:28:53+00:00,[User]_phisco,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4568
+2023-09-05 19:49:31+00:00,[User]_sttts,"{'[User]_phisco', '[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4570
+2023-09-05 19:51:30+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4571
+2023-09-05 19:59:56+00:00,[User]_sttts,"{'[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4572
+2023-09-05 20:11:52+00:00,[User]_negz,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4573
+2023-09-05 20:36:45+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4574
+2023-09-05 20:39:04+00:00,[User]_sttts,"{'[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4575
+2023-09-05 21:23:53+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4576
+2023-09-06 09:21:06+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4578
+2023-09-06 10:59:23+00:00,[User]_turkenh,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4579
+2023-09-06 15:34:36+00:00,[User]_sttts,"{'[User]_phisco', '[User]_pedjak', '[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4582
+2023-09-06 15:48:49+00:00,[User]_pedjak,"{'[User]_ytsarev', '[User]_sttts', '[User]_turkenh', '[User]_phisco', '[User]_negz', '[User]_pedjak', '[User]_stevendborrelli', '[User]_MisterMX', '[User]_bobh66'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4583
+2023-09-06 21:52:17+00:00,[User]_sttts,"{'[User]_turkenh', '[User]_jbw976', '[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4584
+2023-09-07 08:03:07+00:00,[User]_turkenh,{'[User]_ezgidemirel'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4589
+2023-09-07 14:44:03+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_sttts'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4590
+2023-09-08 19:20:04+00:00,[User]_jtucci,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4593
+2023-09-09 13:03:59+00:00,[User]_sttts,"{'[User]_lsviben', '[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4594
+2023-09-11 06:39:22+00:00,[User]_sttts,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4597
+2023-09-11 21:01:18+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4600
+2023-09-11 21:05:26+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4601
+2023-09-12 14:26:39+00:00,[User]_sttts,"{'[User]_lsviben', '[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4610
+2023-09-13 20:58:36+00:00,[User]_negz,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4614
+2023-09-13 21:34:19+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4616
+2023-09-13 21:50:59+00:00,[User]_negz,"{'[User]_CodyRay', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4617
+2023-09-14 08:21:05+00:00,[User]_jeanduplessis,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4618
+2023-09-14 10:56:05+00:00,[User]_haarchri,"{'[User]_ytsarev', '[User]_lsviben', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4619
+2023-09-14 11:24:53+00:00,[User]_jeanduplessis,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4621
+2023-09-14 12:19:59+00:00,[User]_turkenh,"{'[User]_bobh66', '[User]_lsviben', '[User]_stevendborrelli'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4622
+2023-09-15 08:28:38+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_jbw976', '[User]_sttts'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4631
+2023-09-15 12:17:44+00:00,[User]_phisco,"{'[User]_phisco', '[User]_bobh66', '[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4632
+2023-09-15 18:43:43+00:00,[User]_negz,"{'[User]_phisco', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4633
+2023-09-18 12:05:51+00:00,[User]_sttts,"{'[User]_phisco', '[User]_pedjak', '[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4637
+2023-09-18 22:13:21+00:00,[User]_negz,"{'[User]_turkenh', '[User]_phisco', '[User]_negz', '[User]_bobh66', '[User]_plumbis', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4640
+2023-09-19 14:35:27+00:00,[User]_jbw976,"{'[User]_bassam', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4643
+2023-09-19 18:55:45+00:00,[User]_pedjak,{'[User]_bobh66'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4645
+2023-09-20 12:29:33+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_ezgidemirel'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4647
+2023-09-21 02:18:58+00:00,[User]_jbw976,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4648
+2023-09-21 04:44:29+00:00,[User]_richardvflux,"{'[User]_so-jelly', '[User]_shuknk8s', '[User]_richardvflux'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4649
+2023-09-21 13:39:06+00:00,[User]_pedjak,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4650
+2023-09-21 14:39:51+00:00,[User]_pedjak,"{'[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4651
+2023-09-21 15:21:19+00:00,[User]_jbw976,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4653
+2023-09-21 15:45:44+00:00,[User]_jbw976,"{'[User]_jbw976', '[User]_Piotr1215'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4654
+2023-09-21 17:31:01+00:00,[User]_phisco,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4656
+2023-09-21 23:52:04+00:00,[User]_jbw976,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4657
+2023-09-22 13:40:16+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4664
+2023-09-23 14:31:40+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4668
+2023-09-23 14:40:31+00:00,[User]_jbw976,{'[User]_lsviben'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4669
+2023-09-23 14:40:35+00:00,[User]_jbw976,"{'[User]_lsviben', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4670
+2023-09-23 14:44:25+00:00,[User]_jbw976,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4671
+2023-09-23 23:34:05+00:00,[User]_jbw976,"{'[User]_jbasement', '[User]_jbw976', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4672
+2023-09-24 14:42:35+00:00,[User]_jbw976,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4673
+2023-09-24 15:03:45+00:00,[User]_jbw976,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4674
+2023-09-24 15:47:56+00:00,[User]_jbw976,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4676
+2023-09-26 13:15:34+00:00,[User]_sttts,"{'[User]_phisco', '[User]_sttts'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4687
+2023-09-26 16:26:29+00:00,[User]_phisco,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4688
+2023-09-26 19:32:44+00:00,[User]_amanfredi,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4689
+2023-09-27 06:36:25+00:00,[User]_negz,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4690
+2023-09-27 09:49:27+00:00,[User]_pedjak,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4691
+2023-09-27 10:59:43+00:00,[User]_pedjak,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4692
+2023-09-27 14:31:05+00:00,[User]_lsviben,"{'[User]_tnthornton', '[User]_phisco', '[User]_haarchri', '[User]_lsviben', '[User]_jastang'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4694
+2023-09-27 20:58:51+00:00,[User]_negz,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4697
+2023-09-28 02:33:18+00:00,[User]_negz,"{'[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4699
+2023-09-28 09:16:13+00:00,[User]_pedjak,"{'[User]_phisco', '[User]_bobh66'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4700
+2023-09-28 09:50:23+00:00,[User]_phisco,"{'[User]_phisco', '[User]_pedjak', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4701
+2023-09-28 11:06:45+00:00,[User]_pedjak,"{'[User]_negz', '[User]_phisco', '[User]_pedjak', '[User]_jankaacc', '[User]_bobh66'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4702
+2023-09-28 20:40:16+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4705
+2023-09-29 10:59:54+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4706
+2023-09-29 17:32:27+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_haarchri'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4707
+2023-09-29 19:19:01+00:00,[User]_haarchri,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4708
+2023-09-29 19:24:14+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4709
+2023-10-02 11:01:30+00:00,[User]_turkenh,"{'[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4712
+2023-10-02 21:24:16+00:00,[User]_haarchri,{'[User]_bobh66'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4713
+2023-10-02 21:41:39+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4714
+2023-10-02 22:29:38+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4715
+2023-10-02 22:42:23+00:00,[User]_Mitsuwa,"{'[User]_Mitsuwa', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4716
+2023-10-02 22:55:38+00:00,[User]_negz,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4717
+2023-10-03 07:51:20+00:00,[User]_phisco,{'[User]_lsviben'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4718
+2023-10-03 08:09:45+00:00,[User]_phisco,"{'[User]_phisco', '[User]_lsviben', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4719
+2023-10-03 16:54:48+00:00,[User]_lsviben,"{'[User]_phisco', '[User]_lsviben', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4721
+2023-10-04 07:05:38+00:00,[User]_sttts,"{'[User]_phisco', '[User]_pedjak', '[User]_sttts'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4724
+2023-10-04 16:14:47+00:00,[User]_nello1992,"{'[User]_phisco', '[User]_nello1992'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4727
+2023-10-04 18:00:46+00:00,[User]_gotwarlost,"{'[User]_gotwarlost', '[User]_bobh66', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4728
+2023-10-05 00:16:29+00:00,[User]_negz,"{'[User]_bobh66', '[User]_blakeromano', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4729
+2023-10-05 05:02:13+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4731
+2023-10-05 10:15:26+00:00,[User]_phisco,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4732
+2023-10-05 12:47:05+00:00,[User]_sttts,"{'[User]_sttts', '[User]_turkenh', '[User]_phisco', '[User]_pedjak', '[User]_bobh66'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4733
+2023-10-05 14:26:37+00:00,[User]_sttts,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4735
+2023-10-05 15:13:19+00:00,[User]_phisco,"{'[User]_phisco', '[User]_negz', '[User]_jbw976', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4736
+2023-10-06 03:27:25+00:00,[User]_negz,"{'[User]_phisco', '[User]_gotwarlost', '[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4739
+2023-10-06 10:00:00+00:00,[User]_phisco,"{'[User]_phisco', '[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4740
+2023-10-06 11:26:18+00:00,[User]_JonasKs,"{'[User]_phisco', '[User]_JonasKs', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4741
+2023-10-06 12:03:21+00:00,[User]_pedjak,"{'[User]_pedjak', '[User]_jbw976', '[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4742
+2023-10-06 16:33:31+00:00,[User]_phisco,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4745
+2023-10-09 07:35:03+00:00,[User]_phisco,"{'[User]_phisco', '[User]_diegoavitorino', '[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4748
+2023-10-09 07:43:56+00:00,[User]_phisco,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4749
+2023-10-09 08:52:37+00:00,[User]_jbasement,"{'[User]_phisco', '[User]_jbasement', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4751
+2023-10-09 11:03:38+00:00,[User]_sttts,"{'[User]_phisco', '[User]_negz', '[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4754
+2023-10-09 11:04:25+00:00,[User]_phisco,"{'[User]_jbw976', '[User]_negz', '[User]_phisco', '[User]_turkenh', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4755
+2023-10-09 12:08:01+00:00,[User]_pedjak,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4756
+2023-10-09 13:39:32+00:00,[User]_phisco,"{'[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4758
+2023-10-09 18:36:33+00:00,[User]_jbw976,"{'[User]_plumbis', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4761
+2023-10-10 09:38:07+00:00,[User]_phisco,"{'[User]_jbw976', '[User]_negz', '[User]_phisco', '[User]_haarchri', '[User]_stevendborrelli'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4764
+2023-10-10 12:30:48+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4767
+2023-10-10 14:35:22+00:00,[User]_pedjak,"{'[User]_phisco', '[User]_bobh66', '[User]_pedjak', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4768
+2023-10-11 06:47:35+00:00,[User]_maximilianbraun,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4776
+2023-10-11 10:38:31+00:00,[User]_sttts,"{'[User]_phisco', '[User]_pedjak', '[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4777
+2023-10-11 11:29:56+00:00,[User]_raffaelespazzoli,"{'[User]_ezgidemirel', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4779
+2023-10-11 13:07:36+00:00,[User]_phisco,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4781
+2023-10-11 14:44:37+00:00,[User]_pedjak,"{'[User]_phisco', '[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4782
+2023-10-11 22:58:28+00:00,[User]_negz,"{'[User]_phisco', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4783
+2023-10-11 23:03:36+00:00,[User]_negz,"{'[User]_phisco', '[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4784
+2023-10-11 23:08:10+00:00,[User]_negz,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4785
+2023-10-11 23:20:56+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4786
+2023-10-11 23:51:53+00:00,[User]_jbw976,"{'[User]_jbw976', '[User]_turkenh', '[User]_phisco', '[User]_negz', '[User]_TerjeLafton', '[User]_bobh66', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4787
+2023-10-12 19:32:10+00:00,[User]_halversonea,{'[User]_bobh66'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4795
+2023-10-12 23:47:14+00:00,[User]_negz,"{'[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4796
+2023-10-13 01:17:21+00:00,[User]_negz,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4797
+2023-10-13 04:38:45+00:00,[User]_danielkurniadi,"{'[User]_danielkurniadi', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4798
+2023-10-13 09:26:33+00:00,[User]_phisco,"{'[User]_phisco', '[User]_negz', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4799
+2023-10-13 11:31:45+00:00,[User]_siddharthdeshmukh,"{'[User]_phisco', '[User]_siddharthdeshmukh', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4801
+2023-10-13 15:11:50+00:00,[User]_mateusz-lubanski-sinch,"{'[User]_bobh66', '[User]_mateusz-lubanski-sinch', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4803
+2023-10-13 15:30:39+00:00,[User]_pedjak,"{'[User]_phisco', '[User]_turkenh', '[User]_pedjak', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4804
+2023-10-13 15:55:07+00:00,[User]_pedjak,"{'[User]_negz', '[User]_phisco', '[User]_turkenh', '[User]_pedjak', '[User]_bobh66', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4805
+2023-10-14 00:54:57+00:00,[User]_negz,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4811
+2023-10-14 15:50:01+00:00,[User]_phisco,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4812
+2023-10-14 16:59:58+00:00,[User]_plumbis,{'[User]_plumbis'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4813
+2023-10-16 08:52:54+00:00,[User]_phisco,"{'[User]_negz', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4814
+2023-10-16 09:39:28+00:00,[User]_phisco,"{'[User]_phisco', '[User]_pedjak'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4815
+2023-10-16 09:49:37+00:00,[User]_sttts,"{'[User]_phisco', '[User]_pedjak', '[User]_sttts'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4816
+2023-10-16 12:39:05+00:00,[User]_phisco,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4818
+2023-10-16 19:23:26+00:00,[User]_pedjak,"{'[User]_phisco', '[User]_pedjak', '[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4820
+2023-10-17 09:51:02+00:00,[User]_pedjak,"{'[User]_pedjak', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4821
+2023-10-17 12:13:57+00:00,[User]_phisco,"{'[User]_phisco', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4823
+2023-10-17 15:43:11+00:00,[User]_humoflife,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4826
+2023-10-17 17:27:45+00:00,[User]_sttts,"{'[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4828
+2023-10-17 18:13:11+00:00,[User]_sttts,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4829
+2023-10-17 22:45:18+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_jbw976', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4831
+2023-10-17 22:56:53+00:00,[User]_negz,"{'[User]_phisco', '[User]_plumbis', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4832
+2023-10-18 04:31:02+00:00,[User]_negz,"{'[User]_phisco', '[User]_pedjak', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4834
+2023-10-18 07:24:36+00:00,[User]_turkenh,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4835
+2023-10-18 07:33:47+00:00,[User]_sttts,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4836
+2023-10-18 09:10:32+00:00,[User]_phisco,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4838
+2023-10-18 17:08:10+00:00,[User]_plumbis,"{'[User]_negz', '[User]_plumbis', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4840
+2023-10-18 21:12:37+00:00,[User]_plumbis,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4841
+2023-10-18 23:21:38+00:00,[User]_negz,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4842
+2023-10-18 23:57:50+00:00,[User]_negz,"{'[User]_phisco', '[User]_plumbis', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4843
+2023-10-19 05:39:04+00:00,[User]_negz,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4844
+2023-10-19 06:26:26+00:00,[User]_turkenh,"{'[User]_pedjak', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4845
+2023-10-19 06:39:00+00:00,[User]_turkenh,"{'[User]_turkenh', '[User]_phisco', '[User]_pedjak', '[User]_ytsarev', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4846
+2023-10-19 09:29:16+00:00,[User]_turkenh,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4847
+2023-10-19 18:49:36+00:00,[User]_haarchri,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4852
+2023-10-19 19:01:22+00:00,[User]_negz,"{'[User]_bobh66', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4853
+2023-10-19 19:58:47+00:00,[User]_haarchri,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4854
+2023-10-19 20:05:10+00:00,[User]_plumbis,"{'[User]_plumbis', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4855
+2023-10-20 06:10:33+00:00,[User]_turkenh,"{'[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4857
+2023-10-20 08:18:27+00:00,[User]_sttts,"{'[User]_pedjak', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4858
+2023-10-20 12:04:52+00:00,[User]_sttts,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4859
+2023-10-20 14:51:06+00:00,[User]_phisco,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4861
+2023-10-20 23:21:29+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4864
+2023-10-22 00:35:48+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4866
+2023-10-22 00:57:18+00:00,[User]_negz,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4867
+2023-10-22 06:03:36+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4869
+2023-10-22 07:21:13+00:00,[User]_negz,"{'[User]_phisco', '[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4870
+2023-10-22 11:54:56+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_negz', '[User]_jbw976', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4871
+2023-10-23 05:14:11+00:00,[User]_turkenh,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4875
+2023-10-23 05:54:18+00:00,[User]_turkenh,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4880
+2023-10-23 11:06:14+00:00,[User]_phisco,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4883
+2023-10-24 00:12:21+00:00,[User]_negz,"{'[User]_jbw976', '[User]_negz', '[User]_phisco', '[User]_pedjak', '[User]_TerjeLafton', '[User]_JonasKs'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4885
+2023-10-24 10:24:37+00:00,[User]_phisco,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4887
+2023-10-24 18:24:45+00:00,[User]_negz,"{'[User]_phisco', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4888
+2023-10-25 12:13:03+00:00,[User]_phisco,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4892
+2023-10-25 12:57:30+00:00,[User]_turkenh,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4893
+2023-10-25 13:49:57+00:00,[User]_sttts,"{'[User]_phisco', '[User]_sttts'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4895
+2023-10-25 15:11:21+00:00,[User]_pedjak,"{'[User]_pedjak', '[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4896
+2023-10-26 01:49:16+00:00,[User]_negz,"{'[User]_phisco', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4901
+2023-10-26 07:51:10+00:00,[User]_turkenh,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4902
+2023-10-26 10:58:24+00:00,[User]_sttts,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4904
+2023-10-26 15:35:40+00:00,[User]_plumbis,"{'[User]_phisco', '[User]_plumbis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4907
+2023-10-26 16:25:47+00:00,[User]_mproffitt,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4908
+2023-10-26 19:38:46+00:00,[User]_plumbis,"{'[User]_pedjak', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4911
+2023-10-27 04:14:40+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4914
+2023-10-27 20:51:48+00:00,[User]_stevendborrelli,{'[User]_stevendborrelli'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4922
+2023-10-27 21:34:27+00:00,[User]_negz,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4923
+2023-10-30 14:13:01+00:00,[User]_pedjak,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4928
+2023-10-31 11:11:01+00:00,[User]_JonasKs,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4933
+2023-10-31 20:19:39+00:00,[User]_negz,"{'[User]_eshepelyuk', '[User]_phclark', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4941
+2023-11-01 07:50:59+00:00,[User]_turkenh,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4942
+2023-11-01 15:51:49+00:00,[User]_turkenh,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4944
+2023-11-01 17:06:40+00:00,[User]_phisco,{'[User]_chlunde'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4946
+2023-11-02 08:20:15+00:00,[User]_JonasKs,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4949
+2023-11-02 16:24:27+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_hwinkel', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4951
+2023-11-02 16:31:09+00:00,[User]_jbw976,"{'[User]_jbw976', '[User]_mergenci', '[User]_turkenh', '[User]_haarchri', '[User]_lsviben', '[User]_ytsarev', '[User]_mbbush', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4952
+2023-11-02 17:57:34+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4955
+2023-11-02 19:10:03+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4958
+2023-11-03 16:25:40+00:00,[User]_jeanduplessis,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4960
+2023-11-03 16:29:45+00:00,[User]_jeanduplessis,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4961
+2023-11-03 16:35:52+00:00,[User]_jeanduplessis,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4962
+2023-11-03 16:39:58+00:00,[User]_jeanduplessis,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4963
+2023-11-03 17:23:27+00:00,[User]_jeanduplessis,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4964
+2023-11-03 17:25:22+00:00,[User]_jeanduplessis,{'[User]_jeanduplessis'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4965
+2023-11-04 22:45:40+00:00,[User]_mproffitt,"{'[User]_mproffitt', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4968
+2023-11-05 22:27:22+00:00,[User]_negz,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4970
+2023-11-05 23:18:17+00:00,[User]_negz,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4971
+2023-11-06 20:06:37+00:00,[User]_nalshamaajc,"{'[User]_nalshamaajc', '[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4975
+2023-11-06 20:54:52+00:00,[User]_negz,"{'[User]_jbw976', '[User]_negz', '[User]_lsviben', '[User]_Piotr1215', '[User]_ezgidemirel'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4976
+2023-11-06 22:31:32+00:00,[User]_negz,"{'[User]_haarchri', '[User]_turkenh', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4979
+2023-11-07 00:45:09+00:00,[User]_Chrand123,"{'[User]_jbw976', '[User]_mateusz-lubanski-sinch'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4980
+2023-11-07 23:03:49+00:00,[User]_pguerin3,{'[User]_bobh66'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4985
+2023-11-09 19:47:03+00:00,[User]_humoflife,"{'[User]_humoflife', '[User]_turkenf', '[User]_haarchri', '[User]_simplyanks80', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4990
+2023-11-14 04:42:06+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/4997
+2023-11-14 05:57:43+00:00,[User]_denzhel,"{'[User]_denzhel', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4998
+2023-11-14 12:59:06+00:00,[User]_katikireddy622,"{'[User]_phisco', '[User]_haarchri'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/4999
+2023-11-14 21:32:36+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5000
+2023-11-14 21:36:22+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5001
+2023-11-15 03:08:16+00:00,[User]_negz,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5005
+2023-11-15 05:19:44+00:00,[User]_negz,"{'[User]_bobh66', '[User]_sttts', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5006
+2023-11-15 19:28:28+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_haarchri'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5008
+2023-11-15 21:11:53+00:00,[User]_negz,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5010
+2023-11-15 21:43:51+00:00,[User]_negz,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5011
+2023-11-16 01:39:45+00:00,[User]_jbw976,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5012
+2023-11-16 07:13:53+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_lsviben', '[User]_Piotr1215'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5014
+2023-11-16 14:51:00+00:00,[User]_Swapnil-CSI,"{'[User]_haarchri', '[User]_jbw976', '[User]_stevendborrelli'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5017
+2023-11-17 06:33:28+00:00,[User]_jbw976,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5026
+2023-11-17 06:44:37+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_jbasement', '[User]_jbw976', '[User]_Piotr1215'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5028
+2023-11-17 06:51:05+00:00,[User]_jbw976,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5029
+2023-11-17 08:18:18+00:00,[User]_phisco,"{'[User]_phisco', '[User]_lsviben', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5030
+2023-11-17 14:54:40+00:00,[User]_phisco,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5035
+2023-11-18 01:43:18+00:00,[User]_jbw976,"{'[User]_jbw976', '[User]_Piotr1215'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5036
+2023-11-18 15:43:12+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_jbw976', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5037
+2023-11-20 09:44:31+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_MisterMX', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5041
+2023-11-20 12:37:51+00:00,[User]_headyj,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5043
+2023-11-21 14:08:47+00:00,[User]_MisterMX,"{'[User]_phisco', '[User]_MisterMX', '[User]_djmcgreal-cc'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5050
+2023-11-23 09:51:27+00:00,[User]_phisco,"{'[User]_phisco', '[User]_lsviben'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5057
+2023-11-27 14:25:09+00:00,[User]_phisco,"{'[User]_turkenh', '[User]_phisco', '[User]_negz', '[User]_lsviben', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5061
+2023-11-28 14:28:06+00:00,[User]_Kidswiss,"{'[User]_Kidswiss', '[User]_blakeromano', '[User]_jbw976', '[User]_zonybob'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5068
+2023-11-30 11:53:16+00:00,[User]_portswigger-tim,"{'[User]_jbw976', '[User]_mzingarelli', '[User]_phisco', '[User]_turkenh', '[User]_portswigger-tim', '[User]_dom38', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5074
+2023-11-30 14:03:42+00:00,[User]_P0t4T0o,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5075
+2023-12-01 12:29:33+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_haarchri'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5082
+2023-12-05 03:59:10+00:00,[User]_bobh66,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5091
+2023-12-07 11:23:26+00:00,[User]_katikireddy622,"{'[User]_phisco', '[User]_katikireddy622'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5093
+2023-12-07 16:49:13+00:00,[User]_vedantthapa,"{'[User]_phisco', '[User]_LCaparelli', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5097
+2023-12-07 23:07:08+00:00,[User]_jaylevin,"{'[User]_phisco', '[User]_jaylevin', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5098
+2023-12-08 13:38:43+00:00,[User]_phisco,"{'[User]_negz', '[User]_phisco', '[User]_turkenh', '[User]_ytsarev', '[User]_jeanduplessis'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5099
+2023-12-10 04:54:31+00:00,[User]_davejhahn,"{'[User]_phisco', '[User]_davejhahn'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5106
+2023-12-11 10:35:50+00:00,[User]_phisco,"{'[User]_bobh66', '[User]_ezgidemirel'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5110
+2023-12-11 10:36:58+00:00,[User]_phisco,{'[User]_ezgidemirel'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5111
+2023-12-11 12:56:00+00:00,[User]_fabioaraujopt,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5113
+2023-12-11 15:48:17+00:00,[User]_stevendborrelli,"{'[User]_phisco', '[User]_stevendborrelli'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5114
+2023-12-11 18:06:34+00:00,[User]_phisco,{'[User]_lsviben'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5119
+2023-12-11 19:28:22+00:00,[User]_davejhahn,"{'[User]_davejhahn', '[User]_bobh66'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5120
+2023-12-12 09:47:37+00:00,[User]_phisco,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5121
+2023-12-13 01:07:09+00:00,[User]_ytsarev,"{'[User]_negz', '[User]_haarchri', '[User]_ytsarev', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5124
+2023-12-13 17:20:27+00:00,[User]_mkm29,{'[User]_negz'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5126
+2023-12-13 18:04:33+00:00,[User]_wotolom,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5127
+2023-12-15 14:35:35+00:00,[User]_phisco,"{'[User]_phisco', '[User]_pedjak'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5137
+2023-12-15 14:36:37+00:00,[User]_nello1992,"{'[User]_nello1992', '[User]_bobh66', '[User]_pedjak'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5138
+2023-12-15 15:17:31+00:00,[User]_phisco,{'[User]_pedjak'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5141
+2023-12-15 16:11:08+00:00,[User]_bobh66,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5142
+2023-12-18 11:52:34+00:00,[User]_pedjak,"{'[User]_negz', '[User]_jbw976', '[User]_turkenh'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5145
+2023-12-19 14:58:39+00:00,[User]_MisterMX,"{'[User]_phisco', '[User]_MisterMX'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5148
+2023-12-19 15:14:43+00:00,[User]_djeremiah,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5149
+2023-12-19 18:01:10+00:00,[User]_yogeek,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5152
+2023-12-19 18:25:41+00:00,[User]_satishweb,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5153
+2023-12-19 22:52:26+00:00,[User]_amanfredi,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5155
+2023-12-20 07:39:10+00:00,[User]_mcanevet,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5158
+2023-12-20 08:56:30+00:00,[User]_remyleone,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5159
+2023-12-20 11:35:57+00:00,[User]_iuriaranda,"{'[User]_jbw976', '[User]_iuriaranda'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5160
+2023-12-20 13:08:52+00:00,[User]_Ayush9026,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5161
+2023-12-20 15:37:19+00:00,[User]_ezgidemirel,"{'[User]_jbw976', '[User]_negz', '[User]_phisco', '[User]_haarchri', '[User]_ezgidemirel'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5162
+2023-12-20 16:10:04+00:00,[User]_pedjak,"{'[User]_phisco', '[User]_bobh66', '[User]_pedjak'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5163
+2023-12-20 21:23:51+00:00,[User]_djeremiah,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5164
+2023-12-20 21:35:37+00:00,[User]_djeremiah,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5165
+2023-12-21 01:45:18+00:00,[User]_jbw976,{'[User]_phisco'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5166
+2023-12-21 02:11:18+00:00,[User]_jbw976,{'[User]_bobh66'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5167
+2023-12-21 09:15:47+00:00,[User]_alex-souslik-hs,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5168
+2023-12-21 14:43:35+00:00,[User]_morningspace,{'[User]_jbw976'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5170
+2023-12-22 19:14:58+00:00,[User]_jbw976,set(),crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5172
+2023-12-23 14:36:36+00:00,[User]_zs-dima,"{'[User]_bobh66', '[User]_sshiv5768', '[User]_negz'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/issues/5173
+2023-12-28 21:01:35+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_bassam'}",crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5177
+2023-12-29 09:27:23+00:00,[User]_phisco,{'[User]_turkenh'},crossplane/crossplane,2023,https://github.com/crossplane/crossplane/pull/5180
+2024-01-02 06:18:43+00:00,[User]_mateusz-lubanski-sinch,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5187
+2024-01-02 07:15:20+00:00,[User]_turkenh,"{'[User]_bobh66', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5188
+2024-01-03 09:29:24+00:00,[User]_lsviben,"{'[User]_phisco', '[User]_lsviben', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5190
+2024-01-03 12:56:48+00:00,[User]_CasperGN,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5191
+2024-01-03 15:25:02+00:00,[User]_techny210,{'[User]_jeanduplessis'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5192
+2024-01-04 16:37:17+00:00,[User]_stevendborrelli,{'[User]_turkenh'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5193
+2024-01-04 22:33:38+00:00,[User]_negz,"{'[User]_phisco', '[User]_turkenh', '[User]_jeanduplessis'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5195
+2024-01-04 22:43:11+00:00,[User]_ytsarev,"{'[User]_phisco', '[User]_ytsarev'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5196
+2024-01-05 15:08:50+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_ezgidemirel', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5197
+2024-01-05 15:18:02+00:00,[User]_prune998,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5198
+2024-01-09 07:29:57+00:00,[User]_maximilianbraun,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5200
+2024-01-09 15:02:45+00:00,[User]_phisco,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5204
+2024-01-10 08:36:05+00:00,[User]_jeanduplessis,"{'[User]_phisco', '[User]_dilyankostov', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5209
+2024-01-11 22:43:22+00:00,[User]_davejhahn,"{'[User]_phisco', '[User]_davejhahn'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5225
+2024-01-11 23:54:12+00:00,[User]_kellytenn,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5226
+2024-01-12 00:56:13+00:00,[User]_negz,"{'[User]_dee-kryvenko', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5227
+2024-01-12 02:20:32+00:00,[User]_negz,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5229
+2024-01-12 09:42:12+00:00,[User]_jeanduplessis,"{'[User]_phisco', '[User]_jeanduplessis', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5231
+2024-01-12 09:56:56+00:00,[User]_jeanduplessis,"{'[User]_phisco', '[User]_negz', '[User]_jeanduplessis'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5232
+2024-01-12 16:48:31+00:00,[User]_teddyking,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5235
+2024-01-15 14:31:24+00:00,[User]_pierluigilenoci,"{'[User]_phisco', '[User]_pierluigilenoci', '[User]_turkenh'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5243
+2024-01-15 22:18:21+00:00,[User]_Piotr1215,"{'[User]_jbw976', '[User]_negz', '[User]_phisco', '[User]_lsviben', '[User]_Piotr1215'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5245
+2024-01-16 10:43:19+00:00,[User]_pierluigilenoci,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5246
+2024-01-16 13:23:04+00:00,[User]_phisco,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5247
+2024-01-16 13:28:57+00:00,[User]_ezgidemirel,"{'[User]_jbw976', '[User]_plumbis', '[User]_negz', '[User]_phisco', '[User]_lsviben', '[User]_ezgidemirel'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5248
+2024-01-17 03:03:21+00:00,[User]_negz,{'[User]_bobh66'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5249
+2024-01-17 08:23:02+00:00,[User]_sttts,"{'[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5250
+2024-01-17 17:17:58+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_lsviben', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5252
+2024-01-17 21:45:48+00:00,[User]_fernandezcuesta,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5257
+2024-01-18 00:15:28+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5259
+2024-01-18 01:21:22+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5260
+2024-01-18 08:51:25+00:00,[User]_jbw976,"{'[User]_turkenh', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5261
+2024-01-19 10:03:11+00:00,[User]_turkenh,{'[User]_turkenh'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5265
+2024-01-19 16:28:45+00:00,[User]_lajchon,"{'[User]_phisco', '[User]_lajchon', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5267
+2024-01-20 01:52:30+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5269
+2024-01-21 04:15:48+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_bobh66', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5270
+2024-01-22 14:23:12+00:00,[User]_abelhoula,"{'[User]_phisco', '[User]_haarchri', '[User]_btwseeu78', '[User]_abelhoula'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5272
+2024-01-22 15:49:32+00:00,[User]_stevendborrelli,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5273
+2024-01-22 20:47:56+00:00,[User]_lsviben,"{'[User]_turkenh', '[User]_phisco', '[User]_haarchri', '[User]_stevendborrelli', '[User]_lsviben', '[User]_Piotr1215'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5275
+2024-01-23 01:43:11+00:00,[User]_negz,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5276
+2024-01-25 11:03:46+00:00,[User]_akesser,"{'[User]_haarchri', '[User]_bobh66'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5284
+2024-01-25 16:30:03+00:00,[User]_haarchri,"{'[User]_bobh66', '[User]_haarchri', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5285
+2024-01-25 23:16:03+00:00,[User]_negz,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5287
+2024-01-26 12:17:50+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5289
+2024-01-26 13:31:00+00:00,[User]_phisco,{'[User]_lsviben'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5290
+2024-01-26 15:00:19+00:00,[User]_bobh66,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5291
+2024-01-26 15:38:41+00:00,[User]_y4ri,"{'[User]_phisco', '[User]_y4ri', '[User]_xoanmi', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5292
+2024-01-26 21:47:27+00:00,[User]_rwsweeney,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5293
+2024-01-26 22:05:56+00:00,[User]_negz,"{'[User]_bobh66', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5294
+2024-01-27 00:01:47+00:00,[User]_jbw976,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5295
+2024-01-27 00:18:31+00:00,[User]_negz,"{'[User]_jbw976', '[User]_sttts'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5296
+2024-01-27 00:27:25+00:00,[User]_negz,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5297
+2024-01-27 02:45:24+00:00,[User]_jbw976,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5298
+2024-01-27 13:38:57+00:00,[User]_nello1992,"{'[User]_nello1992', '[User]_bobh66'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5301
+2024-01-29 22:58:08+00:00,[User]_blakeromano,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5303
+2024-01-30 15:10:14+00:00,[User]_phisco,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5305
+2024-01-30 16:41:59+00:00,[User]_phisco,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5306
+2024-01-30 18:36:10+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5307
+2024-01-31 04:33:58+00:00,[User]_negz,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5311
+2024-01-31 04:50:34+00:00,[User]_negz,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5312
+2024-01-31 06:21:57+00:00,[User]_negz,"{'[User]_phisco', '[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5313
+2024-01-31 13:06:27+00:00,[User]_sttts,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5314
+2024-01-31 13:46:03+00:00,[User]_MisterMX,"{'[User]_phisco', '[User]_bobh66'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5315
+2024-02-01 05:18:27+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5320
+2024-02-01 11:18:58+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5322
+2024-02-01 18:56:44+00:00,[User]_phisco,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5325
+2024-02-02 09:40:02+00:00,[User]_ezgidemirel,"{'[User]_phisco', '[User]_ezgidemirel', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5326
+2024-02-02 09:46:06+00:00,[User]_ezgidemirel,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5327
+2024-02-02 17:00:37+00:00,[User]_sanketgawade,"{'[User]_jbw976', '[User]_sanketgawade'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5329
+2024-02-02 21:23:32+00:00,[User]_bassam,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5331
+2024-02-02 23:24:43+00:00,[User]_jbw976,{'[User]_bobh66'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5333
+2024-02-03 03:33:11+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5334
+2024-02-03 21:42:05+00:00,[User]_duizabojul,{'[User]_ksawerykarwacki'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5335
+2024-02-05 12:29:01+00:00,[User]_Rand0mF,"{'[User]_Rand0mF', '[User]_phisco'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5336
+2024-02-05 17:45:46+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5337
+2024-02-05 20:53:27+00:00,[User]_negz,"{'[User]_jsanda', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5338
+2024-02-05 23:24:38+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz', '[User]_enesonus', '[User]_turkenh'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5339
+2024-02-06 04:23:22+00:00,[User]_jcooklin,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5342
+2024-02-06 07:35:33+00:00,[User]_clementblaise,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5343
+2024-02-06 10:13:00+00:00,[User]_phisco,{'[User]_turkenh'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5344
+2024-02-06 10:26:44+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5345
+2024-02-07 07:02:56+00:00,[User]_maximilianbraun,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5352
+2024-02-07 09:54:36+00:00,[User]_turkenh,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5355
+2024-02-07 12:11:20+00:00,[User]_turkenh,"{'[User]_phisco', '[User]_turkenh'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5356
+2024-02-07 20:07:46+00:00,[User]_sonderteo,"{'[User]_blut', '[User]_jbw976', '[User]_sonderteo'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5360
+2024-02-08 15:57:17+00:00,[User]_brovoca,{'[User]_jaylevin'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5361
+2024-02-08 16:02:45+00:00,[User]_brovoca,"{'[User]_brovoca', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5362
+2024-02-08 21:18:50+00:00,[User]_bobh66,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5363
+2024-02-08 21:22:25+00:00,[User]_bobh66,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5364
+2024-02-09 21:52:24+00:00,[User]_gandhiano,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5366
+2024-02-12 07:42:35+00:00,[User]_turkenh,{'[User]_turkenh'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5368
+2024-02-12 21:32:55+00:00,[User]_jbw976,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5376
+2024-02-12 21:49:03+00:00,[User]_jbw976,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5377
+2024-02-13 02:37:02+00:00,[User]_jbw976,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5378
+2024-02-13 08:41:47+00:00,[User]_phisco,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5381
+2024-02-13 08:57:08+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5382
+2024-02-13 13:54:06+00:00,[User]_turkenf,"{'[User]_turkenf', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5383
+2024-02-13 15:03:00+00:00,[User]_lsviben,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5384
+2024-02-13 18:52:03+00:00,[User]_negz,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5386
+2024-02-13 21:09:16+00:00,[User]_lsviben,"{'[User]_padlar', '[User]_lsviben'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5387
+2024-02-15 02:53:26+00:00,[User]_negz,"{'[User]_Cliftonz', '[User]_bobh66', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5393
+2024-02-15 08:45:47+00:00,[User]_phisco,{'[User]_lsviben'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5395
+2024-02-15 13:44:51+00:00,[User]_hwoarang,"{'[User]_bassam', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5397
+2024-02-15 20:14:31+00:00,[User]_blakeromano,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5399
+2024-02-16 10:18:48+00:00,[User]_fernandezcuesta,"{'[User]_haarchri', '[User]_jbw976', '[User]_fernandezcuesta'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5400
+2024-02-16 20:00:23+00:00,[User]_negz,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5401
+2024-02-16 21:58:43+00:00,[User]_dalton-hill-0,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5402
+2024-02-17 02:37:21+00:00,[User]_dalton-hill-0,"{'[User]_dalton-hill-0', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5403
+2024-02-19 10:08:29+00:00,[User]_smoehrle,"{'[User]_phisco', '[User]_smoehrle', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5404
+2024-02-19 16:19:02+00:00,[User]_maximiliantech,"{'[User]_phisco', '[User]_bobh66', '[User]_maximiliantech', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5406
+2024-02-19 16:36:18+00:00,[User]_maximiliantech,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5407
+2024-02-21 11:09:16+00:00,[User]_niralmehtasb1,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5416
+2024-02-22 08:46:48+00:00,[User]_mlubanski,"{'[User]_mlubanski', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5418
+2024-02-22 08:49:53+00:00,[User]_sttts,"{'[User]_negz', '[User]_jbw976', '[User]_sttts', '[User]_turkenh'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5419
+2024-02-22 13:43:26+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5420
+2024-02-22 15:54:17+00:00,[User]_mlubanski,"{'[User]_phisco', '[User]_mlubanski', '[User]_padlar', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5421
+2024-02-22 16:48:35+00:00,[User]_sttts,"{'[User]_jbw976', '[User]_sttts', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5422
+2024-02-22 18:01:33+00:00,[User]_danielloader,"{'[User]_bobh66', '[User]_danielloader'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5423
+2024-02-23 11:55:18+00:00,[User]_turkenh,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5424
+2024-02-23 20:12:17+00:00,[User]_bobh66,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5425
+2024-02-23 22:12:17+00:00,[User]_dalton-hill-0,"{'[User]_dalton-hill-0', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5426
+2024-02-24 03:11:13+00:00,[User]_negz,"{'[User]_turkenh', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5427
+2024-02-25 20:21:44+00:00,[User]_danielloader,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5428
+2024-02-26 08:21:02+00:00,[User]_prog76,{'[User]_prog76'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5429
+2024-02-27 09:33:33+00:00,[User]_haarchri,"{'[User]_bobh66', '[User]_haarchri', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5431
+2024-02-27 11:31:52+00:00,[User]_giulio-chillipharm,{'[User]_haarchri'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5432
+2024-02-28 06:06:53+00:00,[User]_negz,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5433
+2024-02-28 11:28:58+00:00,[User]_mlubanski,"{'[User]_bobh66', '[User]_mlubanski', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5434
+2024-02-29 14:55:10+00:00,[User]_sttts,"{'[User]_sttts', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5437
+2024-02-29 20:39:54+00:00,[User]_csantanapr,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5438
+2024-02-29 21:15:07+00:00,[User]_daniel-palmer-gu,"{'[User]_phisco', '[User]_daniel-palmer-gu', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5439
+2024-03-01 01:05:53+00:00,[User]_stevendborrelli,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5440
+2024-03-01 09:16:54+00:00,[User]_phisco,"{'[User]_phisco', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5441
+2024-03-01 10:18:25+00:00,[User]_cristicalin,{'[User]_cristicalin'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5442
+2024-03-01 12:22:03+00:00,[User]_nolancon,"{'[User]_nolancon', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5443
+2024-03-01 15:18:46+00:00,[User]_MisterMX,"{'[User]_haarchri', '[User]_MisterMX', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5444
+2024-03-01 21:17:45+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5445
+2024-03-02 02:30:36+00:00,[User]_morey-tech,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5446
+2024-03-03 20:08:45+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_haarchri'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5447
+2024-03-04 12:28:29+00:00,[User]_AtzeDeVries,"{'[User]_phisco', '[User]_haarchri', '[User]_AtzeDeVries'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5448
+2024-03-04 17:33:14+00:00,[User]_dalton-hill-0,"{'[User]_dalton-hill-0', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5450
+2024-03-04 18:50:34+00:00,[User]_dmvariphy,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5451
+2024-03-04 20:36:20+00:00,[User]_jbw976,"{'[User]_jbw976', '[User]_lindblombr', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5452
+2024-03-05 12:10:20+00:00,[User]_TerjeLafton,"{'[User]_jbw976', '[User]_sttts', '[User]_negz', '[User]_pedjak', '[User]_TerjeLafton', '[User]_plumbis'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5453
+2024-03-05 13:46:59+00:00,[User]_MisterMX,"{'[User]_MisterMX', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5454
+2024-03-06 10:10:00+00:00,[User]_withnale,"{'[User]_phisco', '[User]_bobh66', '[User]_Caomoji', '[User]_withnale'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5456
+2024-03-06 15:47:18+00:00,[User]_haarchri,"{'[User]_phisco', '[User]_haarchri', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5457
+2024-03-07 10:05:36+00:00,[User]_aridelsante,"{'[User]_turkenh', '[User]_jbw976', '[User]_aridelsante', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5458
+2024-03-07 23:05:27+00:00,[User]_negz,"{'[User]_phisco', '[User]_negz', '[User]_jbw976', '[User]_enesonus'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5462
+2024-03-08 23:09:30+00:00,[User]_sttts,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5463
+2024-03-08 23:21:09+00:00,[User]_padlar,"{'[User]_phisco', '[User]_padlar', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5464
+2024-03-09 21:02:21+00:00,[User]_turkenh,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5465
+2024-03-09 21:05:58+00:00,[User]_turkenh,"{'[User]_jbw976', '[User]_turkenh'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5466
+2024-03-11 07:27:09+00:00,[User]_sttts,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5468
+2024-03-13 03:43:37+00:00,[User]_sudheer757,"{'[User]_bobh66', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5470
+2024-03-13 10:12:24+00:00,[User]_AtzeDeVries,"{'[User]_phisco', '[User]_AtzeDeVries', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5471
+2024-03-13 12:43:03+00:00,[User]_haarchri,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5473
+2024-03-14 00:45:54+00:00,[User]_markphillips100,"{'[User]_markphillips100', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5476
+2024-03-14 02:27:23+00:00,[User]_negz,"{'[User]_bobh66', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5477
+2024-03-14 12:28:10+00:00,[User]_turkenh,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5481
+2024-03-15 12:42:30+00:00,[User]_BartoszZawadzki,{'[User]_BartoszZawadzki'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5483
+2024-03-15 16:13:20+00:00,[User]_bobh66,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5484
+2024-03-15 17:39:22+00:00,[User]_bobh66,{'[User]_bobh66'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5485
+2024-03-15 17:52:52+00:00,[User]_bobh66,"{'[User]_phisco', '[User]_bobh66', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5486
+2024-03-15 18:39:58+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_bobh66', '[User]_santhoshivan23', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5487
+2024-03-15 20:35:15+00:00,[User]_haarchri,"{'[User]_birapjr', '[User]_santhoshivan23'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5488
+2024-03-16 13:54:04+00:00,[User]_dee-kryvenko,"{'[User]_bobh66', '[User]_dee-kryvenko', '[User]_maplewf', '[User]_truongnht'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5489
+2024-03-18 10:21:51+00:00,[User]_djmcgreal-cc,"{'[User]_phisco', '[User]_djmcgreal-cc'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5490
+2024-03-18 12:44:02+00:00,[User]_thoec,"{'[User]_phisco', '[User]_jbw976', '[User]_anishbista60'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5491
+2024-03-19 01:37:07+00:00,[User]_enesonus,"{'[User]_phisco', '[User]_jbw976', '[User]_enesonus'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5493
+2024-03-19 05:43:16+00:00,[User]_markphillips100,{'[User]_markphillips100'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5494
+2024-03-20 18:44:48+00:00,[User]_evgeny-goldin,{'[User]_evgeny-goldin'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5495
+2024-03-22 00:46:03+00:00,[User]_ravilr,"{'[User]_jbw976', '[User]_ravilr', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5498
+2024-03-22 04:53:45+00:00,[User]_humoflife,"{'[User]_phisco', '[User]_negz', '[User]_lindblombr'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5499
+2024-03-22 16:27:37+00:00,[User]_Argannor,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5500
+2024-03-23 09:12:03+00:00,[User]_majorteach,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5502
+2024-03-24 10:22:59+00:00,[User]_dj95,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5503
+2024-03-24 13:30:44+00:00,[User]_emily-zall,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5504
+2024-03-24 13:35:20+00:00,[User]_simlarsen,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5505
+2024-03-25 08:25:21+00:00,[User]_jeanduplessis,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5508
+2024-03-25 14:32:52+00:00,[User]_mattfield,"{'[User]_phisco', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5509
+2024-03-25 18:44:18+00:00,[User]_dee0,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5514
+2024-03-26 10:56:29+00:00,[User]_mattfield,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5518
+2024-03-26 12:37:25+00:00,[User]_daniel-maganto,"{'[User]_daniel-maganto', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5519
+2024-03-26 13:20:45+00:00,[User]_Argannor,"{'[User]_jaredhancock31', '[User]_ravilr', '[User]_Argannor', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5520
+2024-03-26 19:03:26+00:00,[User]_diegoavitorino,"{'[User]_phisco', '[User]_diegoavitorino', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5521
+2024-03-27 02:03:17+00:00,[User]_negz,"{'[User]_negz', '[User]_haarchri', '[User]_balorette'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5522
+2024-03-28 04:06:26+00:00,[User]_negz,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5523
+2024-03-28 04:17:49+00:00,[User]_shuknk8s,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5524
+2024-03-28 12:29:37+00:00,[User]_jankaacc,"{'[User]_jankaacc', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5525
+2024-03-28 19:16:09+00:00,[User]_plumbis,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5527
+2024-03-29 12:32:08+00:00,[User]_abhihendre,"{'[User]_jbw976', '[User]_kapendra-sentieo', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5528
+2024-03-29 15:06:48+00:00,[User]_turkenh,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5531
+2024-04-01 22:47:59+00:00,[User]_paulvonallwoerden,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5533
+2024-04-02 20:04:00+00:00,[User]_diegoavitorino,"{'[User]_phisco', '[User]_diegoavitorino'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5534
+2024-04-03 02:24:32+00:00,[User]_negz,"{'[User]_pedjak', '[User]_sttts'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5535
+2024-04-03 05:28:04+00:00,[User]_padlar,"{'[User]_padlar', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5536
+2024-04-03 10:13:47+00:00,[User]_brovoca,"{'[User]_phisco', '[User]_brovoca'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5537
+2024-04-03 12:28:04+00:00,[User]_diegoavitorino,"{'[User]_bobh66', '[User]_diegoavitorino', '[User]_jbw976', '[User]_ytsarev'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5538
+2024-04-03 13:16:04+00:00,[User]_haarchri,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5539
+2024-04-03 13:29:51+00:00,[User]_Argannor,"{'[User]_ravilr', '[User]_Argannor'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5540
+2024-04-03 13:56:19+00:00,[User]_aerfio,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5541
+2024-04-03 22:20:02+00:00,[User]_padlar,"{'[User]_phisco', '[User]_jbw976', '[User]_brovoca'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5542
+2024-04-04 03:55:32+00:00,[User]_negz,"{'[User]_phisco', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5543
+2024-04-04 14:06:27+00:00,[User]_jbw976,{'[User]_bobh66'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5546
+2024-04-04 14:15:02+00:00,[User]_stevendborrelli,"{'[User]_stevendborrelli', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5547
+2024-04-04 21:28:51+00:00,[User]_phisco,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5548
+2024-04-05 00:18:54+00:00,[User]_ravilr,{'[User]_ravilr'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5550
+2024-04-05 07:40:52+00:00,[User]_phisco,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5551
+2024-04-05 12:04:32+00:00,[User]_nbragin4,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5552
+2024-04-05 14:21:13+00:00,[User]_diegoavitorino,"{'[User]_bobh66', '[User]_diegoavitorino'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5553
+2024-04-06 02:26:03+00:00,[User]_jaylevin,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5554
+2024-04-06 03:37:34+00:00,[User]_negz,"{'[User]_jbw976', '[User]_phisco', '[User]_ravilr', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5555
+2024-04-08 11:30:56+00:00,[User]_jbw976,"{'[User]_phisco', '[User]_bobh66'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5556
+2024-04-08 12:51:40+00:00,[User]_max-melentyev,"{'[User]_negz', '[User]_turkenh', '[User]_chlunde', '[User]_max-melentyev'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5557
+2024-04-09 09:52:12+00:00,[User]_eskabetxe,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5559
+2024-04-09 11:44:27+00:00,[User]_phisco,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5562
+2024-04-09 13:01:23+00:00,[User]_btwseeu78,"{'[User]_phisco', '[User]_btwseeu78', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5564
+2024-04-09 18:04:32+00:00,[User]_bobh66,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5566
+2024-04-10 13:12:09+00:00,[User]_phisco,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5568
+2024-04-11 09:57:32+00:00,[User]_GMartinez-Sisti,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5571
+2024-04-11 14:53:17+00:00,[User]_jbw976,{'[User]_xoanmi'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5576
+2024-04-12 12:52:21+00:00,[User]_santhoshivan23,"{'[User]_bobh66', '[User]_santhoshivan23', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5577
+2024-04-12 17:38:55+00:00,[User]_diegoavitorino,"{'[User]_haarchri', '[User]_plumbis', '[User]_diegoavitorino'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5578
+2024-04-12 17:47:29+00:00,[User]_bobh66,{'[User]_bobh66'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5579
+2024-04-12 17:52:17+00:00,[User]_bobh66,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5580
+2024-04-13 03:44:26+00:00,[User]_dee-kryvenko,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5581
+2024-04-16 15:49:28+00:00,[User]_jaylevin,"{'[User]_phisco', '[User]_jaylevin'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5583
+2024-04-17 09:07:56+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5594
+2024-04-17 09:37:03+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5595
+2024-04-17 09:42:07+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5596
+2024-04-17 09:54:48+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5597
+2024-04-17 13:28:19+00:00,[User]_vilkovtato,"{'[User]_bobh66', '[User]_jbw976', '[User]_vilkovtato'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5598
+2024-04-18 19:39:38+00:00,[User]_chlunde,"{'[User]_phisco', '[User]_chlunde'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5600
+2024-04-18 19:46:58+00:00,[User]_chlunde,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5601
+2024-04-19 13:39:21+00:00,[User]_mjnovice,"{'[User]_mjnovice', '[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5602
+2024-04-19 17:03:28+00:00,[User]_xcloudscript,"{'[User]_jbw976', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5603
+2024-04-20 08:26:18+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5613
+2024-04-20 11:15:23+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5614
+2024-04-20 18:01:49+00:00,[User]_jbw976,"{'[User]_bobh66', '[User]_lindblombr'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5615
+2024-04-21 09:50:15+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5616
+2024-04-21 14:11:59+00:00,[User]_milers0,"{'[User]_bobh66', '[User]_milers0'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5617
+2024-04-21 15:58:41+00:00,[User]_phisco,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5618
+2024-04-21 16:09:03+00:00,[User]_phisco,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5619
+2024-04-21 16:47:41+00:00,[User]_phisco,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5620
+2024-04-22 03:39:27+00:00,[User]_zefir01,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5621
+2024-04-24 09:21:05+00:00,[User]_jbw976,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5624
+2024-04-24 19:14:21+00:00,[User]_jbw976,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5625
+2024-04-25 15:37:51+00:00,[User]_pblgomez,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5627
+2024-04-25 20:01:08+00:00,[User]_LCaparelli,"{'[User]_LCaparelli', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5629
+2024-04-25 20:34:36+00:00,[User]_negz,"{'[User]_phisco', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5630
+2024-04-26 08:10:52+00:00,[User]_tampakrap,{'[User]_tampakrap'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5631
+2024-04-26 21:45:17+00:00,[User]_zefir01,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5633
+2024-04-28 10:01:04+00:00,[User]_padlar,{'[User]_negz'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5634
+2024-04-29 09:40:44+00:00,[User]_siddharthdeshmukh,{'[User]_siddharthdeshmukh'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5635
+2024-04-29 09:53:56+00:00,[User]_jbw976,{'[User]_phisco'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5636
+2024-04-29 10:01:21+00:00,[User]_jbw976,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5637
+2024-04-29 12:07:13+00:00,[User]_dmaggi,"{'[User]_dmaggi', '[User]_jbw976'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5638
+2024-04-30 00:21:34+00:00,[User]_negz,set(),crossplane/crossplane,2024,https://github.com/crossplane/crossplane/issues/5639
+2024-04-30 10:11:19+00:00,[User]_phisco,"{'[User]_bobh66', '[User]_negz'}",crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5641
+2024-04-30 15:27:32+00:00,[User]_phisco,{'[User]_jbw976'},crossplane/crossplane,2024,https://github.com/crossplane/crossplane/pull/5642

@@ -1,0 +1,838 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-03 05:32:30+00:00,[User]_JIHernandez13,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/52
+2023-06-06 13:44:06+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/53
+2023-06-13 07:17:45+00:00,[User]_mkjost0,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/55
+2023-06-13 20:15:24+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/56
+2023-06-15 22:09:15+00:00,[User]_powerjg,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/57
+2023-06-15 22:29:50+00:00,[User]_jlowepower,"{'[User]_powerjg', '[User]_jlowepower'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/58
+2023-06-15 22:57:31+00:00,[User]_jlowepower,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/59
+2023-06-16 20:04:15+00:00,[User]_jlowepower,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/60
+2023-06-21 09:28:29+00:00,[User]_jlau002,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/61
+2023-07-08 01:53:22+00:00,[User]_alexredd99,"{'[User]_powerjg', '[User]_alexredd99', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/62
+2023-07-10 21:16:28+00:00,[User]_mahyarsamani,"{'[User]_mahyarsamani', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/63
+2023-07-11 04:56:47+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_mattsinc'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/64
+2023-07-11 21:49:01+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/65
+2023-07-12 00:41:26+00:00,[User]_DanKouch,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/66
+2023-07-12 00:54:00+00:00,[User]_DanKouch,"{'[User]_abmerop', '[User]_powerjg', '[User]_DanKouch', '[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/67
+2023-07-12 03:08:55+00:00,[User]_wmin0,"{'[User]_powerjg', '[User]_wmin0'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/68
+2023-07-12 03:14:34+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_wmin0', '[User]_BobbyRBruce', '[User]_EarlOu', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/69
+2023-07-12 10:47:14+00:00,[User]_MeatBoy106,{'[User]_giactra'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/70
+2023-07-12 21:16:09+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/71
+2023-07-13 07:35:05+00:00,[User]_AdwaithRK,"{'[User]_powerjg', '[User]_AdwaithRK', '[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/72
+2023-07-13 11:36:35+00:00,[User]_MeatBoy106,"{'[User]_powerjg', '[User]_MeatBoy106', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/73
+2023-07-13 12:48:28+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_giactra', '[User]_MeatBoy106', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/74
+2023-07-13 13:32:54+00:00,[User]_giactra,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/75
+2023-07-13 14:17:21+00:00,[User]_MeatBoy106,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/76
+2023-07-13 14:39:36+00:00,[User]_MeatBoy106,"{'[User]_powerjg', '[User]_giactra', '[User]_MeatBoy106', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/77
+2023-07-13 16:01:11+00:00,[User]_powerjg,"{'[User]_powerjg', '[User]_LingkKang'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/78
+2023-07-13 21:09:35+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/79
+2023-07-14 01:40:05+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_giactra'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/80
+2023-07-14 02:39:48+00:00,[User]_rogerchang23424,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/81
+2023-07-14 04:19:35+00:00,[User]_KaiBatley,"{'[User]_mattsinc', '[User]_BobbyRBruce', '[User]_KaiBatley'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/82
+2023-07-14 13:51:20+00:00,[User]_aarmejach,"{'[User]_vmskv', '[User]_powerjg', '[User]_takekoputa', '[User]_BobbyRBruce', '[User]_aarmejach', '[User]_rogerchang23424', '[User]_vspetrov'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/83
+2023-07-14 13:59:45+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/84
+2023-07-14 14:05:01+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/85
+2023-07-14 14:29:43+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/86
+2023-07-14 15:48:21+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/87
+2023-07-14 17:16:24+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_andysan', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/89
+2023-07-14 22:33:25+00:00,[User]_powerjg,"{'[User]_mattsinc', '[User]_andysan', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/90
+2023-07-14 23:27:31+00:00,[User]_kunpai,"{'[User]_powerjg', '[User]_kunpai', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/91
+2023-07-15 06:04:21+00:00,[User]_KaiBatley,"{'[User]_mattsinc', '[User]_abmerop', '[User]_KaiBatley'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/92
+2023-07-15 08:38:34+00:00,[User]_LingkKang,"{'[User]_powerjg', '[User]_LingkKang', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/93
+2023-07-15 18:19:49+00:00,[User]_austinharris,"{'[User]_powerjg', '[User]_chenbobby', '[User]_austinharris', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/94
+2023-07-17 06:59:07+00:00,[User]_takekoputa,"{'[User]_powerjg', '[User]_takekoputa', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/95
+2023-07-17 18:02:01+00:00,[User]_dbear496,"{'[User]_powerjg', '[User]_dbear496', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/97
+2023-07-18 11:03:13+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/98
+2023-07-18 19:35:08+00:00,[User]_DanKouch,"{'[User]_DanKouch', '[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/99
+2023-07-19 00:22:35+00:00,[User]_BobbyRBruce,"{'[User]_eliotmoss', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/100
+2023-07-19 21:34:56+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/102
+2023-07-19 22:03:20+00:00,[User]_BobbyRBruce,"{'[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/103
+2023-07-20 06:19:06+00:00,[User]_rogerchang23424,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/104
+2023-07-20 19:50:16+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/106
+2023-07-20 20:26:54+00:00,[User]_powerjg,"{'[User]_powerjg', '[User]_andysan', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/107
+2023-07-20 20:48:09+00:00,[User]_BobbyRBruce,"{'[User]_abmerop', '[User]_powerjg', '[User]_giactra', '[User]_BobbyRBruce', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/108
+2023-07-20 22:09:44+00:00,[User]_BobbyRBruce,{'[User]_mkjost0'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/109
+2023-07-21 16:59:19+00:00,[User]_DanKouch,"{'[User]_mattsinc', '[User]_DanKouch', '[User]_abmerop', '[User]_shingarov'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/110
+2023-07-21 22:55:14+00:00,[User]_mkjost0,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/111
+2023-07-23 08:35:44+00:00,[User]_GeneralKinseng,"{'[User]_OdnetninI', '[User]_GeneralKinseng', '[User]_powerjg', '[User]_scratch-er', '[User]_codetang-2417', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/112
+2023-07-23 20:20:51+00:00,[User]_abmerop,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/113
+2023-07-24 08:10:55+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/114
+2023-07-24 11:03:17+00:00,[User]_aarmejach,"{'[User]_powerjg', '[User]_aarmejach', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/115
+2023-07-24 22:28:21+00:00,[User]_powerjg,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/117
+2023-07-25 10:57:02+00:00,[User]_hamnamohi,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/118
+2023-07-25 15:32:41+00:00,[User]_atrib,"{'[User]_powerjg', '[User]_atrib'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/119
+2023-07-25 18:43:32+00:00,[User]_DanKouch,"{'[User]_tiagormk', '[User]_abmerop', '[User]_powerjg', '[User]_DanKouch', '[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/120
+2023-07-26 03:53:03+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/121
+2023-07-26 06:01:28+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_mkjost0', '[User]_giactra', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/122
+2023-07-26 12:08:08+00:00,[User]_janvrany,"{'[User]_powerjg', '[User]_janvrany', '[User]_BobbyRBruce', '[User]_shingarov'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/123
+2023-07-26 15:36:21+00:00,[User]_atrib,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/124
+2023-07-26 19:20:15+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/125
+2023-07-26 19:22:00+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/126
+2023-07-26 19:51:39+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/128
+2023-07-26 22:39:43+00:00,[User]_BujSet,"{'[User]_BujSet', '[User]_abmerop', '[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/129
+2023-07-27 00:23:05+00:00,[User]_BobbyRBruce,"{'[User]_abmerop', '[User]_powerjg', '[User]_shingarov', '[User]_BobbyRBruce', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/130
+2023-07-27 00:29:53+00:00,[User]_mkjost0,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/131
+2023-07-27 02:26:02+00:00,[User]_abmerop,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/132
+2023-07-27 02:27:57+00:00,[User]_abmerop,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/133
+2023-07-27 02:43:30+00:00,[User]_hnpl,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/134
+2023-07-27 03:02:19+00:00,[User]_hnpl,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/135
+2023-07-27 06:51:31+00:00,[User]_mkjost0,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/136
+2023-07-27 07:12:37+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/137
+2023-07-27 20:19:02+00:00,[User]_mkjost0,"{'[User]_mkjost0', '[User]_mattsinc', '[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/138
+2023-07-28 00:39:23+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/139
+2023-07-28 08:08:19+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/140
+2023-07-28 16:04:38+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/141
+2023-07-28 18:49:59+00:00,[User]_abmerop,"{'[User]_powerjg', '[User]_mattsinc'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/142
+2023-07-28 22:31:09+00:00,[User]_BujSet,"{'[User]_powerjg', '[User]_mattsinc'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/143
+2023-07-31 06:29:57+00:00,[User]_vmskv,"{'[User]_mshiryaev', '[User]_powerjg', '[User]_hnpl', '[User]_BobbyRBruce', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/144
+2023-07-31 16:27:12+00:00,[User]_janvrany,"{'[User]_rogerchang23424', '[User]_janvrany', '[User]_mkjost0'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/146
+2023-08-01 19:50:48+00:00,[User]_BobbyRBruce,"{'[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/148
+2023-08-01 23:35:50+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/149
+2023-08-02 00:24:36+00:00,[User]_Harshil2107,"{'[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/150
+2023-08-02 00:31:49+00:00,[User]_leoredivo,"{'[User]_leoredivo', '[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/151
+2023-08-03 17:50:17+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/152
+2023-08-03 18:50:16+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/153
+2023-08-03 20:46:38+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/154
+2023-08-03 21:56:00+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/155
+2023-08-03 23:01:24+00:00,[User]_mkjost0,"{'[User]_powerjg', '[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/156
+2023-08-03 23:55:59+00:00,[User]_mkjost0,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/157
+2023-08-04 00:01:17+00:00,[User]_mkjost0,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/158
+2023-08-04 19:26:50+00:00,[User]_dbear496,"{'[User]_dbear496', '[User]_seanzw'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/159
+2023-08-04 22:00:13+00:00,[User]_kunpai,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/232
+2023-08-05 00:02:46+00:00,[User]_mkjost0,"{'[User]_powerjg', '[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/160
+2023-08-07 09:42:15+00:00,[User]_alvaromorenomv,"{'[User]_powerjg', '[User]_alvaromorenomv'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/161
+2023-08-07 22:04:37+00:00,[User]_mkjost0,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/163
+2023-08-07 22:23:05+00:00,[User]_BobbyRBruce,{'[User]_mkjost0'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/164
+2023-08-07 22:25:11+00:00,[User]_BobbyRBruce,"{'[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/165
+2023-08-08 16:46:21+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/167
+2023-08-09 02:26:16+00:00,[User]_BobbyRBruce,{'[User]_mkjost0'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/168
+2023-08-09 07:44:21+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/169
+2023-08-09 09:15:36+00:00,[User]_rogerchang23424,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/170
+2023-08-09 16:27:28+00:00,[User]_alvaromorenomv,"{'[User]_jerryzj', '[User]_alvaromorenomv', '[User]_powerjg', '[User]_Harshil2107', '[User]_hnpl', '[User]_BobbyRBruce', '[User]_aarmejach', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/171
+2023-08-10 14:02:53+00:00,[User]_HE-Wenjian,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/172
+2023-08-10 23:40:00+00:00,[User]_mkjost0,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/173
+2023-08-10 23:46:10+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/174
+2023-08-11 08:33:04+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/176
+2023-08-11 11:38:59+00:00,[User]_vsoriap,"{'[User]_tiagormk', '[User]_powerjg', '[User]_vsoriap', '[User]_giactra', '[User]_yichungchen84'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/177
+2023-08-11 15:55:43+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_shingarov'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/178
+2023-08-11 23:20:26+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/179
+2023-08-14 05:29:09+00:00,[User]_yanleeG,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_yanleeG'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/180
+2023-08-14 14:51:39+00:00,[User]_voertler,"{'[User]_powerjg', '[User]_voertler', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/181
+2023-08-15 10:41:17+00:00,[User]_drinkcat,{'[User]_drinkcat'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/182
+2023-08-15 10:44:03+00:00,[User]_drinkcat,"{'[User]_drinkcat', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/183
+2023-08-15 15:25:48+00:00,[User]_abmerop,"{'[User]_powerjg', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/184
+2023-08-15 19:42:21+00:00,[User]_mahyarsamani,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/185
+2023-08-15 23:08:26+00:00,[User]_jebraun3,"{'[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/186
+2023-08-16 02:12:27+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/187
+2023-08-16 05:14:10+00:00,[User]_BobbyRBruce,"{'[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/188
+2023-08-16 06:22:20+00:00,[User]_BobbyRBruce,{'[User]_abmerop'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/189
+2023-08-16 06:59:15+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/190
+2023-08-17 18:43:05+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_kunpai', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/191
+2023-08-17 21:48:29+00:00,[User]_Harshil2107,"{'[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/192
+2023-08-17 22:15:30+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/193
+2023-08-17 22:57:47+00:00,[User]_mkjost0,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/194
+2023-08-17 23:53:21+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/195
+2023-08-18 13:38:10+00:00,[User]_voertler,"{'[User]_powerjg', '[User]_voertler', '[User]_mkjost0'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/196
+2023-08-18 16:50:24+00:00,[User]_Harshil2107,{'[User]_ivanaamit'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/197
+2023-08-18 17:27:45+00:00,[User]_mkjost0,"{'[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/198
+2023-08-18 17:39:58+00:00,[User]_mkjost0,"{'[User]_mattsinc', '[User]_mkjost0'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/199
+2023-08-18 17:50:17+00:00,[User]_BujSet,"{'[User]_BujSet', '[User]_abmerop', '[User]_powerjg', '[User]_giactra', '[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/200
+2023-08-18 22:47:53+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/202
+2023-08-18 23:46:14+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_mkjost0', '[User]_MeatBoy106', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/203
+2023-08-19 05:47:55+00:00,[User]_kunpai,"{'[User]_powerjg', '[User]_kunpai', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/204
+2023-08-19 18:22:14+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/205
+2023-08-21 02:18:59+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/206
+2023-08-21 04:25:17+00:00,[User]_atrah22,"{'[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/207
+2023-08-22 00:24:01+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_shingarov'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/209
+2023-08-22 06:20:01+00:00,[User]_johnnyko-google,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_giactra', '[User]_johnnyko-google'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/210
+2023-08-22 08:13:46+00:00,[User]_atrah22,"{'[User]_giactra', '[User]_atrah22', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/211
+2023-08-22 20:56:28+00:00,[User]_Harshil2107,"{'[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/212
+2023-08-23 00:31:00+00:00,[User]_powerjg,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/213
+2023-08-23 01:12:15+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_kunpai', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/214
+2023-08-23 05:34:14+00:00,[User]_janvrany,"{'[User]_giactra', '[User]_janvrany'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/215
+2023-08-23 11:32:50+00:00,[User]_giactra,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/216
+2023-08-23 21:54:32+00:00,[User]_tiagormk,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/217
+2023-08-23 22:01:57+00:00,[User]_tiagormk,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/218
+2023-08-23 22:06:57+00:00,[User]_tiagormk,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/219
+2023-08-23 22:16:39+00:00,[User]_tiagormk,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/220
+2023-08-23 23:50:42+00:00,[User]_studyztp,"{'[User]_powerjg', '[User]_studyztp', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/221
+2023-08-24 00:17:24+00:00,[User]_BobbyRBruce,"{'[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/222
+2023-08-24 00:34:55+00:00,[User]_abmerop,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/223
+2023-08-24 00:39:32+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/224
+2023-08-24 01:55:52+00:00,[User]_rogerchang23424,"{'[User]_rogerchang23424', '[User]_seanzw'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/225
+2023-08-24 06:41:34+00:00,[User]_AKKamath,"{'[User]_powerjg', '[User]_AKKamath', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/226
+2023-08-25 00:42:27+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_hnpl', '[User]_BobbyRBruce', '[User]_aarmejach', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/228
+2023-08-25 17:28:19+00:00,[User]_mkjost0,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/229
+2023-08-25 18:14:04+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/230
+2023-08-26 19:06:12+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/231
+2023-08-29 06:03:36+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/233
+2023-08-29 06:15:46+00:00,[User]_gxflying,{'[User]_gxflying'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/234
+2023-08-29 07:10:26+00:00,[User]_BobbyRBruce,"{'[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/236
+2023-08-29 09:28:02+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/237
+2023-08-29 15:23:33+00:00,[User]_georgehodgkins,"{'[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/238
+2023-08-29 19:13:51+00:00,[User]_georgehodgkins,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/240
+2023-08-30 03:53:16+00:00,[User]_BobbyRBruce,"{'[User]_abmerop', '[User]_powerjg', '[User]_giactra', '[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/241
+2023-08-30 04:18:27+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/242
+2023-08-31 00:17:57+00:00,[User]_BobbyRBruce,{'[User]_mkjost0'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/243
+2023-08-31 06:45:36+00:00,[User]_hnpl,"{'[User]_mkjost0', '[User]_hnpl', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/244
+2023-08-31 09:15:03+00:00,[User]_BobbyRBruce,{'[User]_mkjost0'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/245
+2023-08-31 09:50:40+00:00,[User]_BobbyRBruce,"{'[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/246
+2023-08-31 16:07:04+00:00,[User]_abmerop,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/247
+2023-08-31 16:13:01+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/248
+2023-08-31 19:26:25+00:00,[User]_BobbyRBruce,"{'[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/249
+2023-09-01 00:17:14+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_giactra', '[User]_andysan', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/250
+2023-09-01 00:33:23+00:00,[User]_hnpl,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/251
+2023-09-01 03:15:27+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/252
+2023-09-01 08:10:40+00:00,[User]_BobbyRBruce,"{'[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/253
+2023-09-01 08:40:38+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/254
+2023-09-01 14:59:26+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/255
+2023-09-01 17:45:11+00:00,[User]_mkjost0,"{'[User]_abmerop', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_Harshil2107', '[User]_mkjost0'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/256
+2023-09-01 17:45:29+00:00,[User]_mkjost0,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/257
+2023-09-01 17:45:50+00:00,[User]_mkjost0,"{'[User]_mkjost0', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/258
+2023-09-01 17:46:08+00:00,[User]_mkjost0,"{'[User]_mattsinc', '[User]_jebraun3', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/259
+2023-09-01 20:20:02+00:00,[User]_BobbyRBruce,"{'[User]_atrib', '[User]_ivanaamit'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/260
+2023-09-04 04:38:38+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/263
+2023-09-04 06:43:08+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/264
+2023-09-04 09:20:52+00:00,[User]_y553546436,"{'[User]_Harshil2107', '[User]_hnpl', '[User]_BobbyRBruce', '[User]_y553546436'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/265
+2023-09-05 02:09:19+00:00,[User]_cnjsdfcy,"{'[User]_Harshil2107', '[User]_cnjsdfcy'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/266
+2023-09-05 06:55:15+00:00,[User]_BobbyRBruce,{'[User]_mkjost0'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/267
+2023-09-05 20:28:27+00:00,[User]_nmosier,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/269
+2023-09-05 20:46:17+00:00,[User]_nmosier,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/270
+2023-09-05 22:11:16+00:00,[User]_BobbyRBruce,{'[User]_mkjost0'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/271
+2023-09-05 23:31:42+00:00,[User]_BobbyRBruce,"{'[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/272
+2023-09-06 00:56:29+00:00,[User]_BobbyRBruce,{'[User]_mkjost0'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/273
+2023-09-06 03:14:33+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_giactra', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/274
+2023-09-06 03:49:20+00:00,[User]_BobbyRBruce,{'[User]_mkjost0'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/275
+2023-09-07 03:10:04+00:00,[User]_nmosier,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/276
+2023-09-07 03:20:05+00:00,[User]_nmosier,{'[User]_giactra'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/277
+2023-09-07 03:38:48+00:00,[User]_johnnyko-google,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/278
+2023-09-07 03:56:09+00:00,[User]_johnnyko-google,{'[User]_giactra'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/279
+2023-09-07 05:40:19+00:00,[User]_Mattwmaster58,{'[User]_mkjost0'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/280
+2023-09-07 16:04:54+00:00,[User]_nmosier,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/281
+2023-09-07 17:58:05+00:00,[User]_nmosier,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/283
+2023-09-07 19:05:53+00:00,[User]_nmosier,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/284
+2023-09-07 21:07:27+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/285
+2023-09-07 21:08:27+00:00,[User]_nmosier,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/286
+2023-09-07 23:18:54+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/287
+2023-09-08 07:53:06+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_giactra'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/288
+2023-09-08 17:26:51+00:00,[User]_mkjost0,"{'[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/290
+2023-09-08 17:53:16+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/291
+2023-09-08 18:32:01+00:00,[User]_mkjost0,"{'[User]_MeatBoy106', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/292
+2023-09-09 05:26:33+00:00,[User]_gPatsWat,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/293
+2023-09-09 05:28:45+00:00,[User]_gPatsWat,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_gPatsWat'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/294
+2023-09-09 15:15:17+00:00,[User]_abmerop,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/295
+2023-09-10 00:20:26+00:00,[User]_nmosier,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/296
+2023-09-10 15:17:43+00:00,[User]_nmosier,"{'[User]_nmosier', '[User]_powerjg', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/298
+2023-09-11 03:30:56+00:00,[User]_BobbyRBruce,{'[User]_mkjost0'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/299
+2023-09-11 21:26:13+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/300
+2023-09-12 09:58:28+00:00,[User]_giactra,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/301
+2023-09-12 14:53:53+00:00,[User]_giactra,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/302
+2023-09-12 15:40:34+00:00,[User]_nmosier,"{'[User]_powerjg', '[User]_nmosier', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/304
+2023-09-12 18:02:01+00:00,[User]_Harshil2107,"{'[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/305
+2023-09-12 22:23:44+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/307
+2023-09-13 05:41:15+00:00,[User]_A19M98A,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/308
+2023-09-13 05:54:19+00:00,[User]_A19M98A,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/309
+2023-09-13 12:46:34+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/310
+2023-09-13 17:39:51+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/311
+2023-09-13 17:58:03+00:00,[User]_abmerop,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/312
+2023-09-13 21:16:14+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_hnpl', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/313
+2023-09-13 21:32:09+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/314
+2023-09-13 21:44:12+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/315
+2023-09-13 23:08:17+00:00,[User]_gPatsWat,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_gPatsWat'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/316
+2023-09-14 00:54:18+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/318
+2023-09-14 05:47:58+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/319
+2023-09-14 05:52:52+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/320
+2023-09-14 08:07:48+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/321
+2023-09-14 08:29:30+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/322
+2023-09-15 17:42:36+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/323
+2023-09-18 05:44:18+00:00,[User]_rogerchang23424,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/325
+2023-09-18 16:32:57+00:00,[User]_ivanaamit,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/326
+2023-09-18 23:38:08+00:00,[User]_BobbyRBruce,"{'[User]_giactra', '[User]_andysan', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/327
+2023-09-19 18:46:45+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/328
+2023-09-19 20:17:06+00:00,[User]_hnpl,"{'[User]_giactra', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/329
+2023-09-19 21:56:54+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_cgreen18', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/330
+2023-09-20 04:30:03+00:00,[User]_nmosier,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/331
+2023-09-20 05:16:15+00:00,[User]_nmosier,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/332
+2023-09-20 16:38:21+00:00,[User]_giactra,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/334
+2023-09-20 16:52:26+00:00,[User]_mkjost0,"{'[User]_powerjg', '[User]_ivanaamit', '[User]_mkjost0'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/335
+2023-09-20 20:23:20+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/336
+2023-09-20 21:44:05+00:00,[User]_mjkpolo,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/337
+2023-09-20 22:26:00+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/338
+2023-09-20 23:13:49+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/339
+2023-09-20 23:46:51+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/340
+2023-09-21 00:37:47+00:00,[User]_rogerchang23424,"{'[User]_giactra', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/341
+2023-09-21 01:16:40+00:00,[User]_nmosier,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/342
+2023-09-21 02:04:14+00:00,[User]_nmosier,"{'[User]_nmosier', '[User]_giactra', '[User]_powerjg'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/343
+2023-09-21 02:40:05+00:00,[User]_nmosier,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/344
+2023-09-21 04:40:06+00:00,[User]_nmosier,{'[User]_Harshil2107'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/345
+2023-09-21 04:54:09+00:00,[User]_nmosier,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/346
+2023-09-21 05:21:08+00:00,[User]_nmosier,{'[User]_Harshil2107'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/347
+2023-09-21 19:52:14+00:00,[User]_hnpl,"{'[User]_aarmejach', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/349
+2023-09-22 03:39:19+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/350
+2023-09-22 03:42:07+00:00,[User]_rogerchang23424,{'[User]_giactra'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/351
+2023-09-23 18:58:18+00:00,[User]_abmerop,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/352
+2023-09-24 17:45:25+00:00,[User]_bgodala,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/353
+2023-09-24 17:51:08+00:00,[User]_bgodala,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/354
+2023-09-24 18:39:47+00:00,[User]_bgodala,"{'[User]_bgodala', '[User]_mattsinc', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/355
+2023-09-25 08:49:55+00:00,[User]_dhschall,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/356
+2023-09-25 09:18:27+00:00,[User]_dhschall,"{'[User]_dhschall', '[User]_Harshil2107', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/358
+2023-09-25 09:38:52+00:00,[User]_dhschall,"{'[User]_dhschall', '[User]_atrah22', '[User]_odanrc', '[User]_trollet91'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/359
+2023-09-25 19:32:51+00:00,[User]_hnpl,{'[User]_giactra'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/360
+2023-09-25 23:33:29+00:00,[User]_hnpl,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/361
+2023-09-26 11:20:24+00:00,[User]_trollet91,"{'[User]_AntonTimofeev', '[User]_trollet91', '[User]_powerjg', '[User]_pranith', '[User]_giactra', '[User]_BobbyRBruce', '[User]_rogerchang23424', '[User]_odanrc', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/362
+2023-09-27 05:44:28+00:00,[User]_wmin0,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/363
+2023-09-27 09:58:20+00:00,[User]_giactra,"{'[User]_Harshil2107', '[User]_giactra', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/364
+2023-09-27 16:42:22+00:00,[User]_mkjost0,"{'[User]_powerjg', '[User]_mkjost0', '[User]_BobbyRBruce', '[User]_Harshil2107', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/365
+2023-09-27 16:49:37+00:00,[User]_mkjost0,{'[User]_Harshil2107'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/366
+2023-09-28 00:31:55+00:00,[User]_DanKouch,"{'[User]_DanKouch', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/367
+2023-09-28 18:23:42+00:00,[User]_JoshRandall,"{'[User]_powerjg', '[User]_JoshRandall', '[User]_ivanaamit'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/368
+2023-09-28 18:26:28+00:00,[User]_powerjg,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/369
+2023-09-29 02:36:00+00:00,[User]_hnpl,"{'[User]_aarmejach', '[User]_rogerchang23424', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/370
+2023-09-29 12:11:03+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_mkjost0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/371
+2023-09-29 14:43:17+00:00,[User]_mkjost0,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/372
+2023-09-29 18:03:21+00:00,[User]_mkjost0,"{'[User]_powerjg', '[User]_Arnab035', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/373
+2023-09-29 19:39:42+00:00,[User]_sammy17,"{'[User]_sammy17', '[User]_Harshil2107', '[User]_giactra'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/374
+2023-09-29 20:50:41+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/375
+2023-09-29 22:30:35+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_aarmejach', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/376
+2023-09-29 23:55:53+00:00,[User]_v-ramadas,"{'[User]_powerjg', '[User]_v-ramadas', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/377
+2023-10-01 19:48:12+00:00,[User]_kleeuccs,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/378
+2023-10-02 05:47:56+00:00,[User]_hungweihsuG,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/379
+2023-10-02 06:13:40+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/381
+2023-10-02 08:42:44+00:00,[User]_ivanfv,"{'[User]_ivanfv', '[User]_ivanaamit'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/382
+2023-10-02 09:10:52+00:00,[User]_voertler,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/383
+2023-10-02 16:03:51+00:00,[User]_kunpai,"{'[User]_powerjg', '[User]_kunpai'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/384
+2023-10-03 03:12:32+00:00,[User]_hungweihsuG,"{'[User]_Harshil2107', '[User]_giactra', '[User]_hungweihsuG', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/386
+2023-10-03 17:16:16+00:00,[User]_v-ramadas,"{'[User]_powerjg', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/389
+2023-10-04 07:59:48+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/390
+2023-10-04 14:39:27+00:00,[User]_abmerop,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/391
+2023-10-04 17:56:15+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/392
+2023-10-04 23:32:37+00:00,[User]_kaustav-goswami,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/393
+2023-10-04 23:43:29+00:00,[User]_kaustav-goswami,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/394
+2023-10-05 00:12:16+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_voertler', '[User]_andysan', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/395
+2023-10-05 00:12:21+00:00,[User]_kaustav-goswami,"{'[User]_kunpai', '[User]_powerjg', '[User]_hnpl', '[User]_BobbyRBruce', '[User]_kaustav-goswami'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/396
+2023-10-05 00:43:44+00:00,[User]_DanKouch,"{'[User]_abmerop', '[User]_powerjg', '[User]_DanKouch', '[User]_mattsinc', '[User]_mysoreanoop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/397
+2023-10-05 06:14:31+00:00,[User]_rogerchang23424,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/399
+2023-10-05 14:37:24+00:00,[User]_BobbyRBruce,{'[User]_Harshil2107'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/400
+2023-10-05 17:23:45+00:00,[User]_BobbyRBruce,{'[User]_Harshil2107'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/402
+2023-10-05 19:46:50+00:00,[User]_v-ramadas,"{'[User]_powerjg', '[User]_v-ramadas', '[User]_mattsinc'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/403
+2023-10-05 20:17:28+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/404
+2023-10-06 03:59:05+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/406
+2023-10-06 13:52:19+00:00,[User]_giactra,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/407
+2023-10-06 17:02:26+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/408
+2023-10-06 17:50:43+00:00,[User]_nmosier,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/409
+2023-10-06 18:26:27+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/410
+2023-10-06 21:34:34+00:00,[User]_nmosier,"{'[User]_powerjg', '[User]_nmosier', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/411
+2023-10-07 17:54:10+00:00,[User]_dhschall,"{'[User]_dhschall', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/412
+2023-10-09 02:20:44+00:00,[User]_naveen126,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/413
+2023-10-09 15:54:02+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_giactra', '[User]_rjc-arch'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/415
+2023-10-09 16:39:44+00:00,[User]_giactra,"{'[User]_andysan', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/416
+2023-10-09 16:58:46+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_Harshil2107'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/417
+2023-10-09 18:07:09+00:00,[User]_ivanaamit,"{'[User]_ivanaamit', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/418
+2023-10-09 19:44:57+00:00,[User]_BobbyRBruce,{'[User]_andysan'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/419
+2023-10-09 19:54:06+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/420
+2023-10-09 20:07:40+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_andysan', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/421
+2023-10-09 20:12:10+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_Harshil2107'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/422
+2023-10-09 20:22:25+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/423
+2023-10-09 20:43:07+00:00,[User]_BobbyRBruce,"{'[User]_andysan', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/424
+2023-10-09 21:00:46+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/425
+2023-10-09 22:10:55+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/426
+2023-10-10 05:39:44+00:00,[User]_voertler,"{'[User]_voertler', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/427
+2023-10-10 07:50:07+00:00,[User]_dhschall,"{'[User]_dhschall', '[User]_andysan', '[User]_rjc-arch'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/428
+2023-10-10 08:49:56+00:00,[User]_giactra,{'[User]_andysan'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/430
+2023-10-10 18:02:26+00:00,[User]_BobbyRBruce,"{'[User]_ivanaamit', '[User]_andysan', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/431
+2023-10-11 05:05:42+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_ivanaamit', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/432
+2023-10-11 15:58:50+00:00,[User]_abmerop,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/433
+2023-10-11 16:05:51+00:00,[User]_abmerop,"{'[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/434
+2023-10-11 19:17:06+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/436
+2023-10-11 19:29:32+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/437
+2023-10-11 20:58:11+00:00,[User]_abmerop,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/438
+2023-10-11 20:58:51+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/439
+2023-10-11 21:40:33+00:00,[User]_BobbyRBruce,"{'[User]_ivanaamit', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/440
+2023-10-12 01:28:29+00:00,[User]_kaustav-goswami,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/441
+2023-10-12 11:30:30+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/443
+2023-10-12 14:02:10+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/444
+2023-10-12 16:13:22+00:00,[User]_kunpai,"{'[User]_kunpai', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/445
+2023-10-12 19:54:06+00:00,[User]_Harshil2107,"{'[User]_abmerop', '[User]_powerjg', '[User]_giactra', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_Harshil2107', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/447
+2023-10-12 20:26:09+00:00,[User]_v-ramadas,"{'[User]_powerjg', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/448
+2023-10-13 00:11:35+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_giactra'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/449
+2023-10-13 00:28:21+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_vsoriap', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/450
+2023-10-13 09:20:06+00:00,[User]_qqli579,"{'[User]_qqli579', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/451
+2023-10-13 13:57:32+00:00,[User]_aarmejach,"{'[User]_powerjg', '[User]_aarmejach', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/452
+2023-10-13 20:43:01+00:00,[User]_powerjg,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/453
+2023-10-13 21:27:50+00:00,[User]_powerjg,"{'[User]_powerjg', '[User]_wmin0', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/454
+2023-10-14 10:13:02+00:00,[User]_dhschall,"{'[User]_dhschall', '[User]_andysan', '[User]_rjc-arch'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/455
+2023-10-14 13:24:30+00:00,[User]_abmerop,"{'[User]_v-ramadas', '[User]_abmerop', '[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/456
+2023-10-14 22:35:35+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/457
+2023-10-14 23:44:41+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/458
+2023-10-15 02:45:31+00:00,[User]_BobbyRBruce,{'[User]_giactra'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/459
+2023-10-15 06:45:02+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/460
+2023-10-15 09:47:13+00:00,[User]_GGKOP,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/461
+2023-10-16 00:22:20+00:00,[User]_rogerchang23424,{'[User]_shingarov'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/462
+2023-10-16 03:21:55+00:00,[User]_hnpl,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/463
+2023-10-16 03:24:08+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/464
+2023-10-16 12:46:01+00:00,[User]_giactra,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/465
+2023-10-16 13:54:00+00:00,[User]_BobbyRBruce,{'[User]_Harshil2107'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/466
+2023-10-16 16:39:29+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_giactra', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/468
+2023-10-16 16:41:27+00:00,[User]_mahyarsamani,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/469
+2023-10-17 04:31:04+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/470
+2023-10-17 08:38:40+00:00,[User]_rogerchang23424,{'[User]_rogerchang23424'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/471
+2023-10-17 13:40:11+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/472
+2023-10-17 18:03:26+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/473
+2023-10-17 18:14:11+00:00,[User]_ivanaamit,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/475
+2023-10-17 18:42:53+00:00,[User]_powerjg,"{'[User]_powerjg', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/476
+2023-10-17 22:51:32+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/477
+2023-10-18 05:24:10+00:00,[User]_rogerchang23424,{'[User]_rogerchang23424'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/478
+2023-10-18 07:13:59+00:00,[User]_hnpl,"{'[User]_qqli579', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/479
+2023-10-18 22:35:05+00:00,[User]_Harshil2107,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/483
+2023-10-18 23:00:15+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/484
+2023-10-19 05:18:44+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/485
+2023-10-19 08:17:35+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_giactra'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/486
+2023-10-19 11:27:48+00:00,[User]_qqli579,"{'[User]_powerjg', '[User]_blackwatch997', '[User]_qqli579', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/487
+2023-10-19 17:21:02+00:00,[User]_BobbyRBruce,"{'[User]_Harshil2107', '[User]_ivanaamit'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/488
+2023-10-19 18:05:31+00:00,[User]_BobbyRBruce,"{'[User]_Harshil2107', '[User]_ivanaamit'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/489
+2023-10-20 03:48:35+00:00,[User]_rogerchang23424,"{'[User]_giactra', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/490
+2023-10-20 07:51:18+00:00,[User]_dhschall,"{'[User]_trollet91', '[User]_powerjg', '[User]_dhschall', '[User]_Harshil2107', '[User]_andysan', '[User]_rjc-arch'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/493
+2023-10-20 08:34:31+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_shingarov'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/494
+2023-10-20 18:40:47+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/495
+2023-10-20 20:19:59+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/496
+2023-10-20 20:21:06+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/497
+2023-10-21 17:49:08+00:00,[User]_abmerop,"{'[User]_powerjg', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/498
+2023-10-23 21:10:19+00:00,[User]_dhschall,"{'[User]_Harshil2107', '[User]_ivanaamit', '[User]_rjc-arch'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/499
+2023-10-24 08:47:14+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/500
+2023-10-24 23:40:31+00:00,[User]_tiagormk,"{'[User]_tiagormk', '[User]_powerjg', '[User]_jjuninho', '[User]_giactra', '[User]_mattsinc', '[User]_yichungchen84'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/502
+2023-10-25 01:12:31+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/503
+2023-10-25 06:57:45+00:00,[User]_mattsinc,"{'[User]_powerjg', '[User]_mattsinc'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/504
+2023-10-25 15:12:11+00:00,[User]_trollet91,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_trollet91'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/505
+2023-10-25 22:16:35+00:00,[User]_kaustav-goswami,"{'[User]_powerjg', '[User]_kaustav-goswami'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/507
+2023-10-26 01:34:07+00:00,[User]_mysoreanoop,"{'[User]_BujSet', '[User]_abmerop', '[User]_powerjg', '[User]_mattsinc', '[User]_mysoreanoop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/508
+2023-10-26 07:58:15+00:00,[User]_derchr,"{'[User]_derchr', '[User]_giactra'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/509
+2023-10-26 16:49:56+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_trollet91', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/510
+2023-10-29 02:11:07+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/511
+2023-10-29 05:00:38+00:00,[User]_hnpl,{'[User]_Harshil2107'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/512
+2023-10-29 18:42:34+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_aarmejach'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/514
+2023-10-29 18:56:37+00:00,[User]_giactra,{'[User]_andysan'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/515
+2023-10-30 01:41:49+00:00,[User]_hnpl,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/516
+2023-10-30 02:50:31+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/517
+2023-10-30 09:58:38+00:00,[User]_rogerchang23424,"{'[User]_Harshil2107', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/519
+2023-10-31 02:18:35+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/520
+2023-10-31 08:29:52+00:00,[User]_caizixian,"{'[User]_powerjg', '[User]_caizixian'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/521
+2023-10-31 09:27:00+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/522
+2023-11-02 07:23:08+00:00,[User]_gxflying,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/524
+2023-11-02 09:30:58+00:00,[User]_derchr,"{'[User]_powerjg', '[User]_derchr', '[User]_Harshil2107'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/525
+2023-11-03 06:46:23+00:00,[User]_mattsinc,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/526
+2023-11-03 07:10:16+00:00,[User]_mattsinc,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/527
+2023-11-03 07:13:49+00:00,[User]_mattsinc,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/528
+2023-11-03 07:41:02+00:00,[User]_mattsinc,"{'[User]_powerjg', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/529
+2023-11-03 07:41:42+00:00,[User]_mattsinc,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/530
+2023-11-03 15:34:45+00:00,[User]_powerjg,"{'[User]_powerjg', '[User]_andysan', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/531
+2023-11-03 20:55:13+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/532
+2023-11-03 23:01:44+00:00,[User]_nmosier,{'[User]_nmosier'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/533
+2023-11-05 00:07:16+00:00,[User]_odanrc,"{'[User]_powerjg', '[User]_odanrc'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/534
+2023-11-05 09:05:22+00:00,[User]_mattsinc,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/536
+2023-11-05 09:06:42+00:00,[User]_mattsinc,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/537
+2023-11-05 09:08:42+00:00,[User]_mattsinc,"{'[User]_powerjg', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/538
+2023-11-05 09:12:33+00:00,[User]_mattsinc,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/539
+2023-11-06 03:57:27+00:00,[User]_mattsinc,"{'[User]_BujSet', '[User]_abmerop', '[User]_powerjg', '[User]_DanKouch', '[User]_mattsinc'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/540
+2023-11-06 18:58:37+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/541
+2023-11-07 14:46:00+00:00,[User]_derchr,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/542
+2023-11-09 16:06:48+00:00,[User]_drajarshi,{'[User]_drajarshi'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/543
+2023-11-09 19:01:15+00:00,[User]_giactra,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/545
+2023-11-09 20:12:23+00:00,[User]_BujSet,"{'[User]_BujSet', '[User]_mysoreanoop', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/546
+2023-11-11 20:51:40+00:00,[User]_sammy17,"{'[User]_sammy17', '[User]_giactra', '[User]_ivanaamit'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/548
+2023-11-11 23:58:42+00:00,[User]_mysoreanoop,{'[User]_v-ramadas'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/549
+2023-11-12 07:09:18+00:00,[User]_hnpl,"{'[User]_hnpl', '[User]_rjc-arch'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/550
+2023-11-13 02:21:36+00:00,[User]_raindroid,"{'[User]_raindroid', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/551
+2023-11-13 02:36:55+00:00,[User]_DanKouch,"{'[User]_DanKouch', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/552
+2023-11-13 03:36:00+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_giactra', '[User]_hnpl', '[User]_BobbyRBruce', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/553
+2023-11-13 08:04:32+00:00,[User]_wmin0,"{'[User]_wmin0', '[User]_rogerchang23424', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/554
+2023-11-13 09:28:56+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/555
+2023-11-13 09:39:50+00:00,[User]_BobbyRBruce,{'[User]_Harshil2107'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/556
+2023-11-13 12:33:25+00:00,[User]_BobbyRBruce,"{'[User]_Harshil2107', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/558
+2023-11-13 12:48:20+00:00,[User]_drajarshi,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_drajarshi'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/560
+2023-11-13 17:37:21+00:00,[User]_mattsinc,"{'[User]_powerjg', '[User]_mattsinc'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/561
+2023-11-14 01:19:33+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/562
+2023-11-14 01:44:01+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/563
+2023-11-14 15:44:43+00:00,[User]_rjc-arch,"{'[User]_powerjg', '[User]_odanrc', '[User]_BobbyRBruce', '[User]_rjc-arch'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/564
+2023-11-14 18:31:06+00:00,[User]_BujSet,"{'[User]_BujSet', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/565
+2023-11-14 21:49:19+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/566
+2023-11-15 14:00:40+00:00,[User]_rogerchang23424,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/568
+2023-11-16 23:21:47+00:00,[User]_v-ramadas,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/569
+2023-11-16 23:32:36+00:00,[User]_v-ramadas,"{'[User]_powerjg', '[User]_v-ramadas', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/570
+2023-11-17 22:35:16+00:00,[User]_abmerop,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/571
+2023-11-19 03:46:35+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_hnpl', '[User]_BobbyRBruce', '[User]_rogerchang23424', '[User]_rjc-arch'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/573
+2023-11-19 16:41:33+00:00,[User]_EricChenSudo,"{'[User]_EricChenSudo', '[User]_mattsinc', '[User]_ivanaamit', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/574
+2023-11-20 09:35:48+00:00,[User]_cnjsdfcy,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/575
+2023-11-20 21:56:24+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_derchr', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/577
+2023-11-20 22:28:43+00:00,[User]_BobbyRBruce,"{'[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/578
+2023-11-20 23:11:41+00:00,[User]_hnpl,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/579
+2023-11-20 23:14:31+00:00,[User]_BobbyRBruce,"{'[User]_BobbyRBruce', '[User]_rjc-arch'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/580
+2023-11-20 23:37:35+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_rogerchang23424', '[User]_andysan', '[User]_rjc-arch'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/581
+2023-11-21 00:12:52+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/582
+2023-11-21 13:44:18+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_rjc-arch'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/584
+2023-11-21 17:09:28+00:00,[User]_abmerop,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/585
+2023-11-21 17:24:44+00:00,[User]_EricChenSudo,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/586
+2023-11-21 21:29:35+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/587
+2023-11-22 12:09:21+00:00,[User]_ivanfv,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_ivanfv', '[User]_giactra', '[User]_camel-cdr', '[User]_aarmejach', '[User]_ivanaamit', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/589
+2023-11-22 15:29:59+00:00,[User]_Nitesh8998,{'[User]_Harshil2107'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/590
+2023-11-22 17:08:29+00:00,[User]_Harshil2107,"{'[User]_rogerchang23424', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/591
+2023-11-23 01:32:19+00:00,[User]_AKKamath,"{'[User]_powerjg', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/592
+2023-11-23 09:01:54+00:00,[User]_OdnetninI,{'[User]_OdnetninI'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/593
+2023-11-23 22:33:08+00:00,[User]_vmskv,"{'[User]_ivanfv', '[User]_ivanaamit', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/594
+2023-11-24 14:24:19+00:00,[User]_Nitesh8998,"{'[User]_powerjg', '[User]_Nitesh8998', '[User]_giactra', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/596
+2023-11-24 19:48:12+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/597
+2023-11-24 21:05:05+00:00,[User]_mysoreanoop,"{'[User]_abmerop', '[User]_powerjg', '[User]_mattsinc', '[User]_Harshil2107', '[User]_mysoreanoop', '[User]_ivanaamit'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/598
+2023-11-26 19:18:45+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/599
+2023-11-27 05:28:32+00:00,[User]_Harshil2107,"{'[User]_Harshil2107', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/600
+2023-11-27 05:35:13+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_hnpl', '[User]_shingarov', '[User]_BobbyRBruce', '[User]_Harshil2107'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/601
+2023-11-27 11:27:36+00:00,[User]_zhiqianglife,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/602
+2023-11-27 17:19:36+00:00,[User]_aarmejach,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/604
+2023-11-27 18:36:31+00:00,[User]_aarmejach,"{'[User]_rogerchang23424', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/606
+2023-11-27 21:29:08+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/607
+2023-11-27 23:22:20+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_aarmejach', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/610
+2023-11-28 01:53:55+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_giactra', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/612
+2023-11-28 10:42:18+00:00,[User]_kaustav-goswami,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/613
+2023-11-28 11:21:34+00:00,[User]_aarmejach,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/614
+2023-11-28 13:28:45+00:00,[User]_robhau,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/615
+2023-11-28 20:02:58+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/616
+2023-11-29 03:06:49+00:00,[User]_rogerchang23424,"{'[User]_rogerchang23424', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/617
+2023-11-29 08:08:51+00:00,[User]_qqli579,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/619
+2023-11-29 15:42:23+00:00,[User]_Harshil2107,"{'[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/620
+2023-11-29 21:53:29+00:00,[User]_georgehodgkins,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/621
+2023-11-29 23:39:49+00:00,[User]_Harshil2107,{'[User]_Harshil2107'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/623
+2023-11-29 23:43:55+00:00,[User]_Harshil2107,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/624
+2023-11-30 02:11:59+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/625
+2023-11-30 03:04:01+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/626
+2023-11-30 05:49:50+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/627
+2023-11-30 07:41:33+00:00,[User]_rogerchang23424,{'[User]_rogerchang23424'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/629
+2023-11-30 09:08:07+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/630
+2023-11-30 19:15:24+00:00,[User]_ivanaamit,"{'[User]_Harshil2107', '[User]_ivanaamit'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/631
+2023-12-01 06:51:45+00:00,[User]_zhiqianglife,"{'[User]_Harshil2107', '[User]_giactra', '[User]_zhiqianglife'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/632
+2023-12-01 07:18:52+00:00,[User]_hnpl,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/633
+2023-12-01 07:40:13+00:00,[User]_hnpl,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/634
+2023-12-01 18:21:39+00:00,[User]_rjc-arch,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/636
+2023-12-01 18:27:28+00:00,[User]_mattsinc,"{'[User]_powerjg', '[User]_mattsinc'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/637
+2023-12-01 18:43:11+00:00,[User]_Harshil2107,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/638
+2023-12-01 21:40:32+00:00,[User]_rjc-arch,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/639
+2023-12-01 22:38:59+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/641
+2023-12-02 00:34:48+00:00,[User]_powerjg,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/642
+2023-12-02 01:29:56+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/643
+2023-12-02 01:56:13+00:00,[User]_BobbyRBruce,"{'[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/644
+2023-12-02 02:28:17+00:00,[User]_powerjg,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/646
+2023-12-04 20:03:28+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/651
+2023-12-05 09:05:39+00:00,[User]_rogerchang23424,"{'[User]_giactra', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/652
+2023-12-05 18:51:15+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/653
+2023-12-05 22:54:38+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/654
+2023-12-06 03:17:08+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/655
+2023-12-06 06:12:08+00:00,[User]_wmin0,"{'[User]_wmin0', '[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/656
+2023-12-06 14:53:19+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_giactra', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/658
+2023-12-06 20:36:01+00:00,[User]_BobbyRBruce,"{'[User]_giactra', '[User]_rogerchang23424', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/660
+2023-12-06 22:08:46+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/662
+2023-12-07 23:29:58+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/664
+2023-12-08 01:01:25+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_mahyarsamani', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/665
+2023-12-08 02:31:20+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_OdnetninI', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/666
+2023-12-08 04:29:19+00:00,[User]_seanzw,"{'[User]_powerjg', '[User]_hnpl', '[User]_seanzw'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/667
+2023-12-10 19:10:39+00:00,[User]_cnpapado,"{'[User]_cnpapado', '[User]_giactra', '[User]_ivanaamit'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/668
+2023-12-11 13:21:36+00:00,[User]_ccccrrrr,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/669
+2023-12-11 16:35:04+00:00,[User]_Harshil2107,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/671
+2023-12-11 18:52:21+00:00,[User]_saul44203,"{'[User]_powerjg', '[User]_saul44203', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/672
+2023-12-12 00:51:31+00:00,[User]_rogerchang23424,"{'[User]_Harshil2107', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/673
+2023-12-12 22:40:24+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/675
+2023-12-12 23:43:52+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/676
+2023-12-12 23:57:12+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/677
+2023-12-13 02:14:42+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/678
+2023-12-13 19:39:16+00:00,[User]_arichardson,"{'[User]_powerjg', '[User]_arichardson', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/679
+2023-12-13 19:41:24+00:00,[User]_arichardson,"{'[User]_pranith', '[User]_rogerchang23424', '[User]_powerjg'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/680
+2023-12-13 23:25:23+00:00,[User]_arichardson,"{'[User]_ivanaamit', '[User]_powerjg', '[User]_giactra', '[User]_arichardson', '[User]_BobbyRBruce', '[User]_keith-packard', '[User]_rogerchang23424', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/681
+2023-12-14 08:10:15+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/682
+2023-12-14 09:51:23+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/683
+2023-12-14 11:37:41+00:00,[User]_giactra,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/684
+2023-12-14 17:03:18+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_9Tempest', '[User]_EmilyG2413', '[User]_Lukas-Zenick', '[User]_Harshil2107', '[User]_Anzi914'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/686
+2023-12-15 15:26:14+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_hnpl'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/688
+2023-12-15 15:56:47+00:00,[User]_TiberiuBucur,"{'[User]_powerjg', '[User]_giactra'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/689
+2023-12-17 12:36:23+00:00,[User]_pranith,"{'[User]_pranith', '[User]_odanrc'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/690
+2023-12-18 01:10:49+00:00,[User]_rogerchang23424,"{'[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/691
+2023-12-18 10:19:11+00:00,[User]_giactra,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/692
+2023-12-18 10:44:58+00:00,[User]_mohammadvazirpanah,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/693
+2023-12-18 22:42:54+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/695
+2023-12-19 00:20:25+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/696
+2023-12-19 01:09:36+00:00,[User]_BobbyRBruce,"{'[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/697
+2023-12-19 01:24:59+00:00,[User]_BobbyRBruce,{'[User]_giactra'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/698
+2023-12-19 01:29:20+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/699
+2023-12-20 03:06:45+00:00,[User]_icuuuuuuer,"{'[User]_icuuuuuuer', '[User]_MAyang38', '[User]_powerjg', '[User]_Harshil2107', '[User]_ivanaamit', '[User]_aarmejach'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/700
+2023-12-20 09:26:51+00:00,[User]_arteen1000,"{'[User]_powerjg', '[User]_mattsinc'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/701
+2023-12-20 22:05:56+00:00,[User]_BobbyRBruce,{'[User]_mattsinc'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/702
+2023-12-20 22:07:58+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/703
+2023-12-20 23:27:43+00:00,[User]_powerjg,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/704
+2023-12-20 23:52:22+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/705
+2023-12-21 00:48:53+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/706
+2023-12-22 02:49:32+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/707
+2023-12-22 03:44:29+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/708
+2023-12-22 09:18:16+00:00,[User]_rw1nkler,"{'[User]_powerjg', '[User]_rw1nkler', '[User]_andysan'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/709
+2023-12-24 03:09:25+00:00,[User]_BobbyRBruce,{'[User]_Harshil2107'},gem5/gem5,2023,https://github.com/gem5/gem5/pull/711
+2023-12-25 03:14:51+00:00,[User]_NiJiazhe,set(),gem5/gem5,2023,https://github.com/gem5/gem5/issues/712
+2023-12-25 04:50:29+00:00,[User]_rogerchang23424,{'[User]_rogerchang23424'},gem5/gem5,2023,https://github.com/gem5/gem5/issues/713
+2023-12-25 06:55:02+00:00,[User]_rogerchang23424,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/714
+2023-12-27 18:58:47+00:00,[User]_QQeg,"{'[User]_powerjg', '[User]_aarmejach', '[User]_rogerchang23424'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/715
+2023-12-27 20:33:12+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/716
+2023-12-27 20:35:27+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/717
+2023-12-27 20:51:22+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2023,https://github.com/gem5/gem5/pull/718
+2023-12-27 23:31:55+00:00,[User]_tiagormk,"{'[User]_powerjg', '[User]_tiagormk', '[User]_ivanaamit'}",gem5/gem5,2023,https://github.com/gem5/gem5/issues/719
+2023-12-29 00:11:06+00:00,[User]_kaustav-goswami,"{'[User]_powerjg', '[User]_giactra', '[User]_hnpl', '[User]_codecrypt92', '[User]_kaustav-goswami', '[User]_ivanaamit'}",gem5/gem5,2023,https://github.com/gem5/gem5/pull/725
+2024-01-01 21:27:01+00:00,[User]_pranith,"{'[User]_powerjg', '[User]_pranith', '[User]_odanrc'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/728
+2024-01-02 16:54:41+00:00,[User]_pranith,"{'[User]_powerjg', '[User]_pranith', '[User]_odanrc'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/729
+2024-01-03 04:15:42+00:00,[User]_KaiBatley,"{'[User]_KaiBatley', '[User]_mattsinc', '[User]_powerjg', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/730
+2024-01-03 04:17:26+00:00,[User]_KaiBatley,"{'[User]_KaiBatley', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/731
+2024-01-03 15:34:23+00:00,[User]_giactra,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/732
+2024-01-03 16:46:46+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_giactra', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/733
+2024-01-03 17:37:58+00:00,[User]_tiagormk,"{'[User]_powerjg', '[User]_hnpl'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/734
+2024-01-04 02:47:14+00:00,[User]_rogerchang23424,{'[User]_giactra'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/735
+2024-01-05 00:14:55+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/737
+2024-01-05 16:54:00+00:00,[User]_ivanaamit,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce', '[User]_ivanaamit', '[User]_andysan'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/739
+2024-01-06 18:35:12+00:00,[User]_w1ndok814,"{'[User]_powerjg', '[User]_myzinsky', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/742
+2024-01-06 22:56:28+00:00,[User]_powerjg,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/743
+2024-01-07 18:28:01+00:00,[User]_pranith,"{'[User]_powerjg', '[User]_pranith', '[User]_giactra', '[User]_ivanaamit', '[User]_odanrc', '[User]_andysan'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/745
+2024-01-08 01:55:53+00:00,[User]_cmath1,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/747
+2024-01-09 21:58:49+00:00,[User]_BobbyRBruce,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/751
+2024-01-09 22:37:37+00:00,[User]_hnpl,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/753
+2024-01-10 01:02:23+00:00,[User]_rogerchang23424,{'[User]_hnpl'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/755
+2024-01-10 08:37:48+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/756
+2024-01-11 06:01:04+00:00,[User]_QQeg,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/759
+2024-01-11 06:50:08+00:00,[User]_pranith,"{'[User]_powerjg', '[User]_pranith', '[User]_odanrc'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/760
+2024-01-12 03:23:05+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_Harshil2107'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/763
+2024-01-12 17:18:25+00:00,[User]_giactra,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/766
+2024-01-12 18:56:36+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/767
+2024-01-12 22:47:00+00:00,[User]_seanzw,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/768
+2024-01-14 20:27:31+00:00,[User]_pranith,"{'[User]_powerjg', '[User]_pranith', '[User]_odanrc', '[User]_andysan'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/769
+2024-01-14 20:47:11+00:00,[User]_pranith,"{'[User]_pranith', '[User]_odanrc'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/770
+2024-01-15 23:11:39+00:00,[User]_aryanitish,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/773
+2024-01-15 23:36:37+00:00,[User]_abmerop,"{'[User]_powerjg', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/774
+2024-01-16 08:51:54+00:00,[User]_rogerchang23424,{'[User]_giactra'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/775
+2024-01-16 18:11:58+00:00,[User]_camel-cdr,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/776
+2024-01-16 22:57:22+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/779
+2024-01-17 06:45:01+00:00,[User]_rogerchang23424,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/780
+2024-01-17 18:19:51+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/781
+2024-01-18 18:04:42+00:00,[User]_powerjg,{'[User]_giactra'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/784
+2024-01-18 20:23:23+00:00,[User]_AbhishekUoR,"{'[User]_AbhishekUoR', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/785
+2024-01-18 22:24:25+00:00,[User]_Harshil2107,"{'[User]_pranith', '[User]_powerjg'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/786
+2024-01-19 00:54:37+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/787
+2024-01-19 16:36:06+00:00,[User]_alsam,"{'[User]_giactra', '[User]_alsam'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/788
+2024-01-19 19:40:05+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/789
+2024-01-20 12:11:40+00:00,[User]_karineek,"{'[User]_powerjg', '[User]_karineek', '[User]_ivanaamit', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/790
+2024-01-21 07:32:13+00:00,[User]_jjuninho,"{'[User]_tiagormk', '[User]_jjuninho', '[User]_ivanaamit', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/791
+2024-01-22 16:40:25+00:00,[User]_abmerop,{'[User]_mattsinc'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/792
+2024-01-23 02:34:08+00:00,[User]_rogerchang23424,{'[User]_hnpl'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/793
+2024-01-23 08:27:55+00:00,[User]_saul44203,"{'[User]_rogerchang23424', '[User]_saul44203', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/794
+2024-01-23 09:17:18+00:00,[User]_wmin0,"{'[User]_wmin0', '[User]_ivanaamit', '[User]_powerjg'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/795
+2024-01-23 10:16:26+00:00,[User]_amatabsc,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/796
+2024-01-23 11:19:39+00:00,[User]_amatabsc,"{'[User]_powerjg', '[User]_andysan', '[User]_hnpl', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/797
+2024-01-23 16:29:56+00:00,[User]_ivanaamit,"{'[User]_pranith', '[User]_powerjg', '[User]_andysan'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/798
+2024-01-23 17:05:11+00:00,[User]_JenniferBrana,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/799
+2024-01-23 20:51:59+00:00,[User]_abmerop,"{'[User]_powerjg', '[User]_mattsinc', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/801
+2024-01-24 06:12:34+00:00,[User]_despotx,"{'[User]_powerjg', '[User]_despotx'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/802
+2024-01-24 19:58:24+00:00,[User]_QQeg,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/805
+2024-01-25 19:22:32+00:00,[User]_abmerop,{'[User]_mattsinc'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/806
+2024-01-25 22:16:50+00:00,[User]_BobbyRBruce,"{'[User]_andysan', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/807
+2024-01-26 03:20:01+00:00,[User]_JiaFan1994,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/808
+2024-01-26 15:53:52+00:00,[User]_robhau,{'[User]_robhau'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/809
+2024-01-26 16:30:52+00:00,[User]_giactra,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/810
+2024-01-26 16:40:13+00:00,[User]_robhau,"{'[User]_powerjg', '[User]_robhau'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/811
+2024-01-26 18:31:20+00:00,[User]_robhau,"{'[User]_robhau', '[User]_rogerchang23424', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/813
+2024-01-28 10:15:58+00:00,[User]_QQeg,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/814
+2024-01-29 03:46:04+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_aarmejach', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/816
+2024-01-29 18:58:41+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_mattsinc'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/817
+2024-01-30 17:47:34+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/819
+2024-01-31 02:33:10+00:00,[User]_flyeagle0,"{'[User]_ivanaamit', '[User]_flyeagle0'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/822
+2024-01-31 16:52:39+00:00,[User]_kroarty-lanl,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/824
+2024-01-31 18:30:05+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/825
+2024-01-31 20:06:28+00:00,[User]_mahyarsamani,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/826
+2024-02-01 08:56:46+00:00,[User]_debjyoti0891,"{'[User]_debjyoti0891', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/827
+2024-02-01 09:49:18+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_giactra', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/828
+2024-02-01 14:09:27+00:00,[User]_giactra,{'[User]_andysan'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/829
+2024-02-01 15:48:19+00:00,[User]_saul44203,"{'[User]_powerjg', '[User]_hnpl', '[User]_QQeg', '[User]_BobbyRBruce', '[User]_rogerchang23424', '[User]_saul44203'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/830
+2024-02-01 23:05:05+00:00,[User]_mahyarsamani,"{'[User]_powerjg', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/835
+2024-02-01 23:34:45+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_ivanaamit', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/836
+2024-02-01 23:45:44+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/837
+2024-02-02 18:33:13+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/840
+2024-02-02 18:38:36+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/841
+2024-02-02 23:43:55+00:00,[User]_Arnab035,"{'[User]_powerjg', '[User]_Arnab035', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/842
+2024-02-04 15:27:03+00:00,[User]_QQeg,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/843
+2024-02-04 16:49:46+00:00,[User]_QQeg,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/844
+2024-02-05 01:37:19+00:00,[User]_Harshil2107,"{'[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/845
+2024-02-05 09:39:47+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/846
+2024-02-05 11:21:24+00:00,[User]_h0lyalg0rithm,"{'[User]_ivanaamit', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/847
+2024-02-05 12:50:37+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_mattsinc', '[User]_andysan'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/848
+2024-02-05 13:45:18+00:00,[User]_giactra,{'[User]_andysan'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/849
+2024-02-05 17:07:59+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/850
+2024-02-05 18:06:36+00:00,[User]_ivanfv,"{'[User]_powerjg', '[User]_ivanfv', '[User]_rogerchang23424', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/851
+2024-02-05 23:10:47+00:00,[User]_v-ramadas,"{'[User]_v-ramadas', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/852
+2024-02-06 14:48:07+00:00,[User]_powerjg,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/855
+2024-02-06 17:30:45+00:00,[User]_BobbyRBruce,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/856
+2024-02-06 21:02:17+00:00,[User]_hristobelchev,"{'[User]_powerjg', '[User]_hristobelchev', '[User]_odanrc'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/857
+2024-02-06 23:49:29+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/858
+2024-02-07 21:31:00+00:00,[User]_QQeg,"{'[User]_rogerchang23424', '[User]_QQeg', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/859
+2024-02-09 01:57:16+00:00,[User]_AppDoraemon,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/860
+2024-02-09 15:06:28+00:00,[User]_rjc-arch,{'[User]_rjc-arch'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/861
+2024-02-09 23:37:48+00:00,[User]_hnpl,{'[User]_AKKamath'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/862
+2024-02-12 14:24:07+00:00,[User]_debjyoti0891,"{'[User]_debjyoti0891', '[User]_ivanaamit', '[User]_powerjg', '[User]_hnpl', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/863
+2024-02-12 16:59:11+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/864
+2024-02-12 18:39:52+00:00,[User]_ivanaamit,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/865
+2024-02-14 14:59:21+00:00,[User]_aryanitish,"{'[User]_powerjg', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/869
+2024-02-15 20:09:20+00:00,[User]_rjc-arch,"{'[User]_powerjg', '[User]_odanrc'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/871
+2024-02-15 20:42:17+00:00,[User]_rjc-arch,"{'[User]_powerjg', '[User]_ivanaamit', '[User]_odanrc', '[User]_rjc-arch'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/872
+2024-02-16 11:40:40+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_rjc-arch'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/873
+2024-02-16 20:04:33+00:00,[User]_nmosier,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/874
+2024-02-16 20:17:20+00:00,[User]_nmosier,"{'[User]_powerjg', '[User]_nmosier', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/875
+2024-02-16 20:52:27+00:00,[User]_nmosier,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/876
+2024-02-16 20:59:35+00:00,[User]_nmosier,"{'[User]_powerjg', '[User]_nmosier', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/877
+2024-02-19 03:48:46+00:00,[User]_wmin0,{'[User]_giactra'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/878
+2024-02-20 05:42:18+00:00,[User]_wmin0,"{'[User]_wmin0', '[User]_powerjg'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/880
+2024-02-20 07:08:17+00:00,[User]_robhau,"{'[User]_robhau', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/881
+2024-02-20 18:53:24+00:00,[User]_yichungchen84,"{'[User]_tiagormk', '[User]_vsoriap', '[User]_yichungchen84', '[User]_ivanaamit', '[User]_andysan'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/882
+2024-02-21 06:48:44+00:00,[User]_rogerchang23424,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/883
+2024-02-21 13:25:28+00:00,[User]_saul44203,"{'[User]_powerjg', '[User]_aarmejach', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/885
+2024-02-21 14:57:03+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/886
+2024-02-21 17:41:58+00:00,[User]_nmosier,"{'[User]_nmosier', '[User]_giactra'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/887
+2024-02-21 18:43:57+00:00,[User]_Harshil2107,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/888
+2024-02-22 14:31:14+00:00,[User]_hristobelchev,"{'[User]_powerjg', '[User]_hristobelchev', '[User]_odanrc'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/889
+2024-02-23 06:42:15+00:00,[User]_rogerchang23424,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/890
+2024-02-23 06:46:08+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/891
+2024-02-24 03:52:09+00:00,[User]_nmosier,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/892
+2024-02-26 19:50:16+00:00,[User]_DanKouch,"{'[User]_mattsinc', '[User]_DanKouch', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/894
+2024-02-26 20:55:49+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop', '[User]_mjkpolo'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/895
+2024-02-28 05:16:34+00:00,[User]_DanKouch,"{'[User]_DanKouch', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/899
+2024-02-28 07:27:40+00:00,[User]_robhau,"{'[User]_powerjg', '[User]_giactra', '[User]_robhau', '[User]_rogerchang23424', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/900
+2024-02-28 19:45:13+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/901
+2024-02-28 21:20:31+00:00,[User]_giactra,"{'[User]_powerjg', '[User]_giactra'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/902
+2024-02-29 17:28:58+00:00,[User]_ivanaamit,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/903
+2024-02-29 19:21:53+00:00,[User]_ivanaamit,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_rogerchang23424', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/904
+2024-03-04 17:53:53+00:00,[User]_giactra,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/908
+2024-03-04 18:12:30+00:00,[User]_ivanaamit,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/909
+2024-03-04 22:33:37+00:00,[User]_Foxy-Boxes,"{'[User]_Foxy-Boxes', '[User]_powerjg', '[User]_Lukas-Zenick'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/910
+2024-03-05 07:44:28+00:00,[User]_BobbyRBruce,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/911
+2024-03-05 08:35:02+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/912
+2024-03-05 09:26:38+00:00,[User]_ivanfv,"{'[User]_powerjg', '[User]_ivanfv', '[User]_hnpl', '[User]_aarmejach', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/913
+2024-03-05 10:15:58+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/914
+2024-03-06 07:24:13+00:00,[User]_Rhythmicc,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/915
+2024-03-06 08:47:42+00:00,[User]_wkxfudan,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_wkxfudan'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/916
+2024-03-08 19:31:01+00:00,[User]_tiagormk,"{'[User]_powerjg', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/922
+2024-03-11 13:15:45+00:00,[User]_BobbyRBruce,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/924
+2024-03-11 15:28:52+00:00,[User]_amatabsc,"{'[User]_amatabsc', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/925
+2024-03-11 18:25:05+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/926
+2024-03-11 19:27:08+00:00,[User]_mahyarsamani,"{'[User]_powerjg', '[User]_mahyarsamani', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/927
+2024-03-11 19:35:28+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/928
+2024-03-11 19:48:27+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/930
+2024-03-12 13:07:22+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/931
+2024-03-14 08:50:43+00:00,[User]_giactra,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/934
+2024-03-14 17:26:27+00:00,[User]_giactra,"{'[User]_giactra', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/935
+2024-03-15 03:48:04+00:00,[User]_yanleeG,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/937
+2024-03-15 03:52:50+00:00,[User]_yanleeG,"{'[User]_giactra', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/938
+2024-03-15 20:00:54+00:00,[User]_mwboyer,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/939
+2024-03-15 23:08:22+00:00,[User]_mwboyer,"{'[User]_mwboyer', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/940
+2024-03-18 03:10:49+00:00,[User]_Harshil2107,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/942
+2024-03-18 08:25:35+00:00,[User]_yihuaeyang,"{'[User]_andysan', '[User]_yihuaeyang'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/943
+2024-03-18 13:43:53+00:00,[User]_jjuninho,"{'[User]_powerjg', '[User]_tiagormk', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/945
+2024-03-19 18:13:47+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/947
+2024-03-20 03:47:36+00:00,[User]_cmolder,{'[User]_cmolder'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/948
+2024-03-21 08:22:25+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/951
+2024-03-21 08:48:49+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/952
+2024-03-21 17:00:41+00:00,[User]_mwboyer,{'[User]_mattsinc'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/953
+2024-03-22 20:18:34+00:00,[User]_abmerop,{'[User]_mattsinc'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/955
+2024-03-22 20:54:30+00:00,[User]_cmolder,"{'[User]_powerjg', '[User]_cmolder', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/956
+2024-03-22 23:08:03+00:00,[User]_Foxy-Boxes,"{'[User]_Foxy-Boxes', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/957
+2024-03-23 01:33:27+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/958
+2024-03-23 22:04:21+00:00,[User]_BobbyRBruce,"{'[User]_giactra', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/959
+2024-03-24 07:37:09+00:00,[User]_Shreesh-Kulkarni,"{'[User]_EmilyG2413', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/960
+2024-03-24 12:01:29+00:00,[User]_kelark,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/961
+2024-03-26 04:05:22+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/964
+2024-03-26 07:37:18+00:00,[User]_LujhCoconut,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/965
+2024-03-26 13:04:53+00:00,[User]_giactra,"{'[User]_giactra', '[User]_odanrc', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/966
+2024-03-26 13:19:05+00:00,[User]_giactra,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/967
+2024-03-27 21:05:04+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/970
+2024-03-27 21:32:47+00:00,[User]_BobbyRBruce,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/971
+2024-03-27 21:38:52+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/972
+2024-03-27 21:41:32+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/973
+2024-03-28 09:41:18+00:00,[User]_rogerchang23424,{'[User]_giactra'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/975
+2024-03-28 11:39:53+00:00,[User]_giactra,{'[User]_andysan'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/976
+2024-03-28 21:10:49+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_giactra', '[User]_hnpl', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/977
+2024-03-30 08:26:23+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/979
+2024-04-01 03:25:41+00:00,[User]_Ye-Jinhong,{'[User]_hnpl'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/981
+2024-04-01 20:01:47+00:00,[User]_hnpl,{'[User]_hnpl'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/982
+2024-04-01 22:46:05+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_tommarin'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/985
+2024-04-02 08:19:19+00:00,[User]_kaustav-goswami,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/986
+2024-04-02 17:20:09+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/987
+2024-04-02 17:31:01+00:00,[User]_ivanaamit,"{'[User]_nmosier', '[User]_ivanaamit', '[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/988
+2024-04-02 18:59:31+00:00,[User]_nmosier,"{'[User]_powerjg', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/989
+2024-04-03 01:05:49+00:00,[User]_elatalhm,"{'[User]_giactra', '[User]_ivanaamit', '[User]_samueltphd', '[User]_elatalhm'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/990
+2024-04-03 15:45:15+00:00,[User]_giactra,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/993
+2024-04-04 08:11:12+00:00,[User]_vsoriap,"{'[User]_tiagormk', '[User]_vsoriap', '[User]_ivanaamit', '[User]_fschaetzle'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/994
+2024-04-05 02:42:35+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/996
+2024-04-05 17:17:20+00:00,[User]_saul44203,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/997
+2024-04-05 20:18:16+00:00,[User]_robhau,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/998
+2024-04-08 02:00:47+00:00,[User]_nmosier,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/1004
+2024-04-08 02:39:24+00:00,[User]_rogerchang23424,"{'[User]_robhau', '[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1005
+2024-04-08 02:44:22+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_robhau', '[User]_hnpl'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1006
+2024-04-08 02:53:15+00:00,[User]_nmosier,"{'[User]_powerjg', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1007
+2024-04-09 15:49:11+00:00,[User]_bgasiorzewski,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_bgasiorzewski', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1009
+2024-04-09 23:32:18+00:00,[User]_hnpl,"{'[User]_powerjg', '[User]_robhau'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1010
+2024-04-10 17:51:18+00:00,[User]_abmerop,"{'[User]_v-ramadas', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1011
+2024-04-12 06:26:32+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1013
+2024-04-12 17:29:43+00:00,[User]_ivanaamit,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1015
+2024-04-13 21:05:07+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/1017
+2024-04-13 21:20:52+00:00,[User]_BobbyRBruce,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1018
+2024-04-14 00:53:48+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/1019
+2024-04-14 03:17:06+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1020
+2024-04-14 03:24:26+00:00,[User]_BobbyRBruce,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1021
+2024-04-14 03:29:16+00:00,[User]_BobbyRBruce,"{'[User]_powerjg', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1022
+2024-04-14 18:42:02+00:00,[User]_abmerop,"{'[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1023
+2024-04-14 21:00:35+00:00,[User]_Lukas-Zenick,"{'[User]_powerjg', '[User]_BobbyRBruce', '[User]_Lukas-Zenick'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1024
+2024-04-14 23:37:48+00:00,[User]_abmerop,{'[User]_mattsinc'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1025
+2024-04-15 05:53:19+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1026
+2024-04-15 06:24:32+00:00,[User]_BobbyRBruce,"{'[User]_ivanaamit', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1027
+2024-04-15 08:32:52+00:00,[User]_xfbingshan,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/1029
+2024-04-15 11:04:23+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1031
+2024-04-15 18:54:45+00:00,[User]_BobbyRBruce,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/1033
+2024-04-15 18:56:54+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1034
+2024-04-16 20:43:39+00:00,[User]_powerjg,"{'[User]_powerjg', '[User]_nmosier', '[User]_BobbyRBruce', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1035
+2024-04-16 21:57:39+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1036
+2024-04-18 18:20:11+00:00,[User]_BobbyRBruce,{'[User]_Harshil2107'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1038
+2024-04-19 17:26:17+00:00,[User]_abmerop,"{'[User]_Harshil2107', '[User]_v-ramadas', '[User]_mattsinc', '[User]_abmerop'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1040
+2024-04-19 17:47:40+00:00,[User]_abmerop,{'[User]_mattsinc'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1041
+2024-04-19 22:52:43+00:00,[User]_nmosier,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/1042
+2024-04-20 02:41:15+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/1043
+2024-04-20 15:10:20+00:00,[User]_nmosier,"{'[User]_nmosier', '[User]_ivanaamit', '[User]_powerjg'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/1044
+2024-04-20 15:34:28+00:00,[User]_nmosier,"{'[User]_powerjg', '[User]_nmosier', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1045
+2024-04-20 20:32:29+00:00,[User]_BobbyRBruce,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1046
+2024-04-20 20:32:33+00:00,[User]_nmosier,{'[User]_ivanaamit'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1047
+2024-04-20 21:04:55+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/1048
+2024-04-20 21:18:33+00:00,[User]_nmosier,"{'[User]_nmosier', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/issues/1049
+2024-04-21 12:31:11+00:00,[User]_sapphi-red,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/1050
+2024-04-21 16:27:52+00:00,[User]_BobbyRBruce,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/1051
+2024-04-21 16:39:12+00:00,[User]_nmosier,"{'[User]_ivanaamit', '[User]_andysan'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1052
+2024-04-21 22:37:16+00:00,[User]_mjkpolo,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/1053
+2024-04-21 22:42:12+00:00,[User]_mjkpolo,"{'[User]_abmerop', '[User]_mjkpolo'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1054
+2024-04-21 23:45:01+00:00,[User]_nmosier,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/1055
+2024-04-21 23:56:12+00:00,[User]_nmosier,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1056
+2024-04-22 07:13:13+00:00,[User]_rogerchang23424,{'[User]_rogerchang23424'},gem5/gem5,2024,https://github.com/gem5/gem5/issues/1058
+2024-04-22 07:59:27+00:00,[User]_robhau,"{'[User]_powerjg', '[User]_robhau', '[User]_ivanaamit'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1059
+2024-04-22 14:53:02+00:00,[User]_giactra,"{'[User]_giactra', '[User]_ivanaamit', '[User]_andysan'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1060
+2024-04-22 15:48:12+00:00,[User]_nmosier,"{'[User]_nmosier', '[User]_giactra', '[User]_odanrc', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1061
+2024-04-22 20:40:34+00:00,[User]_BobbyRBruce,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1063
+2024-04-22 23:27:00+00:00,[User]_nmosier,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/1064
+2024-04-23 02:57:30+00:00,[User]_nmosier,"{'[User]_powerjg', '[User]_nmosier', '[User]_andysan'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1065
+2024-04-23 23:13:13+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1067
+2024-04-24 03:19:27+00:00,[User]_rogerchang23424,"{'[User]_powerjg', '[User]_rogerchang23424'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1068
+2024-04-24 17:27:54+00:00,[User]_giactra,{'[User]_powerjg'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1069
+2024-04-24 22:48:48+00:00,[User]_Harshil2107,{'[User]_BobbyRBruce'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1070
+2024-04-25 06:12:05+00:00,[User]_hnpl,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/1071
+2024-04-25 09:09:14+00:00,[User]_giactra,{'[User]_andysan'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1072
+2024-04-25 17:11:31+00:00,[User]_ivanaamit,"{'[User]_powerjg', '[User]_Harshil2107', '[User]_ivanaamit', '[User]_odanrc'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1073
+2024-04-26 18:04:32+00:00,[User]_ivanaamit,"{'[User]_odanrc', '[User]_BobbyRBruce'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1075
+2024-04-27 14:37:27+00:00,[User]_rogerchang23424,{'[User]_hnpl'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1076
+2024-04-27 14:56:51+00:00,[User]_OdnetninI,"{'[User]_OdnetninI', '[User]_ivanaamit', '[User]_hnpl', '[User]_giactra'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1077
+2024-04-28 06:41:57+00:00,[User]_cyyself,"{'[User]_rogerchang23424', '[User]_hnpl'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1078
+2024-04-28 16:37:35+00:00,[User]_QQeg,"{'[User]_QQeg', '[User]_hnpl'}",gem5/gem5,2024,https://github.com/gem5/gem5/pull/1079
+2024-04-28 18:17:11+00:00,[User]_Lukas-Zenick,{'[User]_hnpl'},gem5/gem5,2024,https://github.com/gem5/gem5/pull/1080
+2024-04-29 09:36:59+00:00,[User]_giactra,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/1082
+2024-04-30 13:30:10+00:00,[User]_giactra,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/1084
+2024-04-30 15:59:56+00:00,[User]_studyztp,set(),gem5/gem5,2024,https://github.com/gem5/gem5/pull/1085
+2024-04-30 17:21:50+00:00,[User]_studyztp,set(),gem5/gem5,2024,https://github.com/gem5/gem5/issues/1087

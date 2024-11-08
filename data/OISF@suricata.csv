@@ -1,0 +1,873 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 13:58:08+00:00,[User]_jufajardini,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8788
+2023-05-01 19:52:06+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8791
+2023-05-01 20:15:43+00:00,[User]_victorjulien,{'[User]_hongliangl'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8792
+2023-05-02 11:33:45+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/8796
+2023-05-02 20:03:06+00:00,[User]_jasonish,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/8798
+2023-05-02 20:29:15+00:00,[User]_jasonish,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8799
+2023-05-03 09:47:22+00:00,[User]_lukashino,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8801
+2023-05-04 09:58:44+00:00,[User]_catenacyber,"{'[User]_ct0br0', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8804
+2023-05-04 13:05:51+00:00,[User]_jlucovsky,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8806
+2023-05-04 17:25:33+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8810
+2023-05-05 01:20:11+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8813
+2023-05-05 15:05:02+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8816
+2023-05-05 15:28:49+00:00,[User]_catenacyber,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8818
+2023-05-05 16:00:20+00:00,[User]_catenacyber,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/8819
+2023-05-05 16:49:05+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8820
+2023-05-05 17:08:04+00:00,[User]_inashivb,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8821
+2023-05-06 05:53:51+00:00,[User]_Kurori,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8825
+2023-05-06 07:49:57+00:00,[User]_victorjulien,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/8826
+2023-05-06 12:55:05+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8828
+2023-05-06 20:54:03+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8830
+2023-05-07 16:43:01+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8836
+2023-05-07 17:52:55+00:00,[User]_victorjulien,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/8837
+2023-05-07 18:51:25+00:00,[User]_jsoref,"{'[User]_jsoref', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8838
+2023-05-08 15:34:22+00:00,[User]_jasonish,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/8842
+2023-05-08 15:56:17+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8843
+2023-05-08 16:04:26+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8844
+2023-05-09 14:34:39+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8846
+2023-05-09 17:26:56+00:00,[User]_jasonish,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8850
+2023-05-09 21:01:29+00:00,[User]_scottfgjordan,{'[User]_scottfgjordan'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8851
+2023-05-10 09:50:53+00:00,[User]_tourko,"{'[User]_tourko', '[User]_jlucovsky', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8857
+2023-05-10 16:25:04+00:00,[User]_jufajardini,{'[User]_jufajardini'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8860
+2023-05-12 15:39:01+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8875
+2023-05-12 17:36:45+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8876
+2023-05-14 16:14:24+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8882
+2023-05-15 16:21:50+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8885
+2023-05-16 11:47:58+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8888
+2023-05-16 14:45:06+00:00,[User]_catenacyber,"{'[User]_ct0br0', '[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8890
+2023-05-17 13:22:08+00:00,[User]_catenacyber,"{'[User]_jlucovsky', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8891
+2023-05-17 15:34:59+00:00,[User]_jlucovsky,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8894
+2023-05-17 19:51:58+00:00,[User]_glongo,"{'[User]_glongo', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8897
+2023-05-18 17:54:51+00:00,[User]_catenacyber,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8900
+2023-05-23 12:22:27+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8911
+2023-05-24 15:09:57+00:00,[User]_jufajardini,{'[User]_jufajardini'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8914
+2023-05-25 07:57:20+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8918
+2023-05-25 08:17:25+00:00,[User]_haolipeng,"{'[User]_victorjulien', '[User]_haolipeng'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8919
+2023-05-25 12:20:59+00:00,[User]_catenacyber,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8923
+2023-05-25 14:05:19+00:00,[User]_catenacyber,"{'[User]_jufajardini', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8925
+2023-05-30 14:58:08+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8943
+2023-06-01 12:43:40+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8948
+2023-06-01 22:41:15+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_norg'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8950
+2023-06-02 13:31:21+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8952
+2023-06-02 17:51:44+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8954
+2023-06-03 06:30:33+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8958
+2023-06-05 08:07:54+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8962
+2023-06-05 12:08:45+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8964
+2023-06-05 12:23:36+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8965
+2023-06-05 15:30:40+00:00,[User]_catenacyber,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8968
+2023-06-06 10:54:02+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/8973
+2023-06-06 13:56:20+00:00,[User]_jlucovsky,"{'[User]_ct0br0', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8975
+2023-06-06 19:44:13+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8977
+2023-06-07 03:49:27+00:00,[User]_inashivb,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8982
+2023-06-07 08:01:41+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8983
+2023-06-07 09:39:13+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8984
+2023-06-07 15:14:53+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8987
+2023-06-07 20:08:10+00:00,[User]_jufajardini,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8989
+2023-06-08 14:39:18+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8992
+2023-06-08 17:37:35+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/8993
+2023-06-08 18:34:03+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/8995
+2023-06-08 19:22:14+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/8997
+2023-06-09 11:20:43+00:00,[User]_catenacyber,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9000
+2023-06-09 11:21:23+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9002
+2023-06-09 11:24:32+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9003
+2023-06-10 13:38:36+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9007
+2023-06-11 18:47:33+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9008
+2023-06-12 13:44:50+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9010
+2023-06-12 16:44:08+00:00,[User]_jufajardini,{'[User]_jufajardini'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9011
+2023-06-12 19:57:32+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9013
+2023-06-13 09:18:53+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9019
+2023-06-13 11:39:39+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9021
+2023-06-13 14:19:47+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_catenacyber', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9022
+2023-06-13 20:24:23+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9023
+2023-06-13 21:53:51+00:00,[User]_jasonish,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9024
+2023-06-14 14:38:53+00:00,[User]_jlucovsky,{'[User]_jlucovsky'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9026
+2023-06-15 19:57:23+00:00,[User]_cccs-rtmorti,"{'[User]_cccs-rtmorti', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9031
+2023-06-15 21:26:06+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9032
+2023-06-16 09:50:26+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9034
+2023-06-16 11:45:09+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9036
+2023-06-16 13:31:32+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9037
+2023-06-16 14:46:55+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_jmtaylor90', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9039
+2023-06-19 13:51:49+00:00,[User]_jlucovsky,"{'[User]_jufajardini', '[User]_inashivb', '[User]_victorjulien', '[User]_jlucovsky'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9042
+2023-06-20 12:15:13+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9046
+2023-06-20 12:19:54+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9047
+2023-06-20 12:34:27+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9048
+2023-06-21 13:10:31+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9055
+2023-06-21 14:09:46+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9056
+2023-06-21 15:33:33+00:00,[User]_jasonish,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9057
+2023-06-22 14:40:17+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9062
+2023-06-22 23:54:42+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_ct0br0', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9065
+2023-06-23 06:39:38+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9066
+2023-06-23 13:51:07+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9069
+2023-06-26 07:21:43+00:00,[User]_satta,"{'[User]_victorjulien', '[User]_satta', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9071
+2023-06-26 13:10:03+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9074
+2023-06-26 20:06:47+00:00,[User]_cccs-rtmorti,"{'[User]_cccs-rtmorti', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9077
+2023-06-26 22:53:35+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9078
+2023-06-27 05:19:53+00:00,[User]_inashivb,{'[User]_inashivb'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9079
+2023-06-27 05:24:03+00:00,[User]_inashivb,{'[User]_inashivb'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9080
+2023-06-27 05:28:07+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9081
+2023-06-27 11:46:27+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9084
+2023-06-27 12:20:34+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9085
+2023-06-27 14:06:42+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9086
+2023-06-27 14:27:09+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9087
+2023-06-28 06:51:44+00:00,[User]_inashivb,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9090
+2023-06-28 18:06:38+00:00,[User]_jasonish,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9092
+2023-06-28 18:38:21+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9093
+2023-06-28 19:39:31+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9095
+2023-06-29 08:50:44+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9098
+2023-06-29 08:54:54+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9100
+2023-06-29 09:15:38+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9101
+2023-06-29 09:55:15+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9103
+2023-06-29 22:22:50+00:00,[User]_satta,"{'[User]_jasonish', '[User]_satta'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9106
+2023-06-29 23:25:50+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9107
+2023-06-30 07:02:49+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9109
+2023-06-30 07:13:23+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9110
+2023-06-30 08:26:05+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9113
+2023-06-30 15:37:08+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9117
+2023-06-30 19:01:01+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9120
+2023-07-01 15:59:02+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9124
+2023-07-02 07:42:14+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9125
+2023-07-02 13:03:17+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9128
+2023-07-02 16:00:47+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9129
+2023-07-03 03:28:05+00:00,[User]_inashivb,{'[User]_inashivb'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9131
+2023-07-03 05:09:59+00:00,[User]_inashivb,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9132
+2023-07-03 07:28:14+00:00,[User]_victorjulien,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9133
+2023-07-03 07:29:48+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9134
+2023-07-03 15:08:38+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9137
+2023-07-03 17:48:41+00:00,[User]_victorjulien,"{'[User]_pevma', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9139
+2023-07-03 19:05:41+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9140
+2023-07-05 13:19:50+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9145
+2023-07-05 13:36:50+00:00,[User]_jlucovsky,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9148
+2023-07-06 09:08:32+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9152
+2023-07-06 09:38:02+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9153
+2023-07-06 12:14:50+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9155
+2023-07-06 12:37:42+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9156
+2023-07-06 13:33:45+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9158
+2023-07-06 14:49:14+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9159
+2023-07-06 15:31:13+00:00,[User]_jmtaylor90,"{'[User]_jufajardini', '[User]_jmtaylor90', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9161
+2023-07-06 16:48:51+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9163
+2023-07-06 17:24:35+00:00,[User]_jasonish,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9164
+2023-07-06 22:57:45+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9166
+2023-07-06 23:51:45+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9167
+2023-07-07 06:28:51+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9168
+2023-07-07 07:33:39+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9169
+2023-07-07 07:38:53+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9170
+2023-07-07 08:43:25+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9171
+2023-07-07 14:09:15+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9173
+2023-07-07 16:07:35+00:00,[User]_jasonish,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9176
+2023-07-07 20:10:46+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9181
+2023-07-07 20:18:12+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9182
+2023-07-07 20:50:01+00:00,[User]_jasonish,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9183
+2023-07-07 20:59:49+00:00,[User]_jasonish,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9184
+2023-07-08 00:26:56+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9186
+2023-07-08 13:43:50+00:00,[User]_jlucovsky,{'[User]_jlucovsky'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9188
+2023-07-09 12:40:08+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9192
+2023-07-09 14:52:17+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9193
+2023-07-09 15:35:56+00:00,[User]_jlucovsky,{'[User]_jlucovsky'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9194
+2023-07-09 17:33:32+00:00,[User]_jlucovsky,{'[User]_jlucovsky'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9195
+2023-07-10 07:40:36+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9197
+2023-07-10 09:32:43+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9198
+2023-07-10 12:09:49+00:00,[User]_jmtaylor90,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9199
+2023-07-10 14:31:26+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9201
+2023-07-10 17:02:12+00:00,[User]_jmtaylor90,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9202
+2023-07-10 18:06:30+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9204
+2023-07-11 06:12:36+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9205
+2023-07-11 06:42:40+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9206
+2023-07-11 08:40:09+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9207
+2023-07-11 09:13:34+00:00,[User]_inashivb,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9208
+2023-07-11 13:12:52+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9211
+2023-07-12 13:07:11+00:00,[User]_catenacyber,"{'[User]_inashivb', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9219
+2023-07-12 13:20:46+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9220
+2023-07-13 08:04:48+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9225
+2023-07-13 09:03:21+00:00,[User]_inashivb,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9226
+2023-07-13 10:15:23+00:00,[User]_inashivb,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9227
+2023-07-13 13:19:22+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9228
+2023-07-13 20:13:28+00:00,[User]_satta,"{'[User]_satta', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9232
+2023-07-13 22:08:59+00:00,[User]_victorjulien,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9233
+2023-07-14 08:22:42+00:00,[User]_satta,{'[User]_satta'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9234
+2023-07-14 08:52:42+00:00,[User]_satta,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9235
+2023-07-16 16:23:46+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9241
+2023-07-17 08:41:57+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9242
+2023-07-17 12:57:04+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9244
+2023-07-18 12:33:22+00:00,[User]_jlucovsky,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9246
+2023-07-18 12:55:49+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9247
+2023-07-18 19:18:00+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9249
+2023-07-19 05:16:29+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9250
+2023-07-19 07:27:47+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9252
+2023-07-19 07:33:26+00:00,[User]_catenacyber,"{'[User]_lukashino', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9253
+2023-07-19 07:38:13+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9254
+2023-07-19 07:49:35+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9257
+2023-07-19 08:52:23+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9258
+2023-07-19 12:09:14+00:00,[User]_jlucovsky,"{'[User]_ct0br0', '[User]_suricata-qa', '[User]_victorjulien', '[User]_jlucovsky'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9259
+2023-07-19 14:06:18+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9260
+2023-07-20 13:17:14+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9264
+2023-07-21 10:22:33+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9268
+2023-07-21 10:56:21+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9269
+2023-07-21 12:24:43+00:00,[User]_inashivb,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9272
+2023-07-22 06:38:15+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9277
+2023-07-22 20:20:00+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9278
+2023-07-24 13:08:49+00:00,[User]_jlucovsky,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9280
+2023-07-24 15:56:05+00:00,[User]_jufajardini,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9282
+2023-07-26 10:04:10+00:00,[User]_inashivb,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9292
+2023-07-26 15:07:20+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9294
+2023-07-27 09:08:46+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9295
+2023-07-27 13:04:34+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9297
+2023-07-27 17:02:03+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9298
+2023-07-27 22:30:14+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9299
+2023-07-28 05:28:07+00:00,[User]_inashivb,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9300
+2023-07-28 06:33:28+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9301
+2023-07-28 19:17:08+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9303
+2023-07-29 07:43:40+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9304
+2023-07-31 11:56:52+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9308
+2023-07-31 20:15:01+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9311
+2023-08-01 15:50:21+00:00,[User]_jmtaylor90,"{'[User]_jufajardini', '[User]_jmtaylor90'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9316
+2023-08-01 16:01:37+00:00,[User]_jmtaylor90,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9317
+2023-08-01 18:07:26+00:00,[User]_jufajardini,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9318
+2023-08-01 18:52:39+00:00,[User]_joser12345678,"{'[User]_jufajardini', '[User]_joser12345678'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9319
+2023-08-02 08:25:28+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9323
+2023-08-02 16:35:42+00:00,[User]_jasonish,{'[User]_jasonish'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9330
+2023-08-04 11:08:46+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9346
+2023-08-04 16:40:19+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9347
+2023-08-05 11:50:08+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9351
+2023-08-05 11:52:24+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9352
+2023-08-05 18:53:58+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9353
+2023-08-05 18:56:12+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9354
+2023-08-08 07:48:16+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9358
+2023-08-08 08:08:47+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9359
+2023-08-08 15:08:00+00:00,[User]_jmtaylor90,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9361
+2023-08-08 18:29:53+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9362
+2023-08-09 13:09:05+00:00,[User]_inashivb,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_inashivb'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9367
+2023-08-10 08:33:52+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9368
+2023-08-10 12:36:12+00:00,[User]_inashivb,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9370
+2023-08-10 13:25:04+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9371
+2023-08-10 15:52:05+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9372
+2023-08-11 05:15:11+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9379
+2023-08-14 07:28:53+00:00,[User]_inashivb,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9383
+2023-08-14 13:55:51+00:00,[User]_jlucovsky,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_jlucovsky'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9385
+2023-08-15 07:35:26+00:00,[User]_glongo,{'[User]_glongo'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9386
+2023-08-16 15:11:40+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9390
+2023-08-17 06:20:40+00:00,[User]_inashivb,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9391
+2023-08-19 13:08:14+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9394
+2023-08-19 15:44:33+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9396
+2023-08-20 12:35:36+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9398
+2023-08-21 13:02:41+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9401
+2023-08-21 14:11:08+00:00,[User]_jlucovsky,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9402
+2023-08-21 16:52:30+00:00,[User]_VladGud,{'[User]_VladGud'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9403
+2023-08-22 06:59:52+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9404
+2023-08-22 14:26:56+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_jasonish', '[User]_jufajardini'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9405
+2023-08-24 14:26:52+00:00,[User]_jlucovsky,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9411
+2023-08-27 12:18:20+00:00,[User]_jlucovsky,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9412
+2023-08-28 19:45:49+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9414
+2023-08-30 12:57:14+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9417
+2023-08-30 14:46:46+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9420
+2023-08-31 03:26:48+00:00,[User]_coledishington,"{'[User]_coledishington', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9423
+2023-08-31 08:27:03+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9424
+2023-09-03 23:01:22+00:00,[User]_coledishington,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9429
+2023-09-04 07:48:56+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9431
+2023-09-04 11:59:16+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9433
+2023-09-04 13:54:07+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9435
+2023-09-04 13:56:17+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9436
+2023-09-04 14:24:51+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9437
+2023-09-05 08:55:14+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9440
+2023-09-06 09:41:35+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9442
+2023-09-06 13:43:38+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9445
+2023-09-06 15:26:47+00:00,[User]_catenacyber,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9447
+2023-09-06 20:37:36+00:00,[User]_jasonish,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9450
+2023-09-07 07:44:14+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9452
+2023-09-07 11:40:05+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9454
+2023-09-07 12:37:39+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9456
+2023-09-07 12:39:13+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9457
+2023-09-07 14:52:12+00:00,[User]_jlucovsky,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9458
+2023-09-07 19:26:08+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9461
+2023-09-08 11:06:19+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9467
+2023-09-11 07:43:52+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9471
+2023-09-11 07:59:32+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9472
+2023-09-11 14:02:05+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9475
+2023-09-11 15:47:17+00:00,[User]_jasonish,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9476
+2023-09-13 09:59:18+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9479
+2023-09-13 13:56:17+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9482
+2023-09-13 14:53:28+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9484
+2023-09-15 16:02:38+00:00,[User]_lukashino,{'[User]_lukashino'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9491
+2023-09-18 11:31:25+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9496
+2023-09-18 14:55:29+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9498
+2023-09-19 09:19:28+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9503
+2023-09-19 14:26:07+00:00,[User]_jlucovsky,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_jlucovsky'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9506
+2023-09-20 13:41:10+00:00,[User]_victorjulien,"{'[User]_lukashino', '[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9508
+2023-09-21 12:19:05+00:00,[User]_jmtaylor90,"{'[User]_jufajardini', '[User]_jasonish', '[User]_jmtaylor90', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9509
+2023-09-22 09:54:05+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9512
+2023-09-22 11:11:05+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9514
+2023-09-25 14:04:30+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9519
+2023-09-26 12:38:01+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_inashivb'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9520
+2023-09-26 14:44:33+00:00,[User]_jlucovsky,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9521
+2023-09-26 14:56:21+00:00,[User]_jlucovsky,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9522
+2023-09-26 16:28:44+00:00,[User]_ilya-bakhtin,"{'[User]_victorjulien', '[User]_ralpheastwood', '[User]_catenacyber', '[User]_jlucovsky', '[User]_ilya-bakhtin'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9523
+2023-09-27 12:18:12+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9526
+2023-09-28 12:17:53+00:00,[User]_victorjulien,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9529
+2023-09-28 19:27:10+00:00,[User]_jayhill365,"{'[User]_jayhill365', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9533
+2023-10-02 19:59:04+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9538
+2023-10-03 18:11:32+00:00,[User]_satta,"{'[User]_victorjulien', '[User]_satta', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9545
+2023-10-04 01:42:59+00:00,[User]_coledishington,"{'[User]_coledishington', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9547
+2023-10-04 09:06:19+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9548
+2023-10-04 14:20:32+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9549
+2023-10-05 07:10:44+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9556
+2023-10-05 07:21:39+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9557
+2023-10-05 07:26:08+00:00,[User]_inashivb,"{'[User]_jlucovsky', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9558
+2023-10-05 11:59:14+00:00,[User]_catenacyber,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9561
+2023-10-05 14:15:51+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9563
+2023-10-05 18:24:05+00:00,[User]_catenacyber,"{'[User]_ct0br0', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9565
+2023-10-06 15:44:09+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9571
+2023-10-07 21:48:26+00:00,[User]_I3run0,{'[User]_I3run0'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9577
+2023-10-08 18:32:25+00:00,[User]_0xEniola,"{'[User]_inashivb', '[User]_0xEniola'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9580
+2023-10-09 14:05:22+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9584
+2023-10-09 19:44:00+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9585
+2023-10-10 09:44:32+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9586
+2023-10-11 06:14:50+00:00,[User]_zazie-codes,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_zazie-codes'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9593
+2023-10-11 15:10:53+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9596
+2023-10-13 10:39:05+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9609
+2023-10-13 12:04:36+00:00,[User]_victorjulien,"{'[User]_lukashino', '[User]_victorjulien', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9610
+2023-10-14 08:16:37+00:00,[User]_inashivb,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9613
+2023-10-14 12:29:22+00:00,[User]_comfort619,"{'[User]_inashivb', '[User]_comfort619'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9614
+2023-10-14 14:17:54+00:00,[User]_inashivb,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9615
+2023-10-15 14:10:37+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_inashivb'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9618
+2023-10-16 06:45:52+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9621
+2023-10-16 08:54:31+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9622
+2023-10-16 10:13:41+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9624
+2023-10-16 11:46:55+00:00,[User]_inashivb,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9626
+2023-10-16 13:01:15+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9628
+2023-10-16 13:05:58+00:00,[User]_lukashino,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9630
+2023-10-16 13:08:38+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9632
+2023-10-17 09:48:09+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9639
+2023-10-17 11:31:13+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_inashivb', '[User]_jasonish', '[User]_jufajardini'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9640
+2023-10-17 13:24:42+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9641
+2023-10-17 13:54:54+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9642
+2023-10-17 17:30:22+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9643
+2023-10-18 02:52:10+00:00,[User]_inashivb,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9647
+2023-10-18 06:30:07+00:00,[User]_victorjulien,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9648
+2023-10-18 07:14:24+00:00,[User]_zazie-codes,"{'[User]_jufajardini', '[User]_inashivb', '[User]_zazie-codes'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9649
+2023-10-18 12:13:12+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9652
+2023-10-18 12:58:21+00:00,[User]_lukashino,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9653
+2023-10-18 13:10:53+00:00,[User]_regit,"{'[User]_victorjulien', '[User]_regit', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9654
+2023-10-19 09:05:27+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_jufajardini', '[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9657
+2023-10-19 09:07:35+00:00,[User]_0xEniola,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9658
+2023-10-20 12:33:20+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9664
+2023-10-20 13:25:08+00:00,[User]_jlucovsky,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_victorjulien', '[User]_jlucovsky'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9665
+2023-10-25 13:47:53+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9687
+2023-10-25 22:45:08+00:00,[User]_comfort619,"{'[User]_lukashino', '[User]_inashivb', '[User]_comfort619'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9692
+2023-10-26 08:54:31+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9693
+2023-10-27 13:18:10+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9695
+2023-10-27 19:03:13+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9697
+2023-10-28 10:07:59+00:00,[User]_victorjulien,{'[User]_jasonish'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9702
+2023-10-28 14:27:43+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9705
+2023-10-29 12:31:06+00:00,[User]_jlucovsky,{'[User]_jlucovsky'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9707
+2023-10-30 14:36:25+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9710
+2023-10-30 15:11:02+00:00,[User]_I3run0,"{'[User]_lukashino', '[User]_jufajardini', '[User]_I3run0', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9711
+2023-10-30 20:51:28+00:00,[User]_regit,"{'[User]_regit', '[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9715
+2023-10-31 11:04:15+00:00,[User]_inashivb,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9717
+2023-10-31 11:45:08+00:00,[User]_inashivb,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_jasonish', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9719
+2023-10-31 12:28:43+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9721
+2023-10-31 14:13:23+00:00,[User]_lukashino,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9722
+2023-10-31 16:08:09+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_satta', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9723
+2023-11-01 10:33:09+00:00,[User]_lukashino,{'[User]_lukashino'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9728
+2023-11-01 14:28:14+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9729
+2023-11-01 16:23:35+00:00,[User]_victorjulien,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9730
+2023-11-01 19:52:42+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_satta', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9733
+2023-11-01 20:35:32+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_jasonish', '[User]_jufajardini'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9734
+2023-11-03 15:53:47+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9737
+2023-11-03 19:09:36+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9738
+2023-11-06 08:30:21+00:00,[User]_comfort619,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_comfort619', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9743
+2023-11-06 18:11:32+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9746
+2023-11-07 16:18:25+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9748
+2023-11-08 10:14:20+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9752
+2023-11-09 11:25:16+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9761
+2023-11-09 13:21:23+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9762
+2023-11-09 15:06:25+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9763
+2023-11-09 18:02:29+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9764
+2023-11-09 18:09:22+00:00,[User]_coledishington,"{'[User]_coledishington', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9765
+2023-11-09 19:06:09+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9766
+2023-11-10 09:12:02+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9770
+2023-11-10 23:32:58+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9771
+2023-11-11 23:56:25+00:00,[User]_0xEniola,{'[User]_0xEniola'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9774
+2023-11-13 12:01:32+00:00,[User]_0xEniola,"{'[User]_jufajardini', '[User]_0xEniola'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9777
+2023-11-13 19:36:26+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_satta', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9779
+2023-11-14 08:52:54+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9782
+2023-11-14 13:35:36+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9786
+2023-11-14 15:08:41+00:00,[User]_jmtaylor90,"{'[User]_jufajardini', '[User]_jmtaylor90'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9787
+2023-11-14 18:26:44+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9788
+2023-11-15 14:35:04+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9793
+2023-11-16 10:39:42+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9798
+2023-11-16 10:43:34+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9799
+2023-11-16 12:39:52+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_jasonish', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9802
+2023-11-16 13:58:43+00:00,[User]_jmtaylor90,"{'[User]_jufajardini', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9806
+2023-11-16 14:03:36+00:00,[User]_catenacyber,"{'[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9807
+2023-11-16 14:30:52+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9808
+2023-11-16 15:02:21+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9810
+2023-11-16 19:45:44+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9815
+2023-11-17 09:07:35+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9818
+2023-11-17 10:46:07+00:00,[User]_jmtaylor90,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9819
+2023-11-17 11:50:23+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9820
+2023-11-17 11:54:05+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9822
+2023-11-17 16:24:44+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9824
+2023-11-17 16:57:51+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9825
+2023-11-17 18:33:09+00:00,[User]_arizaa,"{'[User]_arizaa', '[User]_jufajardini', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9827
+2023-11-17 21:08:48+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9828
+2023-11-19 21:09:07+00:00,[User]_catenacyber,"{'[User]_ct0br0', '[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9841
+2023-11-20 08:29:22+00:00,[User]_catenacyber,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9844
+2023-11-20 13:53:11+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9845
+2023-11-20 13:54:36+00:00,[User]_Hillsie,"{'[User]_Hillsie', '[User]_jasonish', '[User]_jufajardini'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9846
+2023-11-20 14:23:39+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9848
+2023-11-20 14:37:03+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9849
+2023-11-21 11:40:06+00:00,[User]_jufajardini,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9855
+2023-11-21 12:36:16+00:00,[User]_jufajardini,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9856
+2023-11-21 14:20:29+00:00,[User]_jlucovsky,{'[User]_jlucovsky'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9857
+2023-11-21 15:47:08+00:00,[User]_jlucovsky,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9858
+2023-11-21 22:06:16+00:00,[User]_jmtaylor90,"{'[User]_inashivb', '[User]_jufajardini', '[User]_victorjulien', '[User]_jmtaylor90'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9862
+2023-11-22 08:51:14+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jmtaylor90', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9864
+2023-11-22 18:59:16+00:00,[User]_jmtaylor90,{'[User]_jmtaylor90'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9867
+2023-11-22 21:37:23+00:00,[User]_jmtaylor90,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9868
+2023-11-23 08:25:59+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9869
+2023-11-24 10:58:11+00:00,[User]_glongo,"{'[User]_victorjulien', '[User]_glongo', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9880
+2023-11-24 11:10:14+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9881
+2023-11-24 14:32:38+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9883
+2023-11-24 17:54:59+00:00,[User]_jasonish,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9887
+2023-11-24 21:13:08+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9889
+2023-11-27 10:13:38+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9894
+2023-11-27 12:43:29+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9897
+2023-11-27 13:24:52+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9899
+2023-11-27 16:17:14+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9902
+2023-11-27 16:36:10+00:00,[User]_catenacyber,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9903
+2023-11-27 21:30:33+00:00,[User]_jmtaylor90,{'[User]_jmtaylor90'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9905
+2023-11-27 22:10:01+00:00,[User]_jmtaylor90,{'[User]_jmtaylor90'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9906
+2023-11-27 23:37:14+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9907
+2023-11-28 14:07:33+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9910
+2023-11-28 21:52:05+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9915
+2023-11-29 15:57:01+00:00,[User]_jufajardini,{'[User]_jufajardini'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9917
+2023-11-29 17:52:46+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_ct0br0', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9918
+2023-11-30 09:04:41+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9922
+2023-11-30 09:37:09+00:00,[User]_victorjulien,"{'[User]_lukashino', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9923
+2023-11-30 13:36:28+00:00,[User]_catenacyber,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9925
+2023-11-30 13:48:49+00:00,[User]_catenacyber,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9926
+2023-11-30 14:06:16+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9927
+2023-11-30 16:47:59+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_jmtaylor90', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9931
+2023-12-01 08:10:11+00:00,[User]_victorjulien,"{'[User]_lukashino', '[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9935
+2023-12-01 09:57:12+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9936
+2023-12-01 12:10:32+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9938
+2023-12-01 17:37:07+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_jasonish', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9941
+2023-12-01 21:08:14+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9942
+2023-12-01 21:13:10+00:00,[User]_jufajardini,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9943
+2023-12-02 14:13:43+00:00,[User]_jlucovsky,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9951
+2023-12-04 07:39:19+00:00,[User]_ilya-bakhtin,set(),OISF/suricata,2023,https://github.com/OISF/suricata/pull/9954
+2023-12-04 23:00:28+00:00,[User]_sfd,{'[User]_jlucovsky'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9959
+2023-12-05 00:41:23+00:00,[User]_jasonish,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9960
+2023-12-05 12:32:41+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9964
+2023-12-05 16:36:22+00:00,[User]_jmtaylor90,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_jmtaylor90'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9970
+2023-12-05 18:23:26+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9972
+2023-12-05 18:49:32+00:00,[User]_jasonish,"{'[User]_ct0br0', '[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9973
+2023-12-05 20:27:08+00:00,[User]_lukashino,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9975
+2023-12-05 20:34:48+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9976
+2023-12-06 00:52:58+00:00,[User]_jufajardini,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9979
+2023-12-06 14:36:24+00:00,[User]_jlucovsky,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9980
+2023-12-06 14:43:42+00:00,[User]_lukashino,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9981
+2023-12-06 16:11:39+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9984
+2023-12-06 16:41:23+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9986
+2023-12-06 17:04:49+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9987
+2023-12-06 21:11:30+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9989
+2023-12-07 09:04:11+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/9992
+2023-12-07 09:13:33+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/9994
+2023-12-07 12:11:22+00:00,[User]_jufajardini,{'[User]_jufajardini'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/10000
+2023-12-07 13:39:27+00:00,[User]_inashivb,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10003
+2023-12-07 13:50:43+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10004
+2023-12-07 18:30:38+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_inashivb', '[User]_hadiqaalamdar'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10008
+2023-12-08 14:45:37+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10014
+2023-12-08 15:56:04+00:00,[User]_jlucovsky,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_jlucovsky', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10015
+2023-12-08 16:23:39+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_inashivb'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10016
+2023-12-08 19:07:54+00:00,[User]_hadiqaalamdar,"{'[User]_inashivb', '[User]_hadiqaalamdar'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10018
+2023-12-08 21:08:33+00:00,[User]_jufajardini,{'[User]_jufajardini'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/10019
+2023-12-09 09:15:51+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10022
+2023-12-11 00:53:39+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10023
+2023-12-11 17:01:51+00:00,[User]_jmtaylor90,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_jmtaylor90', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10027
+2023-12-11 20:37:07+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10029
+2023-12-11 21:25:57+00:00,[User]_sfd,{'[User]_victorjulien'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/10030
+2023-12-12 22:03:24+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10040
+2023-12-12 22:14:51+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10041
+2023-12-13 11:29:17+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_victorjulien'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10044
+2023-12-13 20:55:03+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10048
+2023-12-14 10:38:11+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10053
+2023-12-14 15:47:36+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10056
+2023-12-14 21:42:10+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10060
+2023-12-17 15:18:34+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10067
+2023-12-18 19:22:01+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10069
+2023-12-19 08:22:18+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2023,https://github.com/OISF/suricata/pull/10074
+2023-12-19 11:58:07+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10076
+2023-12-21 16:16:29+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_jasonish', '[User]_hadiqaalamdar', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10087
+2023-12-22 15:13:49+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10091
+2023-12-22 22:24:08+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10093
+2023-12-26 10:38:03+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_inashivb', '[User]_hadiqaalamdar'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10097
+2023-12-31 14:39:00+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2023,https://github.com/OISF/suricata/pull/10102
+2024-01-03 14:30:18+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10107
+2024-01-03 21:13:45+00:00,[User]_jasonish,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10108
+2024-01-04 12:54:00+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10114
+2024-01-05 09:07:40+00:00,[User]_catenacyber,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10123
+2024-01-05 14:43:17+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10127
+2024-01-09 07:58:57+00:00,[User]_regit,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_regit', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10136
+2024-01-09 08:40:42+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10139
+2024-01-09 17:25:15+00:00,[User]_jufajardini,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10141
+2024-01-09 21:00:42+00:00,[User]_jasonish,"{'[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10144
+2024-01-09 21:09:48+00:00,[User]_catenacyber,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_victorjulien', '[User]_inashivb', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10145
+2024-01-09 21:14:10+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10146
+2024-01-14 14:49:38+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10159
+2024-01-15 08:55:42+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10162
+2024-01-15 10:47:37+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10163
+2024-01-15 14:50:35+00:00,[User]_lukashino,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10164
+2024-01-15 14:55:30+00:00,[User]_lukashino,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10165
+2024-01-16 10:52:35+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10169
+2024-01-16 12:50:10+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10171
+2024-01-16 13:55:50+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10173
+2024-01-16 14:00:43+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10174
+2024-01-16 14:07:25+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10175
+2024-01-16 14:09:51+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_zoomequipd', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10176
+2024-01-16 15:11:55+00:00,[User]_catenacyber,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10178
+2024-01-16 15:18:28+00:00,[User]_catenacyber,"{'[User]_ct0br0', '[User]_suricata-qa', '[User]_zoomequipd', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10179
+2024-01-16 16:20:22+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10182
+2024-01-16 21:22:21+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10183
+2024-01-17 16:22:33+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10187
+2024-01-17 20:45:52+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10190
+2024-01-18 08:41:07+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10192
+2024-01-18 09:48:37+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_jasonish', '[User]_hadiqaalamdar', '[User]_inashivb', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10193
+2024-01-19 03:30:33+00:00,[User]_coledishington,{'[User]_coledishington'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10201
+2024-01-20 21:32:21+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10209
+2024-01-20 21:33:05+00:00,[User]_victorjulien,"{'[User]_jlucovsky', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10210
+2024-01-21 13:27:17+00:00,[User]_victorjulien,"{'[User]_jlucovsky', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10212
+2024-01-21 20:01:37+00:00,[User]_victorjulien,{'[User]_lukashino'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10213
+2024-01-22 03:01:22+00:00,[User]_Liuchunhui0526,{'[User]_inashivb'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10215
+2024-01-22 13:55:33+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10217
+2024-01-22 14:39:15+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10218
+2024-01-22 14:51:48+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10219
+2024-01-22 16:20:28+00:00,[User]_lukashino,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10220
+2024-01-22 16:36:00+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10221
+2024-01-23 12:39:26+00:00,[User]_victorjulien,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10223
+2024-01-23 12:56:04+00:00,[User]_lukashino,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10225
+2024-01-23 13:11:00+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10228
+2024-01-23 13:18:15+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10229
+2024-01-23 13:54:59+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10230
+2024-01-24 14:39:26+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10234
+2024-01-24 15:31:54+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10236
+2024-01-24 16:34:14+00:00,[User]_jasonish,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10237
+2024-01-25 08:13:50+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10241
+2024-01-25 09:07:27+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10242
+2024-01-25 09:50:04+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10243
+2024-01-25 10:49:23+00:00,[User]_victorjulien,{'[User]_inashivb'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10244
+2024-01-25 12:04:12+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10245
+2024-01-25 13:15:15+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10247
+2024-01-25 13:40:28+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10248
+2024-01-25 13:57:51+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_hadiqaalamdar'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10249
+2024-01-25 14:48:40+00:00,[User]_jufajardini,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10250
+2024-01-25 15:47:59+00:00,[User]_victorjulien,{'[User]_jasonish'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10254
+2024-01-25 21:22:57+00:00,[User]_coledishington,{'[User]_coledishington'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10257
+2024-01-26 12:01:37+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10260
+2024-01-28 05:15:58+00:00,[User]_coledishington,"{'[User]_coledishington', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10267
+2024-01-29 08:45:21+00:00,[User]_inashivb,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10269
+2024-01-29 18:42:01+00:00,[User]_jlucovsky,"{'[User]_ralpheastwood', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10273
+2024-01-30 08:35:22+00:00,[User]_victorjulien,{'[User]_inashivb'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10277
+2024-01-30 12:52:42+00:00,[User]_victorjulien,"{'[User]_jlucovsky', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10278
+2024-01-30 13:50:38+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10279
+2024-01-30 14:35:47+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10281
+2024-01-30 15:48:32+00:00,[User]_hadiqaalamdar,{'[User]_hadiqaalamdar'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10284
+2024-01-30 17:52:10+00:00,[User]_0xEniola,"{'[User]_jufajardini', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10285
+2024-01-30 19:43:18+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10287
+2024-01-31 12:59:26+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_hadiqaalamdar'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10289
+2024-02-01 11:39:19+00:00,[User]_inashivb,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10295
+2024-02-01 17:26:32+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10296
+2024-02-02 12:19:31+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10300
+2024-02-02 13:33:04+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10304
+2024-02-02 14:02:24+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_hadiqaalamdar'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10306
+2024-02-02 21:19:45+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10307
+2024-02-04 14:33:20+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10311
+2024-02-05 11:00:49+00:00,[User]_inashivb,"{'[User]_jufajardini', '[User]_inashivb'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10312
+2024-02-05 13:51:34+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10313
+2024-02-05 13:55:19+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_inashivb', '[User]_hadiqaalamdar'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10314
+2024-02-05 15:51:39+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10315
+2024-02-06 11:02:54+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_inashivb', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10320
+2024-02-06 21:50:37+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10323
+2024-02-07 09:23:16+00:00,[User]_inashivb,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10325
+2024-02-07 09:42:28+00:00,[User]_inashivb,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10326
+2024-02-07 13:28:15+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10328
+2024-02-07 21:25:22+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10333
+2024-02-08 14:06:14+00:00,[User]_catenacyber,"{'[User]_jufajardini', '[User]_Koen1999', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10334
+2024-02-08 15:54:10+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10337
+2024-02-08 17:37:20+00:00,[User]_awelzel,"{'[User]_awelzel', '[User]_jlucovsky'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10338
+2024-02-09 04:41:01+00:00,[User]_inashivb,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10343
+2024-02-09 11:38:38+00:00,[User]_0xEniola,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10346
+2024-02-11 14:37:30+00:00,[User]_victorjulien,{'[User]_inashivb'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10362
+2024-02-12 00:15:28+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10364
+2024-02-12 08:40:12+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10365
+2024-02-12 14:43:48+00:00,[User]_catenacyber,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10377
+2024-02-12 20:23:51+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10385
+2024-02-12 20:25:31+00:00,[User]_lukashino,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10386
+2024-02-12 20:29:15+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10387
+2024-02-12 20:31:13+00:00,[User]_lukashino,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10388
+2024-02-12 20:32:11+00:00,[User]_lukashino,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10389
+2024-02-12 20:39:40+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10390
+2024-02-13 10:14:28+00:00,[User]_0xEniola,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_0xEniola'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10397
+2024-02-13 11:55:53+00:00,[User]_awelzel,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10400
+2024-02-13 15:50:26+00:00,[User]_victorjulien,{'[User]_jasonish'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10403
+2024-02-13 18:37:59+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10404
+2024-02-13 18:39:51+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10405
+2024-02-13 20:04:03+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10407
+2024-02-13 20:13:13+00:00,[User]_catenacyber,"{'[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10408
+2024-02-13 21:08:54+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10410
+2024-02-13 21:11:51+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10411
+2024-02-14 06:13:20+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10412
+2024-02-14 08:02:24+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10413
+2024-02-14 11:17:11+00:00,[User]_inashivb,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10414
+2024-02-14 16:21:34+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10417
+2024-02-14 18:17:03+00:00,[User]_0xEniola,{'[User]_0xEniola'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10418
+2024-02-14 18:29:46+00:00,[User]_victorjulien,{'[User]_jasonish'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10419
+2024-02-14 18:46:20+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10421
+2024-02-14 20:43:05+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10423
+2024-02-14 20:46:05+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10424
+2024-02-14 21:03:42+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10425
+2024-02-15 05:24:51+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10427
+2024-02-15 05:52:43+00:00,[User]_inashivb,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10428
+2024-02-15 08:18:19+00:00,[User]_hadiqaalamdar,"{'[User]_inashivb', '[User]_hadiqaalamdar'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10429
+2024-02-15 09:18:24+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_hadiqaalamdar'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10432
+2024-02-15 10:47:51+00:00,[User]_0xEniola,"{'[User]_jufajardini', '[User]_victorjulien', '[User]_0xEniola', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10433
+2024-02-15 11:24:50+00:00,[User]_inashivb,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10434
+2024-02-15 11:30:59+00:00,[User]_hadiqaalamdar,{'[User]_hadiqaalamdar'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10435
+2024-02-15 12:07:38+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_inashivb'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10436
+2024-02-15 13:46:21+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_jasonish', '[User]_hadiqaalamdar'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10438
+2024-02-15 14:44:06+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10439
+2024-02-15 14:52:29+00:00,[User]_jasonish,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10440
+2024-02-15 15:32:03+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_jufajardini', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10441
+2024-02-15 17:08:29+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10443
+2024-02-15 20:40:39+00:00,[User]_victorjulien,{'[User]_inashivb'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10445
+2024-02-16 06:47:24+00:00,[User]_inashivb,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10446
+2024-02-16 09:41:33+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10447
+2024-02-16 09:52:46+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10448
+2024-02-16 09:57:16+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10449
+2024-02-16 10:02:35+00:00,[User]_inashivb,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10450
+2024-02-16 19:52:00+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10451
+2024-02-17 13:39:43+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10452
+2024-02-17 18:01:30+00:00,[User]_awelzel,"{'[User]_awelzel', '[User]_jlucovsky', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10453
+2024-02-17 18:20:46+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10454
+2024-02-18 12:25:57+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_jufajardini'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10455
+2024-02-19 10:24:18+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10456
+2024-02-19 12:05:28+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10457
+2024-02-19 12:57:28+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_hadiqaalamdar', '[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10458
+2024-02-19 14:21:57+00:00,[User]_hadiqaalamdar,"{'[User]_jufajardini', '[User]_jasonish', '[User]_hadiqaalamdar', '[User]_inashivb', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10460
+2024-02-19 14:28:38+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10461
+2024-02-19 15:08:29+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10462
+2024-02-20 09:14:13+00:00,[User]_inashivb,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10466
+2024-02-20 11:55:13+00:00,[User]_awelzel,{'[User]_awelzel'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10467
+2024-02-20 15:12:21+00:00,[User]_victorjulien,"{'[User]_lukashino', '[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10469
+2024-02-20 16:46:34+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10470
+2024-02-20 20:07:05+00:00,[User]_lukashino,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10471
+2024-02-20 20:12:13+00:00,[User]_lukashino,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10472
+2024-02-20 20:30:38+00:00,[User]_lukashino,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10473
+2024-02-21 07:25:05+00:00,[User]_inashivb,"{'[User]_suricata-qa', '[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10474
+2024-02-21 08:29:19+00:00,[User]_victorjulien,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10475
+2024-02-21 08:44:35+00:00,[User]_hadiqaalamdar,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10476
+2024-02-21 09:03:12+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10477
+2024-02-21 10:40:14+00:00,[User]_inashivb,{'[User]_inashivb'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10479
+2024-02-21 11:20:45+00:00,[User]_hadiqaalamdar,"{'[User]_inashivb', '[User]_hadiqaalamdar'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10481
+2024-02-21 11:55:06+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10482
+2024-02-22 11:00:20+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10486
+2024-02-22 18:29:42+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10487
+2024-02-23 14:06:49+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10492
+2024-02-24 09:37:44+00:00,[User]_victorjulien,{'[User]_inashivb'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10496
+2024-02-24 10:14:07+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10497
+2024-02-25 20:24:21+00:00,[User]_regit,"{'[User]_suricata-qa', '[User]_regit', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10498
+2024-02-25 20:33:11+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10499
+2024-02-26 03:53:17+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10500
+2024-02-26 10:17:08+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10501
+2024-02-26 11:53:37+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10502
+2024-02-26 16:08:02+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10503
+2024-02-26 16:10:34+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10504
+2024-02-26 16:27:18+00:00,[User]_inashivb,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10505
+2024-02-26 21:45:43+00:00,[User]_catenacyber,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10506
+2024-02-27 06:19:54+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10509
+2024-02-27 14:08:48+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10512
+2024-02-27 16:26:05+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10514
+2024-02-27 20:47:15+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10518
+2024-02-28 03:56:25+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10519
+2024-02-28 04:35:22+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10520
+2024-02-28 08:41:24+00:00,[User]_victorjulien,"{'[User]_jufajardini', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10522
+2024-02-28 12:32:05+00:00,[User]_hadiqaalamdar,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10523
+2024-02-28 15:20:21+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10524
+2024-02-28 17:34:31+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10526
+2024-02-28 18:59:48+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10527
+2024-02-28 19:23:26+00:00,[User]_jasonish,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10528
+2024-02-28 21:26:42+00:00,[User]_jasonish,{'[User]_jasonish'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10529
+2024-02-28 23:28:20+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10531
+2024-02-29 14:22:42+00:00,[User]_jasonish,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10534
+2024-02-29 18:36:40+00:00,[User]_victorjulien,{'[User]_jasonish'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10536
+2024-03-01 11:07:25+00:00,[User]_inashivb,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10543
+2024-03-01 21:11:52+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10548
+2024-03-02 13:46:41+00:00,[User]_awelzel,"{'[User]_awelzel', '[User]_jlucovsky'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10559
+2024-03-04 11:58:19+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10568
+2024-03-04 19:12:25+00:00,[User]_awelzel,{'[User]_awelzel'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10574
+2024-03-04 20:04:38+00:00,[User]_awelzel,{'[User]_awelzel'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10575
+2024-03-05 10:18:42+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_jasonish', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10582
+2024-03-05 10:36:43+00:00,[User]_awelzel,"{'[User]_jlucovsky', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10583
+2024-03-05 19:17:46+00:00,[User]_coledishington,"{'[User]_jufajardini', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10585
+2024-03-06 14:37:23+00:00,[User]_jlucovsky,"{'[User]_jufajardini', '[User]_jlucovsky'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10586
+2024-03-07 18:02:43+00:00,[User]_victorjulien,{'[User]_jasonish'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10587
+2024-03-07 20:27:01+00:00,[User]_jlucovsky,{'[User]_jlucovsky'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10588
+2024-03-07 22:37:24+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10590
+2024-03-07 23:46:42+00:00,[User]_jasonish,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10591
+2024-03-08 11:27:25+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien', '[User]_suricata-qa', '[User]_ct0br0'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10594
+2024-03-08 12:51:55+00:00,[User]_victorjulien,"{'[User]_lukashino', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10595
+2024-03-08 23:37:26+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10600
+2024-03-11 14:55:40+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_jufajardini'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10614
+2024-03-11 19:01:15+00:00,[User]_jlucovsky,{'[User]_jlucovsky'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10617
+2024-03-11 19:10:36+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10618
+2024-03-11 19:11:44+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10619
+2024-03-12 11:05:58+00:00,[User]_victorjulien,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10622
+2024-03-12 11:49:01+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10623
+2024-03-13 08:43:12+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10628
+2024-03-13 20:37:31+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10634
+2024-03-13 22:01:36+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10635
+2024-03-14 08:01:22+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10638
+2024-03-14 09:56:14+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10639
+2024-03-14 10:45:23+00:00,[User]_inashivb,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10641
+2024-03-14 11:59:26+00:00,[User]_lukashino,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10642
+2024-03-14 12:50:19+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10643
+2024-03-14 16:48:48+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10645
+2024-03-14 19:20:41+00:00,[User]_ct0br0,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10647
+2024-03-15 11:52:17+00:00,[User]_jlucovsky,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10650
+2024-03-15 12:03:41+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10651
+2024-03-16 13:05:19+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10653
+2024-03-19 08:00:44+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10664
+2024-03-19 14:05:05+00:00,[User]_jlucovsky,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10665
+2024-03-20 07:14:50+00:00,[User]_inashivb,{'[User]_inashivb'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10669
+2024-03-20 07:59:48+00:00,[User]_inashivb,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10672
+2024-03-20 09:01:15+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10673
+2024-03-20 09:35:20+00:00,[User]_victorjulien,"{'[User]_inashivb', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10674
+2024-03-20 10:33:42+00:00,[User]_glongo,"{'[User]_victorjulien', '[User]_glongo'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10675
+2024-03-20 18:16:37+00:00,[User]_victorjulien,{'[User]_jasonish'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10679
+2024-03-21 08:59:58+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10683
+2024-03-21 09:12:54+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10685
+2024-03-21 09:21:52+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10686
+2024-03-21 13:59:16+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10688
+2024-03-21 15:07:05+00:00,[User]_catenacyber,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10690
+2024-03-21 19:22:46+00:00,[User]_victorjulien,{'[User]_jasonish'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10693
+2024-03-22 10:21:32+00:00,[User]_inashivb,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10699
+2024-03-23 08:26:55+00:00,[User]_victorjulien,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10704
+2024-03-24 10:18:56+00:00,[User]_lukashino,"{'[User]_lukashino', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10710
+2024-03-25 12:10:23+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10716
+2024-03-25 12:36:40+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10717
+2024-03-25 14:00:25+00:00,[User]_inashivb,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10718
+2024-03-26 11:09:52+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_jasonish', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10726
+2024-03-26 17:05:33+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10727
+2024-03-28 05:39:25+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10731
+2024-03-28 08:37:57+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10732
+2024-03-28 16:00:16+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10733
+2024-03-29 12:29:46+00:00,[User]_inashivb,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10736
+2024-04-01 16:44:08+00:00,[User]_jasonish,"{'[User]_victorjulien', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10744
+2024-04-02 12:04:32+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10750
+2024-04-03 08:11:35+00:00,[User]_amirabell,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10752
+2024-04-03 19:18:14+00:00,[User]_jasonish,"{'[User]_jufajardini', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10755
+2024-04-04 11:47:15+00:00,[User]_inashivb,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10760
+2024-04-04 12:34:45+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10761
+2024-04-04 12:40:20+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10762
+2024-04-04 15:06:16+00:00,[User]_catenacyber,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_jasonish', '[User]_inashivb', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10764
+2024-04-04 15:54:38+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10765
+2024-04-05 15:07:39+00:00,[User]_jasonish,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10773
+2024-04-05 16:12:45+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10776
+2024-04-06 10:45:27+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10781
+2024-04-08 15:23:54+00:00,[User]_victorjulien,"{'[User]_lukashino', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10783
+2024-04-09 13:05:40+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10791
+2024-04-09 16:42:31+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10792
+2024-04-09 20:12:20+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10793
+2024-04-10 12:42:24+00:00,[User]_jlucovsky,"{'[User]_ct0br0', '[User]_suricata-qa', '[User]_jlucovsky', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10797
+2024-04-10 20:18:33+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10799
+2024-04-11 10:01:42+00:00,[User]_victorjulien,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10803
+2024-04-11 13:02:23+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10804
+2024-04-11 14:47:36+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10805
+2024-04-12 01:57:13+00:00,[User]_jufajardini,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10812
+2024-04-12 08:13:48+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10814
+2024-04-12 08:26:57+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10815
+2024-04-12 12:22:10+00:00,[User]_jlucovsky,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10822
+2024-04-12 13:30:57+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10824
+2024-04-12 13:38:24+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10825
+2024-04-12 14:37:46+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10826
+2024-04-15 10:42:04+00:00,[User]_victorjulien,"{'[User]_lukashino', '[User]_ct0br0', '[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10844
+2024-04-15 11:55:58+00:00,[User]_victorjulien,"{'[User]_lukashino', '[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10845
+2024-04-15 13:13:56+00:00,[User]_victorjulien,{'[User]_jufajardini'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10846
+2024-04-15 14:20:43+00:00,[User]_jlucovsky,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10847
+2024-04-15 19:43:45+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10849
+2024-04-16 12:15:25+00:00,[User]_jlucovsky,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10857
+2024-04-16 12:47:36+00:00,[User]_norg,"{'[User]_suricata-qa', '[User]_victorjulien', '[User]_norg'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10858
+2024-04-16 15:23:10+00:00,[User]_norg,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10860
+2024-04-16 15:52:42+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10861
+2024-04-16 19:18:43+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10864
+2024-04-16 21:02:49+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10866
+2024-04-17 07:06:16+00:00,[User]_inashivb,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10871
+2024-04-17 07:13:12+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10872
+2024-04-17 10:58:20+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10874
+2024-04-17 11:12:28+00:00,[User]_catenacyber,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10877
+2024-04-17 11:24:04+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10878
+2024-04-17 11:41:16+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10879
+2024-04-17 11:58:50+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10880
+2024-04-17 13:28:40+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10882
+2024-04-17 13:44:13+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10883
+2024-04-17 14:31:29+00:00,[User]_jlucovsky,{'[User]_catenacyber'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10884
+2024-04-17 15:12:06+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10885
+2024-04-17 15:58:27+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10886
+2024-04-17 18:35:21+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10887
+2024-04-18 07:53:10+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10888
+2024-04-18 08:02:27+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10889
+2024-04-18 08:05:28+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10890
+2024-04-18 10:04:09+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10892
+2024-04-18 10:26:07+00:00,[User]_inashivb,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10894
+2024-04-18 10:41:32+00:00,[User]_victorjulien,"{'[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10895
+2024-04-18 11:59:56+00:00,[User]_catenacyber,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10899
+2024-04-18 12:02:18+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10900
+2024-04-18 13:20:48+00:00,[User]_jlucovsky,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10903
+2024-04-18 14:03:48+00:00,[User]_catenacyber,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10904
+2024-04-18 14:19:36+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10905
+2024-04-18 14:37:35+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10906
+2024-04-18 15:54:06+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10908
+2024-04-18 17:32:22+00:00,[User]_lukashino,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10909
+2024-04-18 22:22:09+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10913
+2024-04-19 07:58:34+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10915
+2024-04-19 08:47:49+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10916
+2024-04-19 12:33:55+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10917
+2024-04-19 12:33:57+00:00,[User]_inashivb,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10918
+2024-04-19 21:11:47+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10920
+2024-04-20 07:08:48+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10922
+2024-04-20 08:30:37+00:00,[User]_catenacyber,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10923
+2024-04-20 12:05:24+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10927
+2024-04-23 13:02:08+00:00,[User]_inashivb,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10931
+2024-04-23 13:04:12+00:00,[User]_inashivb,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10932
+2024-04-23 15:29:18+00:00,[User]_jasonish,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10934
+2024-04-24 06:32:53+00:00,[User]_inashivb,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10939
+2024-04-24 09:07:21+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10942
+2024-04-24 11:56:25+00:00,[User]_victorjulien,{'[User]_jasonish'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10943
+2024-04-24 12:51:44+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10944
+2024-04-24 13:17:55+00:00,[User]_victorjulien,{'[User]_jasonish'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10945
+2024-04-24 13:55:28+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10946
+2024-04-24 18:54:40+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10950
+2024-04-25 09:50:33+00:00,[User]_victorjulien,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10953
+2024-04-25 12:38:28+00:00,[User]_inashivb,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10954
+2024-04-25 13:32:07+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10955
+2024-04-25 14:34:11+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_victorjulien', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10957
+2024-04-26 07:02:02+00:00,[User]_inashivb,"{'[User]_inashivb', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10959
+2024-04-26 08:25:24+00:00,[User]_victorjulien,"{'[User]_victorjulien', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10961
+2024-04-26 08:47:30+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_satta', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10962
+2024-04-26 10:54:56+00:00,[User]_victorjulien,{'[User]_jasonish'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10963
+2024-04-26 13:30:18+00:00,[User]_catenacyber,"{'[User]_victorjulien', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10964
+2024-04-26 13:49:38+00:00,[User]_jlucovsky,"{'[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10965
+2024-04-26 14:39:26+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish', '[User]_victorjulien', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10966
+2024-04-26 16:52:15+00:00,[User]_jasonish,{'[User]_victorjulien'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10968
+2024-04-26 19:08:26+00:00,[User]_jasonish,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10970
+2024-04-29 06:15:25+00:00,[User]_inashivb,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10977
+2024-04-29 06:24:31+00:00,[User]_inashivb,"{'[User]_suricata-qa', '[User]_victorjulien'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10978
+2024-04-29 08:13:28+00:00,[User]_catenacyber,"{'[User]_jufajardini', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10979
+2024-04-29 09:00:20+00:00,[User]_catenacyber,{'[User]_suricata-qa'},OISF/suricata,2024,https://github.com/OISF/suricata/pull/10982
+2024-04-29 09:23:53+00:00,[User]_glongo,"{'[User]_jufajardini', '[User]_glongo', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10985
+2024-04-29 13:41:33+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10987
+2024-04-29 19:06:12+00:00,[User]_jlucovsky,"{'[User]_jlucovsky', '[User]_suricata-qa', '[User]_jasonish', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10988
+2024-04-30 08:42:16+00:00,[User]_catenacyber,"{'[User]_jufajardini', '[User]_suricata-qa', '[User]_catenacyber'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10990
+2024-04-30 12:19:08+00:00,[User]_jlucovsky,"{'[User]_jufajardini', '[User]_suricata-qa'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10991
+2024-04-30 18:36:30+00:00,[User]_catenacyber,set(),OISF/suricata,2024,https://github.com/OISF/suricata/pull/10995
+2024-04-30 19:07:05+00:00,[User]_catenacyber,"{'[User]_suricata-qa', '[User]_jasonish'}",OISF/suricata,2024,https://github.com/OISF/suricata/pull/10996

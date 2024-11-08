@@ -1,0 +1,570 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 06:15:45+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/308
+2023-05-01 06:19:06+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/309
+2023-05-01 10:43:47+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/310
+2023-05-05 08:27:12+00:00,[User]_wr-rmcnamara,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/311
+2023-05-05 11:31:36+00:00,[User]_ajmalab,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/312
+2023-05-08 01:28:08+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/313
+2023-05-15 09:10:09+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/315
+2023-05-15 11:47:36+00:00,[User]_prabhu,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/316
+2023-05-16 18:58:25+00:00,[User]_ajmalab,{'[User]_ajmalab'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/317
+2023-05-16 19:07:11+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/318
+2023-05-16 21:26:36+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/319
+2023-05-17 16:18:15+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/321
+2023-05-18 18:03:42+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/324
+2023-05-18 19:52:00+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/325
+2023-05-19 22:38:29+00:00,[User]_varkakumani,"{'[User]_varkakumani', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/326
+2023-05-20 11:19:33+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/327
+2023-05-22 15:27:11+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/328
+2023-05-23 11:57:57+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/329
+2023-05-25 12:10:15+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/330
+2023-05-26 06:08:44+00:00,[User]_rashmimehta300,"{'[User]_rashmimehta300', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/331
+2023-05-26 21:06:30+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/332
+2023-05-26 22:53:01+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/333
+2023-05-27 13:11:15+00:00,[User]_prabhu,{'[User]_Kasyap-R'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/334
+2023-05-28 20:25:34+00:00,[User]_Kasyap-R,"{'[User]_prabhu', '[User]_LeontyV'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/336
+2023-05-29 20:40:08+00:00,[User]_Kasyap-R,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/337
+2023-05-30 18:05:55+00:00,[User]_prabhu,"{'[User]_ajmalab', '[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/339
+2023-05-31 13:18:19+00:00,[User]_ajmalab,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/340
+2023-05-31 18:24:44+00:00,[User]_prabhu,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/341
+2023-06-01 21:45:55+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/343
+2023-06-03 11:02:59+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/344
+2023-06-07 17:03:13+00:00,[User]_monopoler08,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/345
+2023-06-07 19:50:20+00:00,[User]_bh86,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/346
+2023-06-12 14:12:03+00:00,[User]_heubeck,"{'[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/348
+2023-06-12 15:02:23+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/349
+2023-06-12 15:18:29+00:00,[User]_heubeck,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/350
+2023-06-13 08:25:50+00:00,[User]_andreycha,"{'[User]_andreycha', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/352
+2023-06-15 11:37:43+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/354
+2023-06-15 12:02:55+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/355
+2023-06-15 17:33:06+00:00,[User]_andreycha,"{'[User]_andreycha', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/356
+2023-06-16 13:52:52+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/357
+2023-06-19 21:39:27+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/358
+2023-06-22 06:44:36+00:00,[User]_blazgvajc,"{'[User]_blazgvajc', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/359
+2023-06-22 17:56:13+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/360
+2023-06-23 22:52:47+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/361
+2023-06-24 13:08:11+00:00,[User]_prabhu,"{'[User]_varkakumani', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/362
+2023-06-25 15:00:23+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/364
+2023-06-26 19:25:38+00:00,[User]_JoshWallaceBullish,"{'[User]_varkakumani', '[User]_JoshWallaceBullish', '[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/365
+2023-06-27 06:46:55+00:00,[User]_varkakumani,"{'[User]_varkakumani', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/366
+2023-06-27 08:30:19+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/367
+2023-06-27 11:21:23+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/368
+2023-06-27 13:13:28+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/369
+2023-06-28 11:58:11+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/370
+2023-06-30 09:06:26+00:00,[User]_hornpecom,"{'[User]_hornpecom', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/371
+2023-06-30 09:07:08+00:00,[User]_sanjeeveejayabalan,"{'[User]_sanjeeveejayabalan', '[User]_MohammedAziz02', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/372
+2023-06-30 11:58:19+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/374
+2023-07-02 10:01:48+00:00,[User]_anthonyharrison,"{'[User]_prabhu', '[User]_anthonyharrison'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/375
+2023-07-02 14:19:13+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_cerrussell', '[User]_anthonyharrison'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/376
+2023-07-02 21:42:12+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/377
+2023-07-04 15:01:35+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/380
+2023-07-05 18:16:19+00:00,[User]_cerrussell,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/381
+2023-07-06 21:05:33+00:00,[User]_cerrussell,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/382
+2023-07-08 20:25:32+00:00,[User]_malice00,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/383
+2023-07-08 20:32:48+00:00,[User]_malice00,"{'[User]_prabhu', '[User]_malice00'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/384
+2023-07-08 20:52:44+00:00,[User]_malice00,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/385
+2023-07-09 09:52:27+00:00,[User]_malice00,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/386
+2023-07-09 09:53:39+00:00,[User]_malice00,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/387
+2023-07-11 17:27:37+00:00,[User]_anthonyharrison,"{'[User]_prabhu', '[User]_cerrussell', '[User]_anthonyharrison'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/388
+2023-07-11 17:51:36+00:00,[User]_ajmalab,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/389
+2023-07-12 10:16:46+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/391
+2023-07-12 18:58:22+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/394
+2023-07-13 13:21:05+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/397
+2023-07-13 17:29:58+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/399
+2023-07-13 17:51:30+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/400
+2023-07-13 17:53:46+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/401
+2023-07-14 06:29:32+00:00,[User]_visagansanthanam-unisys,"{'[User]_visagansanthanam-unisys', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/403
+2023-07-14 18:29:24+00:00,[User]_rohitcoder,"{'[User]_rohitcoder', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/405
+2023-07-17 09:40:16+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/406
+2023-07-17 14:23:45+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/407
+2023-07-19 06:28:01+00:00,[User]_saurabhthatte,"{'[User]_julioselva', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/408
+2023-07-19 21:26:32+00:00,[User]_Hritik14,"{'[User]_prabhu', '[User]_Hritik14'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/410
+2023-07-20 00:12:38+00:00,[User]_Hritik14,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/411
+2023-07-20 09:55:51+00:00,[User]_ajmalab,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/412
+2023-07-20 21:29:30+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/416
+2023-07-20 22:41:50+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/417
+2023-07-21 15:59:28+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/418
+2023-07-23 23:22:30+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/419
+2023-07-25 16:49:46+00:00,[User]_prabhu,"{'[User]_ajmalab', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/420
+2023-07-26 15:54:39+00:00,[User]_ajmalab,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/421
+2023-07-26 18:19:18+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/422
+2023-07-26 18:39:41+00:00,[User]_heubeck,"{'[User]_prabhu', '[User]_heubeck', '[User]_malice00'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/423
+2023-07-26 19:52:38+00:00,[User]_cerrussell,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/424
+2023-07-29 11:00:18+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/425
+2023-07-29 12:30:59+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/426
+2023-07-29 12:43:58+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/427
+2023-07-31 06:52:08+00:00,[User]_heubeck,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/428
+2023-07-31 18:01:07+00:00,[User]_ajmalab,"{'[User]_ajmalabu', '[User]_ajmalab', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/429
+2023-08-01 11:29:17+00:00,[User]_ajmalab,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/430
+2023-08-01 15:34:40+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/431
+2023-08-01 21:30:27+00:00,[User]_cerrussell,"{'[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/432
+2023-08-02 06:17:11+00:00,[User]_anders-brujordet,"{'[User]_prabhu', '[User]_anders-brujordet'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/433
+2023-08-02 10:12:34+00:00,[User]_qroac,"{'[User]_qroac', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/434
+2023-08-02 17:23:32+00:00,[User]_cerrussell,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/435
+2023-08-02 20:05:01+00:00,[User]_sitraj,"{'[User]_prabhu', '[User]_sitraj'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/436
+2023-08-03 00:39:12+00:00,[User]_cerrussell,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/437
+2023-08-04 11:12:48+00:00,[User]_theold190,"{'[User]_theold190', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/439
+2023-08-04 11:48:27+00:00,[User]_troy256,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/440
+2023-08-04 11:54:12+00:00,[User]_theold190,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/441
+2023-08-04 17:05:58+00:00,[User]_thaarbach,"{'[User]_thaarbach', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/442
+2023-08-05 05:57:24+00:00,[User]_jatinsinghalsg,"{'[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/443
+2023-08-05 15:21:38+00:00,[User]_Hritik14,"{'[User]_prabhu', '[User]_Hritik14'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/444
+2023-08-07 06:41:22+00:00,[User]_Moujuruo,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/445
+2023-08-07 07:37:56+00:00,[User]_Ranjithkumar-Arumugam-agilysys,"{'[User]_Ranjithkumar-Arumugam-agilysys', '[User]_prabhu', '[User]_setchy', '[User]_cawoodm'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/446
+2023-08-08 19:50:37+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/447
+2023-08-10 12:44:19+00:00,[User]_ptrkaz,"{'[User]_prabhu', '[User]_ptrkaz'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/448
+2023-08-10 20:10:28+00:00,[User]_prabhu,{'[User]_cerrussell'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/449
+2023-08-10 21:57:48+00:00,[User]_prabhu,{'[User]_cerrussell'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/450
+2023-08-11 10:13:44+00:00,[User]_prabhu,"{'[User]_cerrussell', '[User]_ajmalab', '[User]_prabhu', '[User]_ptrkaz'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/451
+2023-08-11 10:54:47+00:00,[User]_prabhu,"{'[User]_ajmalab', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/452
+2023-08-11 12:22:43+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_cerrussell', '[User]_troy256'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/453
+2023-08-11 16:01:42+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/454
+2023-08-11 16:13:19+00:00,[User]_prabhu,{'[User]_cerrussell'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/455
+2023-08-11 18:11:13+00:00,[User]_prabhu,{'[User]_cerrussell'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/456
+2023-08-11 18:47:32+00:00,[User]_prabhu,"{'[User]_setchy', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/457
+2023-08-12 15:08:25+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/458
+2023-08-14 04:20:52+00:00,[User]_cerrussell,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/462
+2023-08-14 05:48:41+00:00,[User]_cerrussell,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/463
+2023-08-14 15:34:44+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/465
+2023-08-14 22:41:53+00:00,[User]_prabhu,"{'[User]_countfnx', '[User]_prabhu', '[User]_ansonallard'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/466
+2023-08-14 22:58:25+00:00,[User]_malice00,"{'[User]_prabhu', '[User]_malice00'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/467
+2023-08-15 14:24:58+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_troy256'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/468
+2023-08-16 13:34:10+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/469
+2023-08-16 18:13:14+00:00,[User]_malice00,"{'[User]_prabhu', '[User]_heubeck', '[User]_malice00'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/470
+2023-08-17 14:14:17+00:00,[User]_prabhu,"{'[User]_theold190', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/472
+2023-08-18 05:09:53+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_malice00'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/474
+2023-08-18 12:25:59+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/475
+2023-08-19 23:47:43+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/476
+2023-08-20 19:02:21+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/477
+2023-08-20 21:38:44+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/478
+2023-08-20 22:24:31+00:00,[User]_malice00,"{'[User]_prabhu', '[User]_malice00'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/479
+2023-08-21 15:07:44+00:00,[User]_marob,"{'[User]_marob', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/480
+2023-08-22 01:27:24+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_heubeck', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/481
+2023-08-22 11:33:28+00:00,[User]_agrawalarpit01,"{'[User]_agrawalarpit01', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/482
+2023-08-22 14:21:17+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/484
+2023-08-22 15:26:52+00:00,[User]_mikamp116,"{'[User]_mikamp116', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/485
+2023-08-22 16:07:34+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_noqcks'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/486
+2023-08-22 16:43:01+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/487
+2023-08-23 10:44:46+00:00,[User]_PAX-HZ,"{'[User]_prabhu', '[User]_PAX-HZ'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/488
+2023-08-23 10:54:01+00:00,[User]_abhinavsaxena-webengage,"{'[User]_prabhu', '[User]_Hritik14', '[User]_gbennett-squarespace'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/489
+2023-08-24 02:12:06+00:00,[User]_anoreg,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/490
+2023-08-24 12:23:10+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/491
+2023-08-24 18:59:21+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/492
+2023-08-25 05:55:31+00:00,[User]_pooja0805,"{'[User]_prabhu', '[User]_seth-priya'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/493
+2023-08-25 16:12:05+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/496
+2023-08-26 02:46:57+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/498
+2023-08-26 11:12:35+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/499
+2023-08-26 14:31:48+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/500
+2023-08-26 22:13:50+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/501
+2023-08-26 22:14:08+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/502
+2023-08-27 12:02:15+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/503
+2023-08-29 08:11:57+00:00,[User]_theold190,"{'[User]_theold190', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/504
+2023-08-30 22:11:29+00:00,[User]_cerrussell,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/507
+2023-08-30 22:14:14+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/508
+2023-08-31 11:17:39+00:00,[User]_prabhu,"{'[User]_theold190', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/510
+2023-08-31 15:44:25+00:00,[User]_almaz045,{'[User]_almaz045'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/512
+2023-08-31 16:56:14+00:00,[User]_sebastianvoss,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/513
+2023-08-31 17:36:45+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/514
+2023-08-31 20:48:05+00:00,[User]_cerrussell,"{'[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/515
+2023-08-31 21:42:45+00:00,[User]_cerrussell,"{'[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/516
+2023-08-31 23:37:17+00:00,[User]_sebastianvoss,"{'[User]_sebastianvoss', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/517
+2023-09-01 10:28:49+00:00,[User]_sebastianvoss,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/518
+2023-09-01 12:13:47+00:00,[User]_sebastianvoss,"{'[User]_sebastianvoss', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/519
+2023-09-01 12:48:24+00:00,[User]_sebastianvoss,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/520
+2023-09-01 15:39:22+00:00,[User]_chenrui333,{'[User]_chenrui333'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/521
+2023-09-01 16:06:49+00:00,[User]_chenrui333,"{'[User]_prabhu', '[User]_chenrui333'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/522
+2023-09-01 16:33:06+00:00,[User]_chenrui333,"{'[User]_prabhu', '[User]_chenrui333'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/524
+2023-09-01 16:49:28+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/525
+2023-09-03 16:04:12+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/526
+2023-09-03 21:59:51+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/527
+2023-09-04 10:49:48+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/528
+2023-09-05 17:39:51+00:00,[User]_cerrussell,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/529
+2023-09-05 17:43:21+00:00,[User]_p-linnane,"{'[User]_p-linnane', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/530
+2023-09-07 14:33:44+00:00,[User]_sebastianvoss,"{'[User]_sebastianvoss', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/531
+2023-09-07 17:20:49+00:00,[User]_cerrussell,"{'[User]_noqcks', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/532
+2023-09-08 00:24:33+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/533
+2023-09-08 17:11:21+00:00,[User]_sebastianvoss,"{'[User]_sebastianvoss', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/534
+2023-09-09 10:47:22+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/535
+2023-09-09 11:00:41+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/536
+2023-09-09 15:50:51+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/538
+2023-09-09 19:33:11+00:00,[User]_noqcks,"{'[User]_cerrussell', '[User]_prabhu', '[User]_noqcks'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/539
+2023-09-09 20:36:42+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/540
+2023-09-10 21:37:41+00:00,[User]_cerrussell,"{'[User]_prabhu', '[User]_matt-phylum'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/541
+2023-09-11 00:27:29+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/542
+2023-09-11 00:33:40+00:00,[User]_prabhu,{'[User]_ptdropper'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/543
+2023-09-11 13:59:56+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/544
+2023-09-11 14:02:10+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/545
+2023-09-11 17:08:41+00:00,[User]_noqcks,"{'[User]_cerrussell', '[User]_prabhu', '[User]_noqcks'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/547
+2023-09-11 20:01:42+00:00,[User]_rcsilva83,"{'[User]_rcsilva83', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/548
+2023-09-12 07:53:15+00:00,[User]_validide,"{'[User]_validide', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/549
+2023-09-12 15:36:32+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/550
+2023-09-12 19:42:59+00:00,[User]_sahil3112,"{'[User]_sahil3112', '[User]_validide', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/551
+2023-09-13 11:33:46+00:00,[User]_ThamizhiniyanPandiyan,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/552
+2023-09-14 15:01:46+00:00,[User]_validide,"{'[User]_validide', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/553
+2023-09-14 17:02:32+00:00,[User]_prabhu,{'[User]_cerrussell'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/554
+2023-09-15 07:50:29+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/555
+2023-09-15 11:55:08+00:00,[User]_marcelstoer,"{'[User]_prabhu', '[User]_marcelstoer'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/556
+2023-09-15 14:23:57+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/557
+2023-09-18 07:54:29+00:00,[User]_prabhu,"{'[User]_saketjajoo', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/558
+2023-09-18 08:00:58+00:00,[User]_heubeck,"{'[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/559
+2023-09-18 09:06:09+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/561
+2023-09-18 17:20:39+00:00,[User]_saketjajoo,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/563
+2023-09-18 17:21:02+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_puchta'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/564
+2023-09-19 12:29:26+00:00,[User]_marcelstoer,"{'[User]_prabhu', '[User]_heubeck', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/565
+2023-09-20 11:03:33+00:00,[User]_prabhu,{'[User]_heubeck'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/568
+2023-09-20 11:18:56+00:00,[User]_pooja0805,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/569
+2023-09-20 16:08:43+00:00,[User]_joshbalfour,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/570
+2023-09-20 16:54:50+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/571
+2023-09-21 08:39:44+00:00,[User]_trend-sandy-lin,"{'[User]_DarrenRays', '[User]_prabhu', '[User]_trend-sandy-lin'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/572
+2023-09-21 11:12:44+00:00,[User]_pooja0805,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/573
+2023-09-21 11:35:16+00:00,[User]_cdacshubhambhingarde,"{'[User]_prabhu', '[User]_Shubham-Bhingarde'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/574
+2023-09-21 12:20:54+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/575
+2023-09-21 15:52:13+00:00,[User]_prabhu,{'[User]_cerrussell'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/576
+2023-09-21 17:58:31+00:00,[User]_ansonallard,"{'[User]_prabhu', '[User]_ansonallard'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/577
+2023-09-22 20:28:23+00:00,[User]_marcelstoer,"{'[User]_prabhu', '[User]_marcelstoer'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/580
+2023-09-23 12:13:56+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/581
+2023-09-23 12:24:36+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/582
+2023-09-23 14:30:14+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/583
+2023-09-23 22:28:42+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/584
+2023-09-24 13:56:01+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/585
+2023-09-24 14:04:30+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/586
+2023-09-26 20:39:45+00:00,[User]_pauldburton,{'[User]_pauldburton'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/587
+2023-09-27 06:54:57+00:00,[User]_kacq,"{'[User]_prabhu', '[User]_cryptator'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/588
+2023-09-28 08:05:20+00:00,[User]_misl-smlz,"{'[User]_misl-smlz', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/589
+2023-09-28 08:05:56+00:00,[User]_misl-smlz,"{'[User]_misl-smlz', '[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/590
+2023-09-28 09:58:43+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/591
+2023-09-28 10:01:00+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/592
+2023-09-28 19:23:22+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/593
+2023-09-29 07:27:11+00:00,[User]_kakumanivrn,"{'[User]_prabhu', '[User]_kakumanivrn'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/594
+2023-09-29 16:33:43+00:00,[User]_prabhu,"{'[User]_sahil3112', '[User]_prabhu', '[User]_g-sahil22'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/595
+2023-09-29 16:35:34+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/596
+2023-09-29 18:24:59+00:00,[User]_prabhu,"{'[User]_sahil3112', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/597
+2023-09-30 12:12:15+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/598
+2023-10-01 10:17:27+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/599
+2023-10-02 10:15:17+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/602
+2023-10-02 10:28:17+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/603
+2023-10-02 10:55:58+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/604
+2023-10-02 19:18:24+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/605
+2023-10-02 19:31:31+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/606
+2023-10-03 14:02:30+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/607
+2023-10-03 19:36:57+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/608
+2023-10-04 10:28:55+00:00,[User]_marcosanchotene,"{'[User]_marcosanchotene', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/609
+2023-10-04 11:36:22+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/610
+2023-10-04 12:26:23+00:00,[User]_robaliias,"{'[User]_timmyteo', '[User]_prabhu', '[User]_robaliias'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/611
+2023-10-04 18:27:30+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/612
+2023-10-04 18:59:39+00:00,[User]_BaseCrusher,"{'[User]_BaseCrusher', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/613
+2023-10-05 13:01:36+00:00,[User]_rozeru1125,"{'[User]_prabhu', '[User]_rozeru1125'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/614
+2023-10-05 15:44:02+00:00,[User]_rozeru1125,"{'[User]_prabhu', '[User]_rozeru1125'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/615
+2023-10-05 17:00:00+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/616
+2023-10-05 17:36:07+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/617
+2023-10-06 11:25:51+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/618
+2023-10-06 16:07:03+00:00,[User]_darkvertex,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/619
+2023-10-07 17:08:18+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/620
+2023-10-08 21:39:40+00:00,[User]_prabhu,{'[User]_sharebear'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/621
+2023-10-09 10:47:51+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/622
+2023-10-09 14:16:42+00:00,[User]_prabhu,"{'[User]_sahil3112', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/623
+2023-10-09 22:46:47+00:00,[User]_cerrussell,"{'[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/624
+2023-10-10 02:15:01+00:00,[User]_visagansanthanam-unisys,"{'[User]_visagansanthanam-unisys', '[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/625
+2023-10-10 08:06:40+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/626
+2023-10-11 09:20:31+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/629
+2023-10-11 14:45:17+00:00,[User]_robaliias,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/632
+2023-10-11 20:59:15+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_cerrussell', '[User]_robaliias'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/633
+2023-10-12 11:07:42+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/634
+2023-10-12 20:47:49+00:00,[User]_BoBeR182,"{'[User]_BoBeR182', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/635
+2023-10-14 08:15:52+00:00,[User]_gbennett-squarespace,"{'[User]_prabhu', '[User]_gbennett-squarespace'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/637
+2023-10-15 15:25:51+00:00,[User]_robaliias,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/638
+2023-10-15 15:35:08+00:00,[User]_robaliias,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/639
+2023-10-15 16:43:42+00:00,[User]_robaliias,{'[User]_cerrussell'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/640
+2023-10-17 13:31:18+00:00,[User]_emcfins,"{'[User]_prabhu', '[User]_emcfins'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/641
+2023-10-17 13:35:08+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/642
+2023-10-18 08:44:15+00:00,[User]_sherifkayad,"{'[User]_sherifkayad', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/643
+2023-10-18 11:50:45+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/644
+2023-10-18 13:28:05+00:00,[User]_robaliias,"{'[User]_prabhu', '[User]_robaliias'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/645
+2023-10-18 13:32:16+00:00,[User]_robaliias,"{'[User]_prabhu', '[User]_robaliias'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/646
+2023-10-18 15:14:42+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/647
+2023-10-18 19:57:47+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/648
+2023-10-19 00:28:30+00:00,[User]_MCDong,"{'[User]_MCDong', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/649
+2023-10-19 05:21:17+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/650
+2023-10-19 13:30:09+00:00,[User]_puchta,"{'[User]_prabhu', '[User]_puchta'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/651
+2023-10-19 20:15:15+00:00,[User]_Nikemare,"{'[User]_Nikemare', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/652
+2023-10-19 21:05:00+00:00,[User]_cryptator,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/653
+2023-10-20 06:29:53+00:00,[User]_visagansanthanam-unisys,"{'[User]_visagansanthanam-unisys', '[User]_prabhu', '[User]_troy256'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/654
+2023-10-20 09:43:12+00:00,[User]_puchta,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/655
+2023-10-20 11:30:45+00:00,[User]_prabhu,"{'[User]_MCDong', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/656
+2023-10-20 15:11:38+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/657
+2023-10-21 02:04:41+00:00,[User]_iamahens,"{'[User]_iamahens', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/658
+2023-10-22 12:01:37+00:00,[User]_iamahens,"{'[User]_iamahens', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/659
+2023-10-22 14:25:40+00:00,[User]_prabhu,"{'[User]_heubeck', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/660
+2023-10-23 14:47:07+00:00,[User]_marob,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/661
+2023-10-23 14:53:57+00:00,[User]_marob,"{'[User]_marob', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/662
+2023-10-24 10:17:34+00:00,[User]_puchta,"{'[User]_prabhu', '[User]_puchta'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/665
+2023-10-24 13:27:17+00:00,[User]_marob,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/666
+2023-10-24 15:20:33+00:00,[User]_marob,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/667
+2023-10-25 10:35:55+00:00,[User]_puchta,"{'[User]_prabhu', '[User]_puchta'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/668
+2023-10-25 18:11:18+00:00,[User]_rysearle,"{'[User]_rysearle', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/669
+2023-10-26 00:38:50+00:00,[User]_cerrussell,"{'[User]_prabhu', '[User]_cerrussell'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/670
+2023-10-26 08:51:25+00:00,[User]_puchta,{'[User]_puchta'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/671
+2023-10-26 10:22:17+00:00,[User]_puchta,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/672
+2023-10-26 10:47:35+00:00,[User]_visagansanthanam-unisys,"{'[User]_visagansanthanam-unisys', '[User]_sahil3112', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/673
+2023-10-26 12:07:53+00:00,[User]_avgkoster,"{'[User]_prabhu', '[User]_avgkoster'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/674
+2023-10-27 10:34:55+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/677
+2023-10-27 12:23:26+00:00,[User]_avgkoster,"{'[User]_avgkoster', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/678
+2023-10-27 15:05:08+00:00,[User]_ansonallard,"{'[User]_prabhu', '[User]_ansonallard'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/679
+2023-10-27 19:00:30+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/680
+2023-10-29 13:54:47+00:00,[User]_avgkoster,"{'[User]_prabhu', '[User]_avgkoster'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/681
+2023-10-30 10:45:07+00:00,[User]_puchta,"{'[User]_theold190', '[User]_prabhu', '[User]_puchta'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/682
+2023-10-31 01:22:11+00:00,[User]_visagansanthanam-unisys,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/683
+2023-10-31 22:11:50+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/684
+2023-10-31 22:44:23+00:00,[User]_prabhu,{'[User]_sahil3112'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/685
+2023-11-01 12:42:27+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/686
+2023-11-02 11:10:25+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/687
+2023-11-02 13:11:11+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/689
+2023-11-02 17:55:35+00:00,[User]_ansonallard,"{'[User]_validide', '[User]_prabhu', '[User]_ansonallard'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/690
+2023-11-03 02:05:15+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/691
+2023-11-03 14:44:57+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/692
+2023-11-06 04:53:35+00:00,[User]_visagansanthanam-unisys,"{'[User]_visagansanthanam-unisys', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/693
+2023-11-06 08:04:31+00:00,[User]_pooja0805,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/694
+2023-11-06 13:45:36+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/695
+2023-11-07 13:34:46+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/696
+2023-11-07 16:30:32+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/697
+2023-11-07 17:50:01+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/699
+2023-11-07 21:57:29+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/700
+2023-11-07 22:56:02+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/701
+2023-11-07 23:09:09+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/702
+2023-11-09 06:20:39+00:00,[User]_reunanen,"{'[User]_prabhu', '[User]_reunanen'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/703
+2023-11-09 10:46:44+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/704
+2023-11-09 11:06:54+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/705
+2023-11-09 11:14:13+00:00,[User]_setchy,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/706
+2023-11-09 12:08:43+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/707
+2023-11-09 12:23:57+00:00,[User]_reunanen,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/708
+2023-11-09 13:51:23+00:00,[User]_prabhu,{'[User]_setchy'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/709
+2023-11-09 14:39:55+00:00,[User]_setchy,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/710
+2023-11-10 12:23:44+00:00,[User]_setchy,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/711
+2023-11-10 12:30:06+00:00,[User]_setchy,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/713
+2023-11-10 19:16:00+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/714
+2023-11-10 19:52:53+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/715
+2023-11-12 19:19:42+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/716
+2023-11-15 09:50:25+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/717
+2023-11-15 15:40:10+00:00,[User]_gbennett-squarespace,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/718
+2023-11-15 21:53:59+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/719
+2023-11-16 07:13:43+00:00,[User]_gbennett-squarespace,{'[User]_gbennett-squarespace'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/720
+2023-11-16 07:19:16+00:00,[User]_gbennett-squarespace,"{'[User]_sahil3112', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/721
+2023-11-16 07:37:50+00:00,[User]_gbennett-squarespace,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/722
+2023-11-17 15:59:14+00:00,[User]_marob,"{'[User]_marob', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/723
+2023-11-17 16:32:29+00:00,[User]_Nikemare,"{'[User]_Nikemare', '[User]_prabhu', '[User]_heubeck', '[User]_ibm-bersch'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/724
+2023-11-20 09:16:26+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/725
+2023-11-20 18:11:27+00:00,[User]_Nikemare,"{'[User]_Nikemare', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/727
+2023-11-20 18:56:01+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/728
+2023-11-20 21:46:18+00:00,[User]_Nikemare,"{'[User]_Nikemare', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/729
+2023-11-20 23:37:27+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/730
+2023-11-21 14:59:45+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/731
+2023-11-21 16:45:11+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/732
+2023-11-21 17:14:56+00:00,[User]_Nikemare,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/733
+2023-11-21 20:23:02+00:00,[User]_Nikemare,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/735
+2023-11-21 23:02:19+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/736
+2023-11-22 10:38:03+00:00,[User]_Amoms,"{'[User]_Amoms', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/737
+2023-11-22 16:51:15+00:00,[User]_marco-ippolito,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/738
+2023-11-22 20:39:13+00:00,[User]_Nikemare,"{'[User]_Nikemare', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/739
+2023-11-23 10:10:10+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/740
+2023-11-23 11:48:04+00:00,[User]_fnxpt,{'[User]_fnxpt'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/742
+2023-11-24 06:59:38+00:00,[User]_yff-java,"{'[User]_prabhu', '[User]_0x123456789', '[User]_vveider'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/743
+2023-11-27 20:23:47+00:00,[User]_swkrkris,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/745
+2023-11-28 08:35:38+00:00,[User]_theold190,"{'[User]_theold190', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/746
+2023-11-28 19:34:54+00:00,[User]_gbennett-squarespace,{'[User]_prabhu'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/747
+2023-11-29 20:01:56+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/749
+2023-12-01 11:18:12+00:00,[User]_setchy,{'[User]_setchy'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/752
+2023-12-01 16:08:17+00:00,[User]_pandiyan-securin,{'[User]_pandiyan-securin'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/753
+2023-12-02 15:53:26+00:00,[User]_pandiyan-securin,"{'[User]_pandiyan-securin', '[User]_PandiyanRajendiran', '[User]_prabhu'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/754
+2023-12-05 11:10:38+00:00,[User]_ilendemli,"{'[User]_prabhu', '[User]_ilendemli'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/755
+2023-12-05 22:09:48+00:00,[User]_knx-am,{'[User]_knx-am'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/757
+2023-12-06 09:00:11+00:00,[User]_ilendemli,"{'[User]_prabhu', '[User]_ilendemli'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/758
+2023-12-06 11:03:05+00:00,[User]_ilendemli,"{'[User]_prabhu', '[User]_ilendemli'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/759
+2023-12-08 10:23:54+00:00,[User]_knx-am,set(),CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/766
+2023-12-08 19:08:34+00:00,[User]_heubeck,"{'[User]_Nikemare', '[User]_heubeck'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/768
+2023-12-11 11:06:43+00:00,[User]_sushiMix,{'[User]_sushiMix'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/770
+2023-12-11 18:48:11+00:00,[User]_bilelfouadla,"{'[User]_prabhu', '[User]_bilelfouadla'}",CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/771
+2023-12-13 13:43:50+00:00,[User]_joness95,{'[User]_joness95'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/776
+2023-12-18 07:10:32+00:00,[User]_Lingom-R,{'[User]_Lingom-R'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/780
+2023-12-19 19:58:50+00:00,[User]_mehradn7,{'[User]_mehradn7'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/782
+2023-12-20 10:09:42+00:00,[User]_bongbongbee,{'[User]_bongbongbee'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/pull/783
+2023-12-22 11:05:37+00:00,[User]_kennylam91,{'[User]_Djontleman'},CycloneDX/cdxgen,2023,https://github.com/CycloneDX/cdxgen/issues/784
+2024-01-08 11:04:59+00:00,[User]_hari326,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/806
+2024-01-13 10:54:53+00:00,[User]_saketjajoo,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/815
+2024-01-17 18:56:02+00:00,[User]_rogeriobastos,"{'[User]_rogeriobastos', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/822
+2024-01-19 14:26:30+00:00,[User]_rogeriobastos,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/824
+2024-01-22 07:09:55+00:00,[User]_Varsha-lalwani,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/825
+2024-01-22 20:32:45+00:00,[User]_prabhu,{'[User]_heubeck'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/826
+2024-01-24 18:24:06+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/827
+2024-01-25 15:34:51+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/829
+2024-01-26 10:34:44+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/830
+2024-01-26 11:31:16+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/831
+2024-01-26 15:26:45+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/832
+2024-01-27 12:20:49+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/833
+2024-01-27 14:38:52+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/834
+2024-01-27 14:41:17+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/835
+2024-01-27 15:23:56+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/836
+2024-01-27 18:55:03+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/837
+2024-01-27 20:19:11+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/838
+2024-01-27 22:29:03+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/839
+2024-01-28 11:00:07+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/840
+2024-01-28 12:41:25+00:00,[User]_prabhu,{'[User]_heubeck'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/841
+2024-01-28 13:23:32+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/842
+2024-01-28 16:53:50+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/843
+2024-01-28 17:35:17+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/844
+2024-01-29 10:47:16+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/845
+2024-01-29 11:02:05+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/847
+2024-01-29 11:33:42+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/848
+2024-01-29 11:35:49+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/849
+2024-01-29 11:40:17+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/850
+2024-01-29 13:29:59+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/851
+2024-01-29 14:28:09+00:00,[User]_Albertoimpl,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/852
+2024-01-29 15:04:23+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_Albertoimpl'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/853
+2024-01-29 19:27:18+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_Albertoimpl'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/856
+2024-01-30 18:47:48+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/858
+2024-01-31 10:45:20+00:00,[User]_jelhan,"{'[User]_jelhan', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/860
+2024-01-31 15:53:44+00:00,[User]_xkabylgSICKAG,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/861
+2024-02-01 02:30:12+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/862
+2024-02-01 02:33:20+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/863
+2024-02-01 09:23:44+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/864
+2024-02-01 13:38:48+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/866
+2024-02-01 20:18:49+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/867
+2024-02-02 19:03:52+00:00,[User]_kingnoahkong,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/869
+2024-02-03 13:09:47+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/871
+2024-02-05 18:43:26+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/873
+2024-02-05 18:43:53+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/874
+2024-02-06 13:04:23+00:00,[User]_bluesource,"{'[User]_bluesource', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/875
+2024-02-06 15:01:31+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/876
+2024-02-07 09:45:58+00:00,[User]_visagansanthanam-unisys,"{'[User]_visagansanthanam-unisys', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/877
+2024-02-08 08:12:56+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/878
+2024-02-08 16:30:21+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/879
+2024-02-08 21:06:45+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/880
+2024-02-09 01:28:01+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/881
+2024-02-09 02:25:53+00:00,[User]_srace9532,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/882
+2024-02-09 20:08:33+00:00,[User]_johennin,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/883
+2024-02-12 11:21:05+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/884
+2024-02-12 19:47:44+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/885
+2024-02-13 12:03:45+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/887
+2024-02-13 14:19:29+00:00,[User]_almaz045,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/888
+2024-02-13 21:18:40+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/889
+2024-02-15 10:46:00+00:00,[User]_lsaudon,"{'[User]_lsaudon', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/891
+2024-02-15 13:29:28+00:00,[User]_marcelstoer,"{'[User]_prabhu', '[User]_marcelstoer'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/892
+2024-02-16 15:12:09+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/893
+2024-02-16 16:40:15+00:00,[User]_lsaudon,"{'[User]_lsaudon', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/894
+2024-02-19 11:58:32+00:00,[User]_bluesource,"{'[User]_JingLeiTalan', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/895
+2024-02-20 17:41:37+00:00,[User]_nscuro,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/897
+2024-02-22 06:00:08+00:00,[User]_hari326,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/899
+2024-02-23 00:11:05+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/900
+2024-02-23 09:31:45+00:00,[User]_hoggmania,"{'[User]_hoggmania', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/901
+2024-02-25 19:14:42+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/902
+2024-02-25 21:06:53+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/903
+2024-02-26 08:55:09+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/904
+2024-02-26 10:53:56+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/905
+2024-02-26 19:52:13+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/906
+2024-02-27 17:16:08+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/907
+2024-02-27 17:37:57+00:00,[User]_ajmalab,"{'[User]_ajmalab', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/908
+2024-02-28 15:57:59+00:00,[User]_angetresca,"{'[User]_angetresca', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/910
+2024-02-28 23:16:55+00:00,[User]_angetresca,"{'[User]_angetresca', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/911
+2024-02-29 10:09:12+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/912
+2024-02-29 17:18:21+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/913
+2024-03-01 11:00:45+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/914
+2024-03-11 13:16:04+00:00,[User]_MiyazawaK,"{'[User]_MiyazawaK', '[User]_grgau', '[User]_prabhu', '[User]_roadSurfer'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/916
+2024-03-12 12:58:10+00:00,[User]_mahenarayan,"{'[User]_mahenarayan', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/917
+2024-03-12 12:59:23+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/918
+2024-03-13 23:45:14+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/920
+2024-03-15 16:10:10+00:00,[User]_JingLeiTalan,"{'[User]_JingLeiTalan', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/921
+2024-03-16 18:30:35+00:00,[User]_JingLeiTalan,"{'[User]_JingLeiTalan', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/922
+2024-03-18 15:46:59+00:00,[User]_Taha-cmd,"{'[User]_prabhu', '[User]_Taha-cmd'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/923
+2024-03-19 11:42:08+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/924
+2024-03-19 18:15:59+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/925
+2024-03-19 22:49:56+00:00,[User]_grgau,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/926
+2024-03-19 22:55:47+00:00,[User]_grgau,"{'[User]_grgau', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/927
+2024-03-21 16:48:05+00:00,[User]_johennin,"{'[User]_Lucasljungberg', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/928
+2024-03-22 10:17:55+00:00,[User]_scrocquesel-ml150,"{'[User]_prabhu', '[User]_scrocquesel'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/930
+2024-03-22 22:53:57+00:00,[User]_Lucasljungberg,"{'[User]_Lucasljungberg', '[User]_lfrancke', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/931
+2024-03-23 00:31:29+00:00,[User]_scrocquesel,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/932
+2024-03-24 12:37:33+00:00,[User]_scrocquesel,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/933
+2024-03-26 09:17:28+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/934
+2024-03-27 12:32:11+00:00,[User]_prabhu,"{'[User]_setchy', '[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/935
+2024-03-27 15:03:54+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/936
+2024-03-28 08:23:48+00:00,[User]_csteeg,"{'[User]_csteeg', '[User]_scrocquesel-ml150', '[User]_prabhu', '[User]_scrocquesel'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/937
+2024-03-28 09:25:37+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_scrocquesel'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/938
+2024-03-29 01:46:45+00:00,[User]_Lucasljungberg,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/939
+2024-03-29 10:44:36+00:00,[User]_scrocquesel,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/940
+2024-03-29 13:45:40+00:00,[User]_scrocquesel,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/941
+2024-03-29 19:14:36+00:00,[User]_aryan-rajoria,"{'[User]_aryan-rajoria', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/942
+2024-03-30 11:50:32+00:00,[User]_setchy,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/943
+2024-03-31 21:33:49+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/944
+2024-04-01 10:51:18+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/945
+2024-04-01 15:41:51+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/946
+2024-04-01 16:01:22+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/947
+2024-04-01 17:50:19+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/948
+2024-04-01 19:34:07+00:00,[User]_prabhu,"{'[User]_Lucasljungberg', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/949
+2024-04-01 22:40:12+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/950
+2024-04-02 15:37:35+00:00,[User]_mtausig,"{'[User]_mtausig', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/952
+2024-04-03 00:59:08+00:00,[User]_visagansanthanam-unisys,"{'[User]_visagansanthanam-unisys', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/953
+2024-04-03 08:03:36+00:00,[User]_almaz045,"{'[User]_prabhu', '[User]_almaz045'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/954
+2024-04-03 16:46:00+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/955
+2024-04-03 19:21:08+00:00,[User]_Lucasljungberg,"{'[User]_Lucasljungberg', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/956
+2024-04-04 09:03:24+00:00,[User]_validide,"{'[User]_validide', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/957
+2024-04-04 13:17:23+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/959
+2024-04-04 20:09:33+00:00,[User]_Lucasljungberg,"{'[User]_Lucasljungberg', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/960
+2024-04-08 15:10:45+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/961
+2024-04-08 19:44:33+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/963
+2024-04-08 21:55:27+00:00,[User]_prabhu,{'[User]_setchy'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/964
+2024-04-08 22:12:54+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/965
+2024-04-08 22:31:41+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/966
+2024-04-09 10:17:13+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/967
+2024-04-09 15:19:35+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/968
+2024-04-10 12:59:47+00:00,[User]_erinmcgill,"{'[User]_prabhu', '[User]_erinmcgill'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/969
+2024-04-11 14:18:38+00:00,[User]_evyaroshevich,"{'[User]_prabhu', '[User]_evyaroshevich'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/970
+2024-04-13 09:44:49+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/971
+2024-04-13 10:31:01+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/972
+2024-04-13 12:18:56+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/973
+2024-04-13 12:26:10+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/974
+2024-04-13 13:42:53+00:00,[User]_validide,"{'[User]_validide', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/975
+2024-04-13 21:47:06+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/976
+2024-04-14 13:18:52+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/977
+2024-04-14 17:21:23+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/978
+2024-04-14 19:58:37+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/979
+2024-04-14 19:59:50+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/980
+2024-04-14 20:33:42+00:00,[User]_setchy,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/981
+2024-04-15 08:10:43+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/982
+2024-04-15 08:34:19+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/983
+2024-04-15 12:09:07+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/984
+2024-04-15 12:17:39+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/985
+2024-04-15 15:20:37+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/986
+2024-04-15 20:00:53+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/987
+2024-04-15 22:08:55+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/988
+2024-04-16 19:39:18+00:00,[User]_setchy,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/989
+2024-04-16 20:28:22+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/990
+2024-04-17 10:54:44+00:00,[User]_setchy,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/991
+2024-04-17 13:23:06+00:00,[User]_prabhu,"{'[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/992
+2024-04-18 03:51:31+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/994
+2024-04-18 04:44:16+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/995
+2024-04-18 06:01:16+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/996
+2024-04-18 06:51:29+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/997
+2024-04-18 20:19:16+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/999
+2024-04-21 12:51:01+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1000
+2024-04-21 13:04:37+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/1001
+2024-04-21 16:28:02+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/1002
+2024-04-22 12:35:39+00:00,[User]_almaz045,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/1003
+2024-04-22 17:18:04+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/1005
+2024-04-22 18:29:14+00:00,[User]_ajmalab,"{'[User]_setchy', '[User]_prabhu', '[User]_heubeck'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/1007
+2024-04-23 10:51:59+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1009
+2024-04-23 16:53:44+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1010
+2024-04-24 21:15:12+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/1012
+2024-04-25 14:35:51+00:00,[User]_prabhu,"{'[User]_setchy', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1014
+2024-04-26 12:42:12+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1016
+2024-04-26 13:39:53+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/1017
+2024-04-26 15:26:17+00:00,[User]_MohammedAziz02,"{'[User]_MohammedAziz02', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1018
+2024-04-26 18:58:59+00:00,[User]_prabhushan,"{'[User]_prabhushan', '[User]_prabhu'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1019
+2024-04-27 10:54:18+00:00,[User]_vveider,"{'[User]_prabhu', '[User]_vveider'}",CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1020
+2024-04-27 13:29:47+00:00,[User]_vveider,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1021
+2024-04-27 13:42:31+00:00,[User]_MohammedAziz02,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1022
+2024-04-28 18:29:16+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1023
+2024-04-29 10:52:30+00:00,[User]_prabhu,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1024
+2024-04-29 10:56:14+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1025
+2024-04-29 16:34:07+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/1026
+2024-04-30 11:20:28+00:00,[User]_3l73,{'[User]_prabhu'},CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/issues/1027
+2024-04-30 15:02:23+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/1028
+2024-04-30 21:45:21+00:00,[User]_prabhu,set(),CycloneDX/cdxgen,2024,https://github.com/CycloneDX/cdxgen/pull/1029

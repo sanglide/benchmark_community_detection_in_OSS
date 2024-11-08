@@ -1,0 +1,424 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 15:04:11+00:00,[User]_robbavey,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15031
+2023-05-01 16:41:47+00:00,[User]_roaksoax,"{'[User]_jsvd', '[User]_roaksoax'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15032
+2023-05-02 08:48:53+00:00,[User]_jsvd,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15035
+2023-05-02 08:49:03+00:00,[User]_jsvd,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15036
+2023-05-02 08:56:34+00:00,[User]_jsvd,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15037
+2023-05-03 09:15:09+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15039
+2023-05-04 11:51:26+00:00,[User]_edmocosta,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15040
+2023-05-05 13:49:07+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15042
+2023-05-10 13:45:50+00:00,[User]_edmocosta,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15045
+2023-05-10 20:54:48+00:00,[User]_yaauie,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15048
+2023-05-13 20:23:59+00:00,[User]_felixjansson,"{'[User]_kaisecheng', '[User]_logstashmachine'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15049
+2023-05-15 10:27:38+00:00,[User]_jsvd,"{'[User]_kaisecheng', '[User]_andsel', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15050
+2023-05-17 06:00:33+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15052
+2023-05-17 18:13:28+00:00,[User]_naj-h,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15053
+2023-05-18 07:31:25+00:00,[User]_Kevindyb,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15054
+2023-05-22 07:43:42+00:00,[User]_edmocosta,"{'[User]_essodjolo', '[User]_edmocosta', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15056
+2023-05-23 09:12:14+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15057
+2023-05-23 22:00:43+00:00,[User]_jsvd,"{'[User]_kaisecheng', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15059
+2023-05-24 07:25:01+00:00,[User]_andsel,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15060
+2023-05-24 07:31:34+00:00,[User]_andsel,"{'[User]_jsvd', '[User]_andsel'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15061
+2023-05-24 07:37:55+00:00,[User]_andsel,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15062
+2023-05-24 08:04:56+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15063
+2023-05-25 09:07:51+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15065
+2023-05-25 11:00:02+00:00,[User]_jsvd,"{'[User]_jsvd', '[User]_yaauie'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15066
+2023-05-25 12:08:14+00:00,[User]_herrBez,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15067
+2023-05-25 16:49:24+00:00,[User]_Aqualie,"{'[User]_edmocosta', '[User]_BBQigniter', '[User]_roaksoax', '[User]_c4m4', '[User]_Aqualie'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15068
+2023-05-26 08:10:06+00:00,[User]_krishna123987,"{'[User]_jsvd', '[User]_krishna123987'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15069
+2023-05-26 12:21:27+00:00,[User]_ThorbenJ,{'[User]_ThorbenJ'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15070
+2023-05-26 12:38:02+00:00,[User]_ThorbenJ,"{'[User]_ThorbenJ', '[User]_yaauie'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15071
+2023-06-01 23:43:26+00:00,[User]_yaauie,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15074
+2023-06-02 06:53:23+00:00,[User]_tanggu2,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15075
+2023-06-06 05:34:11+00:00,[User]_mashhurs,"{'[User]_mashhurs', '[User]_jsvd', '[User]_jkakavas'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15083
+2023-06-08 13:09:46+00:00,[User]_robbavey,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15087
+2023-06-13 10:36:11+00:00,[User]_JonahLuckett,"{'[User]_deepakLabs', '[User]_mashhurs', '[User]_sonloi', '[User]_mseiler90'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15088
+2023-06-13 11:56:43+00:00,[User]_awaismslm,"{'[User]_awaismslm', '[User]_andsel'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15089
+2023-06-15 12:27:05+00:00,[User]_mlausch,{'[User]_mgovolt'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15091
+2023-06-16 03:47:24+00:00,[User]_wenlinhe,{'[User]_wenlinhe'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15092
+2023-06-16 10:30:36+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15094
+2023-06-16 10:34:45+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15095
+2023-06-20 18:42:48+00:00,[User]_mashhurs,"{'[User]_kaisecheng', '[User]_mashhurs'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15096
+2023-06-20 22:18:59+00:00,[User]_mashhurs,"{'[User]_mashhurs', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15097
+2023-06-20 23:57:52+00:00,[User]_kaisecheng,"{'[User]_kaisecheng', '[User]_mashhurs'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15098
+2023-06-21 13:12:29+00:00,[User]_JonahLuckett,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15099
+2023-06-21 13:21:37+00:00,[User]_spinenkoia,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15102
+2023-06-21 13:28:26+00:00,[User]_robbavey,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15103
+2023-06-21 20:55:03+00:00,[User]_mashhurs,"{'[User]_mashhurs', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15109
+2023-06-21 21:16:55+00:00,[User]_robbavey,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15110
+2023-06-21 21:21:04+00:00,[User]_robbavey,{'[User]_mashhurs'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15111
+2023-06-22 20:16:25+00:00,[User]_kaisecheng,{'[User]_mashhurs'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15112
+2023-06-22 20:30:39+00:00,[User]_roaksoax,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15113
+2023-06-23 08:32:04+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15114
+2023-06-23 08:52:29+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15115
+2023-06-25 18:28:33+00:00,[User]_mashhurs,"{'[User]_kaisecheng', '[User]_mashhurs'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15117
+2023-06-26 04:04:02+00:00,[User]_88107251,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15118
+2023-06-27 12:44:06+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15119
+2023-06-27 13:23:02+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15120
+2023-06-27 16:23:40+00:00,[User]_travisestill,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15122
+2023-06-27 21:17:51+00:00,[User]_robbavey,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15123
+2023-06-28 06:18:50+00:00,[User]_sinh-tran-ts,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15124
+2023-06-28 09:33:41+00:00,[User]_jsvd,"{'[User]_mashhurs', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15125
+2023-06-29 09:08:17+00:00,[User]_roaksoax,"{'[User]_jsvd', '[User]_karenzone', '[User]_andsel'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15126
+2023-06-29 12:52:08+00:00,[User]_robbavey,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15127
+2023-06-29 12:52:34+00:00,[User]_robbavey,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15128
+2023-06-29 13:25:42+00:00,[User]_robbavey,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15129
+2023-06-29 14:19:05+00:00,[User]_robbavey,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15130
+2023-06-29 14:19:19+00:00,[User]_robbavey,"{'[User]_mashhurs', '[User]_robbavey'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15131
+2023-06-29 15:14:59+00:00,[User]_robbavey,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15133
+2023-06-29 20:11:47+00:00,[User]_mashhurs,"{'[User]_mashhurs', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15134
+2023-06-30 01:44:22+00:00,[User]_sxwnhxwx,{'[User]_yaauie'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15135
+2023-06-30 07:18:55+00:00,[User]_mohanss08,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15136
+2023-07-02 07:27:13+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15139
+2023-07-02 21:03:50+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15140
+2023-07-03 09:39:10+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15141
+2023-07-04 08:02:18+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15145
+2023-07-04 14:31:05+00:00,[User]_jsvd,"{'[User]_mashhurs', '[User]_andsel', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15147
+2023-07-04 15:04:48+00:00,[User]_jsvd,"{'[User]_mashhurs', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15149
+2023-07-04 20:22:49+00:00,[User]_kaisecheng,"{'[User]_kaisecheng', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15150
+2023-07-05 09:53:33+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15153
+2023-07-05 14:06:41+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15154
+2023-07-05 14:20:58+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15155
+2023-07-05 14:21:03+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15156
+2023-07-06 16:50:32+00:00,[User]_edmocosta,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15158
+2023-07-07 21:02:23+00:00,[User]_mashhurs,{'[User]_yaauie'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15159
+2023-07-10 14:29:53+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15160
+2023-07-10 22:12:07+00:00,[User]_yaauie,{'[User]_mbudge'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15163
+2023-07-11 04:56:03+00:00,[User]_groge,{'[User]_yaauie'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15164
+2023-07-12 09:10:19+00:00,[User]_cosmosir,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15167
+2023-07-12 20:55:48+00:00,[User]_roaksoax,{'[User]_mashhurs'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15168
+2023-07-12 21:01:55+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15169
+2023-07-12 21:17:32+00:00,[User]_karenzone,{'[User]_karenzone'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15170
+2023-07-13 14:59:11+00:00,[User]_karenzone,{'[User]_karenzone'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15172
+2023-07-13 15:58:30+00:00,[User]_mashhurs,"{'[User]_mashhurs', '[User]_robbavey', '[User]_yaauie'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15173
+2023-07-13 22:13:12+00:00,[User]_roaksoax,{'[User]_roaksoax'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15174
+2023-07-13 22:30:08+00:00,[User]_karenzone,{'[User]_karenzone'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15175
+2023-07-14 17:33:44+00:00,[User]_roaksoax,{'[User]_mashhurs'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15179
+2023-07-14 19:09:26+00:00,[User]_roaksoax,"{'[User]_mashhurs', '[User]_roaksoax'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15180
+2023-07-14 20:09:36+00:00,[User]_roaksoax,{'[User]_mashhurs'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15181
+2023-07-14 20:29:22+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15182
+2023-07-14 20:59:28+00:00,[User]_roaksoax,{'[User]_mashhurs'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15183
+2023-07-17 09:41:30+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15184
+2023-07-17 15:39:28+00:00,[User]_kaisecheng,"{'[User]_seyeh', '[User]_roaksoax'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15186
+2023-07-17 20:04:10+00:00,[User]_roaksoax,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15189
+2023-07-18 08:46:24+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15190
+2023-07-18 11:44:14+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15191
+2023-07-18 13:05:51+00:00,[User]_Meddeb-bilel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15192
+2023-07-18 16:51:54+00:00,[User]_roaksoax,{'[User]_mashhurs'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15194
+2023-07-18 22:19:50+00:00,[User]_roaksoax,"{'[User]_mashhurs', '[User]_roaksoax'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15196
+2023-07-19 01:36:11+00:00,[User]_roaksoax,{'[User]_mashhurs'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15197
+2023-07-19 08:13:28+00:00,[User]_yakhatape,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15198
+2023-07-19 14:03:05+00:00,[User]_jsvd,{'[User]_roaksoax'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15200
+2023-07-19 22:00:56+00:00,[User]_roaksoax,{'[User]_mashhurs'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15201
+2023-07-20 15:30:26+00:00,[User]_kercdbh,{'[User]_kercdbh'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15204
+2023-07-20 18:32:04+00:00,[User]_roaksoax,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15208
+2023-07-20 18:42:51+00:00,[User]_roaksoax,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15209
+2023-07-24 13:33:08+00:00,[User]_karenzone,{'[User]_karenzone'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15211
+2023-07-24 13:34:58+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15212
+2023-07-24 13:54:14+00:00,[User]_karenzone,"{'[User]_mashhurs', '[User]_karenzone'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15213
+2023-07-24 13:59:51+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15214
+2023-07-24 15:57:21+00:00,[User]_jsvd,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15215
+2023-07-25 12:49:58+00:00,[User]_robbavey,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15217
+2023-07-25 12:50:41+00:00,[User]_robbavey,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15218
+2023-07-25 13:16:11+00:00,[User]_robbavey,"{'[User]_kaisecheng', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15219
+2023-07-25 17:07:30+00:00,[User]_travisestill,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15220
+2023-07-28 00:21:01+00:00,[User]_kaisecheng,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15223
+2023-07-28 11:29:44+00:00,[User]_kaisecheng,"{'[User]_kaisecheng', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15224
+2023-08-01 09:41:14+00:00,[User]_nikhithakarennagari,{'[User]_PeterPerter'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15226
+2023-08-02 12:00:41+00:00,[User]_edmocosta,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15233
+2023-08-02 14:26:03+00:00,[User]_kaisecheng,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15234
+2023-08-02 15:50:48+00:00,[User]_kaisecheng,{'[User]_kaisecheng'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15235
+2023-08-04 07:43:44+00:00,[User]_tsaarni,"{'[User]_tsaarni', '[User]_roaksoax'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15236
+2023-08-08 12:39:45+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15239
+2023-08-08 17:38:14+00:00,[User]_roaksoax,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15242
+2023-08-09 16:32:19+00:00,[User]_jsvd,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15245
+2023-08-10 08:37:07+00:00,[User]_edmocosta,"{'[User]_edmocosta', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15246
+2023-08-10 16:47:30+00:00,[User]_robbavey,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15248
+2023-08-10 19:34:31+00:00,[User]_kaisecheng,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15249
+2023-08-13 04:56:13+00:00,[User]_jongwooo,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15250
+2023-08-13 16:37:09+00:00,[User]_jongwooo,{'[User]_logstashmachine'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15251
+2023-08-14 20:04:45+00:00,[User]_kaisecheng,"{'[User]_kaisecheng', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15252
+2023-08-15 15:10:20+00:00,[User]_VSKMurali,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15255
+2023-08-15 21:39:10+00:00,[User]_jsvd,"{'[User]_kaisecheng', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15256
+2023-08-17 15:19:38+00:00,[User]_kaisecheng,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15263
+2023-08-17 16:10:58+00:00,[User]_kaisecheng,"{'[User]_kaisecheng', '[User]_robbavey'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15264
+2023-08-17 22:06:21+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15266
+2023-08-21 09:01:33+00:00,[User]_andsel,"{'[User]_edmocosta', '[User]_andsel'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15267
+2023-08-21 18:55:38+00:00,[User]_robbavey,{'[User]_robbavey'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15269
+2023-08-22 07:19:54+00:00,[User]_andsel,"{'[User]_kaisecheng', '[User]_andsel'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15271
+2023-08-22 12:49:58+00:00,[User]_andsel,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15273
+2023-08-22 13:49:52+00:00,[User]_andsel,{'[User]_yaauie'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15274
+2023-08-23 12:30:09+00:00,[User]_andsel,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15275
+2023-08-23 12:42:20+00:00,[User]_kaisecheng,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15276
+2023-08-24 11:48:59+00:00,[User]_kaisecheng,"{'[User]_kaisecheng', '[User]_robbavey'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15277
+2023-08-24 18:51:06+00:00,[User]_Haranath96,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15278
+2023-08-25 19:32:00+00:00,[User]_wargamez,"{'[User]_chadmyers', '[User]_williejay2017', '[User]_joancafom', '[User]_Kartrag'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15280
+2023-08-28 16:26:24+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15281
+2023-08-29 01:12:39+00:00,[User]_yaauie,{'[User]_yaauie'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15282
+2023-08-29 06:24:17+00:00,[User]_yaauie,"{'[User]_kaisecheng', '[User]_mashhurs', '[User]_robbavey', '[User]_yaauie'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15283
+2023-08-29 06:46:40+00:00,[User]_yaauie,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15284
+2023-08-30 05:35:18+00:00,[User]_yaauie,"{'[User]_dliappis', '[User]_yaauie'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15287
+2023-08-30 13:54:56+00:00,[User]_yaauie,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15291
+2023-08-31 06:56:36+00:00,[User]_andsel,{'[User]_kaisecheng'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15292
+2023-08-31 07:00:58+00:00,[User]_andsel,{'[User]_kaisecheng'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15293
+2023-08-31 07:08:59+00:00,[User]_andsel,{'[User]_kaisecheng'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15294
+2023-08-31 07:11:56+00:00,[User]_andsel,"{'[User]_andsel', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15295
+2023-08-31 19:54:41+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15297
+2023-08-31 19:54:48+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15298
+2023-08-31 22:06:54+00:00,[User]_waqarsky,"{'[User]_mashhurs', '[User]_waqarsky'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15299
+2023-09-02 17:11:42+00:00,[User]_kaisecheng,{'[User]_kaisecheng'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15300
+2023-09-02 17:21:02+00:00,[User]_kaisecheng,"{'[User]_kaisecheng', '[User]_roaksoax'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15301
+2023-09-04 13:25:58+00:00,[User]_dliappis,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15302
+2023-09-05 08:18:06+00:00,[User]_jsvd,"{'[User]_kaisecheng', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15303
+2023-09-06 14:42:19+00:00,[User]_andsel,{'[User]_jvalente-salemstate'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15307
+2023-09-06 16:19:36+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15308
+2023-09-07 08:22:21+00:00,[User]_jsvd,"{'[User]_andsel', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15309
+2023-09-08 09:12:13+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15311
+2023-09-12 09:43:29+00:00,[User]_kaisecheng,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15315
+2023-09-12 09:48:15+00:00,[User]_kaisecheng,"{'[User]_andsel', '[User]_karenzone'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15316
+2023-09-12 14:18:05+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15318
+2023-09-13 09:37:09+00:00,[User]_kaisecheng,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15319
+2023-09-15 17:43:44+00:00,[User]_Mekk,"{'[User]_Mekk', '[User]_neu5ron'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15323
+2023-09-18 10:24:37+00:00,[User]_veyselkaraca,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15324
+2023-09-18 13:18:58+00:00,[User]_andsel,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15325
+2023-09-18 15:11:06+00:00,[User]_jsvd,{'[User]_kaisecheng'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15328
+2023-09-19 08:13:19+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15329
+2023-09-20 14:02:31+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15332
+2023-09-20 18:09:44+00:00,[User]_roaksoax,{'[User]_mashhurs'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15335
+2023-09-21 07:41:00+00:00,[User]_andsel,{'[User]_kaisecheng'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15338
+2023-09-21 07:48:12+00:00,[User]_andsel,{'[User]_kaisecheng'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15339
+2023-09-22 07:47:13+00:00,[User]_xiaohuxiaoqian,{'[User]_xiaohuxiaoqian'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15341
+2023-09-22 15:06:31+00:00,[User]_roaksoax,"{'[User]_andsel', '[User]_roaksoax'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15342
+2023-09-25 22:59:34+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15347
+2023-09-27 12:15:01+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15355
+2023-09-27 17:01:34+00:00,[User]_andsel,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15357
+2023-09-27 17:06:25+00:00,[User]_atulrana20,"{'[User]_tomaszderkowski', '[User]_cstegm', '[User]_atulrana20', '[User]_roaksoax'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15358
+2023-09-27 23:42:22+00:00,[User]_ceeeekay,"{'[User]_ceeeekay', '[User]_roaksoax'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15360
+2023-09-28 08:36:05+00:00,[User]_dliappis,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15361
+2023-10-02 13:09:15+00:00,[User]_karenzone,{'[User]_karenzone'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15364
+2023-10-03 22:31:36+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15372
+2023-10-03 22:41:44+00:00,[User]_karenzone,{'[User]_karenzone'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15373
+2023-10-03 22:45:14+00:00,[User]_karenzone,{'[User]_karenzone'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15374
+2023-10-04 16:50:11+00:00,[User]_roaksoax,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15387
+2023-10-05 12:46:24+00:00,[User]_dliappis,{'[User]_roaksoax'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15392
+2023-10-05 12:51:32+00:00,[User]_dliappis,{'[User]_roaksoax'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15393
+2023-10-06 09:37:28+00:00,[User]_dcz010,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15396
+2023-10-06 11:46:30+00:00,[User]_dliappis,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15397
+2023-10-06 12:08:32+00:00,[User]_dliappis,"{'[User]_jsvd', '[User]_dliappis'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15398
+2023-10-06 15:41:44+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15399
+2023-10-09 08:03:30+00:00,[User]_dackon,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15400
+2023-10-09 19:42:35+00:00,[User]_P1llus,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15403
+2023-10-10 07:59:44+00:00,[User]_rpasche,"{'[User]_edmocosta', '[User]_denisgils', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15405
+2023-10-10 08:46:50+00:00,[User]_dliappis,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15406
+2023-10-10 13:01:25+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15410
+2023-10-10 13:49:23+00:00,[User]_dliappis,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15412
+2023-10-10 15:04:41+00:00,[User]_dliappis,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15414
+2023-10-10 15:14:01+00:00,[User]_dliappis,"{'[User]_alexsapran', '[User]_jlind23'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15415
+2023-10-10 15:48:12+00:00,[User]_roaksoax,{'[User]_roaksoax'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15417
+2023-10-10 16:47:53+00:00,[User]_mashhurs,"{'[User]_mashhurs', '[User]_robbavey'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15422
+2023-10-10 16:52:38+00:00,[User]_mashhurs,{'[User]_robbavey'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15423
+2023-10-11 13:03:45+00:00,[User]_dliappis,"{'[User]_dliappis', '[User]_roaksoax'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15431
+2023-10-11 13:10:10+00:00,[User]_dliappis,"{'[User]_dliappis', '[User]_roaksoax'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15432
+2023-10-13 07:15:06+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15440
+2023-10-15 05:16:15+00:00,[User]_cethink,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15451
+2023-10-16 14:33:53+00:00,[User]_roaksoax,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15458
+2023-10-18 09:50:09+00:00,[User]_lucabelluccini,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15470
+2023-10-18 14:09:24+00:00,[User]_roaksoax,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15471
+2023-10-19 08:56:52+00:00,[User]_naj-h,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15478
+2023-10-19 21:30:14+00:00,[User]_JustinHendersonSMAPPER,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15480
+2023-10-24 16:12:18+00:00,[User]_roaksoax,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15497
+2023-10-24 16:35:09+00:00,[User]_mashhurs,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15498
+2023-10-24 20:39:58+00:00,[User]_Hythloday-zero,{'[User]_elasticmachine'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15499
+2023-10-25 12:34:20+00:00,[User]_karmi,"{'[User]_logstashmachine', '[User]_dliappis', '[User]_elasticmachine'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15502
+2023-10-30 11:30:22+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15513
+2023-10-31 23:10:42+00:00,[User]_Scarylaggy,{'[User]_Scarylaggy'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15517
+2023-11-06 08:26:05+00:00,[User]_dliappis,"{'[User]_andsel', '[User]_dliappis'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15529
+2023-11-06 10:05:43+00:00,[User]_edmocosta,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15530
+2023-11-06 14:32:35+00:00,[User]_jsvd,"{'[User]_mashhurs', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15531
+2023-11-07 17:20:34+00:00,[User]_dliappis,{'[User]_elasticmachine'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15545
+2023-11-07 22:44:24+00:00,[User]_MatheusGelinskiPires,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15547
+2023-11-08 14:24:42+00:00,[User]_jonaslb,{'[User]_ShashankGarg24'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15550
+2023-11-08 14:36:16+00:00,[User]_StefanSa,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15552
+2023-11-09 14:40:35+00:00,[User]_l00d3r,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15557
+2023-11-10 10:38:13+00:00,[User]_tangguojuju,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15559
+2023-11-10 11:49:23+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15560
+2023-11-10 11:55:31+00:00,[User]_jonaslb,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15561
+2023-11-10 12:19:58+00:00,[User]_dliappis,{'[User]_andsel'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15562
+2023-11-10 15:13:57+00:00,[User]_dliappis,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15566
+2023-11-11 10:31:22+00:00,[User]_Elastic-James,{'[User]_jsvd'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15571
+2023-11-13 13:47:08+00:00,[User]_jsvd,"{'[User]_andsel', '[User]_elasticmachine'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15574
+2023-11-13 13:49:54+00:00,[User]_jsvd,"{'[User]_andsel', '[User]_elasticmachine'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15575
+2023-11-13 15:02:12+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15576
+2023-11-13 15:03:25+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15577
+2023-11-14 11:47:31+00:00,[User]_r16turbo,{'[User]_r16turbo'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15580
+2023-11-14 14:49:49+00:00,[User]_dliappis,{'[User]_elasticmachine'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15581
+2023-11-14 16:22:02+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15583
+2023-11-14 16:51:44+00:00,[User]_dliappis,"{'[User]_roaksoax', '[User]_dliappis', '[User]_elasticmachine'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15584
+2023-11-15 16:11:33+00:00,[User]_dliappis,{'[User]_elasticmachine'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15592
+2023-11-16 16:43:45+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15594
+2023-11-21 10:12:09+00:00,[User]_dliappis,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15604
+2023-11-21 23:45:41+00:00,[User]_dobl1,"{'[User]_mashhurs', '[User]_jsvd'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15605
+2023-11-23 16:39:52+00:00,[User]_dliappis,"{'[User]_alexsapran', '[User]_elasticmachine'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15608
+2023-11-24 07:58:43+00:00,[User]_mashhurs,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15611
+2023-11-27 14:55:20+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15618
+2023-11-27 20:43:58+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15622
+2023-11-28 13:29:38+00:00,[User]_patpatpat123,"{'[User]_edmocosta', '[User]_patpatpat123'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15624
+2023-11-28 23:18:17+00:00,[User]_mashhurs,{'[User]_mashhurs'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15630
+2023-11-29 10:13:37+00:00,[User]_dliappis,"{'[User]_jsvd', '[User]_elasticmachine'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15635
+2023-11-30 10:22:28+00:00,[User]_P1llus,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15638
+2023-11-30 11:41:54+00:00,[User]_kaisecheng,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15639
+2023-11-30 17:47:27+00:00,[User]_karenzone,{'[User]_karenzone'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15644
+2023-11-30 17:48:34+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15645
+2023-11-30 19:06:21+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15648
+2023-12-04 15:24:22+00:00,[User]_roaksoax,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15651
+2023-12-04 17:19:41+00:00,[User]_dliappis,set(),elastic/logstash,2023,https://github.com/elastic/logstash/pull/15654
+2023-12-05 16:22:58+00:00,[User]_jsvd,{'[User]_elasticmachine'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15658
+2023-12-06 19:04:51+00:00,[User]_jsvd,"{'[User]_jsvd', '[User]_elasticmachine'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15661
+2023-12-06 22:57:09+00:00,[User]_jsvd,{'[User]_dliappis'},elastic/logstash,2023,https://github.com/elastic/logstash/pull/15666
+2023-12-07 18:52:04+00:00,[User]_mashhurs,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15673
+2023-12-12 10:04:58+00:00,[User]_jsvd,"{'[User]_kaisecheng', '[User]_elasticmachine'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15683
+2023-12-12 14:49:44+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15684
+2023-12-12 15:26:05+00:00,[User]_Kortekaasy,"{'[User]_Niquest', '[User]_chrisdudley', '[User]_elster', '[User]_Kortekaasy', '[User]_jsvd', '[User]_mdetrano', '[User]_BrandonHigbee', '[User]_C0rn3j'}",elastic/logstash,2023,https://github.com/elastic/logstash/issues/15687
+2023-12-14 20:46:02+00:00,[User]_karenzone,{'[User]_karenzone'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15693
+2023-12-15 15:40:33+00:00,[User]_robbavey,{'[User]_robbavey'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15695
+2023-12-18 11:07:34+00:00,[User]_edmocosta,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15698
+2023-12-19 17:36:51+00:00,[User]_kaisecheng,{'[User]_kaisecheng'},elastic/logstash,2023,https://github.com/elastic/logstash/issues/15701
+2023-12-20 09:22:07+00:00,[User]_dliappis,"{'[User]_alexsapran', '[User]_elasticmachine'}",elastic/logstash,2023,https://github.com/elastic/logstash/pull/15705
+2023-12-20 15:20:16+00:00,[User]_andsel,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15710
+2023-12-20 19:56:53+00:00,[User]_karenzone,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15715
+2023-12-21 15:13:34+00:00,[User]_robbavey,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15721
+2023-12-22 14:14:40+00:00,[User]_kaisecheng,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15724
+2023-12-29 14:05:02+00:00,[User]_cleydyr,set(),elastic/logstash,2023,https://github.com/elastic/logstash/issues/15727
+2024-01-03 22:43:17+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15740
+2024-01-04 14:46:56+00:00,[User]_lucabelluccini,{'[User]_nandiniverma08'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15742
+2024-01-05 00:35:43+00:00,[User]_karenzone,"{'[User]_flexitrev', '[User]_karenzone'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15747
+2024-01-08 09:29:01+00:00,[User]_dliappis,"{'[User]_roaksoax', '[User]_dliappis', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15754
+2024-01-08 14:40:46+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15756
+2024-01-08 15:04:40+00:00,[User]_dliappis,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15757
+2024-01-08 15:27:39+00:00,[User]_kaisecheng,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15759
+2024-01-08 19:12:06+00:00,[User]_yaauie,"{'[User]_mashhurs', '[User]_yaauie', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15764
+2024-01-09 11:42:37+00:00,[User]_jsvd,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15765
+2024-01-09 11:56:50+00:00,[User]_kaisecheng,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15766
+2024-01-09 13:57:21+00:00,[User]_andsel,{'[User]_andsel'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15767
+2024-01-09 14:55:08+00:00,[User]_andsel,"{'[User]_andsel', '[User]_dliappis'}",elastic/logstash,2024,https://github.com/elastic/logstash/issues/15768
+2024-01-10 08:32:06+00:00,[User]_dliappis,{'[User]_elasticmachine'},elastic/logstash,2024,https://github.com/elastic/logstash/pull/15772
+2024-01-10 14:18:39+00:00,[User]_kaisecheng,"{'[User]_kaisecheng', '[User]_jsvd', '[User]_karenzone'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15779
+2024-01-10 15:14:47+00:00,[User]_Erikg346,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15780
+2024-01-11 10:01:59+00:00,[User]_dliappis,{'[User]_dliappis'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15784
+2024-01-11 10:59:33+00:00,[User]_srinathpamukuntla,{'[User]_jsvd'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15785
+2024-01-11 11:11:48+00:00,[User]_srinathpamukuntla,{'[User]_jsvd'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15786
+2024-01-12 10:07:16+00:00,[User]_dliappis,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15801
+2024-01-12 12:23:57+00:00,[User]_kaisecheng,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15802
+2024-01-12 15:11:04+00:00,[User]_dliappis,"{'[User]_andsel', '[User]_dliappis', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15803
+2024-01-12 16:36:57+00:00,[User]_dliappis,"{'[User]_dliappis', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15807
+2024-01-12 18:28:52+00:00,[User]_yaauie,set(),elastic/logstash,2024,https://github.com/elastic/logstash/pull/15808
+2024-01-17 12:50:21+00:00,[User]_jsvd,{'[User]_andsel'},elastic/logstash,2024,https://github.com/elastic/logstash/pull/15814
+2024-01-17 17:42:10+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15815
+2024-01-18 12:34:22+00:00,[User]_dliappis,"{'[User]_kaisecheng', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15816
+2024-01-18 14:24:09+00:00,[User]_rsommer,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15821
+2024-01-22 22:18:22+00:00,[User]_mbudge,"{'[User]_jsvd', '[User]_mbudge'}",elastic/logstash,2024,https://github.com/elastic/logstash/issues/15832
+2024-01-23 01:04:19+00:00,[User]_yaauie,{'[User]_mashhurs'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15833
+2024-01-23 09:03:08+00:00,[User]_wanho-kim-o-o,{'[User]_wanho-kim-o-o'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15834
+2024-01-23 10:26:42+00:00,[User]_andsel,"{'[User]_flexitrev', '[User]_andsel', '[User]_karenzone'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15835
+2024-01-23 10:59:53+00:00,[User]_andsel,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15836
+2024-01-23 13:45:28+00:00,[User]_dliappis,"{'[User]_andsel', '[User]_dliappis', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15839
+2024-01-23 16:18:39+00:00,[User]_yaauie,{'[User]_mashhurs'},elastic/logstash,2024,https://github.com/elastic/logstash/pull/15841
+2024-01-23 16:18:55+00:00,[User]_andsel,"{'[User]_kaisecheng', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15842
+2024-01-23 20:31:56+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15844
+2024-01-24 19:25:19+00:00,[User]_mashhurs,"{'[User]_andsel', '[User]_karenzone'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15847
+2024-01-25 08:05:10+00:00,[User]_andsel,{'[User]_andsel'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15848
+2024-01-25 08:10:19+00:00,[User]_andsel,{'[User]_andsel'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15849
+2024-01-26 09:29:12+00:00,[User]_andsel,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15856
+2024-01-26 21:00:13+00:00,[User]_mashhurs,{'[User]_karenzone'},elastic/logstash,2024,https://github.com/elastic/logstash/pull/15862
+2024-01-26 22:56:35+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15863
+2024-01-28 17:46:50+00:00,[User]_jvalente-salemstate,{'[User]_jvalente-salemstate'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15865
+2024-01-29 18:41:07+00:00,[User]_karenzone,"{'[User]_alstolten', '[User]_mashhurs', '[User]_karenzone'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15870
+2024-01-29 19:47:50+00:00,[User]_karenzone,{'[User]_karenzone'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15871
+2024-01-30 00:39:29+00:00,[User]_jvalente-salemstate,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15872
+2024-01-30 17:20:48+00:00,[User]_allen-gf,{'[User]_allen-gf'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15880
+2024-01-30 22:36:46+00:00,[User]_karenzone,{'[User]_karenzone'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15882
+2024-01-31 00:31:12+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15883
+2024-02-01 13:28:22+00:00,[User]_andsel,{'[User]_andsel'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15889
+2024-02-02 10:34:35+00:00,[User]_dliappis,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15890
+2024-02-05 14:36:17+00:00,[User]_c04x,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15896
+2024-02-05 15:00:47+00:00,[User]_c04x,set(),elastic/logstash,2024,https://github.com/elastic/logstash/pull/15897
+2024-02-06 15:45:02+00:00,[User]_dliappis,{'[User]_elasticmachine'},elastic/logstash,2024,https://github.com/elastic/logstash/pull/15905
+2024-02-06 16:25:18+00:00,[User]_mashhurs,{'[User]_roaksoax'},elastic/logstash,2024,https://github.com/elastic/logstash/pull/15906
+2024-02-07 09:58:01+00:00,[User]_Blefish,{'[User]_jsvd'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15913
+2024-02-07 14:26:45+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15914
+2024-02-07 16:58:44+00:00,[User]_kaisecheng,{'[User]_kaisecheng'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/15916
+2024-02-08 04:38:07+00:00,[User]_garethhumphriesgkc,"{'[User]_garethhumphriesgkc', '[User]_yaauie'}",elastic/logstash,2024,https://github.com/elastic/logstash/issues/15917
+2024-02-09 08:58:38+00:00,[User]_dliappis,"{'[User]_roaksoax', '[User]_andsel', '[User]_dliappis', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15926
+2024-02-09 12:45:51+00:00,[User]_andsel,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15927
+2024-02-09 17:05:27+00:00,[User]_edmocosta,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15930
+2024-02-09 21:13:33+00:00,[User]_karenzone,"{'[User]_yaauie', '[User]_karenzone'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15932
+2024-02-09 23:59:14+00:00,[User]_jmwilkinson,"{'[User]_mashhurs', '[User]_venktre'}",elastic/logstash,2024,https://github.com/elastic/logstash/issues/15933
+2024-02-12 15:39:41+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15937
+2024-02-13 14:50:04+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15940
+2024-02-14 19:20:11+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15947
+2024-02-19 18:00:51+00:00,[User]_dliappis,set(),elastic/logstash,2024,https://github.com/elastic/logstash/pull/15959
+2024-02-21 11:04:56+00:00,[User]_andsel,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15962
+2024-02-21 11:05:13+00:00,[User]_andsel,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15963
+2024-02-22 17:28:44+00:00,[User]_kaisecheng,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15968
+2024-02-23 16:17:14+00:00,[User]_joostdecock,{'[User]_joostdecock'},elastic/logstash,2024,https://github.com/elastic/logstash/pull/15974
+2024-02-23 22:11:10+00:00,[User]_mashhurs,"{'[User]_mashhurs', '[User]_dliappis', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15975
+2024-02-27 19:15:56+00:00,[User]_aaronabraham311,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15976
+2024-03-02 14:13:19+00:00,[User]_leron-lee,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15977
+2024-03-05 21:14:45+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15979
+2024-03-07 22:57:29+00:00,[User]_karenzone,"{'[User]_robbavey', '[User]_karenzone'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/15981
+2024-03-11 06:49:01+00:00,[User]_LiYuzhuo2020,"{'[User]_LiYuzhuo2020', '[User]_andsel'}",elastic/logstash,2024,https://github.com/elastic/logstash/issues/15988
+2024-03-11 12:33:51+00:00,[User]_jsvd,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15995
+2024-03-11 12:34:03+00:00,[User]_jsvd,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/15996
+2024-03-11 21:43:57+00:00,[User]_karenzone,"{'[User]_robbavey', '[User]_karenzone'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/16000
+2024-03-13 06:03:13+00:00,[User]_ravindraprasad85,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16006
+2024-03-13 17:48:53+00:00,[User]_yaauie,{'[User]_jsvd'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/16007
+2024-03-14 18:32:00+00:00,[User]_robbavey,{'[User]_yaauie'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/16008
+2024-03-20 00:22:38+00:00,[User]_yaauie,"{'[User]_mashhurs', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/16012
+2024-03-20 12:35:22+00:00,[User]_redcinelli,set(),elastic/logstash,2024,https://github.com/elastic/logstash/pull/16013
+2024-03-20 16:56:56+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16014
+2024-03-21 10:42:20+00:00,[User]_dhruvishah15,{'[User]_dhruvishah15'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/16017
+2024-03-21 12:40:39+00:00,[User]_Micheal-Madhan,"{'[User]_kaisecheng', '[User]_babudurairaji', '[User]_Micheal-Madhan'}",elastic/logstash,2024,https://github.com/elastic/logstash/issues/16018
+2024-03-21 13:10:41+00:00,[User]_dliappis,{'[User]_elasticmachine'},elastic/logstash,2024,https://github.com/elastic/logstash/pull/16019
+2024-03-21 22:30:47+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16020
+2024-03-21 23:42:54+00:00,[User]_karenzone,"{'[User]_flexitrev', '[User]_karenzone'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/16021
+2024-03-25 08:56:17+00:00,[User]_andsel,{'[User]_elasticmachine'},elastic/logstash,2024,https://github.com/elastic/logstash/pull/16023
+2024-03-25 10:26:21+00:00,[User]_nikhithakarennagari,"{'[User]_tsaarni', '[User]_andsel', '[User]_nikhithakarennagari'}",elastic/logstash,2024,https://github.com/elastic/logstash/issues/16025
+2024-03-26 18:36:26+00:00,[User]_walkerprog,"{'[User]_roaksoax', '[User]_andsel', '[User]_walkerprog', '[User]_localhorst-org', '[User]_jsvd', '[User]_gdsotirov', '[User]_MakoWish', '[User]_ejgh-oe'}",elastic/logstash,2024,https://github.com/elastic/logstash/issues/16034
+2024-03-27 16:21:28+00:00,[User]_mashhurs,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16036
+2024-03-28 14:06:10+00:00,[User]_andsel,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16042
+2024-03-28 17:18:26+00:00,[User]_barakharyati,{'[User]_yaauie'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/16044
+2024-03-28 23:08:36+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16045
+2024-04-02 12:29:28+00:00,[User]_andsel,{'[User]_yaauie'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/16051
+2024-04-05 00:18:56+00:00,[User]_yaauie,"{'[User]_kaisecheng', '[User]_andsel', '[User]_flexitrev', '[User]_jsvd', '[User]_robbavey', '[User]_yaauie'}",elastic/logstash,2024,https://github.com/elastic/logstash/issues/16056
+2024-04-05 13:43:14+00:00,[User]_jonaslb,"{'[User]_andsel', '[User]_jonaslb'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/16058
+2024-04-05 19:19:15+00:00,[User]_robbavey,"{'[User]_tianon', '[User]_robbavey', '[User]_jsvd', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/16063
+2024-04-05 22:04:37+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16064
+2024-04-05 22:09:16+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16065
+2024-04-08 09:16:39+00:00,[User]_jsvd,"{'[User]_kaisecheng', '[User]_elasticmachine'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/16070
+2024-04-09 09:01:00+00:00,[User]_andsel,{'[User]_dliappis'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/16073
+2024-04-09 13:42:04+00:00,[User]_robbavey,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16074
+2024-04-09 13:52:27+00:00,[User]_andsel,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16075
+2024-04-11 21:58:59+00:00,[User]_kaisecheng,{'[User]_andsel'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/16078
+2024-04-12 14:27:21+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16080
+2024-04-12 14:34:28+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16081
+2024-04-15 15:14:44+00:00,[User]_mao73a,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16082
+2024-04-16 10:19:32+00:00,[User]_andsel,"{'[User]_andsel', '[User]_jsvd', '[User]_karenzone', '[User]_roaksoax'}",elastic/logstash,2024,https://github.com/elastic/logstash/pull/16083
+2024-04-16 15:40:52+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16085
+2024-04-16 22:32:08+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16090
+2024-04-17 08:06:57+00:00,[User]_Roshan2346,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16091
+2024-04-17 14:10:14+00:00,[User]_Erikg346,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16093
+2024-04-17 21:19:31+00:00,[User]_MrAtheist,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16095
+2024-04-18 17:14:33+00:00,[User]_therth,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16096
+2024-04-19 18:33:01+00:00,[User]_woodywalton,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16098
+2024-04-20 01:04:30+00:00,[User]_ronaldpetty,"{'[User]_mashhurs', '[User]_ronaldpetty'}",elastic/logstash,2024,https://github.com/elastic/logstash/issues/16099
+2024-04-22 16:24:18+00:00,[User]_edmocosta,{'[User]_edmocosta'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/16100
+2024-04-22 20:43:31+00:00,[User]_robbavey,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16101
+2024-04-23 06:58:35+00:00,[User]_tailorzed,set(),elastic/logstash,2024,https://github.com/elastic/logstash/pull/16102
+2024-04-24 18:17:22+00:00,[User]_mashhurs,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16103
+2024-04-24 21:09:31+00:00,[User]_mashhurs,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16104
+2024-04-25 13:08:51+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16105
+2024-04-25 13:12:11+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16106
+2024-04-26 09:18:22+00:00,[User]_jonasLH4,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16112
+2024-04-29 09:45:36+00:00,[User]_Skyapip,{'[User]_jsvd'},elastic/logstash,2024,https://github.com/elastic/logstash/issues/16113
+2024-04-30 19:03:23+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16114
+2024-04-30 20:39:12+00:00,[User]_karenzone,set(),elastic/logstash,2024,https://github.com/elastic/logstash/issues/16115

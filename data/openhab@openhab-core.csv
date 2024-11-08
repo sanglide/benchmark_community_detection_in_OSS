@@ -1,0 +1,450 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-01 09:59:24+00:00,[User]_J-N-K,"{'[User]_robnielsen', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3587
+2023-05-01 17:16:13+00:00,[User]_kaikreuzer,"{'[User]_J-N-K', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3588
+2023-05-03 20:59:46+00:00,[User]_kaikreuzer,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3591
+2023-05-05 15:14:06+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3592
+2023-05-08 07:08:04+00:00,[User]_lolodomo,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3594
+2023-05-08 07:50:42+00:00,[User]_J-N-K,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3595
+2023-05-08 07:57:16+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3596
+2023-05-09 14:33:40+00:00,[User]_J-N-K,"{'[User]_lolodomo', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3598
+2023-05-09 16:32:45+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3599
+2023-05-10 08:33:23+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3600
+2023-05-10 11:45:51+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3601
+2023-05-10 11:58:10+00:00,[User]_spacemanspiff2007,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3602
+2023-05-10 14:07:16+00:00,[User]_spacemanspiff2007,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3603
+2023-05-10 14:12:36+00:00,[User]_spacemanspiff2007,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3604
+2023-05-11 07:56:42+00:00,[User]_lolodomo,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3606
+2023-05-12 16:57:53+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_lolodomo', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3607
+2023-05-13 09:48:18+00:00,[User]_J-N-K,"{'[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3609
+2023-05-13 15:47:55+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_florian-h05', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3611
+2023-05-13 18:27:53+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3612
+2023-05-14 09:05:11+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3613
+2023-05-14 10:13:13+00:00,[User]_J-N-K,"{'[User]_jlaur', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3614
+2023-05-15 05:15:22+00:00,[User]_spacemanspiff2007,"{'[User]_J-N-K', '[User]_spacemanspiff2007', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3615
+2023-05-17 19:03:11+00:00,[User]_lolodomo,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3617
+2023-05-18 07:05:37+00:00,[User]_J-N-K,"{'[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3618
+2023-05-19 09:13:44+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_spacemanspiff2007', '[User]_florian-h05', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3619
+2023-05-19 15:03:23+00:00,[User]_TheTrueRandom,"{'[User]_J-N-K', '[User]_TheTrueRandom', '[User]_rkoshak', '[User]_mhilbush'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3620
+2023-05-19 18:44:15+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3621
+2023-05-22 18:39:34+00:00,[User]_kaikreuzer,"{'[User]_J-N-K', '[User]_wborn', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3623
+2023-05-23 17:13:14+00:00,[User]_maniac103,"{'[User]_J-N-K', '[User]_mherwege', '[User]_maniac103', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3624
+2023-05-23 18:31:47+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3625
+2023-05-23 18:38:08+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3626
+2023-05-24 16:12:08+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3627
+2023-05-27 12:54:31+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3634
+2023-05-27 13:35:42+00:00,[User]_J-N-K,"{'[User]_TheTrueRandom', '[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3635
+2023-05-27 20:35:41+00:00,[User]_dilyanpalauzov,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3835
+2023-05-27 20:49:27+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_splatch', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3636
+2023-05-27 21:02:35+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3637
+2023-05-29 14:08:00+00:00,[User]_J-N-K,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3640
+2023-05-30 10:03:35+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3641
+2023-06-03 16:34:46+00:00,[User]_andrewfg,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3643
+2023-06-05 16:06:56+00:00,[User]_mherwege,"{'[User]_J-N-K', '[User]_mherwege', '[User]_spacemanspiff2007', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3644
+2023-06-06 15:38:12+00:00,[User]_J-N-K,{'[User]_wborn'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3645
+2023-06-07 18:19:53+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_splatch', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3646
+2023-06-08 11:11:10+00:00,[User]_florian-h05,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3647
+2023-06-08 12:29:33+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3649
+2023-06-12 00:12:18+00:00,[User]_TAKeanice,"{'[User]_J-N-K', '[User]_TAKeanice', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3652
+2023-06-16 19:34:14+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_florian-h05', '[User]_holgerfriedrich', '[User]_wborn', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3658
+2023-06-18 10:48:25+00:00,[User]_dilyanpalauzov,"{'[User]_rkoshak', '[User]_dilyanpalauzov'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3662
+2023-06-18 11:18:04+00:00,[User]_dilyanpalauzov,"{'[User]_J-N-K', '[User]_dilyanpalauzov'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3663
+2023-06-18 16:01:28+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3664
+2023-06-19 16:22:32+00:00,[User]_rkoshak,{'[User]_clinique'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3665
+2023-06-25 10:24:04+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3668
+2023-06-25 13:13:18+00:00,[User]_kaikreuzer,"{'[User]_J-N-K', '[User]_florian-h05', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3669
+2023-06-26 11:54:18+00:00,[User]_buguser1234,"{'[User]_rkoshak', '[User]_buguser1234', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3670
+2023-06-26 21:28:42+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3671
+2023-06-27 19:14:35+00:00,[User]_apella12,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3673
+2023-06-28 04:17:40+00:00,[User]_scotthraban,"{'[User]_J-N-K', '[User]_scotthraban'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3674
+2023-06-30 13:52:00+00:00,[User]_dalgwen,"{'[User]_kaikreuzer', '[User]_dalgwen', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3675
+2023-07-02 17:02:21+00:00,[User]_debug-richard,"{'[User]_wborn', '[User]_morph166955', '[User]_debug-richard', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3677
+2023-07-02 20:44:52+00:00,[User]_debug-richard,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3678
+2023-07-03 11:06:22+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3680
+2023-07-03 12:39:06+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_florian-h05', '[User]_splatch'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3681
+2023-07-03 18:35:10+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3682
+2023-07-03 18:35:41+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3683
+2023-07-03 19:00:20+00:00,[User]_J-N-K,"{'[User]_wborn', '[User]_boehan'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3684
+2023-07-05 18:09:48+00:00,[User]_lolodomo,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3687
+2023-07-05 19:39:26+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3688
+2023-07-06 13:44:45+00:00,[User]_Flole998,"{'[User]_J-N-K', '[User]_Flole998'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3689
+2023-07-06 14:41:50+00:00,[User]_morph166955,"{'[User]_J-N-K', '[User]_morph166955'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3690
+2023-07-06 19:34:10+00:00,[User]_lolodomo,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3691
+2023-07-06 21:16:59+00:00,[User]_proggprod,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3692
+2023-07-07 12:28:11+00:00,[User]_ifs-net,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3693
+2023-07-07 19:06:05+00:00,[User]_olili,"{'[User]_J-N-K', '[User]_MisterBJ', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3694
+2023-07-08 10:29:19+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_dalgwen', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3695
+2023-07-08 12:14:00+00:00,[User]_dilyanpalauzov,"{'[User]_J-N-K', '[User]_rkoshak', '[User]_dilyanpalauzov', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3696
+2023-07-10 19:50:59+00:00,[User]_GiviMAD,"{'[User]_J-N-K', '[User]_GiviMAD', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3698
+2023-07-12 11:53:36+00:00,[User]_dalgwen,"{'[User]_J-N-K', '[User]_dalgwen', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3699
+2023-07-12 21:17:56+00:00,[User]_mtraxiot,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3700
+2023-07-13 09:03:46+00:00,[User]_spacemanspiff2007,"{'[User]_spacemanspiff2007', '[User]_florian-h05'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3701
+2023-07-15 16:59:02+00:00,[User]_J-N-K,{'[User]_wborn'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3704
+2023-07-15 19:17:47+00:00,[User]_morph166955,{'[User]_morph166955'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3705
+2023-07-17 12:13:23+00:00,[User]_JoWutal,"{'[User]_JoWutal', '[User]_Flole998', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3706
+2023-07-17 14:55:31+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3708
+2023-07-17 18:49:38+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3710
+2023-07-18 05:12:04+00:00,[User]_spacemanspiff2007,"{'[User]_J-N-K', '[User]_rkoshak', '[User]_spacemanspiff2007'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3711
+2023-07-18 13:26:52+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_florian-h05', '[User]_ghys'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3712
+2023-07-19 17:40:27+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_wborn', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3714
+2023-07-20 14:31:24+00:00,[User]_florian-h05,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3716
+2023-07-20 15:17:12+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3717
+2023-07-21 14:31:31+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3719
+2023-07-21 14:52:15+00:00,[User]_kaikreuzer,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3720
+2023-07-21 17:29:47+00:00,[User]_Flole998,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3721
+2023-07-22 09:19:09+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3723
+2023-07-22 16:07:37+00:00,[User]_GiviMAD,"{'[User]_J-N-K', '[User]_GiviMAD', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3724
+2023-07-22 18:20:59+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3725
+2023-07-24 09:50:02+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_florian-h05'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3727
+2023-07-24 15:51:00+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_spacemanspiff2007', '[User]_florian-h05'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3729
+2023-07-24 17:09:53+00:00,[User]_J-N-K,"{'[User]_jlaur', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3730
+2023-07-26 08:05:02+00:00,[User]_thomas-roos,"{'[User]_rkoshak', '[User]_thomas-roos'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3731
+2023-07-28 08:21:58+00:00,[User]_mherwege,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3732
+2023-07-28 12:33:58+00:00,[User]_florian-h05,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3733
+2023-07-29 08:59:24+00:00,[User]_lolodomo,"{'[User]_wborn', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3734
+2023-07-30 08:18:48+00:00,[User]_lolodomo,"{'[User]_kaikreuzer', '[User]_mherwege', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3735
+2023-07-31 19:11:55+00:00,[User]_jlaur,"{'[User]_wborn', '[User]_jlaur'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3737
+2023-08-01 10:19:30+00:00,[User]_lsiepel,"{'[User]_J-N-K', '[User]_jimtng', '[User]_lsiepel', '[User]_holgerfriedrich', '[User]_wborn', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3738
+2023-08-03 09:21:43+00:00,[User]_lolodomo,"{'[User]_maniac103', '[User]_mueller-ma', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3740
+2023-08-03 20:58:27+00:00,[User]_TheTrueRandom,"{'[User]_J-N-K', '[User]_TheTrueRandom'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3741
+2023-08-05 14:38:15+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3742
+2023-08-08 16:46:15+00:00,[User]_kuczerek,"{'[User]_rkoshak', '[User]_kuczerek'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3745
+2023-08-09 06:50:19+00:00,[User]_LevinXX,"{'[User]_J-N-K', '[User]_LevinXX', '[User]_jlaur'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3746
+2023-08-11 19:27:21+00:00,[User]_lolodomo,"{'[User]_jsetton', '[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3749
+2023-08-11 20:33:45+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3750
+2023-08-12 09:52:19+00:00,[User]_J-N-K,{'[User]_wborn'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3751
+2023-08-12 18:59:04+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_wborn', '[User]_jlaur'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3754
+2023-08-14 00:07:33+00:00,[User]_mclassen2,"{'[User]_mclassen2', '[User]_wborn', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3757
+2023-08-16 17:42:33+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3760
+2023-08-17 15:47:09+00:00,[User]_florian-h05,"{'[User]_florian-h05', '[User]_ghys'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3761
+2023-08-18 20:28:31+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_jlaur'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3765
+2023-08-20 11:06:17+00:00,[User]_dalgwen,"{'[User]_J-N-K', '[User]_dalgwen'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3766
+2023-08-20 14:54:11+00:00,[User]_holgerfriedrich,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3767
+2023-08-21 05:41:19+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3768
+2023-08-21 17:45:06+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3770
+2023-08-21 20:13:46+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3772
+2023-08-22 00:02:51+00:00,[User]_jimtng,"{'[User]_jimtng', '[User]_wborn', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3774
+2023-08-22 03:24:14+00:00,[User]_jimtng,"{'[User]_jimtng', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3775
+2023-08-24 18:18:03+00:00,[User]_rkoshak,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3776
+2023-08-25 10:56:20+00:00,[User]_mstormi,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3777
+2023-08-26 09:24:20+00:00,[User]_dilyanpalauzov,"{'[User]_splatch', '[User]_rkoshak'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3778
+2023-08-26 14:15:51+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3780
+2023-08-26 21:33:52+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3781
+2023-08-26 21:59:22+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3782
+2023-08-27 17:32:42+00:00,[User]_lsiepel,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3783
+2023-08-28 13:55:15+00:00,[User]_dalgwen,"{'[User]_wborn', '[User]_dalgwen'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3785
+2023-08-28 19:06:21+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3786
+2023-08-28 20:50:02+00:00,[User]_wborn,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3787
+2023-08-30 10:31:55+00:00,[User]_wborn,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3788
+2023-09-02 03:20:01+00:00,[User]_morph166955,{'[User]_morph166955'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3794
+2023-09-07 09:38:57+00:00,[User]_mherwege,"{'[User]_wborn', '[User]_mherwege', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3795
+2023-09-08 16:43:01+00:00,[User]_J-N-K,{'[User]_wborn'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3796
+2023-09-09 08:43:20+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3797
+2023-09-09 22:53:07+00:00,[User]_GiviMAD,"{'[User]_GiviMAD', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3798
+2023-09-16 00:28:21+00:00,[User]_jpink,{'[User]_jpink'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3799
+2023-09-18 05:53:02+00:00,[User]_olili,{'[User]_florian-h05'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3801
+2023-09-18 08:46:10+00:00,[User]_jimtng,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3802
+2023-09-18 17:23:00+00:00,[User]_jimtng,{'[User]_jimtng'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3803
+2023-09-20 09:23:45+00:00,[User]_maniac103,"{'[User]_kaikreuzer', '[User]_maniac103', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3804
+2023-09-23 08:07:35+00:00,[User]_jimtng,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3808
+2023-09-23 08:25:37+00:00,[User]_lolodomo,"{'[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3809
+2023-09-24 07:49:46+00:00,[User]_lolodomo,"{'[User]_lolodomo', '[User]_jlaur', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3810
+2023-09-24 08:37:05+00:00,[User]_lolodomo,"{'[User]_wborn', '[User]_mherwege', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3811
+2023-09-25 10:42:05+00:00,[User]_mherwege,"{'[User]_lolodomo', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3812
+2023-09-26 15:43:33+00:00,[User]_lsafelix75,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3813
+2023-09-30 13:00:21+00:00,[User]_miwok72,"{'[User]_wborn', '[User]_miwok72'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3818
+2023-10-01 09:40:30+00:00,[User]_wborn,"{'[User]_jlaur', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3817
+2023-10-02 12:17:42+00:00,[User]_lolodomo,"{'[User]_kaikreuzer', '[User]_mherwege', '[User]_wborn', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3819
+2023-10-02 18:16:35+00:00,[User]_lolodomo,"{'[User]_kaikreuzer', '[User]_maniac103', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3820
+2023-10-03 09:11:52+00:00,[User]_splatch,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3823
+2023-10-03 09:51:45+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3824
+2023-10-03 13:46:34+00:00,[User]_ThaDaVos,"{'[User]_rkoshak', '[User]_ThaDaVos'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3825
+2023-10-04 10:22:02+00:00,[User]_wborn,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3827
+2023-10-06 13:47:59+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3828
+2023-10-06 16:18:22+00:00,[User]_DUSAG0211,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3829
+2023-10-06 18:08:41+00:00,[User]_mclassen2,"{'[User]_holgerfriedrich', '[User]_mclassen2'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3830
+2023-10-07 08:30:11+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3831
+2023-10-07 10:30:27+00:00,[User]_wborn,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3832
+2023-10-07 10:53:13+00:00,[User]_abbe79,{'[User]_abbe79'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3833
+2023-10-07 12:31:44+00:00,[User]_jimtng,"{'[User]_J-N-K', '[User]_wborn', '[User]_jimtng'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3834
+2023-10-08 13:14:14+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3836
+2023-10-08 15:16:25+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3837
+2023-10-08 22:28:07+00:00,[User]_florian-h05,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3838
+2023-10-09 18:24:59+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3840
+2023-10-09 23:14:36+00:00,[User]_jimtng,"{'[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3841
+2023-10-10 08:47:35+00:00,[User]_J-N-K,{'[User]_wborn'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3842
+2023-10-11 02:20:44+00:00,[User]_morph166955,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3843
+2023-10-11 22:25:12+00:00,[User]_genesis81,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3844
+2023-10-15 19:26:41+00:00,[User]_kaikreuzer,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3845
+2023-10-17 02:14:44+00:00,[User]_morph166955,"{'[User]_J-N-K', '[User]_morph166955'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3848
+2023-10-18 10:12:09+00:00,[User]_mherwege,"{'[User]_kaikreuzer', '[User]_mherwege', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3850
+2023-10-18 19:22:49+00:00,[User]_weberjn,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3851
+2023-10-19 14:49:52+00:00,[User]_weymann,"{'[User]_J-N-K', '[User]_rkoshak'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3852
+2023-10-20 15:04:04+00:00,[User]_fabgio,"{'[User]_rkoshak', '[User]_fabgio', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3855
+2023-10-24 00:26:20+00:00,[User]_erew123,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3862
+2023-10-29 06:23:42+00:00,[User]_giuseppe072000,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3857
+2023-11-01 10:06:46+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_spacemanspiff2007', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3859
+2023-11-02 16:38:15+00:00,[User]_robkamp,"{'[User]_J-N-K', '[User]_rkoshak', '[User]_robkamp'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3860
+2023-11-04 08:01:21+00:00,[User]_BasvanH,"{'[User]_J-N-K', '[User]_rkoshak', '[User]_BasvanH'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3861
+2023-11-05 14:45:22+00:00,[User]_theater,"{'[User]_J-N-K', '[User]_theater', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3864
+2023-11-06 16:54:32+00:00,[User]_andrewfg,"{'[User]_J-N-K', '[User]_andrewfg', '[User]_mherwege', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3865
+2023-11-08 06:00:43+00:00,[User]_spacemanspiff2007,"{'[User]_J-N-K', '[User]_spacemanspiff2007'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3866
+2023-11-09 07:22:52+00:00,[User]_holgerfriedrich,{'[User]_wborn'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3867
+2023-11-09 19:04:42+00:00,[User]_andrewfg,"{'[User]_J-N-K', '[User]_mherwege', '[User]_holgerfriedrich', '[User]_andrewfg', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3868
+2023-11-10 20:04:19+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3870
+2023-11-12 08:07:17+00:00,[User]_mueller-ma,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3872
+2023-11-15 09:33:54+00:00,[User]_wborn,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3873
+2023-11-15 19:28:48+00:00,[User]_joerg1985,"{'[User]_joerg1985', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3874
+2023-11-16 17:25:34+00:00,[User]_joerg1985,"{'[User]_joerg1985', '[User]_splatch', '[User]_wborn', '[User]_dilyanpalauzov', '[User]_spacemanspiff2007', '[User]_lolodomo', '[User]_calle2010', '[User]_henfiber', '[User]_rkoshak'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3875
+2023-11-20 20:04:35+00:00,[User]_ccutrer,"{'[User]_antroids', '[User]_ccutrer', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3877
+2023-11-21 17:28:36+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3879
+2023-11-22 00:02:58+00:00,[User]_x1mc,"{'[User]_x1mc', '[User]_kaikreuzer', '[User]_lolodomo', '[User]_clinique', '[User]_jlaur'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3881
+2023-11-22 23:00:06+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_kaikreuzer', '[User]_genesis81'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3882
+2023-11-23 05:09:06+00:00,[User]_spacemanspiff2007,{'[User]_spacemanspiff2007'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3883
+2023-11-23 17:06:07+00:00,[User]_joerg1985,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3884
+2023-11-24 20:17:24+00:00,[User]_joerg1985,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3885
+2023-11-25 14:31:37+00:00,[User]_wborn,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3886
+2023-11-25 15:08:56+00:00,[User]_jlaur,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3887
+2023-11-25 22:40:46+00:00,[User]_jlaur,"{'[User]_J-N-K', '[User]_jlaur'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3888
+2023-11-26 12:45:52+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3889
+2023-11-26 14:15:50+00:00,[User]_joerg1985,"{'[User]_rkoshak', '[User]_joerg1985', '[User]_morph166955', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3890
+2023-11-26 20:26:37+00:00,[User]_mueller-ma,"{'[User]_andrewfg', '[User]_maniac103', '[User]_mueller-ma', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3891
+2023-12-04 17:57:33+00:00,[User]_lolodomo,"{'[User]_kaikreuzer', '[User]_mherwege', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3898
+2023-12-06 20:23:22+00:00,[User]_lolodomo,"{'[User]_andrewfg', '[User]_mherwege', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3901
+2023-12-06 22:40:44+00:00,[User]_andrewfg,"{'[User]_andrewfg', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3903
+2023-12-08 00:53:43+00:00,[User]_holgerfriedrich,"{'[User]_J-N-K', '[User]_mherwege', '[User]_holgerfriedrich', '[User]_andrewfg', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3904
+2023-12-08 19:24:52+00:00,[User]_andrewfg,"{'[User]_andrewfg', '[User]_mherwege', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3905
+2023-12-09 12:43:29+00:00,[User]_lolodomo,"{'[User]_kaikreuzer', '[User]_wborn', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3906
+2023-12-09 13:38:57+00:00,[User]_kaikreuzer,"{'[User]_andrewfg', '[User]_mherwege'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3907
+2023-12-09 17:38:37+00:00,[User]_mherwege,"{'[User]_andrewfg', '[User]_mherwege', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3908
+2023-12-10 17:22:59+00:00,[User]_kaikreuzer,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3909
+2023-12-10 18:27:42+00:00,[User]_andrewfg,"{'[User]_andrewfg', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3910
+2023-12-11 00:01:04+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_andrewfg', '[User]_mherwege', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3912
+2023-12-11 08:05:00+00:00,[User]_mherwege,"{'[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3913
+2023-12-11 14:59:35+00:00,[User]_SteWers,{'[User]_SteWers'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3915
+2023-12-11 19:07:47+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3916
+2023-12-11 19:44:00+00:00,[User]_MikeTheTux,"{'[User]_J-N-K', '[User]_spacemanspiff2007', '[User]_MikeTheTux'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3917
+2023-12-12 15:36:27+00:00,[User]_andrewfg,"{'[User]_J-N-K', '[User]_andrewfg', '[User]_mherwege'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3918
+2023-12-13 18:42:47+00:00,[User]_andrewfg,"{'[User]_mherwege', '[User]_holgerfriedrich', '[User]_andrewfg', '[User]_wborn', '[User]_cdjackson'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3922
+2023-12-14 08:43:03+00:00,[User]_Cybso,"{'[User]_rkoshak', '[User]_wborn', '[User]_Cybso'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3923
+2023-12-14 09:11:53+00:00,[User]_mherwege,"{'[User]_J-N-K', '[User]_andrewfg', '[User]_mherwege', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3924
+2023-12-14 21:58:00+00:00,[User]_GiviMAD,"{'[User]_GiviMAD', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3925
+2023-12-16 11:51:18+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_andrewfg', '[User]_J-N-K'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3926
+2023-12-17 13:44:02+00:00,[User]_fd0cwp,"{'[User]_J-N-K', '[User]_fd0cwp'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3927
+2023-12-17 22:20:16+00:00,[User]_holgerfriedrich,"{'[User]_andrewfg', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3928
+2023-12-18 13:25:53+00:00,[User]_andrewfg,"{'[User]_mherwege', '[User]_holgerfriedrich', '[User]_andrewfg', '[User]_wborn', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3930
+2023-12-18 22:07:18+00:00,[User]_kaikreuzer,"{'[User]_J-N-K', '[User]_florian-h05'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3931
+2023-12-18 22:47:49+00:00,[User]_holgerfriedrich,{'[User]_wborn'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3932
+2023-12-19 10:50:48+00:00,[User]_andrewfg,"{'[User]_andrewfg', '[User]_wborn', '[User]_mherwege', '[User]_hmerk'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3933
+2023-12-19 16:26:09+00:00,[User]_andrewfg,"{'[User]_andrewfg', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3934
+2023-12-19 20:32:43+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3935
+2023-12-20 06:39:51+00:00,[User]_mueller-ma,"{'[User]_mherwege', '[User]_mueller-ma', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3937
+2023-12-20 08:18:01+00:00,[User]_lolodomo,"{'[User]_kaikreuzer', '[User]_mherwege', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3938
+2023-12-20 09:38:22+00:00,[User]_crazyelectron-io,{'[User]_rkoshak'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3939
+2023-12-20 10:58:16+00:00,[User]_kaikreuzer,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3940
+2023-12-20 10:58:47+00:00,[User]_jlaur,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3941
+2023-12-20 13:43:41+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_wborn', '[User]_kaikreuzer', '[User]_clinique', '[User]_jlaur'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3942
+2023-12-20 22:07:59+00:00,[User]_kaikreuzer,"{'[User]_J-N-K', '[User]_andrewfg', '[User]_mherwege', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3944
+2023-12-21 17:22:52+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_mherwege', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3948
+2023-12-21 20:43:08+00:00,[User]_kaikreuzer,"{'[User]_holgerfriedrich', '[User]_J-N-K', '[User]_mherwege', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3951
+2023-12-22 18:17:56+00:00,[User]_andrewfg,"{'[User]_holgerfriedrich', '[User]_andrewfg', '[User]_J-N-K'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3952
+2023-12-22 21:43:21+00:00,[User]_holgerfriedrich,"{'[User]_J-N-K', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3953
+2023-12-23 12:15:22+00:00,[User]_wborn,"{'[User]_holgerfriedrich', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3954
+2023-12-23 16:57:08+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3955
+2023-12-23 17:39:24+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3956
+2023-12-24 14:15:52+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_lolodomo', '[User]_wborn', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3957
+2023-12-24 15:01:22+00:00,[User]_dilyanpalauzov,"{'[User]_J-N-K', '[User]_dilyanpalauzov', '[User]_florian-h05', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3958
+2023-12-24 17:52:24+00:00,[User]_digitaldan,"{'[User]_J-N-K', '[User]_digitaldan'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3959
+2023-12-25 12:41:48+00:00,[User]_GiviMAD,"{'[User]_GiviMAD', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3960
+2023-12-25 19:14:54+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3961
+2023-12-26 17:21:39+00:00,[User]_andrewfg,"{'[User]_J-N-K', '[User]_andrewfg'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3963
+2023-12-26 18:32:57+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3964
+2023-12-27 08:21:02+00:00,[User]_lsiepel,"{'[User]_J-N-K', '[User]_wborn', '[User]_lsiepel'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3965
+2023-12-27 12:40:52+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_andrewfg'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3967
+2023-12-27 14:39:01+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3968
+2023-12-27 16:16:17+00:00,[User]_wborn,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3969
+2023-12-27 19:57:20+00:00,[User]_wborn,"{'[User]_holgerfriedrich', '[User]_J-N-K'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3971
+2023-12-27 21:22:22+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3972
+2023-12-27 21:36:25+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3973
+2023-12-28 07:52:23+00:00,[User]_spacemanspiff2007,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3974
+2023-12-28 09:39:05+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3975
+2023-12-28 20:33:45+00:00,[User]_dilyanpalauzov,"{'[User]_dilyanpalauzov', '[User]_mueller-ma', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3977
+2023-12-29 22:40:59+00:00,[User]_lolodomo,"{'[User]_wborn', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3980
+2023-12-29 23:48:36+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_wborn', '[User]_mherwege', '[User]_kaikreuzer'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3981
+2023-12-30 09:50:32+00:00,[User]_mvalla,"{'[User]_realPyR3X', '[User]_mvalla', '[User]_wborn'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3982
+2023-12-30 09:51:36+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_mherwege', '[User]_splatch', '[User]_andrewfg', '[User]_wborn', '[User]_lolodomo'}",openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3983
+2023-12-30 12:01:03+00:00,[User]_TimmiORG,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3984
+2023-12-30 14:49:09+00:00,[User]_mueller-ma,{'[User]_lolodomo'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3985
+2023-12-31 07:56:39+00:00,[User]_mueller-ma,set(),openhab/openhab-core,2023,https://github.com/openhab/openhab-core/issues/3988
+2023-12-31 10:34:10+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2023,https://github.com/openhab/openhab-core/pull/3989
+2024-01-01 18:43:35+00:00,[User]_kaikreuzer,{'[User]_kaikreuzer'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/3990
+2024-01-01 21:19:56+00:00,[User]_kaikreuzer,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/3991
+2024-01-02 09:21:59+00:00,[User]_mherwege,"{'[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/3993
+2024-01-02 13:50:52+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/3994
+2024-01-02 14:13:09+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/3995
+2024-01-02 16:42:28+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/3996
+2024-01-02 16:56:55+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/3997
+2024-01-02 17:11:25+00:00,[User]_sternegugger,"{'[User]_sternegugger', '[User]_rkoshak', '[User]_olili'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/3998
+2024-01-02 17:13:45+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/3999
+2024-01-02 17:28:16+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4000
+2024-01-02 18:32:06+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4001
+2024-01-02 19:54:37+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4002
+2024-01-02 21:00:54+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_morph166955'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4003
+2024-01-02 22:16:36+00:00,[User]_magx2,"{'[User]_splatch', '[User]_magx2'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4005
+2024-01-02 23:58:28+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4004
+2024-01-03 10:15:43+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4006
+2024-01-03 10:18:46+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4007
+2024-01-03 11:33:28+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4009
+2024-01-03 13:42:41+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4010
+2024-01-03 16:54:24+00:00,[User]_wborn,{'[User]_kaikreuzer'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4011
+2024-01-04 00:37:13+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_wborn', '[User]_mherwege'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4013
+2024-01-04 21:58:10+00:00,[User]_Piscator74,"{'[User]_Piscator74', '[User]_maniac103', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4014
+2024-01-04 22:35:15+00:00,[User]_kaikreuzer,"{'[User]_wborn', '[User]_kaikreuzer'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4015
+2024-01-05 12:04:45+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_jlaur', '[User]_kaikreuzer'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4016
+2024-01-05 12:56:02+00:00,[User]_jimtng,"{'[User]_jimtng', '[User]_maniac103', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4017
+2024-01-05 16:24:09+00:00,[User]_wborn,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4018
+2024-01-05 17:43:31+00:00,[User]_J-N-K,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4019
+2024-01-05 20:41:22+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_jlaur'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4020
+2024-01-05 22:45:11+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4021
+2024-01-06 00:07:25+00:00,[User]_vguna,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4022
+2024-01-06 20:08:34+00:00,[User]_wborn,"{'[User]_holgerfriedrich', '[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4023
+2024-01-06 20:53:06+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_wborn', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4024
+2024-01-07 16:01:05+00:00,[User]_jlaur,"{'[User]_J-N-K', '[User]_jlaur'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4026
+2024-01-09 15:05:29+00:00,[User]_radzik2024,"{'[User]_wborn', '[User]_radzik2024'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4028
+2024-01-10 00:27:18+00:00,[User]_morph166955,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4030
+2024-01-10 12:49:41+00:00,[User]_pelerner,"{'[User]_PottiMc', '[User]_pelerner', '[User]_wborn'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4031
+2024-01-10 20:45:06+00:00,[User]_GiviMAD,"{'[User]_GiviMAD', '[User]_kaikreuzer'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4032
+2024-01-11 21:38:07+00:00,[User]_wborn,"{'[User]_wborn', '[User]_jlaur', '[User]_kaikreuzer'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4033
+2024-01-12 18:11:56+00:00,[User]_wborn,{'[User]_kaikreuzer'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4035
+2024-01-13 21:41:33+00:00,[User]_jlaur,"{'[User]_holgerfriedrich', '[User]_mherwege', '[User]_jlaur'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4036
+2024-01-14 16:08:04+00:00,[User]_morph166955,{'[User]_morph166955'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4037
+2024-01-14 17:37:55+00:00,[User]_J-N-K,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4038
+2024-01-14 18:47:32+00:00,[User]_MikeTheTux,"{'[User]_J-N-K', '[User]_MikeTheTux'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4039
+2024-01-14 20:51:22+00:00,[User]_J-N-K,"{'[User]_wborn', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4040
+2024-01-14 20:52:28+00:00,[User]_wborn,"{'[User]_J-N-K', '[User]_wborn'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4041
+2024-01-15 17:26:37+00:00,[User]_mueller-ma,"{'[User]_mueller-ma', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4042
+2024-01-15 18:35:20+00:00,[User]_morph166955,"{'[User]_J-N-K', '[User]_morph166955'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4044
+2024-01-16 20:22:12+00:00,[User]_rkoshak,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4046
+2024-01-17 16:34:11+00:00,[User]_J-N-K,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4049
+2024-01-19 11:29:25+00:00,[User]_paulivde,"{'[User]_lolodomo', '[User]_rkoshak', '[User]_paulivde', '[User]_fibu-freak'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4050
+2024-01-19 15:36:29+00:00,[User]_CrysK,{'[User]_CrysK'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4051
+2024-01-20 02:51:40+00:00,[User]_Skinah,"{'[User]_wborn', '[User]_Skinah'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4052
+2024-01-20 19:56:48+00:00,[User]_lolodomo,"{'[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4054
+2024-01-20 20:19:46+00:00,[User]_mvalla,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4055
+2024-01-20 21:21:27+00:00,[User]_mvalla,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4056
+2024-01-21 14:35:33+00:00,[User]_J-N-K,{'[User]_kaikreuzer'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4057
+2024-01-23 10:31:07+00:00,[User]_jlaur,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4060
+2024-01-23 12:45:47+00:00,[User]_andrewfg,"{'[User]_holgerfriedrich', '[User]_andrewfg', '[User]_wborn', '[User]_mherwege'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4061
+2024-01-24 09:14:04+00:00,[User]_mherwege,{'[User]_andrewfg'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4062
+2024-01-24 15:13:18+00:00,[User]_jlaur,{'[User]_kaikreuzer'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4063
+2024-01-24 16:40:41+00:00,[User]_joerg1985,"{'[User]_J-N-K', '[User]_joerg1985'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4064
+2024-01-24 21:40:42+00:00,[User]_jlaur,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4065
+2024-01-26 15:13:52+00:00,[User]_mueller-ma,"{'[User]_mueller-ma', '[User]_florian-h05'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4066
+2024-01-26 16:15:22+00:00,[User]_joerg1985,"{'[User]_J-N-K', '[User]_clinique'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4067
+2024-01-27 13:59:56+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4068
+2024-01-27 15:51:32+00:00,[User]_jlaur,"{'[User]_J-N-K', '[User]_jlaur'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4069
+2024-01-27 17:03:51+00:00,[User]_mcclurej06,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4070
+2024-01-27 18:50:06+00:00,[User]_dilyanpalauzov,"{'[User]_rkoshak', '[User]_mherwege', '[User]_dilyanpalauzov', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4071
+2024-01-28 16:59:37+00:00,[User]_OlegAndreych,"{'[User]_rkoshak', '[User]_OlegAndreych'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4072
+2024-01-28 17:09:12+00:00,[User]_OlegAndreych,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4073
+2024-01-28 19:30:18+00:00,[User]_OlegAndreych,"{'[User]_rkoshak', '[User]_OlegAndreych'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4074
+2024-02-01 09:55:56+00:00,[User]_jimtng,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4076
+2024-02-02 15:19:21+00:00,[User]_rkoshak,"{'[User]_J-N-K', '[User]_andrewfg', '[User]_mherwege'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4077
+2024-02-02 16:07:10+00:00,[User]_mherwege,"{'[User]_J-N-K', '[User]_mherwege', '[User]_andrewfg', '[User]_spacemanspiff2007', '[User]_lolodomo', '[User]_rkoshak', '[User]_boehan', '[User]_jlaur'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4078
+2024-02-05 13:16:13+00:00,[User]_robertsLando,{'[User]_andrewfg'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4080
+2024-02-05 16:08:30+00:00,[User]_mvalla,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4081
+2024-02-06 18:49:35+00:00,[User]_andrewfg,"{'[User]_J-N-K', '[User]_andrewfg', '[User]_mherwege', '[User]_florian-h05'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4082
+2024-02-08 08:09:00+00:00,[User]_lolodomo,{'[User]_lolodomo'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4083
+2024-02-11 18:14:32+00:00,[User]_lolodomo,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4084
+2024-02-11 20:21:39+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_rkoshak', '[User]_spacemanspiff2007'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4085
+2024-02-11 20:38:44+00:00,[User]_J-N-K,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4086
+2024-02-12 07:19:58+00:00,[User]_spacemanspiff2007,"{'[User]_J-N-K', '[User]_spacemanspiff2007'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4087
+2024-02-13 14:35:00+00:00,[User]_jimtng,"{'[User]_J-N-K', '[User]_jimtng', '[User]_wborn'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4090
+2024-02-13 18:56:48+00:00,[User]_J-N-K,"{'[User]_wborn', '[User]_kaikreuzer'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4091
+2024-02-13 20:39:52+00:00,[User]_GiviMAD,"{'[User]_wborn', '[User]_GiviMAD'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4092
+2024-02-14 20:40:26+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_andrewfg', '[User]_mherwege'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4094
+2024-02-17 04:12:54+00:00,[User]_Skinah,"{'[User]_florian-h05', '[User]_Skinah'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4095
+2024-02-17 09:38:18+00:00,[User]_wborn,{'[User]_kaikreuzer'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4096
+2024-02-17 19:18:43+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_florian-h05', '[User]_kaikreuzer'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4097
+2024-02-18 14:19:28+00:00,[User]_wborn,{'[User]_kaikreuzer'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4098
+2024-02-19 17:54:40+00:00,[User]_ssalonen,"{'[User]_rkoshak', '[User]_ssalonen', '[User]_spacemanspiff2007'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4100
+2024-02-19 22:40:06+00:00,[User]_andrewfg,{'[User]_andrewfg'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4102
+2024-02-20 19:59:31+00:00,[User]_andrewfg,"{'[User]_andrewfg', '[User]_rkoshak', '[User]_mherwege', '[User]_florian-h05'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4103
+2024-02-21 14:43:20+00:00,[User]_andrewfg,{'[User]_andrewfg'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4104
+2024-02-21 20:07:38+00:00,[User]_dilyanpalauzov,"{'[User]_splatch', '[User]_dilyanpalauzov'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4105
+2024-02-22 11:57:42+00:00,[User]_mherwege,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4106
+2024-02-23 09:16:11+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_florian-h05'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4107
+2024-02-23 12:17:03+00:00,[User]_seime,"{'[User]_J-N-K', '[User]_spacemanspiff2007', '[User]_seime'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4108
+2024-02-23 13:12:07+00:00,[User]_jimtng,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4109
+2024-02-23 14:07:37+00:00,[User]_florian-h05,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4110
+2024-02-23 14:35:53+00:00,[User]_jimtng,"{'[User]_rkoshak', '[User]_jimtng'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4111
+2024-02-24 14:33:43+00:00,[User]_david-pace,"{'[User]_david-pace', '[User]_jlaur'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4112
+2024-02-24 14:51:51+00:00,[User]_david-pace,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4113
+2024-02-26 12:22:23+00:00,[User]_andrewfg,{'[User]_lolodomo'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4114
+2024-02-27 19:04:22+00:00,[User]_seime,"{'[User]_J-N-K', '[User]_kaikreuzer', '[User]_seime'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4115
+2024-02-28 00:29:09+00:00,[User]_dalgwen,"{'[User]_wborn', '[User]_jlaur'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4116
+2024-02-28 11:51:36+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_florian-h05'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4117
+2024-02-28 14:01:11+00:00,[User]_florian-h05,"{'[User]_florian-h05', '[User]_kaikreuzer'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4118
+2024-02-28 17:12:37+00:00,[User]_florian-h05,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4119
+2024-02-29 09:34:53+00:00,[User]_ArXa1L,"{'[User]_J-N-K', '[User]_ArXa1L'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4120
+2024-03-02 19:27:54+00:00,[User]_andrewfg,"{'[User]_holgerfriedrich', '[User]_andrewfg', '[User]_J-N-K', '[User]_genesis81'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4124
+2024-03-03 10:49:53+00:00,[User]_holgerfriedrich,{'[User]_holgerfriedrich'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4125
+2024-03-03 10:55:25+00:00,[User]_holgerfriedrich,{'[User]_kaikreuzer'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4126
+2024-03-03 18:32:36+00:00,[User]_kaikreuzer,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4127
+2024-03-04 18:56:36+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_dilyanpalauzov', '[User]_florian-h05'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4129
+2024-03-05 11:04:10+00:00,[User]_Flowdalic,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4131
+2024-03-05 19:06:47+00:00,[User]_lordjaxom,"{'[User]_lordjaxom', '[User]_mherwege'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4132
+2024-03-06 21:52:46+00:00,[User]_Hajuskin,"{'[User]_mueller-ma', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4173
+2024-03-07 16:23:53+00:00,[User]_joerg1985,"{'[User]_J-N-K', '[User]_joerg1985'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4136
+2024-03-07 16:34:19+00:00,[User]_mherwege,"{'[User]_J-N-K', '[User]_mherwege'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4137
+2024-03-09 10:08:15+00:00,[User]_nils,"{'[User]_J-N-K', '[User]_nils'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4139
+2024-03-10 14:18:20+00:00,[User]_GiviMAD,"{'[User]_J-N-K', '[User]_wborn', '[User]_GiviMAD', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4141
+2024-03-12 09:52:03+00:00,[User]_lavirott,"{'[User]_joerg1985', '[User]_lavirott'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4143
+2024-03-12 16:19:38+00:00,[User]_mherwege,"{'[User]_J-N-K', '[User]_joerg1985', '[User]_mherwege'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4144
+2024-03-12 19:44:41+00:00,[User]_dilyanpalauzov,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4146
+2024-03-12 21:52:59+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_florian-h05'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4147
+2024-03-13 10:38:21+00:00,[User]_florian-h05,{'[User]_kaikreuzer'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4148
+2024-03-14 22:08:41+00:00,[User]_jlaur,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4150
+2024-03-16 09:32:27+00:00,[User]_watou,"{'[User]_J-N-K', '[User]_watou'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4151
+2024-03-16 16:02:50+00:00,[User]_holgerfriedrich,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4152
+2024-03-16 16:03:20+00:00,[User]_holgerfriedrich,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4153
+2024-03-16 16:24:06+00:00,[User]_holgerfriedrich,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4154
+2024-03-18 18:59:41+00:00,[User]_jlaur,"{'[User]_J-N-K', '[User]_andrewfg'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4156
+2024-03-20 17:52:30+00:00,[User]_andrewfg,"{'[User]_andrewfg', '[User]_mherwege'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4157
+2024-03-22 17:21:26+00:00,[User]_holgerfriedrich,"{'[User]_J-N-K', '[User]_holgerfriedrich', '[User]_florian-h05', '[User]_kaikreuzer'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4158
+2024-03-25 12:49:54+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_florian-h05'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4159
+2024-03-25 19:22:29+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_florian-h05'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4160
+2024-03-25 23:15:52+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_calle2010', '[User]_wborn'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4161
+2024-03-26 00:24:59+00:00,[User]_florian-h05,"{'[User]_J-N-K', '[User]_jimtng', '[User]_florian-h05', '[User]_dilyanpalauzov', '[User]_stefan-hoehn'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4162
+2024-03-27 03:01:34+00:00,[User]_jpg0,"{'[User]_J-N-K', '[User]_mherwege', '[User]_rkoshak', '[User]_jpg0'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4163
+2024-04-01 09:48:02+00:00,[User]_lsiepel,"{'[User]_J-N-K', '[User]_andrewfg', '[User]_lsiepel'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4164
+2024-04-01 10:34:59+00:00,[User]_lolodomo,"{'[User]_wborn', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4165
+2024-04-03 12:07:13+00:00,[User]_andrewfg,"{'[User]_J-N-K', '[User]_holgerfriedrich', '[User]_jlaur'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4167
+2024-04-03 19:26:53+00:00,[User]_holgerfriedrich,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4168
+2024-04-04 13:44:09+00:00,[User]_mherwege,{'[User]_andrewfg'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4169
+2024-04-05 17:36:39+00:00,[User]_holgerfriedrich,{'[User]_kaikreuzer'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4171
+2024-04-05 23:14:15+00:00,[User]_lolodomo,"{'[User]_andrewfg', '[User]_kaikreuzer', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4172
+2024-04-07 13:21:35+00:00,[User]_holgerfriedrich,"{'[User]_holgerfriedrich', '[User]_wborn', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4174
+2024-04-07 18:54:26+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_mherwege', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4175
+2024-04-08 18:23:11+00:00,[User]_magx2,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4177
+2024-04-09 06:19:00+00:00,[User]_wborn,"{'[User]_wborn', '[User]_kaikreuzer'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4178
+2024-04-09 21:36:24+00:00,[User]_rkoshak,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4179
+2024-04-12 15:02:41+00:00,[User]_holgerfriedrich,"{'[User]_J-N-K', '[User]_andrewfg', '[User]_wborn', '[User]_holgerfriedrich'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4181
+2024-04-13 09:57:58+00:00,[User]_J-N-K,{'[User]_wborn'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4182
+2024-04-13 13:29:35+00:00,[User]_lolodomo,"{'[User]_mherwege', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4183
+2024-04-14 05:30:19+00:00,[User]_holgerfriedrich,"{'[User]_J-N-K', '[User]_holgerfriedrich'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4185
+2024-04-14 21:42:05+00:00,[User]_holgerfriedrich,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4187
+2024-04-17 09:42:56+00:00,[User]_mherwege,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4188
+2024-04-19 15:55:38+00:00,[User]_holgerfriedrich,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4190
+2024-04-20 18:39:32+00:00,[User]_florian-h05,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4192
+2024-04-21 08:42:48+00:00,[User]_lolodomo,"{'[User]_J-N-K', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4193
+2024-04-21 17:50:04+00:00,[User]_joerg1985,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4194
+2024-04-21 18:06:30+00:00,[User]_mueller-ma,"{'[User]_rkoshak', '[User]_mhilbush', '[User]_mueller-ma'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4195
+2024-04-24 20:03:54+00:00,[User]_holgerfriedrich,{'[User]_J-N-K'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4197
+2024-04-26 14:50:57+00:00,[User]_joerg1985,"{'[User]_holgerfriedrich', '[User]_joerg1985'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4198
+2024-04-27 09:50:18+00:00,[User]_J-N-K,"{'[User]_J-N-K', '[User]_holgerfriedrich', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4199
+2024-04-28 08:09:35+00:00,[User]_ssalonen,"{'[User]_J-N-K', '[User]_ssalonen'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4200
+2024-04-28 20:20:48+00:00,[User]_miloit,"{'[User]_miloit', '[User]_lolodomo'}",openhab/openhab-core,2024,https://github.com/openhab/openhab-core/issues/4201
+2024-04-28 21:46:44+00:00,[User]_GiviMAD,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4202
+2024-04-29 08:58:55+00:00,[User]_lolodomo,{'[User]_lolodomo'},openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4203
+2024-04-30 10:02:46+00:00,[User]_mherwege,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4204
+2024-04-30 19:08:54+00:00,[User]_lolodomo,set(),openhab/openhab-core,2024,https://github.com/openhab/openhab-core/pull/4205

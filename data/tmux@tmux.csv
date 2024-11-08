@@ -1,0 +1,96 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-07-19 14:41:24+00:00,[User]_liviurad,set(),tmux/tmux,2023,https://github.com/tmux/tmux/issues/3639
+2023-09-08 17:34:16+00:00,[User]_ceccopierangiolieugenio,set(),tmux/tmux,2023,https://github.com/tmux/tmux/issues/3687
+2023-09-24 12:40:03+00:00,[User]_zalza,set(),tmux/tmux,2023,https://github.com/tmux/tmux/issues/3705
+2023-10-07 16:20:47+00:00,[User]_freddieventura,set(),tmux/tmux,2023,https://github.com/tmux/tmux/issues/3710
+2023-10-08 02:09:29+00:00,[User]_systemmonkey42,set(),tmux/tmux,2023,https://github.com/tmux/tmux/issues/3712
+2023-10-12 01:53:39+00:00,[User]_clarkwang,set(),tmux/tmux,2023,https://github.com/tmux/tmux/issues/3719
+2023-10-13 02:46:45+00:00,[User]_rex-ludorum,"{'[User]_nicm', '[User]_rex-ludorum'}",tmux/tmux,2023,https://github.com/tmux/tmux/issues/3720
+2023-10-31 12:32:14+00:00,[User]_amigthea,{'[User]_amigthea'},tmux/tmux,2023,https://github.com/tmux/tmux/issues/3730
+2023-10-31 22:13:20+00:00,[User]_rockorager,set(),tmux/tmux,2023,https://github.com/tmux/tmux/issues/3732
+2023-11-01 04:25:22+00:00,[User]_philsauce,set(),tmux/tmux,2023,https://github.com/tmux/tmux/issues/3733
+2023-11-02 19:36:54+00:00,[User]_nataraj-hates-MS-for-stealing-github,"{'[User]_nicm', '[User]_nataraj-hates-MS-for-stealing-github'}",tmux/tmux,2023,https://github.com/tmux/tmux/issues/3736
+2023-11-03 02:50:50+00:00,[User]_janislley,"{'[User]_nicm', '[User]_janislley'}",tmux/tmux,2023,https://github.com/tmux/tmux/issues/3737
+2023-11-17 13:28:53+00:00,[User]_callms,{'[User]_nicm'},tmux/tmux,2023,https://github.com/tmux/tmux/issues/3748
+2023-12-08 22:02:30+00:00,[User]_gdkrmr,"{'[User]_lrfurtado', '[User]_nicm'}",tmux/tmux,2023,https://github.com/tmux/tmux/issues/3765
+2023-12-20 19:28:17+00:00,[User]_Susensio,"{'[User]_krader1961', '[User]_nicm', '[User]_Susensio'}",tmux/tmux,2023,https://github.com/tmux/tmux/issues/3776
+2023-12-24 18:24:50+00:00,[User]_ericpruitt,"{'[User]_nicm', '[User]_ericpruitt'}",tmux/tmux,2023,https://github.com/tmux/tmux/issues/3787
+2023-12-28 18:48:50+00:00,[User]_noscript,set(),tmux/tmux,2023,https://github.com/tmux/tmux/issues/3791
+2024-01-06 21:46:27+00:00,[User]_andreykaipov,"{'[User]_nicm', '[User]_andreykaipov'}",tmux/tmux,2024,https://github.com/tmux/tmux/pull/3798
+2024-01-07 07:55:21+00:00,[User]_unphased,"{'[User]_unphased', '[User]_krader1961', '[User]_nicm'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3799
+2024-01-07 21:21:58+00:00,[User]_sergei-grechanik,"{'[User]_sergei-grechanik', '[User]_nicm'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3802
+2024-01-09 08:44:31+00:00,[User]_nkoehring,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3804
+2024-01-10 16:16:38+00:00,[User]_Susensio,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3808
+2024-02-13 09:16:04+00:00,[User]_nicm,"{'[User]_vbauerster', '[User]_krader1961', '[User]_elidhu', '[User]_GrzegorzKozub', '[User]_casperklein', '[User]_iamralch', '[User]_smprather', '[User]_systemmonkey42', '[User]_Akhil-CM', '[User]_L1Q', '[User]_ngocphamm', '[User]_ViBiOh', '[User]_creaktive', '[User]_vladislavbailovic', '[User]_pqwy', '[User]_pepoluan', '[User]_druckdev', '[User]_rfrancoise', '[User]_godeater', '[User]_ffernand', '[User]_kuntau', '[User]_nicm', '[User]_nnovzver', '[User]_kevinkirkup', '[User]_michal-piekarski', '[User]_H4ckint0sh', '[User]_afh', '[User]_detroyejr', '[User]_DovieW'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3836
+2024-02-14 23:45:06+00:00,[User]_godeater,set(),tmux/tmux,2024,https://github.com/tmux/tmux/pull/3840
+2024-02-16 00:54:44+00:00,[User]_sblask,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3842
+2024-02-16 22:01:38+00:00,[User]_gpanders,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3847
+2024-02-24 04:42:48+00:00,[User]_qrockz,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3859
+2024-02-25 15:06:35+00:00,[User]_rfrancoise,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3860
+2024-02-29 08:35:23+00:00,[User]_marv,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3863
+2024-02-29 21:42:00+00:00,[User]_cgamiz,"{'[User]_cgamiz', '[User]_vincentbernat', '[User]_nicm', '[User]_rfrancoise'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3865
+2024-03-01 12:55:49+00:00,[User]_lobre,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3866
+2024-03-02 21:36:47+00:00,[User]_mgrant0,"{'[User]_mgrant0', '[User]_nicm'}",tmux/tmux,2024,https://github.com/tmux/tmux/pull/3869
+2024-03-05 21:20:25+00:00,[User]_chaosteil,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3871
+2024-03-06 21:17:47+00:00,[User]_realSaltyFish,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3872
+2024-03-07 02:57:32+00:00,[User]_borosai,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3873
+2024-03-09 12:07:34+00:00,[User]_Nymphium,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3877
+2024-03-10 17:09:10+00:00,[User]_joseluis,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3879
+2024-03-15 10:52:50+00:00,[User]_sjoegren,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3883
+2024-03-15 15:13:19+00:00,[User]_ucomru,"{'[User]_ucomru', '[User]_nicm'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3884
+2024-03-16 00:08:36+00:00,[User]_yashyr7,set(),tmux/tmux,2024,https://github.com/tmux/tmux/pull/3886
+2024-03-16 09:52:10+00:00,[User]_rylenko,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3888
+2024-03-18 02:54:04+00:00,[User]_jiahujiahu,set(),tmux/tmux,2024,https://github.com/tmux/tmux/pull/3890
+2024-03-18 03:12:21+00:00,[User]_jiahujiahu,set(),tmux/tmux,2024,https://github.com/tmux/tmux/pull/3891
+2024-03-18 03:21:32+00:00,[User]_jiahujiahu,"{'[User]_jiahujiahu', '[User]_krader1961', '[User]_nicm'}",tmux/tmux,2024,https://github.com/tmux/tmux/pull/3892
+2024-03-18 17:26:09+00:00,[User]_jcompose,{'[User]_jcompose'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3893
+2024-03-19 23:06:51+00:00,[User]_yashyr7,set(),tmux/tmux,2024,https://github.com/tmux/tmux/pull/3897
+2024-03-20 00:31:27+00:00,[User]_shrey079,set(),tmux/tmux,2024,https://github.com/tmux/tmux/pull/3898
+2024-03-20 00:39:30+00:00,[User]_shrey079,set(),tmux/tmux,2024,https://github.com/tmux/tmux/pull/3899
+2024-03-20 20:06:31+00:00,[User]_jiahujiahu,set(),tmux/tmux,2024,https://github.com/tmux/tmux/pull/3901
+2024-03-21 04:03:24+00:00,[User]_j352lin,"{'[User]_krader1961', '[User]_kittydoor', '[User]_j352lin'}",tmux/tmux,2024,https://github.com/tmux/tmux/pull/3902
+2024-03-21 05:18:54+00:00,[User]_jiahujiahu,set(),tmux/tmux,2024,https://github.com/tmux/tmux/pull/3903
+2024-03-21 11:27:56+00:00,[User]_FG-TUM,"{'[User]_egrajeda', '[User]_nicm', '[User]_FG-TUM'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3905
+2024-03-22 16:20:58+00:00,[User]_Master7130,"{'[User]_krader1961', '[User]_danielwikander', '[User]_ucomru', '[User]_nicm', '[User]_ThomasGHenry'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3907
+2024-03-25 18:26:01+00:00,[User]_jiahujiahu,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3908
+2024-03-26 15:06:13+00:00,[User]_musjj,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3910
+2024-03-28 03:10:52+00:00,[User]_GooVincent,"{'[User]_krader1961', '[User]_nicm', '[User]_GooVincent'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3911
+2024-03-29 07:18:09+00:00,[User]_SivanagBalla,"{'[User]_krader1961', '[User]_SivanagBalla'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3913
+2024-03-29 09:37:02+00:00,[User]_tmpm697,"{'[User]_nicm', '[User]_tmpm697'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3914
+2024-03-29 15:09:32+00:00,[User]_ferryman0608,"{'[User]_ferryman0608', '[User]_nicm'}",tmux/tmux,2024,https://github.com/tmux/tmux/pull/3915
+2024-03-30 13:43:20+00:00,[User]_Solarunit,{'[User]_Solarunit'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3917
+2024-03-30 13:51:52+00:00,[User]_Solarunit,"{'[User]_Solarunit', '[User]_successgo'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3918
+2024-04-01 15:02:48+00:00,[User]_dther,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3919
+2024-04-03 21:23:11+00:00,[User]_vimpostor,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3922
+2024-04-04 10:44:34+00:00,[User]_ncfavier,"{'[User]_ncfavier', '[User]_nicm'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3923
+2024-04-05 13:30:34+00:00,[User]_pyhedgehog,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3924
+2024-04-06 21:36:22+00:00,[User]_QuocAnhVu,"{'[User]_QuocAnhVu', '[User]_nicm'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3927
+2024-04-09 08:32:07+00:00,[User]_jwfang,"{'[User]_nicm', '[User]_jwfang'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3929
+2024-04-09 15:19:00+00:00,[User]_cache-missing,"{'[User]_rmGFW', '[User]_nicm', '[User]_cache-missing'}",tmux/tmux,2024,https://github.com/tmux/tmux/pull/3930
+2024-04-10 04:01:33+00:00,[User]_rmGFW,"{'[User]_rmGFW', '[User]_nicm'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3931
+2024-04-11 04:20:05+00:00,[User]_BenSYZ,"{'[User]_nicm', '[User]_BenSYZ'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3932
+2024-04-11 14:17:10+00:00,[User]_Biswa96,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3933
+2024-04-12 12:19:58+00:00,[User]_dove-young,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3934
+2024-04-12 17:12:59+00:00,[User]_s417-lama,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3935
+2024-04-13 07:53:53+00:00,[User]_LuMingYinDetect,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3937
+2024-04-13 08:08:15+00:00,[User]_LuMingYinDetect,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3938
+2024-04-13 08:14:55+00:00,[User]_LuMingYinDetect,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3939
+2024-04-13 08:27:22+00:00,[User]_LuMingYinDetect,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3940
+2024-04-13 16:19:44+00:00,[User]_Sberm,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3941
+2024-04-13 16:48:55+00:00,[User]_rmGFW,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3942
+2024-04-14 23:03:22+00:00,[User]_michalpokusa,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3943
+2024-04-16 19:44:43+00:00,[User]_vtk9,"{'[User]_kmarkley86', '[User]_cyanpencil', '[User]_yan12125'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3944
+2024-04-17 06:40:35+00:00,[User]_DorisCwq,"{'[User]_nicm', '[User]_DorisCwq'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3945
+2024-04-17 19:39:52+00:00,[User]_zhangjiakouzf,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3946
+2024-04-17 19:58:02+00:00,[User]_fawaf,"{'[User]_lwickline', '[User]_fawaf', '[User]_awalker4', '[User]_veryhappythings'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3947
+2024-04-19 06:36:10+00:00,[User]_yjcup,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3948
+2024-04-20 08:26:49+00:00,[User]_LuMingYinDetect,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3949
+2024-04-20 08:56:32+00:00,[User]_LuMingYinDetect,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3950
+2024-04-20 12:04:06+00:00,[User]_LuMingYinDetect,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3951
+2024-04-20 12:20:34+00:00,[User]_LuMingYinDetect,set(),tmux/tmux,2024,https://github.com/tmux/tmux/issues/3952
+2024-04-22 01:55:20+00:00,[User]_manangulati9,"{'[User]_nicm', '[User]_manangulati9', '[User]_kenlau46'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3954
+2024-04-23 03:53:37+00:00,[User]_rsmirnov90,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/issues/3955
+2024-04-26 21:53:26+00:00,[User]_egrajeda,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3958
+2024-04-26 22:25:29+00:00,[User]_stephenprater,"{'[User]_nicm', '[User]_stephenprater'}",tmux/tmux,2024,https://github.com/tmux/tmux/issues/3959
+2024-04-29 20:51:14+00:00,[User]_JoyceLin2020,{'[User]_nicm'},tmux/tmux,2024,https://github.com/tmux/tmux/pull/3961
+2024-04-29 21:02:44+00:00,[User]_JoyceLin2020,set(),tmux/tmux,2024,https://github.com/tmux/tmux/pull/3962

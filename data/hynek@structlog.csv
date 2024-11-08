@@ -1,0 +1,87 @@
+startTime,createUser,commentsUser,proj,year,url
+2023-05-04 20:27:57+00:00,[User]_wimglenn,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/issues/509
+2023-05-10 09:21:07+00:00,[User]_said-flawless,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/510
+2023-05-12 17:51:20+00:00,[User]_dijonkitchen,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/512
+2023-05-15 20:31:52+00:00,[User]_dijonkitchen,"{'[User]_hynek', '[User]_dijonkitchen'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/514
+2023-05-22 14:56:14+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/515
+2023-05-24 14:40:15+00:00,[User]_JakeSummers,"{'[User]_JakeSummers', '[User]_hynek', '[User]_suiluj'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/516
+2023-06-06 14:18:14+00:00,[User]_gaborbernat,"{'[User]_gaborbernat', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/518
+2023-06-09 06:33:32+00:00,[User]_hynek,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/519
+2023-06-13 16:45:53+00:00,[User]_karolinepauls,"{'[User]_bcdickinson', '[User]_karolinepauls', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/520
+2023-06-14 08:49:59+00:00,[User]_hynek,"{'[User]_hynek', '[User]_dabljues'}",hynek/structlog,2023,https://github.com/hynek/structlog/pull/521
+2023-06-14 10:02:02+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/522
+2023-06-14 11:10:48+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/523
+2023-06-15 18:48:10+00:00,[User]_meithecatte,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/issues/525
+2023-06-25 09:12:47+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/526
+2023-06-29 20:35:46+00:00,[User]_floxay,"{'[User]_hynek', '[User]_floxay'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/527
+2023-07-14 05:40:10+00:00,[User]_psdon,"{'[User]_psdon', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/529
+2023-07-15 11:34:28+00:00,[User]_alexcouper,"{'[User]_alexcouper', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/530
+2023-07-15 11:51:21+00:00,[User]_alexcouper,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/531
+2023-07-17 20:15:00+00:00,[User]_vincentqb,{'[User]_vincentqb'},hynek/structlog,2023,https://github.com/hynek/structlog/issues/532
+2023-07-22 15:08:51+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/533
+2023-07-22 15:16:22+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/534
+2023-07-27 06:51:20+00:00,[User]_jerr0328,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/535
+2023-07-27 20:38:30+00:00,[User]_kindaway,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/issues/536
+2023-08-02 07:24:55+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/issues/537
+2023-08-02 19:48:21+00:00,[User]_eumiro,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/538
+2023-08-05 19:41:38+00:00,[User]_alexpovel,"{'[User]_hynek', '[User]_alexpovel'}",hynek/structlog,2023,https://github.com/hynek/structlog/pull/539
+2023-08-18 21:57:09+00:00,[User]_macintacos,"{'[User]_macintacos', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/541
+2023-08-18 23:10:44+00:00,[User]_abramjstamper,"{'[User]_sshishov', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/542
+2023-08-24 12:53:49+00:00,[User]_gaganpreet,set(),hynek/structlog,2023,https://github.com/hynek/structlog/issues/543
+2023-08-25 11:40:27+00:00,[User]_mrenrich84,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/544
+2023-09-01 00:21:37+00:00,[User]_PixelSymbols,"{'[User]_PixelSymbols', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/545
+2023-09-04 16:42:37+00:00,[User]_suiluj,"{'[User]_hynek', '[User]_suiluj'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/546
+2023-09-07 05:25:46+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/548
+2023-09-07 06:45:08+00:00,[User]_hynek,{'[User]_KyleKing'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/549
+2023-09-07 07:02:12+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/550
+2023-09-12 09:42:46+00:00,[User]_fsc-eriker,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/issues/551
+2023-09-12 23:10:26+00:00,[User]_wimglenn,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/552
+2023-09-14 21:49:43+00:00,[User]_Cnoor0171,set(),hynek/structlog,2023,https://github.com/hynek/structlog/issues/553
+2023-09-28 09:10:49+00:00,[User]_jvacek,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/issues/555
+2023-09-28 15:03:34+00:00,[User]_NoamNol,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/556
+2023-10-02 23:57:00+00:00,[User]_mssalvatore,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/559
+2023-10-16 02:24:49+00:00,[User]_peterschutt,"{'[User]_hynek', '[User]_peterschutt'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/560
+2023-10-16 10:27:43+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/561
+2023-10-16 23:46:08+00:00,[User]_mssalvatore,"{'[User]_mssalvatore', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/562
+2023-10-18 00:46:31+00:00,[User]_d33m00n,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/issues/563
+2023-10-20 13:30:21+00:00,[User]_yauhen-sobaleu,"{'[User]_yauhen-sobaleu', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/564
+2023-10-20 15:43:36+00:00,[User]_pahrohfit,"{'[User]_pahrohfit', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/pull/565
+2023-10-30 09:25:39+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/566
+2023-10-30 13:51:06+00:00,[User]_pahrohfit,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/567
+2023-10-30 14:51:29+00:00,[User]_pahrohfit,"{'[User]_macintacos', '[User]_pahrohfit'}",hynek/structlog,2023,https://github.com/hynek/structlog/pull/568
+2023-11-01 01:51:43+00:00,[User]_pahrohfit,"{'[User]_pahrohfit', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/pull/569
+2023-11-02 02:28:19+00:00,[User]_pahrohfit,"{'[User]_pahrohfit', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/pull/570
+2023-11-02 15:37:59+00:00,[User]_bcdickinson,"{'[User]_pahrohfit', '[User]_bcdickinson'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/571
+2023-11-03 19:09:15+00:00,[User]_bcdickinson,"{'[User]_bcdickinson', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/pull/572
+2023-11-06 09:22:00+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/573
+2023-11-19 18:55:20+00:00,[User]_kindaway,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/issues/574
+2023-11-23 21:39:51+00:00,[User]_jashan05,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/issues/575
+2023-12-01 13:52:34+00:00,[User]_toadjaune,"{'[User]_toadjaune', '[User]_hynek'}",hynek/structlog,2023,https://github.com/hynek/structlog/issues/576
+2023-12-20 10:48:22+00:00,[User]_hynek,set(),hynek/structlog,2023,https://github.com/hynek/structlog/pull/577
+2023-12-29 15:08:02+00:00,[User]_Makaze,{'[User]_hynek'},hynek/structlog,2023,https://github.com/hynek/structlog/pull/578
+2024-01-03 06:52:28+00:00,[User]_kimsappi,"{'[User]_bcdickinson', '[User]_kimsappi', '[User]_hynek', '[User]_mvallebr'}",hynek/structlog,2024,https://github.com/hynek/structlog/issues/584
+2024-01-03 13:56:03+00:00,[User]_val-melev,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/issues/585
+2024-01-03 18:12:35+00:00,[User]_kimsappi,"{'[User]_albertferras-vrf', '[User]_hynek'}",hynek/structlog,2024,https://github.com/hynek/structlog/pull/586
+2024-01-04 07:36:57+00:00,[User]_wilfried-huss,"{'[User]_wilfried-huss', '[User]_hynek'}",hynek/structlog,2024,https://github.com/hynek/structlog/pull/587
+2024-01-16 21:32:49+00:00,[User]_gsemet,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/issues/588
+2024-01-18 11:55:11+00:00,[User]_petemounce,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/issues/589
+2024-01-23 18:09:12+00:00,[User]_jf2,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/issues/590
+2024-01-24 21:54:42+00:00,[User]_allonhadaya-maven,"{'[User]_P403n1x87', '[User]_mLupine', '[User]_hynek'}",hynek/structlog,2024,https://github.com/hynek/structlog/issues/591
+2024-01-29 10:34:57+00:00,[User]_madjar,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/pull/592
+2024-02-01 05:42:43+00:00,[User]_methane,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/pull/593
+2024-02-12 21:46:31+00:00,[User]_romulocollopy,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/pull/595
+2024-02-17 09:32:04+00:00,[User]_hynek,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/pull/597
+2024-02-21 17:33:23+00:00,[User]_begoon,"{'[User]_begoon', '[User]_hynek'}",hynek/structlog,2024,https://github.com/hynek/structlog/issues/598
+2024-02-22 17:06:09+00:00,[User]_begoon,"{'[User]_begoon', '[User]_hynek'}",hynek/structlog,2024,https://github.com/hynek/structlog/pull/599
+2024-02-28 12:05:38+00:00,[User]_BradleyKirton,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/pull/601
+2024-02-28 16:13:37+00:00,[User]_wochinge,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/issues/602
+2024-03-13 23:27:44+00:00,[User]_CarliJoy,"{'[User]_kieran-sf', '[User]_CarliJoy', '[User]_hynek'}",hynek/structlog,2024,https://github.com/hynek/structlog/pull/604
+2024-03-26 11:16:59+00:00,[User]_methane,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/pull/606
+2024-03-27 09:28:30+00:00,[User]_methane,"{'[User]_methane', '[User]_hynek'}",hynek/structlog,2024,https://github.com/hynek/structlog/pull/607
+2024-03-27 11:04:30+00:00,[User]_hynek,set(),hynek/structlog,2024,https://github.com/hynek/structlog/pull/608
+2024-03-28 04:11:42+00:00,[User]_methane,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/pull/609
+2024-03-29 02:51:14+00:00,[User]_Dankko0w0,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/issues/610
+2024-04-02 10:46:40+00:00,[User]_methane,{'[User]_hynek'},hynek/structlog,2024,https://github.com/hynek/structlog/pull/612
+2024-04-05 15:41:54+00:00,[User]_oscaroteromar,set(),hynek/structlog,2024,https://github.com/hynek/structlog/issues/613
+2024-04-12 18:32:54+00:00,[User]_mosbasik,set(),hynek/structlog,2024,https://github.com/hynek/structlog/pull/614
+2024-04-18 16:49:47+00:00,[User]_IanTaylorFB,set(),hynek/structlog,2024,https://github.com/hynek/structlog/issues/615
