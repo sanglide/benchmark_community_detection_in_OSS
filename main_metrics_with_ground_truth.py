@@ -23,9 +23,6 @@ parser.add_argument("proj", help="the proj's name")
 args = parser.parse_args()
 
 def load_communities(file_path):
-    """
-    使用pickle加载保存的NodeClustering对象。
-    """
     if not os.path.exists(file_path):
         return "false"
     with open(file_path, 'rb') as f:
@@ -111,7 +108,6 @@ def main_metric_with_ground_truth(proj):
         dict[f'{n_l1}_{n_l2}'] = main_non_overlapping_metrics_with_groundtruth(G, partition,ground_truth)
 
 
-    # 将字典序列化为JSON格式的字符串
     json_data = json.dumps(dict)
 
     # 将JSON字符串写入到文件

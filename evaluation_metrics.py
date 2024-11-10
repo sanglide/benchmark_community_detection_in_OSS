@@ -20,21 +20,11 @@ if '/' in proj:
 
 
 def load_communities(file_path):
-    """
-    使用pickle加载保存的NodeClustering对象。
-    """
     with open(file_path, 'rb') as f:
         return pickle.load(f)
 
 
 def convert_communities_to_labels(communities):
-    """
-    返回按照字典序排序后的所有节点对应的社区编号列表
-    示例：
-        输入：[[a, b, d], [c, e], [g]]
-        返回：[0, 0, 1, 0, 1, 2]
-    返回值：
-    """
     labels = {}
     for label, community in enumerate(communities):
         for node in community:
@@ -45,49 +35,31 @@ def convert_communities_to_labels(communities):
 
 
 def evaluate_nmi(community1, community2):
-    """
-    通过NMI计算community1和community2之间的相似度
-    """
     nmi_score = evaluation.normalized_mutual_information(community1, community2)
     return nmi_score.score
 
 
 def evaluate_ami(community1, community2):
-    """
-    通过AMI计算community1和community2之间的相似度
-    """
     ami_score = evaluation.adjusted_mutual_information(community1, community2)
     return ami_score.score
 
 
 def evaluate_ari(community1, community2):
-    """
-    通过ARI计算community1和community2之间的相似度
-    """
     ari_score = evaluation.adjusted_rand_index(community1, community2)
     return ari_score.score
 
 
 def evaluate_f1(community1, community2):
-    """
-        通过F1-score计算community1和community2之间的相似度
-    """
     f1_score = evaluation.nf1(community1, community2)
     return f1_score.score
 
 
 def evaluate_weighted_modularity(graph, communities):
-    """
-        通过modularity计算communities的聚类效果
-    """
     modularity_score = evaluation.newman_girvan_modularity(graph, communities)
     return modularity_score.score
 
 
 def apply_all_evaluation(communities):
-    """
-        对communities调用除了modularity外的四种评估，并返回相似程度的字典
-    """
     print("Evaluating the algorithms using Ground-Truth-Based Evaluation Metrics...")
     result_dic = {"NMI": {}, "AMI": {}, "ARI": {}, "F1": {}}
     for method in result_dic:
@@ -113,9 +85,6 @@ def apply_all_evaluation(communities):
 
 
 def apply_modularity_evaluation(graph, communities):
-    """
-    对communities调用modularity评估，并返回评估结果的字典
-    """
     print("Evaluating the algorithms using weighted modularity...")
     result_dic = {}
     for algo in communities:
@@ -126,9 +95,6 @@ def apply_modularity_evaluation(graph, communities):
 
 
 def draw_heatmap(method, evaluation_results):
-    """
-         绘制method与其他检测方法的社区检测结果的相似度热力图，modularity除外
-    """
     result = evaluation_results[method]
     algorithms = list(result.keys())
     similarity_matrix = np.zeros((len(algorithms), len(algorithms)))
@@ -154,9 +120,6 @@ def draw_heatmap(method, evaluation_results):
 
 
 def draw_bar_graph(method, modularity_result):
-    """
-        利用modularity评估所有社区检测方法的检测结果，绘制柱状图
-    """
     algorithms = list(modularity_result.keys())
     scores = list(modularity_result.values())
 
@@ -196,12 +159,10 @@ modularity_result = apply_modularity_evaluation(G, all_communities)
 # print(modularity_result)
 
 
-# 绘制评估结果图
 for method in evaluation_result:
     draw_heatmap(method, evaluation_result)
 draw_bar_graph("Modularity", modularity_result)
 
-# 保存评估结果
 evaluation_result["Modularity"] = modularity_result
 with open(f'outputs/non_overlap_res_{proj}.json', 'w') as json_file:
     json.dump(evaluation_result, json_file, indent=4)
@@ -211,33 +172,21 @@ with open(f'outputs/non_overlap_res_{proj}.json', 'w') as json_file:
 
 
 def evaluate_overlapping_modularity(graph, communities):
-    """
-    评估overlapping社区的模块度
-    """
     modularity_score = evaluation.modularity_overlap(graph, communities)
     return modularity_score.score
 
 
 def evaluate_omega_index(community1, community2):
-    """
-    评估overlapping社区的OMEGA Index
-    """
     omega_score = evaluation.omega(community1, community2)
     return omega_score.score
 
 
 def evaluate_onmi(community1, community2):
-    """
-    评估overlapping社区的Overlapping Normalized Mutual Information
-    """
     onmi_score = evaluation.overlapping_normalized_mutual_information_LFK(community1, community2)
     return onmi_score.score
 
 
 def apply_all_overlapping_evaluation(communities):
-    """
-    对overlapping社区进行评估，并返回评估结果的字典
-    """
     print("Evaluating overlapping community detection algorithms...")
     result_dic = {"Overlapping Modularity": {}, "OMEGA Index": {}, "ONMI": {}}
     for method in result_dic:
@@ -248,7 +197,6 @@ def apply_all_overlapping_evaluation(communities):
     # G = nx.karate_club_graph()
 
     for algo1 in communities:
-        # 每个communities是一种算法产生的图
         community1 = communities[algo1]
         result_dic["Overlapping Modularity"][algo1] = evaluate_overlapping_modularity(G, community1)
 
@@ -263,24 +211,6 @@ def apply_all_overlapping_evaluation(communities):
             result_dic["ONMI"][algo1][algo2] = onmi
 
     return result_dic
-
-
-# def ensure_full_coverage(community_obj):
-#     all_nodes = community_obj.graph.nodes
-#     covered_nodes = set()
-#     for community in community_obj.communities:
-#         covered_nodes.update(community)
-#
-#     uncovered_nodes = all_nodes - covered_nodes
-#     # 将每个未覆盖的节点作为单独的社区加入
-#     new_communities = community_obj.communities.copy()
-#     new_communities.extend([[node] for node in uncovered_nodes])
-#
-#     # 返回一个新的NodeClustering对象，包括了所有节点
-#     from cdlib import NodeClustering
-#     return NodeClustering(new_communities, graph=community_obj.graph, method_name=community_obj.method_name,
-#                           method_parameters=community_obj.method_parameters)
-
 def ensure_full_coverage(community_obj):
     all_nodes = community_obj.graph.nodes
     covered_nodes = set()
@@ -288,12 +218,10 @@ def ensure_full_coverage(community_obj):
         covered_nodes.update(community)
 
     uncovered_nodes = all_nodes - covered_nodes
-    # 将所有未覆盖的节点作为一个社区加入
     new_communities = community_obj.communities.copy()
     if uncovered_nodes:
         new_communities.append(list(uncovered_nodes))
 
-    # 返回一个新的NodeClustering对象，包括了所有节点
     from cdlib import NodeClustering
     return NodeClustering(new_communities, graph=community_obj.graph, method_name=community_obj.method_name,
                           method_parameters=community_obj.method_parameters)
@@ -311,12 +239,10 @@ all_communities = {name: ensure_full_coverage(comm) for name, comm in all_commun
 
 evaluation_result = apply_all_overlapping_evaluation(all_communities)
 
-# 绘制重叠社区的评估结果图
 for method in ["OMEGA Index", "ONMI"]:
     draw_heatmap(method, evaluation_result)
 draw_bar_graph('Modularity overlap', evaluation_result["Overlapping Modularity"])
 
-# 保存评估结果
 evaluation_result["modularity"] = modularity_result
 with open(f'outputs/overlap_res_{proj}.json', 'w') as json_file:
     json.dump(evaluation_result, json_file, indent=4)

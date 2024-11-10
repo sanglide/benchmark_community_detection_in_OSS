@@ -44,21 +44,17 @@ parser = argparse.ArgumentParser()
 parser.add_argument("proj", help="the proj's name")
 args = parser.parse_args()
 
-# 读取图
 G = nx.read_graphml(f'{prefix}temp/graphs/{args.proj.replace("/","@")}-graph.graphml')
 # G = nx.karate_club_graph()
 
-# K-Clique算法
 print("Running K-Clique...")
 communities_kclique = algorithms.kclique(G, k=6)
 print("K-Clique is done.")
 
-# SLPA算法
 print("Running SLPA...")
 communities_slpa = algorithms.slpa(G)
 print("SLPA is done.")
 
-# DEMON算法
 print("Running DEMON...")
 communities_demon = algorithms.demon(G, min_com_size=3, epsilon=0.25)
 print("DEMON is done.")
@@ -66,23 +62,13 @@ print("DEMON is done.")
 avg_communities = round((len(communities_kclique.communities)+len(communities_slpa.communities)+
                          +len(communities_demon.communities))/3)
 
-# LEMON算法
 all_nodes = list(G.nodes())
 random_seeds = random.sample(all_nodes, avg_communities)
 print("Running LEMON...")
 communities_lemon = get_all_communities_by_lemon(G)
 print("LEMON is done.")
 
-# avg_communities = round((len(communities_kclique.communities)+len(communities_slpa.communities)+
-#                          len(communities_lemon.communities)+len(communities_demon.communities))/4)
-#
-# CONGA算法
-# print("Running CONGA...")
-# communities_conga = algorithms.conga(G)
-# print("CONGA is done.")
 
-
-# Save communities
 def save_communities(community_obj, name,proj):
     if not os.path.exists(f'{prefix}temp/communities'):
         os.makedirs(f'{prefix}temp/communities')

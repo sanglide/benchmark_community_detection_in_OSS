@@ -172,15 +172,6 @@ def save_communities(community_obj, name,index):
 def generate_communities(G,index):
     print(f'*** the {index}-th net is detected ***')
 
-    # Girvan-Newman算法
-    # print("Running Girvan-Newman...")
-    # communities_gn = algorithms.girvan_newman(G, level=3)
-    # draw_LFR_graph(G,communities_gn.communities,f'{index}-GirvanNewman')
-    # print("Girvan-Newman is done.")
-    # save_communities(communities_gn, 'Girvan-Newman',index)
-
-
-    # Louvain算法
     print("Running Louvain...")
     communities_louvain = algorithms.louvain(G)
     draw_LFR_graph(G,communities_louvain.communities,f'{index}-louvain')
@@ -188,14 +179,12 @@ def generate_communities(G,index):
     save_communities(communities_louvain, 'Louvain',index)
 
 
-    # CNM算法
     print("Running CNM...")
     communities_cnm = algorithms.greedy_modularity(G)
     draw_LFR_graph(G,communities_cnm.communities,f'{index}-CNM')
     print("CNM is done.")
     save_communities(communities_cnm, 'CNM',index)
 
-    # LPA算法
     print("Running LPA...")
     communities_lpa = algorithms.label_propagation(G)
     draw_LFR_graph(G,communities_lpa.communities,f'{index}-LPA')
@@ -203,7 +192,6 @@ def generate_communities(G,index):
     save_communities(communities_lpa, 'LPA',index)
 
 
-    # Infomap算法
     print("Running Infomap...")
     communities_infomap = algorithms.infomap(G)
     draw_LFR_graph(G,communities_infomap.communities,f'{index}-Infomap')
@@ -211,7 +199,6 @@ def generate_communities(G,index):
     save_communities(communities_infomap, 'Infomap',index)
 
 
-    # Eigenvector算法
     print("Running Eigenvector...")
     communities_eig = algorithms.eigenvector(G)
     draw_LFR_graph(G,communities_eig.communities,f'{index}-Eigenvector')
@@ -219,12 +206,10 @@ def generate_communities(G,index):
     save_communities(communities_eig, 'Eigenvector',index)
 
 
-    # 计算平均社区数量
     avg_communities = round((+len(communities_louvain.communities)+len(communities_lpa.communities)+
                             len(communities_infomap.communities)+len(communities_eig.communities))/4)
     # print("avg_com:", avg_communities)
 
-    # AGDL算法
     print("Running AGDL...")
     communities_agdl = algorithms.agdl(G, number_communities=avg_communities, kc=10)
     draw_LFR_graph(G,communities_agdl.communities,f'{index}-AGDL')
@@ -232,7 +217,6 @@ def generate_communities(G,index):
     save_communities(communities_agdl, 'AGDL',index)
 
 
-    # EM算法
     print("Running EM...")
     communities_em = algorithms.em(G, k=avg_communities)
     draw_LFR_graph(G,communities_em.communities,f'{index}-EM')
@@ -251,7 +235,6 @@ def store_metrics_by_lfr_algo_groundtruth():
 
 
 
-    # 获取文件夹下所有文件和文件夹的名字
     filenames = os.listdir(input_path)
     filenames.sort()
     print(filenames)
@@ -315,10 +298,8 @@ def lfr_metrics_with_ground_truth(G,index):
             dict[f'{n_l1}_groundtruth'] = main_non_overlapping_metrics_with_groundtruth(G, partition,ground_truth)
 
 
-    # 将字典序列化为JSON格式的字符串
     json_data = json.dumps(dict)
 
-    # 将JSON字符串写入到文件
     with open(f'{prefix}outputs/lfr-ground-truth-metrics/{index}-lfr-result.json', 'w') as f:
         f.write(json_data)
 

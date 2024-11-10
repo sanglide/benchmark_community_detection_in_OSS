@@ -24,21 +24,6 @@ def get_model_communities_modularity(G,partition):
     except:
         return ""
     return m
-'''
-----------------------------------------------------
-Popular and Complex Metrics Exploring Network Properties in Depth.
-
-todo:这里有很多种modularity的定义，这里先写了上面的最简单的一种，其他如果需要再说
-
-Community Score: get_community_score(G,partition)
-SPart: get_SPart(G,partition)
-Significance: get_significance(G,partition)
-Permanence: get_permanence(G,partition)
-Surprise: get_surprise(G,partition)
-Communitude: get_communitude(G,partition)
-
-'''
-
 def convert_to_nx_partition(node_clustering):
     partition = {}
     for community_id, community in enumerate(node_clustering):

@@ -12,9 +12,6 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 
 def run_script(script_path, *args):
-    """
-    运行位于 script_path 的 Python 脚本，附带 args 参数。
-    """
     command = ["python", script_path] + list(args)
     try:
         subprocess.run(command, check=True)
@@ -66,7 +63,6 @@ def delete_file(file_path):
         print(f"An error occurred while trying to delete the file: {e}")
 
 if __name__ == '__main__':
-    # 加载项目列表和数据文件
     system = platform.system()
     if system == 'Windows':
         project_df = pd.read_csv('../data-2964/project_list.csv')
@@ -96,9 +92,6 @@ if __name__ == '__main__':
     # run_script(prefix+"LFR_network.py")
 
     projects = project_df['Repo'].unique()
-    # 暂时使用其中一个仓库
-    # projects = ['activemerchant/active_merchant']
-    # 遍历项目列表中的每个仓库
     
     proj_df=pd.read_csv(f"{prefix}temp/project_list_filter.csv")
     projects=proj_df['proj'].tolist()

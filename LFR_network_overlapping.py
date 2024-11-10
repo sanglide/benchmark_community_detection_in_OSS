@@ -88,16 +88,12 @@ def draw_LFR_graph(G,communities,filename):
 
 def no_console_output(func):
     def wrapper(*args, **kwargs):
-        # 保存当前的标准输出
         original_stdout = sys.stdout
-        # 打开一个空文件进行重定向
         with open(r'nul', 'w') as devnull:
             sys.stdout = devnull
             try:
-                # 调用目标函数
                 result = func(*args, **kwargs)
             finally:
-                # 恢复标准输出
                 sys.stdout = original_stdout
         return result
     return wrapper
@@ -184,28 +180,24 @@ def get_all_communities_by_lemon(G):
     return c_N_c
 
 def generate_communities(G,index):
-    # K-Clique算法
     print("Running K-Clique...")
     communities_kclique = algorithms.kclique(G, k=4)
     draw_LFR_graph(G,communities_kclique.communities,f'{index}-Kclique')
     save_communities(communities_kclique, 'Kclique',index)
     print("K-Clique is done.")
 
-    # SLPA算法
     print("Running SLPA...")
     communities_slpa = algorithms.slpa(G)
     save_communities(communities_slpa, 'SLPA',index)
     draw_LFR_graph(G,communities_slpa.communities,f'{index}-SLPA')
     print("SLPA is done.")
 
-    # DEMON算法
     print("Running DEMON...")
     communities_demon = algorithms.demon(G, min_com_size=3, epsilon=0.25)
     save_communities(communities_demon, 'DEMON',index)
     draw_LFR_graph(G,communities_demon.communities,f'{index}-DEMON')
     print("DEMON is done.")
 
-    # LEMON算法
     print("Running LEMON...")
 
     communities_lemon=get_all_communities_by_lemon(G)
@@ -235,7 +227,6 @@ def metrics_lfr_network_overlapping(index):
         dict[f'{alg}_groundtruth'] = main_overlapping_metrics_with_groundtruth(G, partition,ground_truth_NC)
     json_data = json.dumps(dict)
 
-    # 将JSON字符串写入到文件
     with open(f'{prefix}outputs/lfr-ground-truth-metrics/{index}-lfr-result-overlapping.json', 'w') as f:
         f.write(json_data)
 

@@ -74,10 +74,8 @@ def generate_metrics_for_community_detection(proj):
             continue
         dict[n_l]=main_non_overlapping_metrics(G, partition)
 
-    # 将字典序列化为JSON格式的字符串
     json_data = json.dumps(dict)
 
-    # 将JSON字符串写入到文件
     with open(f'{prefix}outputs/metrics/{args.proj.replace("/","@")}.json', 'w') as f:
         f.write(json_data)
 

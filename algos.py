@@ -2,18 +2,12 @@ from infomap import Infomap
 
 
 def custom_infomap(G):
-    """
-        输入无向赋权图G，输出infomap算法对G的社区发现结果
-    """
 
     integer_to_string = {}
     string_to_integer = {}
     counter = 0
 
     def map_string_to_integer(string):
-        """
-            将string映射到自然数
-        """
         nonlocal counter
         if string not in integer_to_string.values():
             string_to_integer[string] = counter

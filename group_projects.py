@@ -15,16 +15,7 @@ elif system == 'Linux':
 parser = argparse.ArgumentParser()
 parser.add_argument("proj", help="project name")
 args = parser.parse_args()
-'''
-统计数据集中图的以下性质：
-（1）每个节点的度遵从什么分布，或者是平均度是什么
-（2）社区的大小遵从什么分布，或者是社区大小和节点总数有什么关系
-（3）<k>平均度
-（4）混合参数μ算出来是多少,因为是现实社区，所以μ不是一个定值，而是每个社区都有，先看看，后面考虑求平均之类的
 
-这个文件里面的partition是一个dict，key是社区编号，value是社区node的list
-
-'''
 def convert_node_clustering_to_partition_dict(node_clustering):
     dict={}
     for i,community in enumerate(node_clustering.communities):
@@ -32,9 +23,7 @@ def convert_node_clustering_to_partition_dict(node_clustering):
     return dict
 
 def load_communities(file_path):
-    """
-    使用pickle加载保存的NodeClustering对象。
-    """
+
     if not os.path.exists(file_path):
         return "false"
     with open(file_path, 'rb') as f:

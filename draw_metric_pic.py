@@ -141,7 +141,6 @@ def store_metrics_by_algo():
     non_overlapping_alg=['Girvan-Newman','Louvain','LPA','Infomap','AGDL','Eigenvector','EM','CNM']
 
 
-    # 获取文件夹下所有文件和文件夹的名字
     filenames = os.listdir(input_path)
 
     dict_list=[]        
@@ -187,9 +186,6 @@ def store_metrics_by_algo_groundtruth():
     input_path=f"{prefix}outputs/ground-truth-metrics/"
     overlapping_alg=["Kclique","SLPA","LEMON","DEMON"]
     non_overlapping_alg=['Girvan-Newman','Louvain','LPA','Infomap','AGDL','Eigenvector','EM','CNM']
-
-
-    # 获取文件夹下所有文件和文件夹的名字
     filenames = os.listdir(input_path)
 
     mean_list_o=[]

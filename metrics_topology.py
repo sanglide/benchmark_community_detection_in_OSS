@@ -106,7 +106,6 @@ def main_metrics(proj):
 
     json_data = json.dumps(metrics)
 
-    # 将JSON字符串写入到文件
     with open(f'{prefix}outputs/graph-metrics/{args.proj.replace("/", "@")}.json', 'w') as f:
         f.write(json_data)
    
