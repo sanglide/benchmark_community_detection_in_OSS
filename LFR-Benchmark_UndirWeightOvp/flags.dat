@@ -1,0 +1,12 @@
+-N 100
+-k 25
+-maxk 80
+-mut 0.1
+-muw 0.25
+-beta 1.3
+-t1 3
+-t2 2
+-minc 2
+-maxc 10
+-on 1
+-om 2

@@ -1,0 +1,14 @@
+-name net-lemon
+-N 5000
+-k 10
+-maxk 50
+-mut 0.1
+-muw 0.20625
+-beta 1.5
+-t1 2
+-t2 1
+-minc 20
+-maxc 100
+-on 2500
+-om 2
+-cnl 1
